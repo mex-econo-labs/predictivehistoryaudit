@@ -1,12 +1,12 @@
-# Professor Jiang (Jiang Xueqin) — Predictive History Predictions: Status as of March 2026
+# Professor Jiang (Xueqin Jiang) — Predictive History Predictions: Status as of March 2026
 
 Research compiled March 14, 2026. All claims assessed against publicly available reporting and data.
 
 ---
 
-## Background on Jiang Xueqin
+## Background on Xueqin Jiang
 
-Jiang Xueqin is a Chinese-Canadian educator (b. 1976, Yale '99) who teaches at Moonshot Academy in Beijing. He runs the YouTube channel "Predictive History," which went viral in late 2024/early 2025 after his "Iran Trap" lecture appeared to predict Trump's re-election and U.S.-Iran escalation. Media dubbed him "China's Nostradamus," though critics (including The Free Press) have noted his promotion of Illuminati/Freemasonic conspiracy frameworks and antisemitic tropes. His channel has over 100,000 subscribers.
+Xueqin Jiang is a Chinese-Canadian educator (b. 1976, Yale '99) who teaches at Moonshot Academy in Beijing. He runs the YouTube channel "Predictive History," which went viral in late 2024/early 2025 after his "Iran Trap" lecture appeared to predict Trump's re-election and U.S.-Iran escalation. Media dubbed him "China's Nostradamus," though critics (including The Free Press) have noted his promotion of Illuminati/Freemasonic conspiracy frameworks and antisemitic tropes. His channel has over 100,000 subscribers.
 
 Sources:
 - [Professor Jiang - Wikipedia](https://en.wikipedia.org/wiki/Jiang_Xueqin)

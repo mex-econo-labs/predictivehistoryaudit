@@ -156,7 +156,7 @@ while IFS=$'\t' read -r TRANSCRIPT_FILE VIDEO_ID SERIES EPISODE EPISODE_JSON TIT
     fi
 
     # Build the prompt
-    PROMPT="You are performing a systematic content analysis of a YouTube lecture from the \"Predictive History\" channel by Jiang Xueqin. Produce a complete JSON analysis following the schema exactly.
+    PROMPT="You are performing a systematic content analysis of a YouTube lecture from the \"Predictive History\" channel by Xueqin Jiang. Produce a complete JSON analysis following the schema exactly.
 
 METADATA:
 - series: \"${SERIES}\"

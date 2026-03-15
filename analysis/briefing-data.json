@@ -1,5 +1,5 @@
 {
-  "briefing_date": "2026-03-14",
+  "briefing_date": "2026-03-15",
   "last_scoring_date": "2026-03-14",
   "next_scoring_date": "2026-04-14",
   "theatres": [
@@ -7,7 +7,7 @@
       "name": "Iran / Strait of Hormuz",
       "status": "disconfirmed",
       "status_label": "active war",
-      "summary": "US-Israel air campaign ongoing since Feb 28. Iran blockading Strait of Hormuz — tanker traffic at ~zero. Brent crude >$100. IRGC attacking commercial shipping and striking 9+ countries. Three Iranian missiles entered Turkish airspace (Mar 4-13), intercepted by NATO.",
+      "summary": "Day 15 of US-Israel air campaign. Israel has conducted ~7,600 strikes on Iran and ~1,100 on Lebanon since Feb 28. Iran's selective blockade of Hormuz continues — IRGC says strait 'not militarily closed, merely under control,' allowing passage for India and Turkey while barring US/Western-allied ships. Trump called on China, France, Japan, South Korea, and UK to send warships to reopen Hormuz. Saudi Arabia intercepted 6 Iranian ballistic missiles and 3 drones on Mar 14. Brent crude at $103.14. USS Tripoli + 2,500 Marines en route.",
       "countries": [
         "Iran",
         "Israel",
@@ -21,14 +21,16 @@
         "Jordan",
         "Turkey",
         "Cyprus",
-        "Azerbaijan"
+        "Azerbaijan",
+        "Lebanon",
+        "India"
       ]
     },
     {
       "name": "Russia-Ukraine War",
       "status": "untested",
       "status_label": "grinding war",
-      "summary": "Russia holds ~20% of Ukraine. 128 combat engagements per day. No decisive breakthrough either side. UK/France committed peacekeeping troops in principle; Russia rejects. Peace talks stalled.",
+      "summary": "Russia holds ~20% of Ukraine. February 2026 was first month since 2024 when Ukraine regained more territory than it lost. Russia lost 57 sq mi (Feb 10–Mar 10) vs 182 sq mi gained in prior 4 weeks. Fighting concentrated around Kostiantynivka. UK/France committed peacekeeping troops in principle; Russia rejects. Peace talks stalled.",
       "countries": [
         "Russia",
         "Ukraine"
@@ -38,7 +40,7 @@
       "name": "Latin America — Venezuela / Cuba / Colombia",
       "status": "partially_confirmed",
       "status_label": "in flux",
-      "summary": "Maduro captured Jan 3 (Operation Absolute Resolve), arraigned NYC. Rodriguez acting president — oil reform, amnesty. US recognized Rodriguez Mar 11. Cuba in energy crisis (90% fuel cutoff). Secret US-Cuba talks confirmed Mar 13. Colombia in economic emergency; peace process collapsed.",
+      "summary": "Maduro trial delayed to March 26 (from Mar 17). Rodriguez acting president — oil reform, amnesty. US recognized Rodriguez Mar 11. Cuba in energy crisis (90% fuel cutoff); Diaz-Canel says no oil shipments in three months, widespread power cuts. Secret US-Cuba talks confirmed Mar 13. Colombia in economic emergency; peace process collapsed.",
       "countries": [
         "Venezuela",
         "Cuba",
@@ -49,17 +51,18 @@
       "name": "US-China Trade",
       "status": "untested",
       "status_label": "fragile truce",
-      "summary": "Tariffs reduced to 10% under one-year extension (Oct 2025). Fundamental issues unresolved. Communication channels reestablished but relationship adversarial.",
+      "summary": "Trade chiefs Bessent, Greer, and He Lifeng meeting in Paris mid-March to prepare for Trump-Xi summit. Agenda includes Boeing purchases, soybeans, Taiwan, fentanyl tariffs. US-Taiwan Agreement on Reciprocal Trade signed Feb 12 ($84.8B in purchases); China condemned it. Tariffs at 10% under one-year extension. Relationship adversarial but communicating.",
       "countries": [
         "United States",
-        "China"
+        "China",
+        "Taiwan"
       ]
     },
     {
       "name": "East Asia — DPRK / Korean Peninsula",
       "status": "untested",
       "status_label": "elevated risk",
-      "summary": "Russia-DPRK alliance deepened. 12,000 DPRK troops in Russia. Mutual defense treaty. South Korea political crisis resolved (Lee Jae-myung elected). No direct DPRK action against South Korea.",
+      "summary": "North Korea fired 10+ ballistic missiles into East Sea on Mar 14 (~350km range) during Freedom Shield US-South Korea exercises (Mar 9-19). First launch since Jan 27. Kim Yo Jong warned of 'unimaginably terrible consequences.' Seoul condemned as UNSC violation. Russia-DPRK alliance deepened; 12,000 DPRK troops in Russia.",
       "countries": [
         "North Korea",
         "South Korea",
@@ -73,26 +76,33 @@
       "value": "$103.14",
       "change": "+47%",
       "change_color": "var(--score-1)",
-      "as_of": "2026-03-13"
-    },
-    {
-      "name": "Hormuz Tanker Traffic",
-      "value": "~0",
-      "change": "-99%",
-      "change_color": "var(--score-1)",
       "as_of": "2026-03-14"
     },
     {
-      "name": "US Military KIA (Iran theatre)",
-      "value": "11",
-      "change": "+6",
+      "name": "Hormuz Tanker Traffic",
+      "value": "selective",
+      "change": "-99% (Western); limited passage (India/Turkey)",
       "change_color": "var(--score-1)",
-      "as_of": "2026-03-13"
+      "as_of": "2026-03-15"
+    },
+    {
+      "name": "US Military KIA (Iran theatre)",
+      "value": "17",
+      "change": "+6 (Iraq plane crash Mar 13)",
+      "change_color": "var(--score-1)",
+      "as_of": "2026-03-14"
     },
     {
       "name": "Iran Civilian Casualties",
       "value": "1,444+",
       "change": "ongoing",
+      "change_color": "var(--score-1)",
+      "as_of": "2026-03-15"
+    },
+    {
+      "name": "Lebanon Casualties (since Mar 2)",
+      "value": "773 killed / 1,933 wounded",
+      "change": "800,000+ displaced",
       "change_color": "var(--score-1)",
       "as_of": "2026-03-14"
     },
@@ -113,19 +123,140 @@
     {
       "name": "Ukraine Territory Occupied",
       "value": "~20%",
-      "change": "stable",
+      "change": "Ukraine regaining (Feb first net gain since 2024)",
       "change_color": "var(--text-muted)",
-      "as_of": "2026-03-12"
+      "as_of": "2026-03-15"
     },
     {
       "name": "Cuba Fuel Imports",
       "value": "-90%",
-      "change": "crisis",
+      "change": "no shipments in 3 months per Diaz-Canel",
       "change_color": "var(--score-1)",
-      "as_of": "2026-02-28"
+      "as_of": "2026-03-13"
     }
   ],
   "daily_entries": [
+    {
+      "date": "2026-03-15",
+      "tags": [
+        "Hormuz",
+        "Iran",
+        "India",
+        "Turkey",
+        "Shipping"
+      ],
+      "summary": "Iran shifts from total blockade to selective passage at Hormuz. Two Indian LPG carriers (Shivalik, Nanda Devi — 92,712 metric tons combined) crossed safely with Indian Navy escort. Turkey also confirmed passage for a Turkish ship. IRGC navy chief says strait 'not militarily closed, merely under control.'",
+      "details": [
+        "Iran's policy: ships from US, Israel, and 'their allies' barred; 'friendly' nations allowed",
+        "India's FM Jaishankar in direct talks with Iran's Araghchi on passage",
+        "Saudi oil tanker with 1M barrels destined for India also reportedly allowed through",
+        "IRGC Deputy FM: 'Countries that joined the aggression should not benefit from safe passage'"
+      ],
+      "prediction_impact": "Selective blockade is a more nuanced outcome than the total closure Jiang discussed — Iran is weaponizing access diplomatically, not just militarily.",
+      "source": "Al Jazeera, India TV News, Daily Sabah, Middle East Monitor"
+    },
+    {
+      "date": "2026-03-15",
+      "tags": [
+        "Iran",
+        "US",
+        "Coalition"
+      ],
+      "summary": "Trump calls on China, France, Japan, South Korea, and UK to send warships to help reopen Strait of Hormuz. USS Tripoli amphibious assault ship and 2,500 Marines ordered to the region. Experts question whether the administration had a plan for Hormuz closure.",
+      "details": [
+        "Three US carrier strike groups already deployed (Lincoln, Ford, G.H.W. Bush)",
+        "Trump: US will 'bomb hell out of Iran's shoreline' if attacks on strait continue",
+        "No country has yet publicly committed ships to Trump's proposed coalition",
+        "Analysts note the call exposes the gap between military capability and commercial deterrence"
+      ],
+      "prediction_impact": "Jiang predicted the US would struggle with Hormuz — the need to recruit a multilateral coalition to reopen a strait the US Navy cannot secure unilaterally for commercial traffic supports his thesis.",
+      "source": "Al Jazeera, Bloomberg, Fortune, Axios, Washington Examiner"
+    },
+    {
+      "date": "2026-03-15",
+      "tags": [
+        "Saudi Arabia",
+        "Iran",
+        "Gulf",
+        "Oman"
+      ],
+      "summary": "Saudi Arabia intercepted 6 Iranian ballistic missiles targeting al-Kharj and destroyed 3 drones over the Eastern Province. Qatar intercepted an incoming missile. Two killed in Oman by Iranian drones — first Omani fatalities of the war.",
+      "details": [
+        "Iran previously targeted Saudi Arabia with 50 drones in a single wave (Mar 13)",
+        "Saudi had intercepted 48 drones and 31 drones/3 missiles in earlier waves",
+        "Oman had been largely spared due to its mediator role — two dead marks escalation",
+        "Saudi-Iran rapprochement under severe strain but diplomatic channels remain open"
+      ],
+      "prediction_impact": "Jiang emphasized Iran would strike across the Gulf — confirmed. Saudi-Iran rapprochement has not collapsed despite sustained attacks, contrary to expectations of immediate rupture.",
+      "source": "Euronews, Al Jazeera, The National, IranWire"
+    },
+    {
+      "date": "2026-03-15",
+      "tags": [
+        "Lebanon",
+        "Israel",
+        "Hezbollah"
+      ],
+      "summary": "Lebanon death toll reaches 773 killed and 1,933 wounded since Israel resumed strikes on March 2. Israel killed 12 medics at a health center in Burj Qalaouiyah. 800,000+ displaced. Israel claims it killed 5 senior IRGC Quds Force commanders in Beirut.",
+      "details": [
+        "Israel has conducted ~1,100 strikes on Lebanon since Feb 28",
+        "Hezbollah firing 100+ rockets in single barrages coordinated with Iranian missile attacks",
+        "Israel threatened 'Gaza-scale devastation' and destroyed a bridge in Lebanon",
+        "UNIFIL recorded 210+ Hezbollah missiles fired into Israel since Mar 2"
+      ],
+      "prediction_impact": null,
+      "source": "Al Jazeera, Washington Post, CNN, NPR"
+    },
+    {
+      "date": "2026-03-15",
+      "tags": [
+        "North Korea",
+        "South Korea",
+        "US"
+      ],
+      "summary": "North Korea fired 10+ ballistic missiles into the East Sea from the Sunan area (~350km range), its first launch since January 27. Timed to coincide with Freedom Shield US-South Korea exercises (Mar 9-19).",
+      "details": [
+        "Kim Yo Jong accused US and South Korea of 'destroying the stability of East Asia'",
+        "South Korea condemned as violation of UNSC resolutions, called for immediate halt",
+        "North Korea also stepped up anti-US rhetoric in response to Iran strikes",
+        "38 North analysis: DPRK using Iran war moment to assert regional presence"
+      ],
+      "prediction_impact": "DPRK exploiting US focus on Iran to test boundaries — consistent with Jiang's broader thesis about US overextension enabling adversary action elsewhere.",
+      "source": "Seoul Economic Daily, Washington Post, Al Jazeera, 38 North"
+    },
+    {
+      "date": "2026-03-15",
+      "tags": [
+        "US",
+        "China",
+        "Trade",
+        "Taiwan"
+      ],
+      "summary": "US-China trade chiefs (Bessent, Greer, He Lifeng) meeting in Paris this weekend to prepare agenda for Trump-Xi summit. Topics include Boeing purchases, soybeans, Taiwan, and fentanyl tariffs struck down by the Supreme Court.",
+      "details": [
+        "US-Taiwan Agreement on Reciprocal Trade signed Feb 12 — Taiwan to buy $84.8B in US goods (LNG, aircraft, power equipment) through 2029",
+        "Tariffs lowered to 15% on Taiwan in exchange for near-elimination of tariffs on US goods",
+        "China condemned the deal, saying it would 'drain Taiwan's economic interests'",
+        "China has escalated drone operations against Taiwan in recent weeks"
+      ],
+      "prediction_impact": null,
+      "source": "Bloomberg, PBS, SCMP, CNBC, USTR"
+    },
+    {
+      "date": "2026-03-15",
+      "tags": [
+        "Venezuela",
+        "Trial"
+      ],
+      "summary": "Maduro's next court date delayed from March 17 to March 26. Alliance for Global Justice organizing protests at federal courthouse.",
+      "details": [
+        "Delay announced on Feb 17",
+        "Maduro remains detained at MDC-Brooklyn",
+        "Faces narco-terrorism conspiracy, cocaine importation conspiracy, and weapons charges"
+      ],
+      "prediction_impact": null,
+      "source": "Alliance for Global Justice, DOJ filing"
+    },
     {
       "date": "2026-03-14",
       "tags": [
