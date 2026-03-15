@@ -1,0 +1,100 @@
+{% extends "base.html" %}
+{% block title %}Methodology — Predictive History Audit{% endblock %}
+
+{% block content %}
+<section class="page-hero">
+  <div class="container">
+    <h1 class="fade-up">Methodology</h1>
+    <p class="lead fade-up">How we analyze each lecture, what we measure, and why. Transparency is the point.</p>
+  </div>
+</section>
+
+<div class="container prose" style="padding-top: var(--space-xl); padding-bottom: var(--space-2xl);">
+
+  <h2 style="font-size: 1.4rem; margin-bottom: var(--space-md);">Process</h2>
+  <p style="color: var(--text-secondary); line-height: 1.7; margin-bottom: var(--space-lg);">
+    Each lecture in the <em>Predictive History</em> corpus is analyzed through a systematic, repeatable pipeline:
+  </p>
+  <ol style="color: var(--text-secondary); line-height: 1.8; margin-bottom: var(--space-xl); padding-left: var(--space-lg);">
+    <li><strong>Transcript extraction</strong> &mdash; Auto-generated English subtitles downloaded via <code class="mono" style="font-size: 0.85em; color: var(--accent);">yt-dlp</code> in SRT format with timestamps.</li>
+    <li><strong>AI analysis</strong> &mdash; The full transcript is provided to a large language model (Claude Opus 4.6 or GPT-4) with the analysis schema and scoring rubric. The model reads the entire transcript and produces a structured JSON assessment.</li>
+    <li><strong>Screencap extraction</strong> &mdash; For every timestamped item (quotes, rhetoric, predictions), a video frame is captured automatically via <code class="mono" style="font-size: 0.85em; color: var(--accent);">ffmpeg</code>.</li>
+    <li><strong>Publication</strong> &mdash; JSON is rendered to static HTML. No editorial intervention beyond the rubric design.</li>
+  </ol>
+
+  <h2 style="font-size: 1.4rem; margin-bottom: var(--space-md);">Scoring Rubric</h2>
+  <p style="color: var(--text-secondary); line-height: 1.7; margin-bottom: var(--space-lg);">
+    Each lecture is evaluated on seven axes, scored 1&ndash;5. Higher is better. Click any score on a lecture page to read the full justification.
+  </p>
+
+  <table class="rubric-table">
+    <thead>
+      <tr>
+        <th style="width: 20%;">Axis</th>
+        <th>What it measures</th>
+        <th style="width: 15%;">1 means</th>
+        <th style="width: 15%;">5 means</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td style="font-weight: 600; color: var(--text-primary);">Historical Accuracy</td>
+        <td>Are facts, dates, events, and causal claims correct per mainstream historiography?</td>
+        <td style="color: var(--score-1);">Major errors</td>
+        <td style="color: var(--score-5);">Solid throughout</td>
+      </tr>
+      <tr>
+        <td style="font-weight: 600; color: var(--text-primary);">Argumentative Rigor</td>
+        <td>Is reasoning logically sound? Are conclusions supported by the evidence presented?</td>
+        <td style="color: var(--score-1);">Fallacious</td>
+        <td style="color: var(--score-5);">Rigorous</td>
+      </tr>
+      <tr>
+        <td style="font-weight: 600; color: var(--text-primary);">Framing &amp; Selectivity</td>
+        <td>Is the evidence cherry-picked? What's included versus excluded?</td>
+        <td style="color: var(--score-1);">Highly selective</td>
+        <td style="color: var(--score-5);">Balanced</td>
+      </tr>
+      <tr>
+        <td style="font-weight: 600; color: var(--text-primary);">Perspective Diversity</td>
+        <td>Are competing interpretations acknowledged? Counterarguments engaged?</td>
+        <td style="color: var(--score-1);">Single narrative</td>
+        <td style="color: var(--score-5);">Multiple perspectives</td>
+      </tr>
+      <tr>
+        <td style="font-weight: 600; color: var(--text-primary);">Normative Loading</td>
+        <td>How much moral judgment is embedded? Is the audience told what to think?</td>
+        <td style="color: var(--score-1);">Heavily prescriptive</td>
+        <td style="color: var(--score-5);">Descriptive / analytical</td>
+      </tr>
+      <tr>
+        <td style="font-weight: 600; color: var(--text-primary);">Determinism vs. Contingency</td>
+        <td>Is history presented as inevitable, or does the lecture acknowledge accident and agency?</td>
+        <td style="color: var(--score-1);">Fully deterministic</td>
+        <td style="color: var(--score-5);">Balanced contingency</td>
+      </tr>
+      <tr>
+        <td style="font-weight: 600; color: var(--text-primary);">Civilizational Framing</td>
+        <td>How are different civilizations characterized? Consistent hero/villain casting?</td>
+        <td style="color: var(--score-1);">Strongly biased</td>
+        <td style="color: var(--score-5);">Even-handed</td>
+      </tr>
+    </tbody>
+  </table>
+
+  <h2 style="font-size: 1.4rem; margin: var(--space-xl) 0 var(--space-md);">Limitations &amp; Caveats</h2>
+  <ul style="color: var(--text-secondary); line-height: 1.8; padding-left: var(--space-lg);">
+    <li><strong>AI analysis is not infallible.</strong> LLMs can misidentify rhetoric, misjudge accuracy on niche topics, or miss cultural context. Every justification is published so readers can evaluate the reasoning.</li>
+    <li><strong>Auto-generated transcripts contain errors.</strong> YouTube's speech-to-text occasionally garbles names, technical terms, and non-English words. Where a quote seems off, check the video.</li>
+    <li><strong>Scores reflect the rubric, not a verdict on the speaker.</strong> A low score on one lecture does not characterize the entire channel. Patterns emerge from the corpus, not from individual data points.</li>
+    <li><strong>This is content analysis, not mind-reading.</strong> We analyze what was said, how it was framed, and what was omitted. We do not speculate about the speaker's intentions or affiliations.</li>
+    <li><strong>The schema may evolve.</strong> If the rubric is refined, earlier analyses will be re-run and the version history published.</li>
+  </ul>
+
+  <h2 style="font-size: 1.4rem; margin: var(--space-xl) 0 var(--space-md);">Reproducibility</h2>
+  <p style="color: var(--text-secondary); line-height: 1.7;">
+    The full JSON schema, all analysis outputs, screencaps, and the static site generator are available. Every claim in every report is traceable to a timestamp in a public YouTube video. If you disagree with an assessment, the data is there to check.
+  </p>
+
+</div>
+{% endblock %}

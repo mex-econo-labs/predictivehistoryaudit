@@ -1,0 +1,128 @@
+{% extends "base.html" %}
+{% block title %}Situation Briefing — Predictive History Audit{% endblock %}
+
+{% block content %}
+<section class="page-hero">
+  <div class="container">
+    <h1 class="fade-up">Situation Briefing</h1>
+    <p class="lead fade-up">Rolling geopolitical briefing tracking events relevant to predictions made across the lecture corpus. Updated daily; prediction scoring runs monthly.</p>
+  </div>
+</section>
+
+<div class="container" style="padding-top: var(--space-xl); padding-bottom: var(--space-2xl);">
+
+  <!-- LAST UPDATED -->
+  <div class="stats-bar fade-up" style="margin-top: 0;">
+    <div class="stat-cell">
+      <div class="stat-value mono" style="font-size: 1.2rem;">{{ briefing_date }}</div>
+      <div class="stat-label">Briefing Date</div>
+    </div>
+    <div class="stat-cell">
+      <div class="stat-value mono" style="font-size: 1.2rem;">{{ daily_entries|length }}</div>
+      <div class="stat-label">Daily Entries</div>
+    </div>
+    <div class="stat-cell">
+      <div class="stat-value mono" style="font-size: 1.2rem;">{{ last_scoring_date or 'Pending' }}</div>
+      <div class="stat-label">Last Scoring Run</div>
+    </div>
+    <div class="stat-cell">
+      <div class="stat-value mono" style="font-size: 1.2rem;">{{ next_scoring_date or 'TBD' }}</div>
+      <div class="stat-label">Next Scoring Run</div>
+    </div>
+  </div>
+
+  <!-- DAILY SITUATION LOG -->
+  <div class="card fade-up" style="margin-top: var(--space-lg);">
+    <div class="card-header">
+      <span class="card-title">Daily Situation Log</span>
+      <span class="card-count">Most recent first</span>
+    </div>
+
+    {% for entry in daily_entries %}
+    <div class="briefing-entry" style="padding: var(--space-md) 0; border-bottom: 1px solid var(--border-subtle);">
+      <div style="display: flex; align-items: baseline; gap: var(--space-md); margin-bottom: var(--space-xs);">
+        <span class="mono" style="font-size: 0.75rem; font-weight: 600; color: var(--accent); flex: 0 0 auto;">{{ entry.date }}</span>
+        {% for tag in entry.tags %}
+        <span class="briefing-tag briefing-tag-{{ tag|lower|replace(' ', '-')|replace('/', '-') }}">{{ tag }}</span>
+        {% endfor %}
+      </div>
+      <div style="font-size: 0.9rem; color: var(--text-primary); line-height: 1.6;">{{ entry.summary }}</div>
+      {% if entry.details %}
+      <ul style="margin-top: var(--space-xs); padding-left: var(--space-lg);">
+        {% for detail in entry.details %}
+        <li style="font-size: 0.82rem; color: var(--text-secondary); line-height: 1.5; margin-bottom: var(--space-xs);">{{ detail }}</li>
+        {% endfor %}
+      </ul>
+      {% endif %}
+      {% if entry.prediction_impact %}
+      <div style="margin-top: var(--space-sm); padding: var(--space-xs) var(--space-sm); border-left: 2px solid var(--accent); background: var(--accent-glow); font-size: 0.8rem; color: var(--text-secondary);">
+        <span class="mono" style="font-size: 0.65rem; color: var(--accent); font-weight: 600; letter-spacing: 0.08em; text-transform: uppercase;">Prediction Impact</span>
+        <div style="margin-top: 2px;">{{ entry.prediction_impact }}</div>
+      </div>
+      {% endif %}
+      {% if entry.source %}
+      <div class="mono muted" style="font-size: 0.65rem; margin-top: var(--space-xs);">Source: {{ entry.source }}</div>
+      {% endif %}
+    </div>
+    {% endfor %}
+
+    {% if not daily_entries %}
+    <p class="muted" style="font-size: 0.88rem; padding: var(--space-md) 0;">No daily entries yet. Run the daily tracker to populate.</p>
+    {% endif %}
+  </div>
+
+  <!-- ACTIVE THEATRES -->
+  <div class="card fade-up" style="margin-top: var(--space-lg);">
+    <div class="card-header">
+      <span class="card-title">Active Theatres</span>
+      <span class="card-count">Regions under active monitoring</span>
+    </div>
+
+    {% for theatre in theatres %}
+    <div style="padding: var(--space-md) 0; border-bottom: 1px solid var(--border-subtle);">
+      <div style="display: flex; align-items: center; justify-content: space-between; margin-bottom: var(--space-xs);">
+        <span style="font-family: var(--font-ui); font-size: 0.8rem; font-weight: 600; color: var(--text-primary);">{{ theatre.name }}</span>
+        <span class="status-badge status-{{ theatre.status }}">{{ theatre.status_label }}</span>
+      </div>
+      <p style="font-size: 0.82rem; color: var(--text-secondary); line-height: 1.5;">{{ theatre.summary }}</p>
+      {% if theatre.countries %}
+      <div style="margin-top: var(--space-xs); display: flex; flex-wrap: wrap; gap: 4px;">
+        {% for country in theatre.countries %}
+        <span class="briefing-tag" style="font-size: 0.6rem;">{{ country }}</span>
+        {% endfor %}
+      </div>
+      {% endif %}
+    </div>
+    {% endfor %}
+  </div>
+
+  <!-- KEY METRICS -->
+  <div class="card fade-up" style="margin-top: var(--space-lg);">
+    <div class="card-header">
+      <span class="card-title">Key Metrics</span>
+      <span class="card-count">Tracked indicators</span>
+    </div>
+    <table class="rubric-table" style="margin: 0;">
+      <thead>
+        <tr>
+          <th>Indicator</th>
+          <th style="text-align: right;">Value</th>
+          <th style="text-align: right;">Change</th>
+          <th>As Of</th>
+        </tr>
+      </thead>
+      <tbody>
+        {% for m in metrics %}
+        <tr>
+          <td style="font-weight: 600; color: var(--text-primary);">{{ m.name }}</td>
+          <td class="mono" style="text-align: right;">{{ m.value }}</td>
+          <td class="mono" style="text-align: right; color: {{ m.change_color }};">{{ m.change }}</td>
+          <td class="mono muted" style="font-size: 0.75rem;">{{ m.as_of }}</td>
+        </tr>
+        {% endfor %}
+      </tbody>
+    </table>
+  </div>
+
+</div>
+{% endblock %}

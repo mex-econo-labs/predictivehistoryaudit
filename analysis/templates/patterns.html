@@ -1,0 +1,250 @@
+{% extends "base.html" %}
+{% block title %}Patterns — Predictive History Audit{% endblock %}
+
+{% block content %}
+<section class="page-hero">
+  <div class="container">
+    <h1 class="fade-up">Cross-Corpus Patterns</h1>
+    <p class="lead fade-up">Systematic findings that emerge from analyzing the full lecture corpus. Individual lectures are data points; patterns are the signal.</p>
+  </div>
+</section>
+
+<div class="container" style="padding-top: var(--space-xl); padding-bottom: var(--space-2xl);">
+
+  {% if lectures|length < 20 %}
+  <div class="advisory-box" style="margin-bottom: var(--space-xl);">
+    <h4>Work in Progress</h4>
+    <p>Only {{ lectures|length }} of ~131 lectures have been analyzed so far. Patterns identified here are preliminary and will be updated as the analysis expands. Robust findings require the full corpus.</p>
+  </div>
+  {% endif %}
+
+  <!-- VIEWS vs QUALITY -->
+  <div class="card fade-up">
+    <div class="card-header">
+      <span class="card-title">Views vs. Quality Score</span>
+      <span class="card-count">Do worse lectures get more views?</span>
+    </div>
+    <div style="max-width: 800px; margin: 0 auto;">
+      <canvas id="viewsScatter" height="400"></canvas>
+    </div>
+  </div>
+
+  <!-- SCORE DISTRIBUTION BY SERIES -->
+  <div class="card fade-up">
+    <div class="card-header">
+      <span class="card-title">Average Scores by Series</span>
+    </div>
+    <table class="rubric-table" style="margin: 0;">
+      <thead>
+        <tr>
+          <th>Series</th>
+          <th style="text-align:center;">Acc</th>
+          <th style="text-align:center;">Rig</th>
+          <th style="text-align:center;">Fra</th>
+          <th style="text-align:center;">Div</th>
+          <th style="text-align:center;">Nor</th>
+          <th style="text-align:center;">Det</th>
+          <th style="text-align:center;">Civ</th>
+          <th style="text-align:center;">Avg</th>
+          <th style="text-align:center;">n</th>
+        </tr>
+      </thead>
+      <tbody>
+        {% for s in series_stats %}
+        <tr>
+          <td style="font-weight: 600; color: var(--text-primary);">{{ s.name }}</td>
+          {% for v in s.axis_avgs %}
+          <td style="text-align:center;"><span class="score-cell score-{{ v|round|int }}">{{ "%.1f"|format(v) }}</span></td>
+          {% endfor %}
+          <td style="text-align:center;"><span class="score-cell avg-cell score-{{ s.overall|round|int }}">{{ "%.1f"|format(s.overall) }}</span></td>
+          <td style="text-align:center;" class="mono muted">{{ s.count }}</td>
+        </tr>
+        {% endfor %}
+      </tbody>
+    </table>
+  </div>
+
+  <!-- PREDICTIONS & CLAIMS TRACKER -->
+  <div class="card fade-up" style="margin-top: var(--space-lg);">
+    <div class="card-header">
+      <span class="card-title">Predictions &amp; Claims Tracker</span>
+      <span class="card-count">{{ all_predictions|length }} across corpus</span>
+    </div>
+
+    <div class="filter-bar" id="pred-filter-bar" style="margin-bottom: var(--space-md);">
+      <button class="filter-tab active" data-pred-filter="all">All ({{ all_predictions|length }})</button>
+      <button class="filter-tab" data-pred-filter="prediction">Predictions ({{ prediction_stats.values()|sum }})</button>
+      <button class="filter-tab" data-pred-filter="claim">Claims ({{ claim_stats.values()|sum }})</button>
+    </div>
+
+    <div class="stats-bar pred-stats" data-pred-stats="prediction" style="margin: var(--space-md) 0;">
+      <div class="stat-cell">
+        <div class="stat-value mono" style="color: var(--status-confirmed);">{{ prediction_stats.confirmed }}</div>
+        <div class="stat-label">Confirmed</div>
+      </div>
+      <div class="stat-cell">
+        <div class="stat-value mono" style="color: var(--status-disconfirmed);">{{ prediction_stats.disconfirmed }}</div>
+        <div class="stat-label">Disconfirmed</div>
+      </div>
+      <div class="stat-cell">
+        <div class="stat-value mono" style="color: var(--status-partial);">{{ prediction_stats.partially_confirmed }}</div>
+        <div class="stat-label">Partial</div>
+      </div>
+      <div class="stat-cell">
+        <div class="stat-value mono">{{ prediction_stats.untested }}</div>
+        <div class="stat-label">Untested</div>
+      </div>
+      <div class="stat-cell">
+        <div class="stat-value mono" style="color: var(--status-unfalsifiable);">{{ prediction_stats.unfalsifiable }}</div>
+        <div class="stat-label">Unfalsifiable</div>
+      </div>
+    </div>
+
+    <div class="stats-bar pred-stats" data-pred-stats="claim" style="margin: var(--space-md) 0; display: none;">
+      <div class="stat-cell">
+        <div class="stat-value mono" style="color: var(--status-confirmed);">{{ claim_stats.confirmed }}</div>
+        <div class="stat-label">Confirmed</div>
+      </div>
+      <div class="stat-cell">
+        <div class="stat-value mono" style="color: var(--status-disconfirmed);">{{ claim_stats.disconfirmed }}</div>
+        <div class="stat-label">Disconfirmed</div>
+      </div>
+      <div class="stat-cell">
+        <div class="stat-value mono" style="color: var(--status-partial);">{{ claim_stats.partially_confirmed }}</div>
+        <div class="stat-label">Partial</div>
+      </div>
+      <div class="stat-cell">
+        <div class="stat-value mono">{{ claim_stats.untested }}</div>
+        <div class="stat-label">Untested</div>
+      </div>
+      <div class="stat-cell">
+        <div class="stat-value mono" style="color: var(--status-unfalsifiable);">{{ claim_stats.unfalsifiable }}</div>
+        <div class="stat-label">Unfalsifiable</div>
+      </div>
+    </div>
+
+    {% for p in all_predictions %}
+    <div class="prediction-entry" data-pred-type="{{ p.type }}">
+      <div>
+        <div class="prediction-claim">
+          <span class="pred-type-badge pred-type-{{ p.type }}">{{ p.type }}</span>
+          {{ p.claim }}
+        </div>
+        <div class="prediction-meta">
+          <a href="lectures/{{ p.lecture_slug }}.html" style="color: var(--accent);">{{ p.lecture_title }}</a>
+          {% if p.upload_date %}&middot; Posted {{ p.upload_date }}{% endif %}
+          &middot; {{ p.timestamp }}
+        </div>
+      </div>
+      <span class="status-badge status-{{ p.status|default('untested') }}">{{ p.status|default('untested')|replace('_', ' ') }}</span>
+    </div>
+    {% if p.status_note %}
+    <div class="prediction-note" data-pred-type="{{ p.type }}">{{ p.status_note }}</div>
+    {% endif %}
+    {% endfor %}
+  </div>
+
+  <!-- RHETORIC FREQUENCY -->
+  <div class="card fade-up" style="margin-top: var(--space-lg);">
+    <div class="card-header">
+      <span class="card-title">Most Common Rhetorical Techniques</span>
+    </div>
+    {% for technique, count in rhetoric_freq[:15] %}
+    <div style="display: flex; align-items: center; gap: var(--space-md); padding: var(--space-xs) 0;">
+      <div style="flex: 0 0 200px; font-size: 0.82rem; color: var(--text-secondary);">{{ technique }}</div>
+      <div style="flex: 1; height: 6px; background: var(--bg-inset); border-radius: 3px; overflow: hidden;">
+        <div style="width: {{ (count / rhetoric_freq[0][1] * 100)|round }}%; height: 100%; background: var(--accent); border-radius: 3px;"></div>
+      </div>
+      <div class="mono muted" style="font-size: 0.75rem; flex: 0 0 30px; text-align: right;">{{ count }}</div>
+    </div>
+    {% endfor %}
+  </div>
+
+  <!-- CIVILIZATIONAL TREATMENT SUMMARY -->
+  <div class="card fade-up" style="margin-top: var(--space-lg);">
+    <div class="card-header">
+      <span class="card-title">Civilizational Treatment Across Corpus</span>
+    </div>
+    <p style="font-size: 0.88rem; color: var(--text-secondary); line-height: 1.6; margin-bottom: var(--space-md);">
+      How different civilizations are characterized when mentioned. Entries are pulled from each lecture's civilizational framing analysis.
+    </p>
+    {% for civ_key, civ_label in [('china_treatment', 'China'), ('us_treatment', 'United States'), ('russia_treatment', 'Russia'), ('west_treatment', 'The West')] %}
+    {% if civ_mentions[civ_key] %}
+    <div style="margin-bottom: var(--space-lg);">
+      <h4 class="mono" style="font-size: 0.7rem; color: var(--accent-dim); margin-bottom: var(--space-sm);">{{ civ_label|upper }} &mdash; mentioned in {{ civ_mentions[civ_key]|length }} lecture(s)</h4>
+      {% for mention in civ_mentions[civ_key] %}
+      <div style="padding: var(--space-xs) 0 var(--space-sm); border-bottom: 1px solid var(--border-subtle); font-size: 0.82rem;">
+        <a href="lectures/{{ mention.slug }}.html" style="color: var(--accent);">{{ mention.title }}</a>
+        <span style="color: var(--text-muted);"> &mdash; {{ mention.text }}</span>
+      </div>
+      {% endfor %}
+    </div>
+    {% endif %}
+    {% endfor %}
+  </div>
+
+</div>
+
+<script>
+document.addEventListener('DOMContentLoaded', function() {
+  const ctx = document.getElementById('viewsScatter');
+  if (!ctx) return;
+
+  const data = [
+    {% for l in lectures %}
+    { x: {{ "%.1f"|format(l.avg) }}, y: {{ l.meta.view_count|default(0) }}, label: "{{ l.display_title|replace('"', '\\"') }}", series: "{{ l.meta.series }}" },
+    {% endfor %}
+  ];
+
+  const seriesColors = {};
+  const palette = ['#f5d272','#ff7b7b','#7ed868','#55e09a','#f5a855','#7bb8ff','#c77bff','#ff7be0'];
+  const seriesNames = [...new Set(data.map(d => d.series))];
+  seriesNames.forEach((s, i) => seriesColors[s] = palette[i % palette.length]);
+
+  new Chart(ctx, {
+    type: 'scatter',
+    data: {
+      datasets: seriesNames.map(s => ({
+        label: s,
+        data: data.filter(d => d.series === s).map(d => ({ x: d.x, y: d.y, label: d.label })),
+        backgroundColor: seriesColors[s] + '99',
+        borderColor: seriesColors[s],
+        borderWidth: 1,
+        pointRadius: 6,
+        pointHoverRadius: 9,
+      }))
+    },
+    options: {
+      responsive: true,
+      scales: {
+        x: {
+          title: { display: true, text: 'Average Quality Score', color: '#b0a99e', font: { family: "'DM Sans', sans-serif", size: 13 } },
+          min: 1, max: 5,
+          ticks: { stepSize: 0.5, color: '#b0a99e' },
+          grid: { color: 'rgba(255,255,255,0.06)' }
+        },
+        y: {
+          title: { display: true, text: 'YouTube Views', color: '#b0a99e', font: { family: "'DM Sans', sans-serif", size: 13 } },
+          ticks: { color: '#b0a99e', callback: v => v >= 1000000 ? (v/1000000).toFixed(1)+'M' : v >= 1000 ? (v/1000).toFixed(0)+'K' : v },
+          grid: { color: 'rgba(255,255,255,0.06)' }
+        }
+      },
+      plugins: {
+        legend: { labels: { color: '#b0a99e', font: { family: "'DM Sans', sans-serif", size: 12 } } },
+        tooltip: {
+          backgroundColor: '#171b22',
+          borderColor: '#252a33',
+          borderWidth: 1,
+          titleFont: { family: "'DM Sans', sans-serif", size: 12 },
+          bodyFont: { family: "'JetBrains Mono', monospace", size: 11 },
+          callbacks: {
+            title: items => items[0].raw.label,
+            label: item => 'Score: ' + item.raw.x.toFixed(1) + ' · Views: ' + item.raw.y.toLocaleString()
+          }
+        }
+      }
+    }
+  });
+});
+</script>
+{% endblock %}

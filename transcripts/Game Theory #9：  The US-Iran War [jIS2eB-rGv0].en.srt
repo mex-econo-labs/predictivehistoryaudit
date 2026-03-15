@@ -1,0 +1,3892 @@
+1
+00:00:00,960 --> 00:00:06,560
+I hope everyone had a nice break and
+
+2
+00:00:03,280 --> 00:00:08,639
+welcome back to the end of the world.
+
+3
+00:00:06,560 --> 00:00:11,280
+So, as you know, World War II has
+
+4
+00:00:08,639 --> 00:00:14,320
+started. United States and Israel have
+
+5
+00:00:11,280 --> 00:00:18,080
+start to attack Iran
+
+6
+00:00:14,320 --> 00:00:21,840
+and we are now in the fourth day of this
+
+7
+00:00:18,080 --> 00:00:25,519
+war. And we can expect this war to last
+
+8
+00:00:21,840 --> 00:00:28,480
+for many weeks, possibly also for many
+
+9
+00:00:25,519 --> 00:00:31,519
+years. But I promise you that after this
+
+10
+00:00:28,480 --> 00:00:34,480
+war is done, the world will never be the
+
+11
+00:00:31,519 --> 00:00:38,399
+same again. So what what we will do
+
+12
+00:00:34,480 --> 00:00:41,440
+these next few weeks is use game theory
+
+13
+00:00:38,399 --> 00:00:43,600
+and understand and analyze the
+
+14
+00:00:41,440 --> 00:00:45,600
+geopolitical situation.
+
+15
+00:00:43,600 --> 00:00:48,559
+And so I'm going to teach you the ideas,
+
+16
+00:00:45,600 --> 00:00:51,200
+the theories, the techniques to
+
+17
+00:00:48,559 --> 00:00:54,079
+understand the world around you and make
+
+18
+00:00:51,200 --> 00:00:56,480
+predictions. and we can know if our
+
+19
+00:00:54,079 --> 00:00:58,800
+analysis is correct because all this is
+
+20
+00:00:56,480 --> 00:01:01,600
+happening in real time and so we can
+
+21
+00:00:58,800 --> 00:01:04,879
+test it against reality. All right, so
+
+22
+00:01:01,600 --> 00:01:08,320
+let's go over some basic facts about
+
+23
+00:01:04,879 --> 00:01:12,080
+what's happened so far. So in the early
+
+24
+00:01:08,320 --> 00:01:14,720
+morning of Saturday uh in Tran the
+
+25
+00:01:12,080 --> 00:01:18,320
+Israelis and Americans launched a
+
+26
+00:01:14,720 --> 00:01:22,720
+decapitation strike against the Alatona
+
+27
+00:01:18,320 --> 00:01:26,320
+uh Hami who is the supreme leader of
+
+28
+00:01:22,720 --> 00:01:28,960
+Iran. Now there are
+
+29
+00:01:26,320 --> 00:01:31,119
+arguments and and disputes about as to
+
+30
+00:01:28,960 --> 00:01:34,159
+what happened. The Americans and
+
+31
+00:01:31,119 --> 00:01:36,799
+Israelis said that they had real
+
+32
+00:01:34,159 --> 00:01:39,520
+intelligence about where the leader was
+
+33
+00:01:36,799 --> 00:01:42,159
+and so they sent airplanes to just bomb
+
+34
+00:01:39,520 --> 00:01:45,600
+the crap out of a place. They also had a
+
+35
+00:01:42,159 --> 00:01:48,159
+spy who was able to record the body of
+
+36
+00:01:45,600 --> 00:01:50,640
+the dead to
+
+37
+00:01:48,159 --> 00:01:53,200
+this was announced. At first, the
+
+38
+00:01:50,640 --> 00:01:54,799
+Iranians denied this and the Iranians
+
+39
+00:01:53,200 --> 00:01:58,399
+insisted he was still alive. But
+
+40
+00:01:54,799 --> 00:02:01,280
+eventually, state media um admitted that
+
+41
+00:01:58,399 --> 00:02:03,759
+he did die in the air strike. But then
+
+42
+00:02:01,280 --> 00:02:06,560
+what they also said is that they had
+
+43
+00:02:03,759 --> 00:02:09,920
+told he's 86 years old and he chose to
+
+44
+00:02:06,560 --> 00:02:12,720
+die. He could have gone to Moscow, but
+
+45
+00:02:09,920 --> 00:02:15,599
+instead he chose to stay in Tran and die
+
+46
+00:02:12,720 --> 00:02:19,599
+for his people. But not only that, but
+
+47
+00:02:15,599 --> 00:02:21,280
+he died along many of his relatives. He
+
+48
+00:02:19,599 --> 00:02:23,840
+died along with his daughter, his
+
+49
+00:02:21,280 --> 00:02:27,200
+son-in-law, his grandchildren. So the
+
+50
+00:02:23,840 --> 00:02:29,440
+entire So many of the family died in
+
+51
+00:02:27,200 --> 00:02:31,280
+this assault.
+
+52
+00:02:29,440 --> 00:02:33,840
+Also, there's been reporting that he had
+
+53
+00:02:31,280 --> 00:02:38,239
+prostrate cancer. Okay? So he was going
+
+54
+00:02:33,840 --> 00:02:40,160
+to die fairly soon as well. So what you
+
+55
+00:02:38,239 --> 00:02:42,879
+need to understand first about the war
+
+56
+00:02:40,160 --> 00:02:45,680
+is that even though the Americans and
+
+57
+00:02:42,879 --> 00:02:48,959
+the Israelis claim great success in
+
+58
+00:02:45,680 --> 00:02:51,440
+decapitating the leadership of the
+
+59
+00:02:48,959 --> 00:02:57,239
+Iranians from the Iranian perspective
+
+60
+00:02:51,440 --> 00:02:57,239
+this is a martyrdom martyrdom. Okay.
+
+61
+00:02:57,599 --> 00:03:02,560
+And so the religion of the Iranians is
+
+62
+00:03:00,640 --> 00:03:05,200
+called Shia
+
+63
+00:03:02,560 --> 00:03:06,879
+um Muslim. And this is different from
+
+64
+00:03:05,200 --> 00:03:09,280
+Sunni
+
+65
+00:03:06,879 --> 00:03:11,360
+Muslim. So uh Sunnis are the majority.
+
+66
+00:03:09,280 --> 00:03:14,000
+They're about 9% of all Muslims in the
+
+67
+00:03:11,360 --> 00:03:16,239
+world. The Shia have always been the
+
+68
+00:03:14,000 --> 00:03:20,720
+minority. And as such, they've always
+
+69
+00:03:16,239 --> 00:03:24,319
+been persecuted. So in the Shia faith,
+
+70
+00:03:20,720 --> 00:03:25,920
+the core value, the force that binds
+
+71
+00:03:24,319 --> 00:03:27,840
+everyone together and gives them purpose
+
+72
+00:03:25,920 --> 00:03:29,680
+and meaning in life, that galvanizes
+
+73
+00:03:27,840 --> 00:03:32,799
+them into action is the idea of
+
+74
+00:03:29,680 --> 00:03:35,040
+martyrdom, which forces jihad. to
+
+75
+00:03:32,799 --> 00:03:37,280
+sacrifice yourself for your religion.
+
+76
+00:03:35,040 --> 00:03:42,080
+Sacrifice yourself for the common good.
+
+77
+00:03:37,280 --> 00:03:44,560
+So think of the death of Kam as a
+
+78
+00:03:42,080 --> 00:03:48,239
+sacrifice, a self-sacrifice in order to
+
+79
+00:03:44,560 --> 00:03:50,720
+motivate their radiance in this war.
+
+80
+00:03:48,239 --> 00:03:53,599
+Okay? So that's the first thing you need
+
+81
+00:03:50,720 --> 00:03:56,080
+to understand that for the Iranians,
+
+82
+00:03:53,599 --> 00:03:58,000
+this is not a biblical war. This is not
+
+83
+00:03:56,080 --> 00:04:00,400
+an economic war. This is not a war of
+
+84
+00:03:58,000 --> 00:04:01,599
+resistance. This is a jihad. Okay?
+
+85
+00:04:00,400 --> 00:04:04,480
+Right? It's a war against the great
+
+86
+00:04:01,599 --> 00:04:06,720
+Satan to avenge their leader. They will
+
+87
+00:04:04,480 --> 00:04:09,760
+fight to the death. All right? That's
+
+88
+00:04:06,720 --> 00:04:14,799
+number one. Number two is this.
+
+89
+00:04:09,760 --> 00:04:18,320
+Also, that morning when um the was
+
+90
+00:04:14,799 --> 00:04:22,000
+killed, they really struck a school in
+
+91
+00:04:18,320 --> 00:04:24,560
+the south of Tran killing about 150
+
+92
+00:04:22,000 --> 00:04:27,680
+school children. These are girls in
+
+93
+00:04:24,560 --> 00:04:30,080
+primary school. And again, there's not
+
+94
+00:04:27,680 --> 00:04:32,560
+debate and argument as to what happened.
+
+95
+00:04:30,080 --> 00:04:34,400
+This really said that first of all, the
+
+96
+00:04:32,560 --> 00:04:37,040
+school was next to a military base. We
+
+97
+00:04:34,400 --> 00:04:39,280
+are targeting military base. And second
+
+98
+00:04:37,040 --> 00:04:42,080
+of all, it wasn't us which struck the
+
+99
+00:04:39,280 --> 00:04:45,520
+school. It was a air defense missile
+
+100
+00:04:42,080 --> 00:04:48,560
+that went off course. Okay. And the
+
+101
+00:04:45,520 --> 00:04:51,600
+Iranians insisted no. The the Israelis
+
+102
+00:04:48,560 --> 00:04:53,919
+purposefully attacked the school to kill
+
+103
+00:04:51,600 --> 00:04:57,120
+the school children. And then you're
+
+104
+00:04:53,919 --> 00:04:59,840
+like, why would the Israelis do that?
+
+105
+00:04:57,120 --> 00:05:01,680
+But then these few years, well, we've
+
+106
+00:04:59,840 --> 00:05:03,600
+seen what they've done in Gaza, in
+
+107
+00:05:01,680 --> 00:05:05,600
+Palestine to the Palestinians, and it's
+
+108
+00:05:03,600 --> 00:05:08,639
+pretty consistent what the Israelis have
+
+109
+00:05:05,600 --> 00:05:11,840
+been doing. All right? So this action
+
+110
+00:05:08,639 --> 00:05:14,080
+against the Israelis, it's meant to show
+
+111
+00:05:11,840 --> 00:05:16,400
+to themselves in the world that we are
+
+112
+00:05:14,080 --> 00:05:19,520
+now allin. Okay? We've made the
+
+113
+00:05:16,400 --> 00:05:23,360
+sacrifice. We are now committed to this
+
+114
+00:05:19,520 --> 00:05:26,240
+war to win this war at all costs and
+
+115
+00:05:23,360 --> 00:05:28,639
+this action has also provoked the
+
+116
+00:05:26,240 --> 00:05:30,880
+Iranian people to resist with their full
+
+117
+00:05:28,639 --> 00:05:32,880
+might. Okay. So I want you to keep this
+
+118
+00:05:30,880 --> 00:05:35,520
+in mind and again we don't have complete
+
+119
+00:05:32,880 --> 00:05:38,960
+evidence that it's the Israelis who did
+
+120
+00:05:35,520 --> 00:05:42,560
+this but given past actions from the
+
+121
+00:05:38,960 --> 00:05:45,039
+Israelis this is fairly consistent with
+
+122
+00:05:42,560 --> 00:05:47,919
+what they've done. Okay. So we can
+
+123
+00:05:45,039 --> 00:05:50,160
+assume that this is something that do
+
+124
+00:05:47,919 --> 00:05:52,320
+did why they did this what the purpose
+
+125
+00:05:50,160 --> 00:05:55,039
+is something we we will discuss as we
+
+126
+00:05:52,320 --> 00:05:57,520
+move on okay it's very complicated
+
+127
+00:05:55,039 --> 00:06:00,400
+next I want to show you this this is
+
+128
+00:05:57,520 --> 00:06:04,080
+Dubai and Dubai is considered one of the
+
+129
+00:06:00,400 --> 00:06:07,280
+wealthiest safest cities in the world
+
+130
+00:06:04,080 --> 00:06:10,240
+there are thousands tens of thousands of
+
+131
+00:06:07,280 --> 00:06:12,720
+westerners who move to Dubai because
+
+132
+00:06:10,240 --> 00:06:15,199
+it's clean you don't pay any taxes you
+
+133
+00:06:12,720 --> 00:06:17,360
+make a lot of money and you there are
+
+134
+00:06:15,199 --> 00:06:20,400
+great restaurants and this is really the
+
+135
+00:06:17,360 --> 00:06:24,720
+economic model of Dubai. It's one of the
+
+136
+00:06:20,400 --> 00:06:28,960
+Gulf the GCC countries, okay? The Gulf
+
+137
+00:06:24,720 --> 00:06:31,919
+uh coastal countries. And for the
+
+138
+00:06:28,960 --> 00:06:34,400
+longest time, Dubai had a really good
+
+139
+00:06:31,919 --> 00:06:37,440
+deal because they were under the
+
+140
+00:06:34,400 --> 00:06:39,840
+protection of the American military. So
+
+141
+00:06:37,440 --> 00:06:42,639
+they didn't have to pay for defense.
+
+142
+00:06:39,840 --> 00:06:45,039
+They and then they were in the Middle
+
+143
+00:06:42,639 --> 00:06:46,960
+East, which is the oil producing um
+
+144
+00:06:45,039 --> 00:06:49,440
+center of the world. And so they focus
+
+145
+00:06:46,960 --> 00:06:51,840
+on aviation, they focus on logistics,
+
+146
+00:06:49,440 --> 00:06:53,280
+they focus on finance, on tourism. They
+
+147
+00:06:51,840 --> 00:06:54,639
+be extremely wealthy, right? I'm not
+
+148
+00:06:53,280 --> 00:06:56,639
+sure if you've taken Emirates, one of
+
+149
+00:06:54,639 --> 00:06:59,280
+the best airlines in the world. So their
+
+150
+00:06:56,639 --> 00:07:03,840
+airport, Dubai airport, is the busiest
+
+151
+00:06:59,280 --> 00:07:06,720
+in the world. And Dubai for the longest
+
+152
+00:07:03,840 --> 00:07:09,919
+time was flourishing under American
+
+153
+00:07:06,720 --> 00:07:12,240
+protection. And Dubai said to the world,
+
+154
+00:07:09,919 --> 00:07:14,160
+listen, we're like Switzerland. We're
+
+155
+00:07:12,240 --> 00:07:16,479
+neutral. We don't want any involvement
+
+156
+00:07:14,160 --> 00:07:18,160
+in any wars. we're here just to take
+
+157
+00:07:16,479 --> 00:07:21,280
+care of our citizens, to make sure every
+
+158
+00:07:18,160 --> 00:07:22,560
+has a good time to make money. And then
+
+159
+00:07:21,280 --> 00:07:25,280
+right after the war started, the
+
+160
+00:07:22,560 --> 00:07:31,840
+Iranians attacked
+
+161
+00:07:25,280 --> 00:07:35,360
+the uh GCC. Okay, Dubai, Abu Dhabi,
+
+162
+00:07:31,840 --> 00:07:37,680
+uh Ban, Qatar,
+
+163
+00:07:35,360 --> 00:07:38,960
+Kuwait, they attacked these places and
+
+164
+00:07:37,680 --> 00:07:40,639
+these places were like, "What's going
+
+165
+00:07:38,960 --> 00:07:45,840
+on? We're neutral, man. We're not
+
+166
+00:07:40,639 --> 00:07:49,759
+involved in this war." and the airport
+
+167
+00:07:45,840 --> 00:07:51,520
+was shut down in Dubai. At at one point,
+
+168
+00:07:49,759 --> 00:07:54,560
+rich the rich people in Dubai were
+
+169
+00:07:51,520 --> 00:07:56,240
+willing to pay about 250,000 US dollars
+
+170
+00:07:54,560 --> 00:07:58,800
+just get on a plane and get out of
+
+171
+00:07:56,240 --> 00:08:02,879
+there. Okay.
+
+172
+00:07:58,800 --> 00:08:05,759
+So, um the reality is this. For the
+
+173
+00:08:02,879 --> 00:08:07,120
+longest time, Dubai had a reputation for
+
+174
+00:08:05,759 --> 00:08:09,199
+being safe and that's why people move
+
+175
+00:08:07,120 --> 00:08:11,440
+their money there. Guess what, guys?
+
+176
+00:08:09,199 --> 00:08:13,599
+After what the Iranians did, it's dead.
+
+177
+00:08:11,440 --> 00:08:15,680
+Dubai as a city in the long term it is
+
+178
+00:08:13,599 --> 00:08:16,800
+dead because you're a wealthy westerner.
+
+179
+00:08:15,680 --> 00:08:18,879
+You're not going to move to a place
+
+180
+00:08:16,800 --> 00:08:20,720
+where it could be attacked any time by
+
+181
+00:08:18,879 --> 00:08:22,960
+the Iranians. You might move to
+
+182
+00:08:20,720 --> 00:08:25,440
+Singapore. You might move to Hong Kong,
+
+183
+00:08:22,960 --> 00:08:28,240
+Japan, South America, but you're not
+
+184
+00:08:25,440 --> 00:08:31,919
+moving to Dubai. Okay. So, the big
+
+185
+00:08:28,240 --> 00:08:33,279
+question for us is why do I do this? It
+
+186
+00:08:31,919 --> 00:08:36,880
+would say it's really Americans who
+
+187
+00:08:33,279 --> 00:08:38,959
+attack you. Why go after the GCC? All
+
+188
+00:08:36,880 --> 00:08:41,279
+right. and not only that, but they're
+
+189
+00:08:38,959 --> 00:08:42,800
+escalating the attacks against the GCC.
+
+190
+00:08:41,279 --> 00:08:46,080
+So, it's something that we will look at
+
+191
+00:08:42,800 --> 00:08:48,720
+very closely today. Well, the short
+
+192
+00:08:46,080 --> 00:08:51,680
+answer is because these places, even
+
+193
+00:08:48,720 --> 00:08:54,880
+though they they pretend to be neutral,
+
+194
+00:08:51,680 --> 00:08:56,800
+they house the American military. They
+
+195
+00:08:54,880 --> 00:09:00,160
+allow the Israelis and Americans to use
+
+196
+00:08:56,800 --> 00:09:03,040
+their airspace to attack Iran from. All
+
+197
+00:09:00,160 --> 00:09:05,200
+right. So, this is Bahrain. Now, Bane is
+
+198
+00:09:03,040 --> 00:09:07,040
+interesting, okay? Because I I want you
+
+199
+00:09:05,200 --> 00:09:09,519
+guys to remember this, but Bane will
+
+200
+00:09:07,040 --> 00:09:12,240
+probably be one of the major centers of
+
+201
+00:09:09,519 --> 00:09:14,720
+this conflict because first of all, this
+
+202
+00:09:12,240 --> 00:09:17,440
+is the um American fifth fleet. All
+
+203
+00:09:14,720 --> 00:09:19,120
+right, this is their naval base in the
+
+204
+00:09:17,440 --> 00:09:22,880
+Middle East. And as you can see, the
+
+205
+00:09:19,120 --> 00:09:26,160
+Iranians are attacking it with missiles
+
+206
+00:09:22,880 --> 00:09:32,080
+and it's being blown up. Bin is
+
+207
+00:09:26,160 --> 00:09:34,800
+interesting because it has about 50% or
+
+208
+00:09:32,080 --> 00:09:37,839
+even more. Okay. Shia, which is the
+
+209
+00:09:34,800 --> 00:09:40,880
+religion of the Iranians, but the people
+
+210
+00:09:37,839 --> 00:09:44,160
+in charge are the Sunnis.
+
+211
+00:09:40,880 --> 00:09:46,080
+And so what is the what makes this
+
+212
+00:09:44,160 --> 00:09:48,640
+strike really important for from our
+
+213
+00:09:46,080 --> 00:09:51,040
+perspective is first of all, not only
+
+214
+00:09:48,640 --> 00:09:54,959
+are the Iranians attacking US military
+
+215
+00:09:51,040 --> 00:09:57,360
+assets, not only are they destroying the
+
+216
+00:09:54,959 --> 00:10:00,480
+economies of the GCC, but they're also
+
+217
+00:09:57,360 --> 00:10:03,279
+also trying to ignite a religious war,
+
+218
+00:10:00,480 --> 00:10:06,160
+right? If you're Shia, you're loyal to
+
+219
+00:10:03,279 --> 00:10:09,120
+the Aatollah. And if he's dead, then you
+
+220
+00:10:06,160 --> 00:10:12,160
+must as a religious obligation now
+
+221
+00:10:09,120 --> 00:10:13,600
+commit jihad against your enemies. And
+
+222
+00:10:12,160 --> 00:10:15,920
+it's no different in other religions
+
+223
+00:10:13,600 --> 00:10:17,839
+where listen, if you want to kill the
+
+224
+00:10:15,920 --> 00:10:19,120
+Pope, the Catholics would be really
+
+225
+00:10:17,839 --> 00:10:21,920
+angry at you and they would want to kill
+
+226
+00:10:19,120 --> 00:10:24,800
+you, right? So now you have the Shia who
+
+227
+00:10:21,920 --> 00:10:27,519
+will probably eventually arise creating
+
+228
+00:10:24,800 --> 00:10:29,519
+a revolution
+
+229
+00:10:27,519 --> 00:10:31,519
+in Ban. Okay? Okay. So I think Boran
+
+230
+00:10:29,519 --> 00:10:34,640
+will be the first to fall. Dubai will
+
+231
+00:10:31,519 --> 00:10:37,680
+probably go bankrupt. Okay. But in the
+
+232
+00:10:34,640 --> 00:10:41,120
+long term we can expect the entire GCC
+
+233
+00:10:37,680 --> 00:10:43,200
+area including Saudi Arabia
+
+234
+00:10:41,120 --> 00:10:44,800
+to eventually collapse. Okay. And this
+
+235
+00:10:43,200 --> 00:10:50,800
+something we will use game theory to
+
+236
+00:10:44,800 --> 00:10:53,200
+understand. All right let's continue. So
+
+237
+00:10:50,800 --> 00:10:55,279
+we will know how this war develops just
+
+238
+00:10:53,200 --> 00:10:58,320
+based on geography. Okay. So this is a
+
+239
+00:10:55,279 --> 00:11:00,160
+map and this map even even if you don't
+
+240
+00:10:58,320 --> 00:11:02,079
+really know the war, even if you don't
+
+241
+00:11:00,160 --> 00:11:04,240
+know the participants, even if you don't
+
+242
+00:11:02,079 --> 00:11:07,839
+know the weaponry, this map will tell
+
+243
+00:11:04,240 --> 00:11:09,920
+you exactly how this war will progress.
+
+244
+00:11:07,839 --> 00:11:12,000
+All right, so some certain things to
+
+245
+00:11:09,920 --> 00:11:14,000
+keep in mind about this map. This is
+
+246
+00:11:12,000 --> 00:11:17,120
+what we call this area. Okay, really
+
+247
+00:11:14,000 --> 00:11:19,279
+small about it's 33 kilometers wide.
+
+248
+00:11:17,120 --> 00:11:23,680
+Okay, people can swim across it. It's
+
+249
+00:11:19,279 --> 00:11:25,519
+really really um uh narrow. Okay, this
+
+250
+00:11:23,680 --> 00:11:27,200
+small area guys, it's called the str
+
+251
+00:11:25,519 --> 00:11:30,200
+moose.
+
+252
+00:11:27,200 --> 00:11:30,200
+All right,
+
+253
+00:11:30,720 --> 00:11:36,320
+and it's important because
+
+254
+00:11:33,360 --> 00:11:40,959
+it's really the center of the world.
+
+255
+00:11:36,320 --> 00:11:43,519
+This one area is the nexus, the pivot of
+
+256
+00:11:40,959 --> 00:11:48,560
+the world. Let me explain why. First of
+
+257
+00:11:43,519 --> 00:11:51,839
+all, from the GCC, you have 20%
+
+258
+00:11:48,560 --> 00:11:53,760
+of all the world's oil flowing through
+
+259
+00:11:51,839 --> 00:11:58,320
+this narrow straight. Where does it go,
+
+260
+00:11:53,760 --> 00:12:02,320
+guys? It goes to Asia, India, Pakistan,
+
+261
+00:11:58,320 --> 00:12:05,200
+South Korea, China, Japan.
+
+262
+00:12:02,320 --> 00:12:10,000
+India depends on 60% of its oil from
+
+263
+00:12:05,200 --> 00:12:12,880
+this area. China depends on 40%. Japan
+
+264
+00:12:10,000 --> 00:12:14,639
+75%.
+
+265
+00:12:12,880 --> 00:12:18,320
+Prime Minister Takiichi of Japan has
+
+266
+00:12:14,639 --> 00:12:21,279
+said that listen if the circle closes we
+
+267
+00:12:18,320 --> 00:12:23,200
+run out of oil in about 8 n months. The
+
+268
+00:12:21,279 --> 00:12:26,800
+entire Japanese economy would collapse
+
+269
+00:12:23,200 --> 00:12:29,279
+in 8 9 months. If the circle moves were
+
+270
+00:12:26,800 --> 00:12:32,639
+to close and guess what the Iranians
+
+271
+00:12:29,279 --> 00:12:34,880
+have closed the circle moves okay so we
+
+272
+00:12:32,639 --> 00:12:38,079
+can expect that the entire global
+
+273
+00:12:34,880 --> 00:12:40,560
+economy will suffer greatly over the
+
+274
+00:12:38,079 --> 00:12:43,120
+next few months. All right. So that's
+
+275
+00:12:40,560 --> 00:12:47,440
+point number one. Point number two is
+
+276
+00:12:43,120 --> 00:12:50,160
+okay so the GC sends oil across the shoo
+
+277
+00:12:47,440 --> 00:12:52,720
+and what do they get back in return?
+
+278
+00:12:50,160 --> 00:12:56,000
+Food guys.
+
+279
+00:12:52,720 --> 00:12:58,560
+All right so
+
+280
+00:12:56,000 --> 00:13:01,040
+people don't appreciate the GCC but it
+
+281
+00:12:58,560 --> 00:13:02,720
+is really the lynch pin of the American
+
+282
+00:13:01,040 --> 00:13:05,200
+empire because what is the American
+
+283
+00:13:02,720 --> 00:13:07,279
+empire? The American empire is the petro
+
+284
+00:13:05,200 --> 00:13:08,959
+dollar. All right. The idea of the petro
+
+285
+00:13:07,279 --> 00:13:11,120
+dollar is this. The US dollar is worth
+
+286
+00:13:08,959 --> 00:13:14,160
+nothing. It's only valued when people
+
+287
+00:13:11,120 --> 00:13:15,920
+want it. But the GC says that if you
+
+288
+00:13:14,160 --> 00:13:18,399
+want oil from us, you have to pay us in
+
+289
+00:13:15,920 --> 00:13:21,600
+US dollars. Okay? Then that is the basis
+
+290
+00:13:18,399 --> 00:13:25,120
+of the value of the US dollar.
+
+291
+00:13:21,600 --> 00:13:27,279
+So if the GCC collapses, the American
+
+292
+00:13:25,120 --> 00:13:31,279
+economy and American empire both
+
+293
+00:13:27,279 --> 00:13:33,839
+collapse at the same time.
+
+294
+00:13:31,279 --> 00:13:37,360
+The problem though is the GCC is an
+
+295
+00:13:33,839 --> 00:13:41,360
+artificial construct of empire. It does
+
+296
+00:13:37,360 --> 00:13:45,839
+not exist naturally. Why? Because that's
+
+297
+00:13:41,360 --> 00:13:49,440
+no food. That's no oil, no water. Okay
+
+298
+00:13:45,839 --> 00:13:51,519
+guys, no food, no water. So these cities
+
+299
+00:13:49,440 --> 00:13:53,760
+are able to grow in the millions because
+
+300
+00:13:51,519 --> 00:13:56,399
+of all these petrol dollars flowing in.
+
+301
+00:13:53,760 --> 00:13:58,720
+If you close off the moose, there's no
+
+302
+00:13:56,399 --> 00:14:01,800
+food coming in, right? They're all going
+
+303
+00:13:58,720 --> 00:14:01,800
+to starve.
+
+304
+00:14:01,920 --> 00:14:08,240
+How much food does the GCD get from
+
+305
+00:14:04,399 --> 00:14:08,240
+overseas? 80%.
+
+306
+00:14:08,399 --> 00:14:14,480
+80% of all the food it consumes comes
+
+307
+00:14:11,680 --> 00:14:18,560
+from overseas that it imports. It does
+
+308
+00:14:14,480 --> 00:14:20,240
+not grow by itself. It imports.
+
+309
+00:14:18,560 --> 00:14:23,279
+All right.
+
+310
+00:14:20,240 --> 00:14:25,680
+So the sugar moose is really key and
+
+311
+00:14:23,279 --> 00:14:28,639
+again the Iranians will close it in
+
+312
+00:14:25,680 --> 00:14:32,079
+order to strangle the global economy and
+
+313
+00:14:28,639 --> 00:14:33,920
+therefore bankrupt the American empire.
+
+314
+00:14:32,079 --> 00:14:36,160
+All right. Second thing you will notice
+
+315
+00:14:33,920 --> 00:14:38,720
+is these mountains.
+
+316
+00:14:36,160 --> 00:14:41,199
+These mountains is what we call Iran.
+
+317
+00:14:38,720 --> 00:14:43,920
+All right, this is Iran.
+
+318
+00:14:41,199 --> 00:14:45,680
+This is GCC.
+
+319
+00:14:43,920 --> 00:14:47,040
+Okay, this is not a fair matchup, right?
+
+320
+00:14:45,680 --> 00:14:49,120
+Because these are mountains. And what
+
+321
+00:14:47,040 --> 00:14:51,519
+can you do in mountains? We can hide
+
+322
+00:14:49,120 --> 00:14:53,760
+rocket bases. You can hide drone bases.
+
+323
+00:14:51,519 --> 00:14:57,760
+You can hide missiles. And that's the
+
+324
+00:14:53,760 --> 00:15:01,199
+entire Iranian offensive strategy. All
+
+325
+00:14:57,760 --> 00:15:04,880
+right. From here they can hide missiles
+
+326
+00:15:01,199 --> 00:15:06,399
+and drones from which to attack the GCC.
+
+327
+00:15:04,880 --> 00:15:07,920
+And what are they attacking? They're
+
+328
+00:15:06,399 --> 00:15:09,920
+attacking
+
+329
+00:15:07,920 --> 00:15:11,600
+um
+
+330
+00:15:09,920 --> 00:15:14,720
+three things, right? They're attacking
+
+331
+00:15:11,600 --> 00:15:16,639
+American military bases.
+
+332
+00:15:14,720 --> 00:15:20,120
+American
+
+333
+00:15:16,639 --> 00:15:20,120
+military bases.
+
+334
+00:15:20,560 --> 00:15:24,320
+That's number one.
+
+335
+00:15:22,639 --> 00:15:25,839
+Okay. Is it possible for the Durkens to
+
+336
+00:15:24,320 --> 00:15:29,519
+defend against these hacks? The answer
+
+337
+00:15:25,839 --> 00:15:31,040
+is no. THEY'RE NOT. IT'S NOT. IT'S THE
+
+338
+00:15:29,519 --> 00:15:32,560
+SILLIEST THING IN the world. You have
+
+339
+00:15:31,040 --> 00:15:34,160
+all these bases in the Middle East, but
+
+340
+00:15:32,560 --> 00:15:36,639
+you cannot defend them against the
+
+341
+00:15:34,160 --> 00:15:39,920
+Iranians. That's kind of strange. Okay,
+
+342
+00:15:36,639 --> 00:15:43,639
+that's number one. Number two is
+
+343
+00:15:39,920 --> 00:15:43,639
+oil and energy.
+
+344
+00:15:44,000 --> 00:15:48,880
+How hard is it to blow up an oil field
+
+345
+00:15:46,320 --> 00:15:52,880
+with a drone? Not hard at all. Can you
+
+346
+00:15:48,880 --> 00:15:55,680
+defend these oil fields? No, you cannot.
+
+347
+00:15:52,880 --> 00:15:58,000
+All right. Number three, and that's most
+
+348
+00:15:55,680 --> 00:16:01,040
+important, is water.
+
+349
+00:15:58,000 --> 00:16:03,040
+Okay, you guys don't know this, but the
+
+350
+00:16:01,040 --> 00:16:08,000
+GCC
+
+351
+00:16:03,040 --> 00:16:09,680
+has little access to fresh water. So the
+
+352
+00:16:08,000 --> 00:16:12,240
+only way that it can produce water is
+
+353
+00:16:09,680 --> 00:16:15,040
+what is what we call dalination plants.
+
+354
+00:16:12,240 --> 00:16:16,880
+Okay, these factories that take salt
+
+355
+00:16:15,040 --> 00:16:19,360
+water and then through electrical
+
+356
+00:16:16,880 --> 00:16:24,000
+chemical process turn it into fresh
+
+357
+00:16:19,360 --> 00:16:26,720
+water for the population to use. 60%
+
+358
+00:16:24,000 --> 00:16:31,120
+of the water supply and as you see comes
+
+359
+00:16:26,720 --> 00:16:33,440
+from the alination plants. Okay, 60%.
+
+360
+00:16:31,120 --> 00:16:35,759
+Is it hard to blow up the dalination
+
+361
+00:16:33,440 --> 00:16:38,000
+plant using a drone? The answer is it's
+
+362
+00:16:35,759 --> 00:16:40,959
+very easy. You understand? Okay, so you
+
+363
+00:16:38,000 --> 00:16:44,000
+have this absurd situation where Iran is
+
+364
+00:16:40,959 --> 00:16:46,399
+a mountain fortress where it can hide
+
+365
+00:16:44,000 --> 00:16:50,399
+its offensive capacity
+
+366
+00:16:46,399 --> 00:16:54,399
+and the GCC it's just this desert, this
+
+367
+00:16:50,399 --> 00:16:56,320
+flat desert and it is exposed to attack
+
+368
+00:16:54,399 --> 00:16:58,480
+and there's nothing it can do about it.
+
+369
+00:16:56,320 --> 00:17:01,600
+Okay.
+
+370
+00:16:58,480 --> 00:17:04,079
+So, at any point in this war, the
+
+371
+00:17:01,600 --> 00:17:07,199
+Iranians can choose to just destroy the
+
+372
+00:17:04,079 --> 00:17:10,319
+entire GCC and there's nothing that
+
+373
+00:17:07,199 --> 00:17:15,039
+anyone can do about it.
+
+374
+00:17:10,319 --> 00:17:17,919
+Okay? But Iran also has a weakness.
+
+375
+00:17:15,039 --> 00:17:20,880
+Okay? And this is fundamental. So, Iran
+
+376
+00:17:17,919 --> 00:17:23,199
+also has a water problem. Okay? So, for
+
+377
+00:17:20,880 --> 00:17:24,959
+the longest time, they suffer a drought
+
+378
+00:17:23,199 --> 00:17:27,679
+issue.
+
+379
+00:17:24,959 --> 00:17:32,160
+Okay? this climate change.
+
+380
+00:17:27,679 --> 00:17:36,480
+And so what the plan of the Israelis
+
+381
+00:17:32,160 --> 00:17:40,320
+Americans is is destroy the water supply
+
+382
+00:17:36,480 --> 00:17:42,480
+of the Iranians because the fortress it
+
+383
+00:17:40,320 --> 00:17:45,679
+it is a mountain fortress but it can
+
+384
+00:17:42,480 --> 00:17:47,520
+also be a mountain prison as well where
+
+385
+00:17:45,679 --> 00:17:49,520
+people are trapped inside with no access
+
+386
+00:17:47,520 --> 00:17:51,120
+to water. Okay. So what we're going to
+
+387
+00:17:49,520 --> 00:17:53,200
+see right now, we're we're already
+
+388
+00:17:51,120 --> 00:17:56,000
+seeing attacks on civilian
+
+389
+00:17:53,200 --> 00:17:58,960
+infrastructure, hospitals. In the
+
+390
+00:17:56,000 --> 00:18:03,039
+future, you will see attacks on water
+
+391
+00:17:58,960 --> 00:18:07,840
+supply, on dams, on reservoirs,
+
+392
+00:18:03,039 --> 00:18:11,120
+on power plants. The point, the idea is
+
+393
+00:18:07,840 --> 00:18:12,880
+to make Iran so inhabitable that the
+
+394
+00:18:11,120 --> 00:18:14,960
+people will will have to rebel against
+
+395
+00:18:12,880 --> 00:18:19,280
+the people or there'll be a refugee
+
+396
+00:18:14,960 --> 00:18:23,360
+crisis in Iran. Okay. So as you can see
+
+397
+00:18:19,280 --> 00:18:26,799
+from this map, this war it is the end of
+
+398
+00:18:23,360 --> 00:18:28,799
+the world. Okay, both sides have the
+
+399
+00:18:26,799 --> 00:18:31,840
+potential to destroy each other. It's
+
+400
+00:18:28,799 --> 00:18:35,280
+really a question of how far do they
+
+401
+00:18:31,840 --> 00:18:38,160
+want to go, right? We we can also say
+
+402
+00:18:35,280 --> 00:18:40,880
+this is almost a game of chicken.
+
+403
+00:18:38,160 --> 00:18:44,640
+Okay,
+
+404
+00:18:40,880 --> 00:18:47,919
+we can blow we can blow each other up.
+
+405
+00:18:44,640 --> 00:18:51,360
+How far do you want to go?
+
+406
+00:18:47,919 --> 00:18:55,600
+And the problem is this. The problem is
+
+407
+00:18:51,360 --> 00:18:57,840
+that the Iranians are Shia
+
+408
+00:18:55,600 --> 00:19:01,039
+which believes in martyrdom and you've
+
+409
+00:18:57,840 --> 00:19:04,320
+killed the religious leader that K. So
+
+410
+00:19:01,039 --> 00:19:07,919
+they're willing to go very very far. The
+
+411
+00:19:04,320 --> 00:19:10,240
+GC the GC countries are Muslim but
+
+412
+00:19:07,919 --> 00:19:12,160
+they're materialistic. They love money.
+
+413
+00:19:10,240 --> 00:19:14,799
+And also most of the population are
+
+414
+00:19:12,160 --> 00:19:16,400
+expatriots, foreigners. 90% of Dubai are
+
+415
+00:19:14,799 --> 00:19:18,720
+foreigners. Guess guess what's going to
+
+416
+00:19:16,400 --> 00:19:24,240
+happen if they suffer? They're going to
+
+417
+00:19:18,720 --> 00:19:25,760
+run away. Okay, so this is not a fair
+
+418
+00:19:24,240 --> 00:19:29,840
+matchup.
+
+419
+00:19:25,760 --> 00:19:31,840
+The big question that people have is
+
+420
+00:19:29,840 --> 00:19:34,160
+first of all,
+
+421
+00:19:31,840 --> 00:19:36,240
+are the Americans going to use ground
+
+422
+00:19:34,160 --> 00:19:37,919
+troops?
+
+423
+00:19:36,240 --> 00:19:39,840
+Because the only way that you can defeat
+
+424
+00:19:37,919 --> 00:19:41,360
+Iran is by using ground troops. Okay,
+
+425
+00:19:39,840 --> 00:19:43,840
+that's a big question we will look at
+
+426
+00:19:41,360 --> 00:19:46,559
+over the next few weeks. Will will
+
+427
+00:19:43,840 --> 00:19:48,799
+America send his army half a million 2
+
+428
+00:19:46,559 --> 00:19:50,000
+million soldiers to topple the
+
+429
+00:19:48,799 --> 00:19:52,880
+government? Okay, that's question number
+
+430
+00:19:50,000 --> 00:19:55,880
+one. Question number two, nuclear
+
+431
+00:19:52,880 --> 00:19:55,880
+weapons.
+
+432
+00:19:57,520 --> 00:20:02,000
+If you're losing a war,
+
+433
+00:20:00,240 --> 00:20:05,120
+would you choose to use nuclear weapons?
+
+434
+00:20:02,000 --> 00:20:07,200
+Okay, that's another big question that
+
+435
+00:20:05,120 --> 00:20:11,360
+we have. Okay, another big question that
+
+436
+00:20:07,200 --> 00:20:14,080
+we have is who gets involved? Because
+
+437
+00:20:11,360 --> 00:20:17,039
+this situation is so dire that Europe,
+
+438
+00:20:14,080 --> 00:20:20,160
+okay, specifically Germany,
+
+439
+00:20:17,039 --> 00:20:23,840
+France and Britain
+
+440
+00:20:20,160 --> 00:20:26,960
+are talking about entering this war. And
+
+441
+00:20:23,840 --> 00:20:30,640
+guess what? If that happens, it is
+
+442
+00:20:26,960 --> 00:20:32,640
+possible that Russia and China
+
+443
+00:20:30,640 --> 00:20:34,720
+will also enter this war on the side of
+
+444
+00:20:32,640 --> 00:20:36,559
+the Iranians. This is World War II,
+
+445
+00:20:34,720 --> 00:20:38,960
+okay?
+
+446
+00:20:36,559 --> 00:20:40,880
+because of the importance of the
+
+447
+00:20:38,960 --> 00:20:42,960
+political moves, because of the
+
+448
+00:20:40,880 --> 00:20:46,640
+importance of the Middle East, everyone
+
+449
+00:20:42,960 --> 00:20:48,240
+has to get involved at some point.
+
+450
+00:20:46,640 --> 00:20:50,640
+And we're going to use game theory to
+
+451
+00:20:48,240 --> 00:20:52,880
+really try to understand what what's
+
+452
+00:20:50,640 --> 00:20:56,640
+happening on the ground and where this
+
+453
+00:20:52,880 --> 00:20:59,120
+could lead us. Okay.
+
+454
+00:20:56,640 --> 00:21:02,640
+All right. You guys understand? All
+
+455
+00:20:59,120 --> 00:21:06,240
+right. All right. Let's continue. Okay.
+
+456
+00:21:02,640 --> 00:21:10,159
+So again, there are American bases all
+
+457
+00:21:06,240 --> 00:21:13,440
+over the Middle East
+
+458
+00:21:10,159 --> 00:21:16,960
+and originally these bases were
+
+459
+00:21:13,440 --> 00:21:18,960
+established to protect them from
+
+460
+00:21:16,960 --> 00:21:21,760
+basically their own people. Okay, these
+
+461
+00:21:18,960 --> 00:21:25,039
+are monarchies that were imposed on
+
+462
+00:21:21,760 --> 00:21:26,640
+these nations by the Anglo-American
+
+463
+00:21:25,039 --> 00:21:29,440
+Empire, the British first and then the
+
+464
+00:21:26,640 --> 00:21:31,120
+Americans came to support these
+
+465
+00:21:29,440 --> 00:21:34,159
+monarchies.
+
+466
+00:21:31,120 --> 00:21:36,000
+And so they provide defense.
+
+467
+00:21:34,159 --> 00:21:37,760
+But then you're like, wait a minute
+
+468
+00:21:36,000 --> 00:21:39,520
+here. I mean, didn't we just say that
+
+469
+00:21:37,760 --> 00:21:42,000
+these American bases can actually defend
+
+470
+00:21:39,520 --> 00:21:43,760
+these people that they're exposed? And
+
+471
+00:21:42,000 --> 00:21:45,679
+the and the reason and the answer is
+
+472
+00:21:43,760 --> 00:21:48,080
+yes, that's true. But remember that the
+
+473
+00:21:45,679 --> 00:21:53,039
+American military was built during the
+
+474
+00:21:48,080 --> 00:21:57,360
+Cold War. Okay? And the Cold War was a
+
+475
+00:21:53,039 --> 00:22:00,720
+war between the Soviet Union and um
+
+476
+00:21:57,360 --> 00:22:02,400
+America. And so the cold war was defined
+
+477
+00:22:00,720 --> 00:22:04,640
+with something called MAD, mutually
+
+478
+00:22:02,400 --> 00:22:06,080
+assured destruction, because both had
+
+479
+00:22:04,640 --> 00:22:08,000
+nuclear weapons. Okay? So they didn't
+
+480
+00:22:06,080 --> 00:22:10,240
+really go to war against each other. And
+
+481
+00:22:08,000 --> 00:22:13,039
+so in other words, these bases aren't
+
+482
+00:22:10,240 --> 00:22:15,520
+really meant to defend
+
+483
+00:22:13,039 --> 00:22:18,559
+uh these nations from other enemies.
+
+484
+00:22:15,520 --> 00:22:22,000
+They're really meant to impose American
+
+485
+00:22:18,559 --> 00:22:24,559
+authority in the Middle East. Okay? And
+
+486
+00:22:22,000 --> 00:22:27,760
+it's the idea of this. It's the idea
+
+487
+00:22:24,559 --> 00:22:30,720
+that empire
+
+488
+00:22:27,760 --> 00:22:33,679
+it is really a
+
+489
+00:22:30,720 --> 00:22:37,600
+image. It is a hallucination. It's an
+
+490
+00:22:33,679 --> 00:22:40,080
+idea. Empire is the it's an aura of
+
+491
+00:22:37,600 --> 00:22:43,039
+invisibility and inability. Okay? If you
+
+492
+00:22:40,080 --> 00:22:45,039
+fear it, then you obey it.
+
+493
+00:22:43,039 --> 00:22:47,440
+But it's not really designed to fight a
+
+494
+00:22:45,039 --> 00:22:49,600
+war. Okay? And and so that's why we have
+
+495
+00:22:47,440 --> 00:22:51,520
+this absurd situation.
+
+496
+00:22:49,600 --> 00:22:53,840
+And because there are so many bases in
+
+497
+00:22:51,520 --> 00:22:55,919
+the GCC, that gives the Iranians the
+
+498
+00:22:53,840 --> 00:22:58,559
+perfect pretext to attack them in order
+
+499
+00:22:55,919 --> 00:23:01,280
+destroy the GCC economy, which will
+
+500
+00:22:58,559 --> 00:23:03,440
+destroy the American empire. Right? All
+
+501
+00:23:01,280 --> 00:23:06,559
+right. So this is how the war shipping
+
+502
+00:23:03,440 --> 00:23:10,880
+out. Okay. So So the red is the Israelis
+
+503
+00:23:06,559 --> 00:23:13,600
+and the Americans. The yellow are the
+
+504
+00:23:10,880 --> 00:23:16,240
+Iranians. And as you can see, the
+
+505
+00:23:13,600 --> 00:23:17,919
+Iranians are attacking everywhere,
+
+506
+00:23:16,240 --> 00:23:20,880
+primarily
+
+507
+00:23:17,919 --> 00:23:24,880
+Israel, okay? But also, as you can see,
+
+508
+00:23:20,880 --> 00:23:29,520
+a lot of focus on Bahrain and Qatar. And
+
+509
+00:23:24,880 --> 00:23:32,000
+again, the intention is to destabilize
+
+510
+00:23:29,520 --> 00:23:33,679
+the economy and the government, okay?
+
+511
+00:23:32,000 --> 00:23:36,720
+It's it's to try to get as much
+
+512
+00:23:33,679 --> 00:23:39,720
+instability as possible,
+
+513
+00:23:36,720 --> 00:23:39,720
+right?
+
+514
+00:23:39,919 --> 00:23:48,799
+Okay. And as you can see, the Americans
+
+515
+00:23:42,720 --> 00:23:51,919
+and the Israelis are focused on Tran.
+
+516
+00:23:48,799 --> 00:23:56,440
+And so the Americans is use some
+
+517
+00:23:51,919 --> 00:23:56,440
+something we call shock and all.
+
+518
+00:23:56,960 --> 00:24:02,400
+And the very idea of shock and all is
+
+519
+00:24:00,640 --> 00:24:05,840
+you decapitate
+
+520
+00:24:02,400 --> 00:24:09,679
+the enemy. You cut off the head, the
+
+521
+00:24:05,840 --> 00:24:12,640
+body will fall down. Okay. The problem
+
+522
+00:24:09,679 --> 00:24:15,520
+though is again the Iranians see this as
+
+523
+00:24:12,640 --> 00:24:20,240
+a religious war and so the Iranians have
+
+524
+00:24:15,520 --> 00:24:23,440
+of have announced total war.
+
+525
+00:24:20,240 --> 00:24:26,240
+Okay. And so what this means is that
+
+526
+00:24:23,440 --> 00:24:28,960
+right now command and control in in Iraq
+
+527
+00:24:26,240 --> 00:24:30,880
+is decentralized.
+
+528
+00:24:28,960 --> 00:24:33,919
+There's no one person telling everyone
+
+529
+00:24:30,880 --> 00:24:36,640
+what to do. Every region has its own
+
+530
+00:24:33,919 --> 00:24:39,520
+orders, has its own strategy. And so if
+
+531
+00:24:36,640 --> 00:24:42,400
+you knock out Tran, everyone else keeps
+
+532
+00:24:39,520 --> 00:24:44,960
+on going. So you knock off the take off
+
+533
+00:24:42,400 --> 00:24:47,520
+the head, it doesn't change anything.
+
+534
+00:24:44,960 --> 00:24:51,279
+Okay? But unfortunately
+
+535
+00:24:47,520 --> 00:24:53,600
+the um Israelis and Americans use this
+
+536
+00:24:51,279 --> 00:24:55,840
+as a military doctrine. Military
+
+537
+00:24:53,600 --> 00:24:59,600
+doctrine just means how to how you
+
+538
+00:24:55,840 --> 00:25:02,320
+design your military for what purpose.
+
+539
+00:24:59,600 --> 00:25:04,880
+And so the even though the Americans
+
+540
+00:25:02,320 --> 00:25:07,279
+seem like an invincible army, they are
+
+541
+00:25:04,880 --> 00:25:10,159
+not equipped to fight a 21st century war
+
+542
+00:25:07,279 --> 00:25:12,000
+against drones, against
+
+543
+00:25:10,159 --> 00:25:13,600
+religious fanatics. Okay? They're just
+
+544
+00:25:12,000 --> 00:25:15,840
+not
+
+545
+00:25:13,600 --> 00:25:18,320
+all right. But unfortunately, because of
+
+546
+00:25:15,840 --> 00:25:20,960
+military doctrine, they're going to keep
+
+547
+00:25:18,320 --> 00:25:24,320
+on attacking Tran. Now the great irony
+
+548
+00:25:20,960 --> 00:25:26,960
+of all this is that the Iranians who
+
+549
+00:25:24,320 --> 00:25:28,880
+will be most supportive of you of regime
+
+550
+00:25:26,960 --> 00:25:30,559
+change are actually in the cities
+
+551
+00:25:28,880 --> 00:25:32,799
+because they are educated they're
+
+552
+00:25:30,559 --> 00:25:34,400
+progressive the people who are most
+
+553
+00:25:32,799 --> 00:25:36,559
+fundamentally against you will fight you
+
+554
+00:25:34,400 --> 00:25:40,080
+to the death are religious fanatics the
+
+555
+00:25:36,559 --> 00:25:43,120
+Shia militants living in the rural areas
+
+556
+00:25:40,080 --> 00:25:45,760
+okay so this is a really silly thing
+
+557
+00:25:43,120 --> 00:25:49,520
+where you are actually destroying those
+
+558
+00:25:45,760 --> 00:25:51,679
+who who will most likely support you And
+
+559
+00:25:49,520 --> 00:25:55,760
+you're leaving alone those who are most
+
+560
+00:25:51,679 --> 00:25:57,600
+likely to commit jihad against you. All
+
+561
+00:25:55,760 --> 00:25:59,840
+right.
+
+562
+00:25:57,600 --> 00:26:02,400
+Any questions so far guys? Are you
+
+563
+00:25:59,840 --> 00:26:03,760
+clear? All right. So another idea that I
+
+564
+00:26:02,400 --> 00:26:05,679
+want you guys to understand is idea of
+
+565
+00:26:03,760 --> 00:26:08,679
+asymmetry.
+
+566
+00:26:05,679 --> 00:26:08,679
+Asymmetry.
+
+567
+00:26:08,960 --> 00:26:13,760
+All right. So what is asymmetry?
+
+568
+00:26:10,720 --> 00:26:16,880
+Asymmetry means that the two sides are
+
+569
+00:26:13,760 --> 00:26:19,760
+choosing to fight different wars using
+
+570
+00:26:16,880 --> 00:26:21,360
+different techniques because
+
+571
+00:26:19,760 --> 00:26:23,760
+one is much stronger than the other.
+
+572
+00:26:21,360 --> 00:26:26,480
+Okay, America has a great empire. It has
+
+573
+00:26:23,760 --> 00:26:29,919
+unlimited resources. It has a USD. It
+
+574
+00:26:26,480 --> 00:26:32,159
+has it controls the world, right? Iran
+
+575
+00:26:29,919 --> 00:26:34,000
+uh is a country that has been under
+
+576
+00:26:32,159 --> 00:26:37,440
+economic sanctions for the past 45
+
+577
+00:26:34,000 --> 00:26:40,640
+years. It's poor. It's technology is
+
+578
+00:26:37,440 --> 00:26:43,840
+very limited. Okay. But as we learn in
+
+579
+00:26:40,640 --> 00:26:46,320
+this class, actually those nations that
+
+580
+00:26:43,840 --> 00:26:47,919
+are poor actually have more energy.
+
+581
+00:26:46,320 --> 00:26:49,440
+They're more open and they're more
+
+582
+00:26:47,919 --> 00:26:52,480
+cohesive. Right? So let me give an
+
+583
+00:26:49,440 --> 00:26:55,200
+example. This is what we call the Shahad
+
+584
+00:26:52,480 --> 00:26:59,200
+drones. Shahad drones. Each of these
+
+585
+00:26:55,200 --> 00:27:02,559
+drones cost $50,000 at most. Okay? At
+
+586
+00:26:59,200 --> 00:27:04,240
+most. It can go as cheap as $35,000 US.
+
+587
+00:27:02,559 --> 00:27:06,640
+But one of them is one of them is
+
+588
+00:27:04,240 --> 00:27:09,279
+$50,000. As you can see, you can fit a
+
+589
+00:27:06,640 --> 00:27:13,279
+lot of these drones to a truck that can
+
+590
+00:27:09,279 --> 00:27:16,080
+go anywhere in Iran and they can hide
+
+591
+00:27:13,279 --> 00:27:18,320
+anywhere. All right, so the thing to
+
+592
+00:27:16,080 --> 00:27:21,200
+understand is first of all, these drones
+
+593
+00:27:18,320 --> 00:27:24,960
+are cheap. They're easy and they're easy
+
+594
+00:27:21,200 --> 00:27:26,480
+to make. They make about 500 a day.
+
+595
+00:27:24,960 --> 00:27:28,640
+Okay? And estimates are about there's
+
+596
+00:27:26,480 --> 00:27:31,039
+80,000
+
+597
+00:27:28,640 --> 00:27:33,360
+um right now that the Iranians have. So
+
+598
+00:27:31,039 --> 00:27:35,279
+they can go on for a long long time.
+
+599
+00:27:33,360 --> 00:27:37,200
+Okay? And one of these drones again can
+
+600
+00:27:35,279 --> 00:27:39,360
+knock out a dissalination plant. It can
+
+601
+00:27:37,200 --> 00:27:41,679
+knock out a oil field. It can knock out
+
+602
+00:27:39,360 --> 00:27:45,600
+a hotel. It can do a lot of damage.
+
+603
+00:27:41,679 --> 00:27:47,760
+Okay. And it's easily
+
+604
+00:27:45,600 --> 00:27:49,520
+transportable. You can hide it anywhere.
+
+605
+00:27:47,760 --> 00:27:52,720
+You can you can use it from anywhere.
+
+606
+00:27:49,520 --> 00:27:55,360
+Okay? And that's what the Iranians are
+
+607
+00:27:52,720 --> 00:27:57,919
+using as an offensive weapon. And how do
+
+608
+00:27:55,360 --> 00:28:01,840
+Americans defend against this? They use
+
+609
+00:27:57,919 --> 00:28:06,240
+something called a fad. Right.
+
+610
+00:28:01,840 --> 00:28:09,520
+Right guys, this is what they use. FAD.
+
+611
+00:28:06,240 --> 00:28:11,679
+FAD stands for thermal high altitude air
+
+612
+00:28:09,520 --> 00:28:13,919
+defense. And they also have like Patriot
+
+613
+00:28:11,679 --> 00:28:16,080
+systems. There's a lot. Okay. The thing
+
+614
+00:28:13,919 --> 00:28:18,080
+that you will that you need to know know
+
+615
+00:28:16,080 --> 00:28:22,240
+about the system is it's really
+
+616
+00:28:18,080 --> 00:28:25,240
+expensive. This missile guys cost $1
+
+617
+00:28:22,240 --> 00:28:25,240
+million.
+
+618
+00:28:27,919 --> 00:28:32,559
+$1 million.
+
+619
+00:28:30,399 --> 00:28:34,559
+So, there's this $50,000 drone coming
+
+620
+00:28:32,559 --> 00:28:36,159
+your way and you throw a million dollar
+
+621
+00:28:34,559 --> 00:28:37,600
+missile at it. Okay? And often these
+
+622
+00:28:36,159 --> 00:28:40,000
+missiles miss, so you have to throw two
+
+623
+00:28:37,600 --> 00:28:42,640
+or three missiles at it. Okay? So, you
+
+624
+00:28:40,000 --> 00:28:46,240
+you're spending two to $3 million on
+
+625
+00:28:42,640 --> 00:28:48,240
+each $50,000 that the spend.
+
+626
+00:28:46,240 --> 00:28:52,159
+That's kind of silly. Second thing
+
+627
+00:28:48,240 --> 00:28:56,799
+you'll notice is that this thing is
+
+628
+00:28:52,159 --> 00:28:59,600
+really big and really slow and therefore
+
+629
+00:28:56,799 --> 00:29:01,039
+you can't really move it around.
+
+630
+00:28:59,600 --> 00:29:03,840
+Therefore, it's pretty easy for the
+
+631
+00:29:01,039 --> 00:29:06,159
+Iranians to spot where this is and
+
+632
+00:29:03,840 --> 00:29:10,320
+attack it. And when these planes blow
+
+633
+00:29:06,159 --> 00:29:13,360
+up, that's a lot of money, guys. Okay?
+
+634
+00:29:10,320 --> 00:29:16,000
+Then you're like, "What? But this makes
+
+635
+00:29:13,360 --> 00:29:18,320
+no sense. You know, the Iranians have
+
+636
+00:29:16,000 --> 00:29:20,880
+drones. They've had drones for like 10
+
+637
+00:29:18,320 --> 00:29:23,520
+years. You've also seen drones used in
+
+638
+00:29:20,880 --> 00:29:27,440
+the Russia Ukraine war to devastating
+
+639
+00:29:23,520 --> 00:29:30,000
+effect. Why don't the Americans know
+
+640
+00:29:27,440 --> 00:29:31,440
+this? Why did they prepare? Okay. And
+
+641
+00:29:30,000 --> 00:29:33,279
+again, it has to do with military
+
+642
+00:29:31,440 --> 00:29:36,080
+military doctrine because military
+
+643
+00:29:33,279 --> 00:29:39,279
+doctrine determines how you fight a war.
+
+644
+00:29:36,080 --> 00:29:40,960
+It determines on your bureaucracy and it
+
+645
+00:29:39,279 --> 00:29:44,240
+and it determines how you spend your
+
+646
+00:29:40,960 --> 00:29:45,679
+resources. Okay? And unfortunately, the
+
+647
+00:29:44,240 --> 00:29:48,080
+Americans are used to fighting something
+
+648
+00:29:45,679 --> 00:29:50,640
+called the cold war,
+
+649
+00:29:48,080 --> 00:29:53,600
+right? And the cold war you can actually
+
+650
+00:29:50,640 --> 00:29:55,279
+fight the war. You can actually use uh
+
+651
+00:29:53,600 --> 00:29:57,440
+kill each other because then you people
+
+652
+00:29:55,279 --> 00:30:01,000
+use nuclear weapons. The cold war was
+
+653
+00:29:57,440 --> 00:30:01,000
+about flexing.
+
+654
+00:30:01,760 --> 00:30:07,440
+Flexing. Okay, you see how big and
+
+655
+00:30:05,200 --> 00:30:10,320
+powerful I am?
+
+656
+00:30:07,440 --> 00:30:12,559
+Okay, that's all it was.
+
+657
+00:30:10,320 --> 00:30:15,120
+These weapon systems are designed to
+
+658
+00:30:12,559 --> 00:30:18,240
+scare the crap out of you. They are
+
+659
+00:30:15,120 --> 00:30:20,799
+designed to impress you and as a result,
+
+660
+00:30:18,240 --> 00:30:22,960
+they cost a lot of money. They don't do
+
+661
+00:30:20,799 --> 00:30:25,919
+anything. All right, so that's the
+
+662
+00:30:22,960 --> 00:30:28,320
+entire American military. It costs a lot
+
+663
+00:30:25,919 --> 00:30:31,200
+and it doesn't really do anything and
+
+664
+00:30:28,320 --> 00:30:34,320
+it's not resilient. It's not innovative.
+
+665
+00:30:31,200 --> 00:30:36,000
+It's not open. All right. Also, the
+
+666
+00:30:34,320 --> 00:30:37,840
+other thing I have to say this, okay, is
+
+667
+00:30:36,000 --> 00:30:39,919
+if you look at the American military,
+
+668
+00:30:37,840 --> 00:30:43,919
+it's corrupt.
+
+669
+00:30:39,919 --> 00:30:45,679
+So, this is really about corruption.
+
+670
+00:30:43,919 --> 00:30:47,840
+So, the Americans don't really care
+
+671
+00:30:45,679 --> 00:30:49,200
+about winning a war. What they care
+
+672
+00:30:47,840 --> 00:30:52,399
+about is spending as much money as
+
+673
+00:30:49,200 --> 00:30:54,080
+possible because then they get a cut. It
+
+674
+00:30:52,399 --> 00:30:56,240
+doesn't make sense, right? And that's
+
+675
+00:30:54,080 --> 00:30:59,520
+why the Americans are in situation as
+
+676
+00:30:56,240 --> 00:31:02,480
+they are. All right, let's continue.
+
+677
+00:30:59,520 --> 00:31:04,640
+All right, so um something that people
+
+678
+00:31:02,480 --> 00:31:08,080
+don't really talk about, but you need to
+
+679
+00:31:04,640 --> 00:31:10,240
+understand it's the water issue in the
+
+680
+00:31:08,080 --> 00:31:13,600
+GCC in the Middle East in Iraq. All
+
+681
+00:31:10,240 --> 00:31:16,720
+right. So, um
+
+682
+00:31:13,600 --> 00:31:20,240
+this is a map of the world and if you
+
+683
+00:31:16,720 --> 00:31:21,360
+are like blue, Brazil, Canada, you have
+
+684
+00:31:20,240 --> 00:31:23,760
+nothing to worry about because you have
+
+685
+00:31:21,360 --> 00:31:25,840
+a lot of water, a lot of fresh water,
+
+686
+00:31:23,760 --> 00:31:31,679
+very little population.
+
+687
+00:31:25,840 --> 00:31:34,720
+All right? So, um 100%
+
+688
+00:31:31,679 --> 00:31:38,159
+just means 100% water stress just means
+
+689
+00:31:34,720 --> 00:31:40,399
+that you drink as much water as the
+
+690
+00:31:38,159 --> 00:31:43,679
+environment produces.
+
+691
+00:31:40,399 --> 00:31:45,679
+Okay. So, you want to be below 100%. To
+
+692
+00:31:43,679 --> 00:31:48,399
+be sustainable. Ideally, you you you
+
+693
+00:31:45,679 --> 00:31:51,360
+want to be at 10%. Okay.
+
+694
+00:31:48,399 --> 00:31:53,120
+If it goes above 100%, it means that you
+
+695
+00:31:51,360 --> 00:31:54,480
+are drinking more water, using more
+
+696
+00:31:53,120 --> 00:31:56,640
+water than the environment actually
+
+697
+00:31:54,480 --> 00:31:59,919
+produces. Okay? So, you're putting
+
+698
+00:31:56,640 --> 00:32:02,320
+stress on the environment.
+
+699
+00:31:59,919 --> 00:32:04,159
+So, 200%
+
+700
+00:32:02,320 --> 00:32:07,039
+is really bad, right? Because you're
+
+701
+00:32:04,159 --> 00:32:09,200
+you're using twice as much water as
+
+702
+00:32:07,039 --> 00:32:11,120
+environment produces.
+
+703
+00:32:09,200 --> 00:32:14,559
+Guess what, guys? Look at the Middle
+
+704
+00:32:11,120 --> 00:32:17,559
+East. Okay, Egypt,
+
+705
+00:32:14,559 --> 00:32:17,559
+6,420%.
+
+706
+00:32:18,320 --> 00:32:23,960
+Saudi Arabia,
+
+707
+00:32:20,960 --> 00:32:23,960
+883%.
+
+708
+00:32:26,159 --> 00:32:34,519
+All right. Ban almost 4,000%.
+
+709
+00:32:30,240 --> 00:32:34,519
+Dubai 17,000%.
+
+710
+00:32:35,519 --> 00:32:38,600
+All right,
+
+711
+00:32:38,799 --> 00:32:45,600
+these. So water is a huge issue. Again,
+
+712
+00:32:42,799 --> 00:32:47,600
+it doesn't matter if Iran
+
+713
+00:32:45,600 --> 00:32:48,880
+kills American soldiers, destroys
+
+714
+00:32:47,600 --> 00:32:50,880
+American military. It doesn't have to do
+
+715
+00:32:48,880 --> 00:32:53,600
+that. All it has to do is destroy the
+
+716
+00:32:50,880 --> 00:32:55,919
+dissalination plants and then the GCC is
+
+717
+00:32:53,600 --> 00:32:59,279
+destroyed. Okay.
+
+718
+00:32:55,919 --> 00:33:04,159
+But it's also true that Iran
+
+719
+00:32:59,279 --> 00:33:08,000
+has water issues. 72% is pretty bad.
+
+720
+00:33:04,159 --> 00:33:11,519
+Okay. So even though the Iranians could
+
+721
+00:33:08,000 --> 00:33:14,480
+destroy the GCC much faster
+
+722
+00:33:11,519 --> 00:33:16,720
+than the Americans could destroy Iran,
+
+723
+00:33:14,480 --> 00:33:20,320
+Iran is still in trouble. Okay. So so so
+
+724
+00:33:16,720 --> 00:33:22,480
+let let me give you an example of this.
+
+725
+00:33:20,320 --> 00:33:26,000
+This is like so sorry. So this is
+
+726
+00:33:22,480 --> 00:33:27,679
+another map that shows you uh the issue
+
+727
+00:33:26,000 --> 00:33:29,760
+of water scarcity. Okay. And it's just
+
+728
+00:33:27,679 --> 00:33:33,600
+basically the Middle East. Okay. Their
+
+729
+00:33:29,760 --> 00:33:35,760
+biggest issue in the future is water.
+
+730
+00:33:33,600 --> 00:33:37,760
+Okay. And that's where the geopolitical
+
+731
+00:33:35,760 --> 00:33:40,399
+tensions will rise in the future over
+
+732
+00:33:37,760 --> 00:33:43,519
+water. India is also affected as well.
+
+733
+00:33:40,399 --> 00:33:46,320
+Okay. All right.
+
+734
+00:33:43,519 --> 00:33:48,720
+All right. So, let's look at the map,
+
+735
+00:33:46,320 --> 00:33:51,440
+guys. This is called Lake Heria in
+
+736
+00:33:48,720 --> 00:33:54,080
+northern Iran. It's the sixth largest
+
+737
+00:33:51,440 --> 00:33:56,799
+saltwater lake in the world or it used
+
+738
+00:33:54,080 --> 00:34:00,080
+to be. Okay. This is what it was in
+
+739
+00:33:56,799 --> 00:34:02,399
+1984. Th This is a shallow. This is a
+
+740
+00:34:00,080 --> 00:34:06,559
+deep. Okay? You guys see that? It's
+
+741
+00:34:02,399 --> 00:34:09,359
+really big, right? 20 years later, guys.
+
+742
+00:34:06,559 --> 00:34:11,839
+This is what it looks like.
+
+743
+00:34:09,359 --> 00:34:13,440
+There's no more water here. You can walk
+
+744
+00:34:11,839 --> 00:34:15,119
+from here over to there. Okay, there's
+
+745
+00:34:13,440 --> 00:34:18,399
+some water over here, but it's shallow
+
+746
+00:34:15,119 --> 00:34:21,679
+now. That's how serious the water issue
+
+747
+00:34:18,399 --> 00:34:23,520
+is in Iran. And that's the weak point
+
+748
+00:34:21,679 --> 00:34:26,399
+that the Americans and the Israelis will
+
+749
+00:34:23,520 --> 00:34:28,800
+attack. All right. They want to make
+
+750
+00:34:26,399 --> 00:34:32,240
+sure that Iran has no access to fresh
+
+751
+00:34:28,800 --> 00:34:34,000
+water which will cause devastation in
+
+752
+00:34:32,240 --> 00:34:37,919
+their nation. Okay, that's strategy
+
+753
+00:34:34,000 --> 00:34:40,879
+number one. Strategy number two is this.
+
+754
+00:34:37,919 --> 00:34:43,919
+This is a map of
+
+755
+00:34:40,879 --> 00:34:48,240
+the different ethnic minorities
+
+756
+00:34:43,919 --> 00:34:51,520
+in Iran. As you can see, it's a very
+
+757
+00:34:48,240 --> 00:34:54,720
+diverse place. In the center are the
+
+758
+00:34:51,520 --> 00:34:57,520
+Persians, but you also have
+
+759
+00:34:54,720 --> 00:34:59,520
+10 other groups as well. And in the
+
+760
+00:34:57,520 --> 00:35:01,520
+borderlands, it's basically a different
+
+761
+00:34:59,520 --> 00:35:04,000
+country, right? Like these are basically
+
+762
+00:35:01,520 --> 00:35:07,520
+different countries.
+
+763
+00:35:04,000 --> 00:35:09,359
+And so these places have more common
+
+764
+00:35:07,520 --> 00:35:12,640
+common areas with their neighbors than
+
+765
+00:35:09,359 --> 00:35:14,400
+they do with Iran. Okay. So the second
+
+766
+00:35:12,640 --> 00:35:17,040
+weakness of Iran, the first is the
+
+767
+00:35:14,400 --> 00:35:19,359
+water. The second is the ethnic makeup
+
+768
+00:35:17,040 --> 00:35:20,960
+of the country. So the strategy of the
+
+769
+00:35:19,359 --> 00:35:25,599
+Americans and the Israelis moving
+
+770
+00:35:20,960 --> 00:35:27,680
+forward is destroy Iran as a coherent
+
+771
+00:35:25,599 --> 00:35:30,640
+nation state divided into ethnic
+
+772
+00:35:27,680 --> 00:35:33,280
+archives and have them fight over water.
+
+773
+00:35:30,640 --> 00:35:36,079
+That is the grand plan of the Israelis
+
+774
+00:35:33,280 --> 00:35:38,320
+and the Americans. Okay.
+
+775
+00:35:36,079 --> 00:35:41,680
+All right. This is this is this is the
+
+776
+00:35:38,320 --> 00:35:44,560
+vision where Persia is limited and then
+
+777
+00:35:41,680 --> 00:35:46,640
+all these other places are sponsored by
+
+778
+00:35:44,560 --> 00:35:48,480
+the Americans and the Israelis. They're
+
+779
+00:35:46,640 --> 00:35:50,160
+given money. They're given weapons.
+
+780
+00:35:48,480 --> 00:35:54,640
+They're given political support. And
+
+781
+00:35:50,160 --> 00:35:57,119
+then this war will wage over water
+
+782
+00:35:54,640 --> 00:35:59,280
+forever. Okay? And this is how you
+
+783
+00:35:57,119 --> 00:36:01,839
+destroy Iran and make sure Iran is no
+
+784
+00:35:59,280 --> 00:36:05,920
+longer a viable threat to you. That is
+
+785
+00:36:01,839 --> 00:36:08,880
+the plan of the Americans. Okay? As as
+
+786
+00:36:05,920 --> 00:36:11,280
+you can see, it's pretty evil plan. And
+
+787
+00:36:08,880 --> 00:36:13,200
+that's why they have not announced it,
+
+788
+00:36:11,280 --> 00:36:14,720
+right? Because if you announce it,
+
+789
+00:36:13,200 --> 00:36:16,800
+you're like, why are you doing this?
+
+790
+00:36:14,720 --> 00:36:18,960
+What the Persians, what did the ever do
+
+791
+00:36:16,800 --> 00:36:20,960
+to you to warrant you coming destroying
+
+792
+00:36:18,960 --> 00:36:24,000
+their civilization? And the answer is
+
+793
+00:36:20,960 --> 00:36:25,599
+nothing. Right? So the Americans will
+
+794
+00:36:24,000 --> 00:36:28,800
+never admit they're doing this. But if
+
+795
+00:36:25,599 --> 00:36:30,480
+you look at the map of war supply of
+
+796
+00:36:28,800 --> 00:36:32,720
+ethnic
+
+797
+00:36:30,480 --> 00:36:34,480
+um tensions, this is the optimal game
+
+798
+00:36:32,720 --> 00:36:36,000
+game theory strategy for them to use
+
+799
+00:36:34,480 --> 00:36:38,160
+against Iran. Okay, does that make
+
+800
+00:36:36,000 --> 00:36:40,480
+sense? This is a long-term plan that
+
+801
+00:36:38,160 --> 00:36:43,839
+they have in place and it's all moving
+
+802
+00:36:40,480 --> 00:36:46,560
+towards this plan. But now the question
+
+803
+00:36:43,839 --> 00:36:51,440
+then is how can the Iranians respond to
+
+804
+00:36:46,560 --> 00:36:59,200
+this? And the answer is this. This is a
+
+805
+00:36:51,440 --> 00:37:03,200
+map of the Muslim world. Okay. So the
+
+806
+00:36:59,200 --> 00:37:06,000
+um light green are the Sunni people.
+
+807
+00:37:03,200 --> 00:37:07,839
+Okay. That's 90% of the entire Muslim
+
+808
+00:37:06,000 --> 00:37:11,040
+population about two two billion people.
+
+809
+00:37:07,839 --> 00:37:12,880
+Okay. Then you have in dark green the
+
+810
+00:37:11,040 --> 00:37:17,200
+Shia.
+
+811
+00:37:12,880 --> 00:37:20,160
+So as you can see the main place of the
+
+812
+00:37:17,200 --> 00:37:22,960
+Shia is Iran. Okay, Iran is one of the
+
+813
+00:37:20,160 --> 00:37:25,760
+few Shia nations in the world. But you
+
+814
+00:37:22,960 --> 00:37:30,480
+can also see from this map that Shia are
+
+815
+00:37:25,760 --> 00:37:33,680
+spread throughout the world. Okay. And
+
+816
+00:37:30,480 --> 00:37:36,720
+so the first thing that the Iranians
+
+817
+00:37:33,680 --> 00:37:40,000
+want to do is create a jihad to unite
+
+818
+00:37:36,720 --> 00:37:41,520
+all the Shia against American Empire.
+
+819
+00:37:40,000 --> 00:37:45,000
+All right. So what they want to do is
+
+820
+00:37:41,520 --> 00:37:45,000
+create a uprising
+
+821
+00:37:46,560 --> 00:37:52,560
+and it's already happening guys. Um the
+
+822
+00:37:50,560 --> 00:37:55,920
+Shia in Pakistan stormed the American
+
+823
+00:37:52,560 --> 00:37:59,440
+embassy in Pakistan and the Americans
+
+824
+00:37:55,920 --> 00:38:02,400
+killed a lot of people. Okay. the Shia
+
+825
+00:37:59,440 --> 00:38:04,640
+have have attacked the American embassy
+
+826
+00:38:02,400 --> 00:38:07,040
+in uh Iraq.
+
+827
+00:38:04,640 --> 00:38:09,119
+The American embassy
+
+828
+00:38:07,040 --> 00:38:12,480
+uh are being attacked in a lot of
+
+829
+00:38:09,119 --> 00:38:16,800
+places. Right? So the first strategy is
+
+830
+00:38:12,480 --> 00:38:19,440
+to create a international global jihad
+
+831
+00:38:16,800 --> 00:38:20,960
+of the Shia against the American empire
+
+832
+00:38:19,440 --> 00:38:24,000
+and it's already happening. it will
+
+833
+00:38:20,960 --> 00:38:27,920
+continue for a long long term long time
+
+834
+00:38:24,000 --> 00:38:32,640
+because the Americans have killed the um
+
+835
+00:38:27,920 --> 00:38:35,760
+Kame okay and that requires vengeance.
+
+836
+00:38:32,640 --> 00:38:39,040
+The other thing though is that
+
+837
+00:38:35,760 --> 00:38:41,440
+it can unify
+
+838
+00:38:39,040 --> 00:38:44,560
+the Muslim world. Okay, if you look at
+
+839
+00:38:41,440 --> 00:38:48,079
+this map, most of the Muslim world is
+
+840
+00:38:44,560 --> 00:38:50,560
+actually run by dictatorships that are
+
+841
+00:38:48,079 --> 00:38:52,480
+not popular at all. Okay. And they're
+
+842
+00:38:50,560 --> 00:38:56,240
+allowed to exist because they're like an
+
+843
+00:38:52,480 --> 00:38:59,280
+empire, right? You go to Saudi Arabia,
+
+844
+00:38:56,240 --> 00:39:00,880
+Egypt, uh Algeria,
+
+845
+00:38:59,280 --> 00:39:04,000
+uh
+
+846
+00:39:00,880 --> 00:39:07,040
+these places, they're all run by clients
+
+847
+00:39:04,000 --> 00:39:09,760
+of American Empire, right? So if you
+
+848
+00:39:07,040 --> 00:39:12,960
+rally the people who hate their
+
+849
+00:39:09,760 --> 00:39:15,920
+governments and you overthrow them, then
+
+850
+00:39:12,960 --> 00:39:19,359
+that makes Iran
+
+851
+00:39:15,920 --> 00:39:21,680
+the leader of the the Islamic world. Not
+
+852
+00:39:19,359 --> 00:39:24,240
+just the Shia world, but the Islamic
+
+853
+00:39:21,680 --> 00:39:27,240
+world. This creates something called tax
+
+854
+00:39:24,240 --> 00:39:27,240
+Islam.
+
+855
+00:39:27,280 --> 00:39:34,079
+That is the end goal, guys. Okay? If you
+
+856
+00:39:31,200 --> 00:39:36,000
+do that, then you don't have to worry
+
+857
+00:39:34,079 --> 00:39:38,800
+about the Americans and the Israelis
+
+858
+00:39:36,000 --> 00:39:40,640
+anymore. Right? So the Israeli game
+
+859
+00:39:38,800 --> 00:39:43,839
+plan, the American game plan is to
+
+860
+00:39:40,640 --> 00:39:45,280
+fracture Iran into ethnic enclaves and
+
+861
+00:39:43,839 --> 00:39:47,920
+they'll fight over water for the rest of
+
+862
+00:39:45,280 --> 00:39:50,320
+their lives and they all die. The
+
+863
+00:39:47,920 --> 00:39:53,359
+Iranian game plan is to create a
+
+864
+00:39:50,320 --> 00:39:56,320
+religious war, a crusade that unifies
+
+865
+00:39:53,359 --> 00:39:57,839
+the Shia people that overthrows the
+
+866
+00:39:56,320 --> 00:40:00,400
+American Empire and establish something
+
+867
+00:39:57,839 --> 00:40:02,480
+called the Pax Islamaka.
+
+868
+00:40:00,400 --> 00:40:04,720
+All right.
+
+869
+00:40:02,480 --> 00:40:07,680
+All right.
+
+870
+00:40:04,720 --> 00:40:12,359
+So again,
+
+871
+00:40:07,680 --> 00:40:12,359
+the key is the GCC.
+
+872
+00:40:12,480 --> 00:40:17,839
+All right. So the game plan is this. You
+
+873
+00:40:15,280 --> 00:40:21,920
+have to destroy the GCC. Why? Because
+
+874
+00:40:17,839 --> 00:40:23,599
+the GCC is the lynch pin of the American
+
+875
+00:40:21,920 --> 00:40:28,800
+Empire.
+
+876
+00:40:23,599 --> 00:40:32,720
+So what the GC does is it sells oil.
+
+877
+00:40:28,800 --> 00:40:34,800
+sells oil and then for US dollars.
+
+878
+00:40:32,720 --> 00:40:37,520
+Where does it put US dollars? It puts US
+
+879
+00:40:34,800 --> 00:40:39,200
+dollars into the American stock market.
+
+880
+00:40:37,520 --> 00:40:42,079
+All right. So this this is investments
+
+881
+00:40:39,200 --> 00:40:44,880
+of the UAE, okay? Saudi Arabia and
+
+882
+00:40:42,079 --> 00:40:48,079
+Kuwait into
+
+883
+00:40:44,880 --> 00:40:51,640
+the US financial markets. As you can see
+
+884
+00:40:48,079 --> 00:40:51,640
+from 2012
+
+885
+00:40:51,680 --> 00:40:57,680
+up to today, it's been exploding.
+
+886
+00:40:56,079 --> 00:40:59,119
+All right? Because the US financial
+
+887
+00:40:57,680 --> 00:41:01,520
+markets is one of the safest places
+
+888
+00:40:59,119 --> 00:41:03,359
+where you can put your money. The
+
+889
+00:41:01,520 --> 00:41:06,880
+intention is this. The intention is,
+
+890
+00:41:03,359 --> 00:41:08,960
+hey, if I cut off oil
+
+891
+00:41:06,880 --> 00:41:11,520
+and these countries no longer have
+
+892
+00:41:08,960 --> 00:41:13,040
+access to US dollars, they're forced to
+
+893
+00:41:11,520 --> 00:41:15,359
+spend whatever resources they have on
+
+894
+00:41:13,040 --> 00:41:17,440
+protecting themselves. Okay? And then
+
+895
+00:41:15,359 --> 00:41:20,240
+guess what happens? The stock market
+
+896
+00:41:17,440 --> 00:41:22,400
+collapses. The summer collapses. The
+
+897
+00:41:20,240 --> 00:41:26,240
+stock market is the real growth engine
+
+898
+00:41:22,400 --> 00:41:29,680
+of the US economy. the entire US economy
+
+899
+00:41:26,240 --> 00:41:33,280
+collapses with it. All right, there are
+
+900
+00:41:29,680 --> 00:41:34,720
+about maybe seven companies in uh
+
+901
+00:41:33,280 --> 00:41:37,280
+America that accounts for about a
+
+902
+00:41:34,720 --> 00:41:39,440
+quarter of stock market growth. Okay,
+
+903
+00:41:37,280 --> 00:41:41,520
+these seven countries, these seven uh
+
+904
+00:41:39,440 --> 00:41:44,400
+companies of course are are AI
+
+905
+00:41:41,520 --> 00:41:46,400
+companies. Nvidia,
+
+906
+00:41:44,400 --> 00:41:50,400
+um
+
+907
+00:41:46,400 --> 00:41:52,240
+um Microsoft, Google, Apple. Okay, these
+
+908
+00:41:50,400 --> 00:41:53,839
+are the companies when and then these
+
+909
+00:41:52,240 --> 00:41:56,640
+companies are heavily invested in by the
+
+910
+00:41:53,839 --> 00:41:58,880
+GCC nations. So if these nations are
+
+911
+00:41:56,640 --> 00:42:02,079
+long long no longer able to invest in
+
+912
+00:41:58,880 --> 00:42:04,960
+the stock market, these companies will
+
+913
+00:42:02,079 --> 00:42:07,760
+collapse in value and with that that
+
+914
+00:42:04,960 --> 00:42:09,599
+would lead to economic depression in
+
+915
+00:42:07,760 --> 00:42:11,920
+America.
+
+916
+00:42:09,599 --> 00:42:14,079
+It doesn't make sense. All right, so
+
+917
+00:42:11,920 --> 00:42:16,560
+that is the situation for today. Today
+
+918
+00:42:14,079 --> 00:42:18,640
+was just an overview, guys. Okay, I know
+
+919
+00:42:16,560 --> 00:42:21,119
+we covered a lot. I know there's a lot
+
+920
+00:42:18,640 --> 00:42:24,640
+to take in, but over the next few weeks,
+
+921
+00:42:21,119 --> 00:42:27,280
+we will explore each issue
+
+922
+00:42:24,640 --> 00:42:29,920
+um in depth and really understand what's
+
+923
+00:42:27,280 --> 00:42:33,560
+really going on. Okay? All right. So,
+
+924
+00:42:29,920 --> 00:42:33,560
+any questions, guys?
+
+925
+00:42:34,160 --> 00:42:38,839
+Any questions about what we've just
+
+926
+00:42:35,839 --> 00:42:38,839
+learned?
+
+927
+00:42:40,000 --> 00:42:43,000
+Okay.
+
+928
+00:42:43,760 --> 00:42:50,560
+Um if other countries such as Italy,
+
+929
+00:42:46,560 --> 00:42:53,839
+France, China or Russia they have
+
+930
+00:42:50,560 --> 00:42:56,400
+also joined this war like what's the
+
+931
+00:42:53,839 --> 00:43:00,319
+cause of they join the war because of
+
+932
+00:42:56,400 --> 00:43:02,480
+oil or those resources.
+
+933
+00:43:00,319 --> 00:43:04,640
+Okay,
+
+934
+00:43:02,480 --> 00:43:06,160
+that's a great question. Okay, so I
+
+935
+00:43:04,640 --> 00:43:08,560
+don't want to spend too much time on
+
+936
+00:43:06,160 --> 00:43:10,960
+this question because we will explore
+
+937
+00:43:08,560 --> 00:43:13,520
+this question as we move along. Okay. So
+
+938
+00:43:10,960 --> 00:43:17,920
+the question is what brings the world
+
+939
+00:43:13,520 --> 00:43:19,440
+into this conflict and the easy answer
+
+940
+00:43:17,920 --> 00:43:21,920
+is
+
+941
+00:43:19,440 --> 00:43:23,040
+um just oil access energy access okay
+
+942
+00:43:21,920 --> 00:43:26,560
+they need to protect their energy
+
+943
+00:43:23,040 --> 00:43:28,079
+supplies because remember uh it's a very
+
+944
+00:43:26,560 --> 00:43:30,319
+complicated situation because Europe is
+
+945
+00:43:28,079 --> 00:43:32,240
+now fighting Russia. So so Europe is not
+
+946
+00:43:30,319 --> 00:43:33,599
+buying any oil resources energy
+
+947
+00:43:32,240 --> 00:43:35,920
+resources from Russia. Therefore it
+
+948
+00:43:33,599 --> 00:43:38,560
+depends a lot on the on the GCC. So the
+
+949
+00:43:35,920 --> 00:43:40,560
+GC is not providing them energy then the
+
+950
+00:43:38,560 --> 00:43:42,560
+Europe will go bankrupt. Okay. So Europe
+
+951
+00:43:40,560 --> 00:43:44,560
+needs to enter this war on behalf of
+
+952
+00:43:42,560 --> 00:43:47,200
+Americans.
+
+953
+00:43:44,560 --> 00:43:50,720
+Okay. And then you Russia which cannot
+
+954
+00:43:47,200 --> 00:43:53,599
+allow Iran to fall because if Iran falls
+
+955
+00:43:50,720 --> 00:43:56,319
+then they'll come after Russia next.
+
+956
+00:43:53,599 --> 00:43:59,200
+Right? China is actually neutral.
+
+957
+00:43:56,319 --> 00:44:00,319
+China's okay with either scenario. But
+
+958
+00:43:59,200 --> 00:44:01,680
+that's just the way that the Chinese
+
+959
+00:44:00,319 --> 00:44:03,359
+system is set up. Okay. So we're going
+
+960
+00:44:01,680 --> 00:44:05,200
+to explore this question as we move
+
+961
+00:44:03,359 --> 00:44:08,960
+along. But it's a very complicated
+
+962
+00:44:05,200 --> 00:44:11,680
+issue. All right. Okay. And each nation
+
+963
+00:44:08,960 --> 00:44:14,240
+will have its own different strategic
+
+964
+00:44:11,680 --> 00:44:16,400
+interests to consider.
+
+965
+00:44:14,240 --> 00:44:18,880
+Right. And what we need to know what
+
+966
+00:44:16,400 --> 00:44:21,280
+what we need to figure out is that this
+
+967
+00:44:18,880 --> 00:44:23,760
+war in the Middle East is actually
+
+968
+00:44:21,280 --> 00:44:24,880
+connected to to the Ukraine war. And as
+
+969
+00:44:23,760 --> 00:44:29,119
+we move along, I'll show you how these
+
+970
+00:44:24,880 --> 00:44:32,480
+two two things connect together. Okay.
+
+971
+00:44:29,119 --> 00:44:35,280
+Any other questions, guys?
+
+972
+00:44:32,480 --> 00:44:39,760
+Okay, great. So um we'll continue this
+
+973
+00:44:35,280 --> 00:44:39,760
+discussion on Thursday.
+

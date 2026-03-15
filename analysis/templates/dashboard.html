@@ -1,0 +1,94 @@
+{% extends "base.html" %}
+{% block title %}Dashboard — Predictive History Audit{% endblock %}
+
+{% block content %}
+<section class="page-hero">
+  <div class="container">
+    <h1 class="fade-up">Predictive History Audit</h1>
+    <p class="lead fade-up">Systematic, AI-assisted content analysis of {{ lectures|length }} lectures from the <em>Predictive History</em> YouTube channel. Each lecture is evaluated across seven qualitative axes measuring accuracy, rigor, framing, and bias.</p>
+  </div>
+</section>
+
+<div class="container">
+
+  <div class="stats-bar fade-up">
+    <div class="stat-cell">
+      <div class="stat-value mono">{{ lectures|length }}</div>
+      <div class="stat-label">Lectures Analyzed</div>
+    </div>
+    <div class="stat-cell">
+      <div class="stat-value mono">{{ series_count }}</div>
+      <div class="stat-label">Series</div>
+    </div>
+    <div class="stat-cell">
+      <div class="stat-value mono">{{ "%.1f"|format(avg_overall) }}</div>
+      <div class="stat-label">Mean Score (of 5)</div>
+    </div>
+    <div class="stat-cell">
+      <div class="stat-value mono">{{ total_predictions }}</div>
+      <div class="stat-label">Predictions Tracked</div>
+    </div>
+    <div class="stat-cell">
+      <div class="stat-value mono">{{ total_sources }}</div>
+      <div class="stat-label">Sources Cited</div>
+    </div>
+    <div class="stat-cell">
+      <div class="stat-value mono">{{ total_rhetoric }}</div>
+      <div class="stat-label">Rhetoric Instances</div>
+    </div>
+  </div>
+
+  <div class="filter-bar">
+    <button class="filter-tab active" data-series="all">All Series</button>
+    {% for s in all_series %}
+    <button class="filter-tab" data-series="{{ s }}">{{ s }}</button>
+    {% endfor %}
+  </div>
+
+  <div class="data-table-wrap">
+    <table class="data-table">
+      <thead>
+        <tr>
+          <th data-sort="posted" data-sort-type="string" class="sort-desc">Posted</th>
+          <th data-sort="series" data-sort-type="string">Series</th>
+          <th data-sort="episode">Ep</th>
+          <th data-sort="title" data-sort-type="string">Title</th>
+          <th data-sort="views" data-tip="YouTube view count">Views</th>
+          <th class="col-score tip-wide" data-sort="acc" data-tip="Historical Accuracy — {{ score_tips.historical_accuracy }}">Acc</th>
+          <th class="col-score tip-wide" data-sort="rig" data-tip="Argumentative Rigor — {{ score_tips.argumentative_rigor }}">Rig</th>
+          <th class="col-score tip-wide" data-sort="fra" data-tip="Framing &amp; Selectivity — {{ score_tips.framing_and_selectivity }}">Fra</th>
+          <th class="col-score tip-wide" data-sort="div" data-tip="Perspective Diversity — {{ score_tips.perspective_diversity }}">Div</th>
+          <th class="col-score tip-wide" data-sort="nor" data-tip="Normative Loading — {{ score_tips.normative_loading }}">Nor</th>
+          <th class="col-score tip-wide" data-sort="det" data-tip="Determinism vs. Contingency — {{ score_tips.determinism_vs_contingency }}">Det</th>
+          <th class="col-score tip-wide" data-sort="civ" data-tip="Civilizational Framing — {{ score_tips.civilizational_framing }}">Civ</th>
+          <th class="col-score tip-wide" data-sort="avg" data-tip="Overall Average — Average across all 7 axes">Avg</th>
+        </tr>
+      </thead>
+      <tbody>
+        {% for l in lectures %}
+        <tr data-series="{{ l.meta.series }}">
+          <td data-value="posted" data-raw="{{ l.meta.upload_date|default('') }}" class="mono muted" style="font-size:0.72rem; white-space:nowrap;">{{ l.meta.upload_date|default('—') }}</td>
+          <td data-value="series">
+            <span class="lecture-series">{{ l.meta.series }}</span>
+          </td>
+          <td data-value="episode" data-raw="{{ l.sort_episode }}" class="mono muted" style="font-size:0.75rem">{{ l.meta.episode if l.meta.episode else '—' }}</td>
+          <td data-value="title">
+            <a href="lectures/{{ l.slug }}.html" class="lecture-title">{{ l.display_title }}</a>
+          </td>
+          <td data-value="views" data-raw="{{ l.meta.view_count|default(0) }}" class="mono muted" style="font-size:0.72rem; text-align:right; white-space:nowrap;">{{ l.meta.view_count|default(0)|commafy }}</td>
+          {% for key in score_keys %}
+          <td data-value="{{ score_short[loop.index0] }}" data-raw="{{ l.scores[key].score }}" style="text-align:center">
+            <span class="score-cell score-{{ l.scores[key].score }}">{{ l.scores[key].score }}</span>
+          </td>
+          {% endfor %}
+          <td data-value="avg" data-raw="{{ '%.2f'|format(l.avg) }}" style="text-align:center">
+            <span class="score-cell avg-cell score-{{ l.avg|round|int }}">{{ "%.1f"|format(l.avg) }}</span>
+          </td>
+        </tr>
+        {% endfor %}
+      </tbody>
+    </table>
+  </div>
+
+</div>
+{% endblock %}

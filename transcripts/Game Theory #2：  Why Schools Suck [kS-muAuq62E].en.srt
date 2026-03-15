@@ -1,0 +1,4607 @@
+1
+00:00:00,480 --> 00:00:07,120
+Okay, so welcome back to game theory and
+
+2
+00:00:03,840 --> 00:00:09,360
+um as I discussed last class, our goal
+
+3
+00:00:07,120 --> 00:00:12,639
+is able to is to use game theory to
+
+4
+00:00:09,360 --> 00:00:14,480
+analyze global events to understand why
+
+5
+00:00:12,639 --> 00:00:15,839
+they're happening as well as make
+
+6
+00:00:14,480 --> 00:00:18,400
+certain predictions about how they
+
+7
+00:00:15,839 --> 00:00:21,439
+should develop. But to do that, I first
+
+8
+00:00:18,400 --> 00:00:23,920
+need to train your mind and how to and
+
+9
+00:00:21,439 --> 00:00:26,160
+how to see the world using game theory.
+
+10
+00:00:23,920 --> 00:00:28,960
+So last class in our first class we
+
+11
+00:00:26,160 --> 00:00:32,719
+discussed example of the dating game of
+
+12
+00:00:28,960 --> 00:00:36,079
+why men and women are motivated to
+
+13
+00:00:32,719 --> 00:00:39,120
+behave the the way they do when they
+
+14
+00:00:36,079 --> 00:00:41,680
+look for a mate. Today I want I want to
+
+15
+00:00:39,120 --> 00:00:44,680
+discuss the issue of school. Okay,
+
+16
+00:00:41,680 --> 00:00:44,680
+school.
+
+17
+00:00:45,280 --> 00:00:49,280
+So uh for the first few classes I'm
+
+18
+00:00:47,039 --> 00:00:52,000
+going to use examples from your life
+
+19
+00:00:49,280 --> 00:00:54,079
+that you know pretty well in order to
+
+20
+00:00:52,000 --> 00:00:56,079
+develop the mindset for the game theory.
+
+21
+00:00:54,079 --> 00:00:58,559
+So uh school is something that you
+
+22
+00:00:56,079 --> 00:01:02,800
+should know very very well. As you know
+
+23
+00:00:58,559 --> 00:01:05,040
+the purpose of school is to train you in
+
+24
+00:01:02,800 --> 00:01:08,880
+a way that allows you to be functional
+
+25
+00:01:05,040 --> 00:01:11,280
+in society as well as to be creative.
+
+26
+00:01:08,880 --> 00:01:13,840
+Right? Okay. So the goals are basically
+
+27
+00:01:11,280 --> 00:01:15,119
+literacy.
+
+28
+00:01:13,840 --> 00:01:17,119
+All right. which means reading and
+
+29
+00:01:15,119 --> 00:01:20,880
+writing.
+
+30
+00:01:17,119 --> 00:01:22,479
+This is the primary purpose of school
+
+31
+00:01:20,880 --> 00:01:25,840
+because in order to function in our
+
+32
+00:01:22,479 --> 00:01:29,040
+society, you need to be able to absorb
+
+33
+00:01:25,840 --> 00:01:32,079
+information and convey information.
+
+34
+00:01:29,040 --> 00:01:34,159
+Okay. Number two
+
+35
+00:01:32,079 --> 00:01:36,720
+is basically
+
+36
+00:01:34,159 --> 00:01:39,720
+uh what we call the core competent core
+
+37
+00:01:36,720 --> 00:01:39,720
+competencies.
+
+38
+00:01:40,000 --> 00:01:43,439
+Okay, these are skills that you need to
+
+39
+00:01:41,439 --> 00:01:47,360
+be successful in life including the
+
+40
+00:01:43,439 --> 00:01:49,680
+ability ability to think critically to
+
+41
+00:01:47,360 --> 00:01:51,759
+cooperate with others
+
+42
+00:01:49,680 --> 00:01:55,040
+to coll to collaborate to communicate.
+
+43
+00:01:51,759 --> 00:01:57,759
+Okay, you you you all know this. The
+
+44
+00:01:55,040 --> 00:02:00,640
+last thing is what we call
+
+45
+00:01:57,759 --> 00:02:03,280
+lifelong learning.
+
+46
+00:02:00,640 --> 00:02:06,560
+So in an age of AI,
+
+47
+00:02:03,280 --> 00:02:08,239
+in age of globalization,
+
+48
+00:02:06,560 --> 00:02:10,720
+school
+
+49
+00:02:08,239 --> 00:02:13,040
+is just a start of the learning process
+
+50
+00:02:10,720 --> 00:02:15,520
+because every 5 years the world changes.
+
+51
+00:02:13,040 --> 00:02:19,599
+So you need to be in a constant process,
+
+52
+00:02:15,520 --> 00:02:22,000
+a constant state of learning. Okay? So
+
+53
+00:02:19,599 --> 00:02:24,160
+you have to like actually love learning
+
+54
+00:02:22,000 --> 00:02:26,560
+and you have to like know how to learn
+
+55
+00:02:24,160 --> 00:02:30,319
+for yourself. So these these are the
+
+56
+00:02:26,560 --> 00:02:32,800
+three basic purposes of school. and
+
+57
+00:02:30,319 --> 00:02:35,920
+that's why you're at the school.
+
+58
+00:02:32,800 --> 00:02:37,599
+Unfortunately, what we know is that most
+
+59
+00:02:35,920 --> 00:02:40,239
+schools, I'm not saying all schools, I'm
+
+60
+00:02:37,599 --> 00:02:43,360
+saying that most schools are pretty bad
+
+61
+00:02:40,239 --> 00:02:47,519
+at these three things. In fact, you can
+
+62
+00:02:43,360 --> 00:02:50,319
+make the argument that most schools not
+
+63
+00:02:47,519 --> 00:02:53,040
+only do not teach you these skills, but
+
+64
+00:02:50,319 --> 00:02:55,840
+they have the opposite effect. In fact,
+
+65
+00:02:53,040 --> 00:02:58,959
+they make you hate learning. Okay, so
+
+66
+00:02:55,840 --> 00:03:00,720
+let's look at literacy.
+
+67
+00:02:58,959 --> 00:03:03,519
+Today in most schools you're not
+
+68
+00:03:00,720 --> 00:03:05,920
+required to read books.
+
+69
+00:03:03,519 --> 00:03:07,840
+In fact when you go to university
+
+70
+00:03:05,920 --> 00:03:10,159
+the professors there are so shocked that
+
+71
+00:03:07,840 --> 00:03:12,959
+you don't read books that instead they
+
+72
+00:03:10,159 --> 00:03:15,920
+make you read paragraphs
+
+73
+00:03:12,959 --> 00:03:17,599
+or watch videos. Okay. So in terms of
+
+74
+00:03:15,920 --> 00:03:20,159
+literacy
+
+75
+00:03:17,599 --> 00:03:23,440
+around the world
+
+76
+00:03:20,159 --> 00:03:26,080
+people are losing the capacity to read
+
+77
+00:03:23,440 --> 00:03:27,440
+and to write.
+
+78
+00:03:26,080 --> 00:03:30,400
+And not only that, but people's
+
+79
+00:03:27,440 --> 00:03:33,760
+attention spans have decreased. It's
+
+80
+00:03:30,400 --> 00:03:35,920
+very hard for a professor to give you an
+
+81
+00:03:33,760 --> 00:03:38,720
+hour lecture.
+
+82
+00:03:35,920 --> 00:03:41,440
+People lose focus after about 5 minutes.
+
+83
+00:03:38,720 --> 00:03:43,920
+Okay? So this is one problem. Another
+
+84
+00:03:41,440 --> 00:03:45,040
+problem is
+
+85
+00:03:43,920 --> 00:03:47,040
+school is supposed to teach you
+
+86
+00:03:45,040 --> 00:03:49,280
+creativity, critical thinking skills,
+
+87
+00:03:47,040 --> 00:03:51,599
+collaboration, but it doesn't do that.
+
+88
+00:03:49,280 --> 00:03:55,040
+Look at collaboration. In school, it's a
+
+89
+00:03:51,599 --> 00:03:57,280
+competition where you believe that it's
+
+90
+00:03:55,040 --> 00:03:59,439
+a zero- sum game. So, for you to get
+
+91
+00:03:57,280 --> 00:04:02,080
+ahead, you need to screw over your
+
+92
+00:03:59,439 --> 00:04:04,239
+classmate.
+
+93
+00:04:02,080 --> 00:04:06,400
+So, class ranking is very important. So,
+
+94
+00:04:04,239 --> 00:04:08,080
+that's kind of odd.
+
+95
+00:04:06,400 --> 00:04:11,680
+Okay. And the last thing, of course, is
+
+96
+00:04:08,080 --> 00:04:15,360
+lifelong learning where school teaches
+
+97
+00:04:11,680 --> 00:04:18,160
+you to hate school and therefore teaches
+
+98
+00:04:15,360 --> 00:04:21,680
+you how to hate learning, especially in
+
+99
+00:04:18,160 --> 00:04:23,520
+China. Okay? Especially in China where
+
+100
+00:04:21,680 --> 00:04:26,240
+you work hard until the national
+
+101
+00:04:23,520 --> 00:04:28,080
+entrance examination at age 18. And then
+
+102
+00:04:26,240 --> 00:04:30,320
+after the exam examination ends, what do
+
+103
+00:04:28,080 --> 00:04:32,080
+you do? You burn your books. That's the
+
+104
+00:04:30,320 --> 00:04:33,919
+great ceremony here in China. Right
+
+105
+00:04:32,080 --> 00:04:35,440
+after the examination, you take your
+
+106
+00:04:33,919 --> 00:04:37,840
+books, you rip out the pages, and you
+
+107
+00:04:35,440 --> 00:04:39,440
+throw it in the sky to to signal your
+
+108
+00:04:37,840 --> 00:04:41,600
+liberation, your liberation. And you're
+
+109
+00:04:39,440 --> 00:04:43,520
+like, I never ever want to read a book
+
+110
+00:04:41,600 --> 00:04:45,759
+again. I never ever want to take a test
+
+111
+00:04:43,520 --> 00:04:49,600
+again. I never want to learn again.
+
+112
+00:04:45,759 --> 00:04:51,600
+Okay. So
+
+113
+00:04:49,600 --> 00:04:53,120
+around the world, most schools, not all
+
+114
+00:04:51,600 --> 00:04:56,400
+schools, there are there are some really
+
+115
+00:04:53,120 --> 00:04:58,880
+good schools out there, but most schools
+
+116
+00:04:56,400 --> 00:05:01,759
+are failing in their mission. School
+
+117
+00:04:58,880 --> 00:05:03,280
+sucks. And so the question for us today
+
+118
+00:05:01,759 --> 00:05:06,400
+is
+
+119
+00:05:03,280 --> 00:05:09,600
+why is this the case? And so we're going
+
+120
+00:05:06,400 --> 00:05:12,479
+to use game theory to analyze why this
+
+121
+00:05:09,600 --> 00:05:15,479
+is the case. All right. [snorts]
+
+122
+00:05:12,479 --> 00:05:15,479
+So
+
+123
+00:05:15,759 --> 00:05:19,680
+what I'm going to do now is I'm going to
+
+124
+00:05:17,600 --> 00:05:22,479
+tell you a story about myself. So the
+
+125
+00:05:19,680 --> 00:05:25,600
+year is 2008.
+
+126
+00:05:22,479 --> 00:05:27,440
+I went to Yale College, okay, in the
+
+127
+00:05:25,600 --> 00:05:30,160
+United States and I was English major. I
+
+128
+00:05:27,440 --> 00:05:33,520
+did very well in school. So I was hired
+
+129
+00:05:30,160 --> 00:05:36,639
+in 2008 to go to Shinjzhin in South
+
+130
+00:05:33,520 --> 00:05:40,639
+China and help the school Shin Middle
+
+131
+00:05:36,639 --> 00:05:43,039
+School build a national program to send
+
+132
+00:05:40,639 --> 00:05:44,880
+kids abroad. Okay. Right. So this 2008
+
+133
+00:05:43,039 --> 00:05:46,320
+which was a long time ago and back then
+
+134
+00:05:44,880 --> 00:05:47,759
+not not that many students wanted to go
+
+135
+00:05:46,320 --> 00:05:49,840
+abroad. There were really few
+
+136
+00:05:47,759 --> 00:05:52,000
+international schools. So the first
+
+137
+00:05:49,840 --> 00:05:54,000
+thing I did was I looked at the
+
+138
+00:05:52,000 --> 00:05:56,800
+situation at the school. Okay. And this
+
+139
+00:05:54,000 --> 00:05:58,880
+and this this this what I found.
+
+140
+00:05:56,800 --> 00:06:01,360
+Okay.
+
+141
+00:05:58,880 --> 00:06:02,800
+I found that students
+
+142
+00:06:01,360 --> 00:06:05,440
+even though they were going abroad maybe
+
+143
+00:06:02,800 --> 00:06:07,120
+about 10% of the students were planning
+
+144
+00:06:05,440 --> 00:06:10,079
+to go abroad. So so that's about 80
+
+145
+00:06:07,120 --> 00:06:12,319
+students uh each year. That's a lot.
+
+146
+00:06:10,079 --> 00:06:14,319
+[snorts] But the way they were going
+
+147
+00:06:12,319 --> 00:06:16,400
+about the process of studying abroad was
+
+148
+00:06:14,319 --> 00:06:17,759
+problematic. Okay. So first of all, all
+
+149
+00:06:16,400 --> 00:06:19,904
+they were doing was taking regular
+
+150
+00:06:17,759 --> 00:06:21,199
+Chinese classes
+
+151
+00:06:19,904 --> 00:06:22,880
+[snorts]
+
+152
+00:06:21,199 --> 00:06:25,360
+and you know in Chinese classes all you
+
+153
+00:06:22,880 --> 00:06:27,440
+do is you sit in a room of 50 kids and
+
+154
+00:06:25,360 --> 00:06:28,720
+you take notes and you take tests, you
+
+155
+00:06:27,440 --> 00:06:31,360
+don't communicate, you don't ask
+
+156
+00:06:28,720 --> 00:06:34,479
+questions, you don't debate. Okay, so
+
+157
+00:06:31,360 --> 00:06:35,759
+that's one problem. Another problem is
+
+158
+00:06:34,479 --> 00:06:40,400
+that the students were spending all
+
+159
+00:06:35,759 --> 00:06:42,479
+their time memorizing SAT word list.
+
+160
+00:06:40,400 --> 00:06:44,639
+Okay, they were not reading, they were
+
+161
+00:06:42,479 --> 00:06:48,400
+not writing,
+
+162
+00:06:44,639 --> 00:06:50,319
+they were just memorizing words.
+
+163
+00:06:48,400 --> 00:06:54,639
+And the other thing that they did to
+
+164
+00:06:50,319 --> 00:06:58,479
+make their applications look good is
+
+165
+00:06:54,639 --> 00:07:00,639
+model United Nations. Okay,
+
+166
+00:06:58,479 --> 00:07:01,919
+and that's fine. Maybe some of you are
+
+167
+00:07:00,639 --> 00:07:04,400
+modeling United Nations and that's a
+
+168
+00:07:01,919 --> 00:07:06,160
+great activity but everyone was doing
+
+169
+00:07:04,400 --> 00:07:08,400
+it. There was absolutely no
+
+170
+00:07:06,160 --> 00:07:10,639
+differentiation.
+
+171
+00:07:08,400 --> 00:07:13,120
+All right. So I looked at the situation.
+
+172
+00:07:10,639 --> 00:07:15,680
+I said no I mean you might be able to
+
+173
+00:07:13,120 --> 00:07:18,000
+get into a good American university
+
+174
+00:07:15,680 --> 00:07:21,280
+because you know these kids are very
+
+175
+00:07:18,000 --> 00:07:23,440
+smart but I wanted to them do well at
+
+176
+00:07:21,280 --> 00:07:26,639
+the university and to do well in life.
+
+177
+00:07:23,440 --> 00:07:28,880
+Okay. So I made certain changes to the
+
+178
+00:07:26,639 --> 00:07:31,520
+curriculum and to the school. Okay. So
+
+179
+00:07:28,880 --> 00:07:33,199
+first thing I did was I set up a seminar
+
+180
+00:07:31,520 --> 00:07:34,800
+system.
+
+181
+00:07:33,199 --> 00:07:37,440
+So rather than in Chinese classes, I
+
+182
+00:07:34,800 --> 00:07:39,759
+invited these American teachers to come
+
+183
+00:07:37,440 --> 00:07:42,319
+and teach seminars like we have at the
+
+184
+00:07:39,759 --> 00:07:45,039
+school where 10 20 kids are in a room
+
+185
+00:07:42,319 --> 00:07:50,479
+and they discuss books that they read
+
+186
+00:07:45,039 --> 00:07:54,639
+together. Okay. Um rather than SAT word
+
+187
+00:07:50,479 --> 00:07:56,319
+memorization, I had them read books.
+
+188
+00:07:54,639 --> 00:07:59,039
+Students were required to read a lot of
+
+189
+00:07:56,319 --> 00:08:01,919
+books. In fact, I established a 5,000
+
+190
+00:07:59,039 --> 00:08:03,360
+book English library at the school where
+
+191
+00:08:01,919 --> 00:08:06,080
+students can just go and borrow books
+
+192
+00:08:03,360 --> 00:08:09,039
+and read. I wanted to teach students the
+
+193
+00:08:06,080 --> 00:08:11,199
+joy of reading.
+
+194
+00:08:09,039 --> 00:08:12,479
+Um, and then in terms of activities, I
+
+195
+00:08:11,199 --> 00:08:13,680
+didn't want students to do M United
+
+196
+00:08:12,479 --> 00:08:15,520
+Nations anymore because I didn't want
+
+197
+00:08:13,680 --> 00:08:17,520
+kids sitting around just talking. I
+
+198
+00:08:15,520 --> 00:08:19,120
+wanted to let them do things. Okay. So,
+
+199
+00:08:17,520 --> 00:08:21,680
+I set up two new new activities. The
+
+200
+00:08:19,120 --> 00:08:24,879
+first is called the coffee house.
+
+201
+00:08:21,680 --> 00:08:27,039
+And the coffee house is is the first
+
+202
+00:08:24,879 --> 00:08:28,479
+coffee house in China in a Chinese high
+
+203
+00:08:27,039 --> 00:08:31,520
+school. There are lots of coffee houses
+
+204
+00:08:28,479 --> 00:08:34,800
+today, but I was the first person to set
+
+205
+00:08:31,520 --> 00:08:37,360
+up a coffee house where students had to
+
+206
+00:08:34,800 --> 00:08:40,000
+run a business. They had to work as
+
+207
+00:08:37,360 --> 00:08:41,680
+waiters and provide good service to
+
+208
+00:08:40,000 --> 00:08:42,959
+customers. And it was it was a
+
+209
+00:08:41,680 --> 00:08:44,800
+collaboration effort. As you can
+
+210
+00:08:42,959 --> 00:08:47,120
+imagine, this is great for the students
+
+211
+00:08:44,800 --> 00:08:49,519
+to learn collaboration, to learn
+
+212
+00:08:47,120 --> 00:08:50,720
+finance, to learn entrepreneurship.
+
+213
+00:08:49,519 --> 00:08:52,480
+Okay. So, that was a very successful
+
+214
+00:08:50,720 --> 00:08:54,240
+activity.
+
+215
+00:08:52,480 --> 00:08:55,279
+Uh, do you have a question?
+
+216
+00:08:54,240 --> 00:08:58,279
+>> Yeah.
+
+217
+00:08:55,279 --> 00:08:58,279
+>> Okay.
+
+218
+00:09:00,080 --> 00:09:05,920
+>> I mean, was that like similar with our
+
+219
+00:09:02,560 --> 00:09:06,800
+moon coffee like the coffee in the west
+
+220
+00:09:05,920 --> 00:09:10,320
+south store?
+
+221
+00:09:06,800 --> 00:09:11,440
+>> Okay. Um, 2008 I was the first person to
+
+222
+00:09:10,320 --> 00:09:12,240
+do anything. Okay.
+
+223
+00:09:11,440 --> 00:09:14,160
+>> Oh, okay.
+
+224
+00:09:12,240 --> 00:09:15,200
+>> Okay. Just I mean like like
+
+225
+00:09:14,160 --> 00:09:16,959
+>> similar.
+
+226
+00:09:15,200 --> 00:09:18,800
+>> Yeah. [clears throat] All right. So the
+
+227
+00:09:16,959 --> 00:09:20,560
+coffee house was an activity I set up
+
+228
+00:09:18,800 --> 00:09:22,080
+which was very successful. It's still
+
+229
+00:09:20,560 --> 00:09:23,440
+there today guys. If you go to middle
+
+230
+00:09:22,080 --> 00:09:25,600
+school you will see the coffee house
+
+231
+00:09:23,440 --> 00:09:27,120
+still there a long long time after I I
+
+232
+00:09:25,600 --> 00:09:29,201
+went away. The other thing I did was
+
+233
+00:09:27,120 --> 00:09:32,560
+something called the daily newspaper.
+
+234
+00:09:29,201 --> 00:09:35,760
+[snorts] And this was the first daily
+
+235
+00:09:32,560 --> 00:09:37,360
+newspaper in China in a high school and
+
+236
+00:09:35,760 --> 00:09:40,399
+probably maybe even around the world
+
+237
+00:09:37,360 --> 00:09:43,040
+where students every day had to report,
+
+238
+00:09:40,399 --> 00:09:44,720
+collect information, write articles,
+
+239
+00:09:43,040 --> 00:09:46,959
+edit and publish it and they worked
+
+240
+00:09:44,720 --> 00:09:49,519
+until like midnight. sometimes until 2
+
+241
+00:09:46,959 --> 00:09:52,240
+am and then at 7 am they had to get up
+
+242
+00:09:49,519 --> 00:09:53,680
+and um deliver the newspaper to all the
+
+243
+00:09:52,240 --> 00:09:57,519
+students and these were two very
+
+244
+00:09:53,680 --> 00:09:59,760
+successful activities [snorts] and
+
+245
+00:09:57,519 --> 00:10:02,640
+um so I understand game theoriz says
+
+246
+00:09:59,760 --> 00:10:05,279
+okay if you want to make this transition
+
+247
+00:10:02,640 --> 00:10:08,720
+from the old system to new system you
+
+248
+00:10:05,279 --> 00:10:11,279
+also have to establish a new culture
+
+249
+00:10:08,720 --> 00:10:14,000
+to allow these activities to flourish
+
+250
+00:10:11,279 --> 00:10:16,000
+okay and so my three major principles
+
+251
+00:10:14,000 --> 00:10:19,480
+for
+
+252
+00:10:16,000 --> 00:10:19,480
+um transparency,
+
+253
+00:10:22,560 --> 00:10:25,800
+um innovation,
+
+254
+00:10:28,160 --> 00:10:33,040
+okay, transparency,
+
+255
+00:10:30,560 --> 00:10:35,357
+um innovation,
+
+256
+00:10:33,040 --> 00:10:36,399
+openness.
+
+257
+00:10:35,357 --> 00:10:39,360
+[snorts]
+
+258
+00:10:36,399 --> 00:10:41,519
+And so my idea was this. Rather than sub
+
+259
+00:10:39,360 --> 00:10:44,720
+a
+
+260
+00:10:41,519 --> 00:10:47,440
+curriculum that was perfect, it would be
+
+261
+00:10:44,720 --> 00:10:51,519
+a curriculum that would evolve over
+
+262
+00:10:47,440 --> 00:10:54,160
+time. We would learn mistakes together.
+
+263
+00:10:51,519 --> 00:10:55,920
+We would admit these mistakes and then
+
+264
+00:10:54,160 --> 00:10:58,320
+we would correct them together and
+
+265
+00:10:55,920 --> 00:11:01,279
+that's what learning is. Okay. Okay. So
+
+266
+00:10:58,320 --> 00:11:05,040
+the idea of transparency [snorts] also I
+
+267
+00:11:01,279 --> 00:11:07,920
+made changes all the time which created
+
+268
+00:11:05,040 --> 00:11:11,600
+some chaos but it's a time for us to
+
+269
+00:11:07,920 --> 00:11:14,079
+reflect and to be resilient. And I was
+
+270
+00:11:11,600 --> 00:11:16,880
+very open and honest about everything
+
+271
+00:11:14,079 --> 00:11:18,880
+that I was doing. And this in and so
+
+272
+00:11:16,880 --> 00:11:20,560
+this system in a very short amount of
+
+273
+00:11:18,880 --> 00:11:22,880
+time even though it there were a lot of
+
+274
+00:11:20,560 --> 00:11:26,399
+problems in the beginning it became a
+
+275
+00:11:22,880 --> 00:11:29,519
+very effective system after a semester
+
+276
+00:11:26,399 --> 00:11:31,200
+or a year. And not only that the
+
+277
+00:11:29,519 --> 00:11:33,120
+students who went for this program did
+
+278
+00:11:31,200 --> 00:11:34,959
+very well in life. They went to Yale.
+
+279
+00:11:33,120 --> 00:11:38,880
+They went to they went to Wharton
+
+280
+00:11:34,959 --> 00:11:42,399
+Cornell and this program actually school
+
+281
+00:11:38,880 --> 00:11:45,200
+became the most famous program in South
+
+282
+00:11:42,399 --> 00:11:49,680
+China and when our students have the
+
+283
+00:11:45,200 --> 00:11:53,040
+best record of college admissions
+
+284
+00:11:49,680 --> 00:11:55,839
+in South China. Okay.
+
+285
+00:11:53,040 --> 00:11:58,480
+So this sounds great, right? Okay. The
+
+286
+00:11:55,839 --> 00:12:00,000
+problem is this. The problem is what
+
+287
+00:11:58,480 --> 00:12:01,839
+happened after I established the
+
+288
+00:12:00,000 --> 00:12:07,399
+program. The first one that happened
+
+289
+00:12:01,839 --> 00:12:07,399
+was, okay, I was fired.
+
+290
+00:12:07,519 --> 00:12:12,639
+They said, "Get out of here." Okay.
+
+291
+00:12:10,480 --> 00:12:16,160
+Second of all,
+
+292
+00:12:12,639 --> 00:12:19,680
+the teachers, the parents, the students
+
+293
+00:12:16,160 --> 00:12:20,959
+were all happy to see me go. They were
+
+294
+00:12:19,680 --> 00:12:23,519
+like, "Get out of here. We never want to
+
+295
+00:12:20,959 --> 00:12:25,360
+see you again." The third thing that
+
+296
+00:12:23,519 --> 00:12:27,600
+happened was
+
+297
+00:12:25,360 --> 00:12:30,240
+I did come to a new program that was
+
+298
+00:12:27,600 --> 00:12:32,160
+very similar to this. Okay. But after
+
+299
+00:12:30,240 --> 00:12:34,880
+that, after four years of doing this and
+
+300
+00:12:32,160 --> 00:12:37,120
+being very successful at this, I was
+
+301
+00:12:34,880 --> 00:12:39,360
+never allowed to set up another program
+
+302
+00:12:37,120 --> 00:12:41,680
+again. No one wanted me to work in
+
+303
+00:12:39,360 --> 00:12:43,839
+management again.
+
+304
+00:12:41,680 --> 00:12:45,519
+Okay? So even though I was successful,
+
+305
+00:12:43,839 --> 00:12:48,079
+even though I worked really hard, even
+
+306
+00:12:45,519 --> 00:12:49,920
+though I was innovative, even though I
+
+307
+00:12:48,079 --> 00:12:52,000
+set up really the best study abroad
+
+308
+00:12:49,920 --> 00:12:53,519
+program in all of China, I was the
+
+309
+00:12:52,000 --> 00:12:57,839
+first. Everyone else copied me
+
+310
+00:12:53,519 --> 00:13:00,160
+afterwards. I was fired. No one wanted
+
+311
+00:12:57,839 --> 00:13:04,480
+me to stay and I was not allowed to do
+
+312
+00:13:00,160 --> 00:13:06,959
+this ever again. Why? Okay. Well, the
+
+313
+00:13:04,480 --> 00:13:09,440
+reason is this.
+
+314
+00:13:06,959 --> 00:13:11,760
+When I was doing this,
+
+315
+00:13:09,440 --> 00:13:16,720
+the word that everyone used to describe
+
+316
+00:13:11,760 --> 00:13:22,720
+me was not reformer, not visionary, not
+
+317
+00:13:16,720 --> 00:13:24,880
+idealist, not dreamer, but dictator.
+
+318
+00:13:22,720 --> 00:13:27,760
+Okay.
+
+319
+00:13:24,880 --> 00:13:30,800
+One other word that they used that was
+
+320
+00:13:27,760 --> 00:13:32,959
+that was more common was this guy's an
+
+321
+00:13:30,800 --> 00:13:34,639
+ Okay, this guy's a complete
+
+322
+00:13:32,959 --> 00:13:40,279
+
+323
+00:13:34,639 --> 00:13:40,279
+Why? Because I insisted on fairness.
+
+324
+00:13:40,560 --> 00:13:49,200
+Okay, I don't care who you are. I don't
+
+325
+00:13:43,760 --> 00:13:52,079
+care who your parents are. I want you to
+
+326
+00:13:49,200 --> 00:13:54,560
+work hard and learn. And as you can
+
+327
+00:13:52,079 --> 00:13:56,079
+imagine, that pissed off a lot of
+
+328
+00:13:54,560 --> 00:13:58,240
+powerful people because that's not how
+
+329
+00:13:56,079 --> 00:13:59,600
+the game is played in China. Okay? It's
+
+330
+00:13:58,240 --> 00:14:01,279
+actually not the game how this game is
+
+331
+00:13:59,600 --> 00:14:04,160
+played anywhere in the world. The game
+
+332
+00:14:01,279 --> 00:14:07,040
+is not fair. The game is established by
+
+333
+00:14:04,160 --> 00:14:10,079
+stakeholders and they play the game
+
+334
+00:14:07,040 --> 00:14:14,800
+according to their interest.
+
+335
+00:14:10,079 --> 00:14:17,680
+Okay. So, um let's go over what
+
+336
+00:14:14,800 --> 00:14:20,720
+happened. All right. [snorts]
+
+337
+00:14:17,680 --> 00:14:23,959
+Okay. So Mike, I understand that there
+
+338
+00:14:20,720 --> 00:14:23,959
+are stakeholders
+
+339
+00:14:24,079 --> 00:14:29,720
+and the stakeholders in game theory are
+
+340
+00:14:26,399 --> 00:14:29,720
+just the players.
+
+341
+00:14:31,360 --> 00:14:34,560
+Okay, the players. And who are [snorts]
+
+342
+00:14:33,199 --> 00:14:37,560
+the players? Well, you have the
+
+343
+00:14:34,560 --> 00:14:37,560
+students,
+
+344
+00:14:39,760 --> 00:14:45,279
+you have the parents,
+
+345
+00:14:42,800 --> 00:14:48,720
+you have the
+
+346
+00:14:45,279 --> 00:14:52,240
+um teachers,
+
+347
+00:14:48,720 --> 00:14:55,040
+you have [snorts] the administrators,
+
+348
+00:14:52,240 --> 00:14:58,079
+okay, the school leaders,
+
+349
+00:14:55,040 --> 00:15:01,519
+you have the government,
+
+350
+00:14:58,079 --> 00:15:03,279
+okay, and then you have the colleges,
+
+351
+00:15:01,519 --> 00:15:04,720
+okay? The college are the US colleges
+
+352
+00:15:03,279 --> 00:15:06,720
+where I'm trying to send my students.
+
+353
+00:15:04,720 --> 00:15:08,560
+Okay? So these are the players in the
+
+354
+00:15:06,720 --> 00:15:10,160
+game. And if you want to understand game
+
+355
+00:15:08,560 --> 00:15:12,000
+theory, you need you need to understand
+
+356
+00:15:10,160 --> 00:15:13,519
+the motivations
+
+357
+00:15:12,000 --> 00:15:17,120
+and interests of all the different
+
+358
+00:15:13,519 --> 00:15:18,880
+players that tells you why or how they
+
+359
+00:15:17,120 --> 00:15:21,440
+will behave the way they do. Okay. So
+
+360
+00:15:18,880 --> 00:15:23,120
+look, so here is my original
+
+361
+00:15:21,440 --> 00:15:24,639
+understanding of the players which was
+
+362
+00:15:23,120 --> 00:15:27,120
+clearly wrong. Okay. Because I got
+
+363
+00:15:24,639 --> 00:15:32,160
+fired. All right. So the students the
+
+364
+00:15:27,120 --> 00:15:36,199
+students wanted like love to learn
+
+365
+00:15:32,160 --> 00:15:36,199
+get into Ivy League
+
+366
+00:15:37,040 --> 00:15:43,360
+and be the best. Okay. So I thought the
+
+367
+00:15:41,040 --> 00:15:47,199
+students what their motivation was to be
+
+368
+00:15:43,360 --> 00:15:49,759
+the best possible person to work hard to
+
+369
+00:15:47,199 --> 00:15:51,759
+love learning to be famous to get an Ivy
+
+370
+00:15:49,759 --> 00:15:53,440
+League. Okay. Clearly this is wrong.
+
+371
+00:15:51,759 --> 00:15:55,759
+Okay. I'm saying back then what my
+
+372
+00:15:53,440 --> 00:15:59,440
+thinking was the parents well the
+
+373
+00:15:55,759 --> 00:16:03,560
+parents wanted successful kids
+
+374
+00:15:59,440 --> 00:16:03,560
+who were independent
+
+375
+00:16:04,000 --> 00:16:09,519
+okay independent and they wanted phase
+
+376
+00:16:07,120 --> 00:16:12,320
+right so they want their kids to get
+
+377
+00:16:09,519 --> 00:16:16,800
+into the Ivy League
+
+378
+00:16:12,320 --> 00:16:22,079
+right teachers well teachers
+
+379
+00:16:16,800 --> 00:16:26,160
+wanted to do a good job Right?
+
+380
+00:16:22,079 --> 00:16:28,480
+They want to teach students. They love
+
+381
+00:16:26,160 --> 00:16:29,759
+teaching. They love students. They just
+
+382
+00:16:28,480 --> 00:16:32,399
+want to be given the space and the
+
+383
+00:16:29,759 --> 00:16:34,480
+opportunity to teach what their passion
+
+384
+00:16:32,399 --> 00:16:37,759
+is. Okay.
+
+385
+00:16:34,480 --> 00:16:39,680
+Administrators. Administrators. I really
+
+386
+00:16:37,759 --> 00:16:41,120
+didn't like administrators. So, I just
+
+387
+00:16:39,680 --> 00:16:43,440
+thought they were just they wanted good
+
+388
+00:16:41,120 --> 00:16:45,440
+results. Okay. That's all. Good results.
+
+389
+00:16:43,440 --> 00:16:47,920
+As long as prov as long as I provide
+
+390
+00:16:45,440 --> 00:16:50,959
+good results, they're happy. Okay. the
+
+391
+00:16:47,920 --> 00:16:55,399
+government, they wanted innovation,
+
+392
+00:16:50,959 --> 00:16:55,399
+they wanted good workers.
+
+393
+00:16:57,040 --> 00:17:02,399
+Um, they wanted, you know, they want
+
+394
+00:16:59,920 --> 00:17:05,199
+technology, okay? They want a strong
+
+395
+00:17:02,399 --> 00:17:08,799
+China.
+
+396
+00:17:05,199 --> 00:17:10,880
+Colleges wanted the best
+
+397
+00:17:08,799 --> 00:17:12,880
+possible
+
+398
+00:17:10,880 --> 00:17:15,439
+potential.
+
+399
+00:17:12,880 --> 00:17:18,559
+Okay? They wanted students who will be
+
+400
+00:17:15,439 --> 00:17:20,799
+the leaders of the future. Okay? So 2008
+
+401
+00:17:18,559 --> 00:17:22,720
+when I set up the program, this was my
+
+402
+00:17:20,799 --> 00:17:26,640
+assumptions about who the players were
+
+403
+00:17:22,720 --> 00:17:30,080
+and what motivated them. Okay, clearly
+
+404
+00:17:26,640 --> 00:17:33,120
+clearly I was wrong about who they were.
+
+405
+00:17:30,080 --> 00:17:35,760
+Okay, so let's go over again. Let's now
+
+406
+00:17:33,120 --> 00:17:41,280
+do an anal analysis of what they really
+
+407
+00:17:35,760 --> 00:17:44,320
+really want. Okay. And the um easy
+
+408
+00:17:41,280 --> 00:17:47,280
+answer is that in game theory all the
+
+409
+00:17:44,320 --> 00:17:50,960
+players what they're motivated in is by
+
+410
+00:17:47,280 --> 00:17:55,280
+achieving the best possible results by
+
+411
+00:17:50,960 --> 00:17:56,960
+doing the least amount of work possible.
+
+412
+00:17:55,280 --> 00:17:58,880
+Okay, just remember that that's a
+
+413
+00:17:56,960 --> 00:18:01,760
+principle here. Everyone wants to
+
+414
+00:17:58,880 --> 00:18:04,160
+achieve the best results by doing the
+
+415
+00:18:01,760 --> 00:18:06,559
+least amount of work possible. People
+
+416
+00:18:04,160 --> 00:18:10,559
+are lazy and people are greedy. It's
+
+417
+00:18:06,559 --> 00:18:12,480
+that simple, guys. Okay, so students,
+
+418
+00:18:10,559 --> 00:18:14,320
+they want to get in the Ivy League, but
+
+419
+00:18:12,480 --> 00:18:16,480
+they didn't want to work hard to get in
+
+420
+00:18:14,320 --> 00:18:20,240
+the Ivy League. They wanted to do as
+
+421
+00:18:16,480 --> 00:18:24,000
+little work as possible. And if it meant
+
+422
+00:18:20,240 --> 00:18:25,440
+they had to uh work hard to get Ivy
+
+423
+00:18:24,000 --> 00:18:26,720
+League, they they like, I don't want to
+
+424
+00:18:25,440 --> 00:18:28,320
+get in the Ivy League then. I'll just
+
+425
+00:18:26,720 --> 00:18:30,080
+get into another school because who
+
+426
+00:18:28,320 --> 00:18:33,360
+cares? Okay, the best possible result,
+
+427
+00:18:30,080 --> 00:18:35,840
+least possible work. Parents are like,
+
+428
+00:18:33,360 --> 00:18:37,760
+"Yeah, I can have my kid work hard, but
+
+429
+00:18:35,840 --> 00:18:41,360
+what's important is for me to control my
+
+430
+00:18:37,760 --> 00:18:43,760
+kid, right? For to make to because only
+
+431
+00:18:41,360 --> 00:18:45,840
+I know how to ensure my kid succeeds.
+
+432
+00:18:43,760 --> 00:18:48,559
+So, I need to I don't want my kids to
+
+433
+00:18:45,840 --> 00:18:51,520
+think critically or or be independent. I
+
+434
+00:18:48,559 --> 00:18:54,559
+want my kids to obey me." Now, teachers
+
+435
+00:18:51,520 --> 00:18:56,960
+are like, "Listen, this is a job, man."
+
+436
+00:18:54,559 --> 00:18:59,600
+Okay? I have kids. I don't want to work
+
+437
+00:18:56,960 --> 00:19:01,520
+hard. I just want to come to school, do
+
+438
+00:18:59,600 --> 00:19:02,880
+what I'm supposed to do, do what is
+
+439
+00:19:01,520 --> 00:19:05,120
+minimally required me to collect my
+
+440
+00:19:02,880 --> 00:19:06,559
+salary and then go home. I don't want to
+
+441
+00:19:05,120 --> 00:19:08,400
+teach my passion because I don't have
+
+442
+00:19:06,559 --> 00:19:10,720
+any passion.
+
+443
+00:19:08,400 --> 00:19:13,760
+Okay, administrators are like, "Oh my
+
+444
+00:19:10,720 --> 00:19:16,320
+god, what's important is for me to make
+
+445
+00:19:13,760 --> 00:19:17,840
+sure the powerful parents are happy. I
+
+446
+00:19:16,320 --> 00:19:20,480
+don't care about everyone else. I don't
+
+447
+00:19:17,840 --> 00:19:22,880
+care about poor parents. I don't care
+
+448
+00:19:20,480 --> 00:19:25,440
+about middle- class parents. As long as
+
+449
+00:19:22,880 --> 00:19:28,960
+the parents who are powerful are happy,
+
+450
+00:19:25,440 --> 00:19:31,120
+I keep my I can keep my job, right? The
+
+451
+00:19:28,960 --> 00:19:32,720
+government is like, you know what? I
+
+452
+00:19:31,120 --> 00:19:34,080
+don't want innovation in this country.
+
+453
+00:19:32,720 --> 00:19:36,000
+Even though I say I want I want it
+
+454
+00:19:34,080 --> 00:19:38,559
+because I don't want problems in life,
+
+455
+00:19:36,000 --> 00:19:42,960
+okay? I just want things to just stay
+
+456
+00:19:38,559 --> 00:19:45,600
+the way they are and everyone's happy.
+
+457
+00:19:42,960 --> 00:19:48,720
+Okay? So now we understand what
+
+458
+00:19:45,600 --> 00:19:51,440
+happened. All right. All right. So now
+
+459
+00:19:48,720 --> 00:19:53,840
+what I will show you is this. I will
+
+460
+00:19:51,440 --> 00:19:55,360
+show you how a game is constructed. A
+
+461
+00:19:53,840 --> 00:19:58,960
+game is constructed when all the
+
+462
+00:19:55,360 --> 00:20:01,760
+different players agree on the rules and
+
+463
+00:19:58,960 --> 00:20:04,799
+incentives of the game.
+
+464
+00:20:01,760 --> 00:20:06,720
+All right, I was an outsider. I was not
+
+465
+00:20:04,799 --> 00:20:08,400
+a player. I came in to construct a game
+
+466
+00:20:06,720 --> 00:20:10,559
+in which I felt that students would
+
+467
+00:20:08,400 --> 00:20:12,960
+thrive and they did thrive. But that's
+
+468
+00:20:10,559 --> 00:20:15,360
+not what they want. Okay? They wanted to
+
+469
+00:20:12,960 --> 00:20:18,000
+have control over the game. And if they
+
+470
+00:20:15,360 --> 00:20:20,480
+lose control, well, they call you an
+
+471
+00:20:18,000 --> 00:20:24,240
+they call you the outsider
+
+472
+00:20:20,480 --> 00:20:26,320
+an Okay. All right. So, let's
+
+473
+00:20:24,240 --> 00:20:29,679
+do this again.
+
+474
+00:20:26,320 --> 00:20:32,000
+And objectively think about
+
+475
+00:20:29,679 --> 00:20:34,080
+what the interests and motivations of
+
+476
+00:20:32,000 --> 00:20:36,559
+each player are. And when their
+
+477
+00:20:34,080 --> 00:20:41,919
+interests converge, that's the game they
+
+478
+00:20:36,559 --> 00:20:44,880
+play. All right? So you have students,
+
+479
+00:20:41,919 --> 00:20:48,039
+parents,
+
+480
+00:20:44,880 --> 00:20:48,039
+uh teachers,
+
+481
+00:20:48,400 --> 00:20:55,600
+uh leaders, school administrators
+
+482
+00:20:52,320 --> 00:20:57,600
+and then the colleges.
+
+483
+00:20:55,600 --> 00:20:58,960
+Okay.
+
+484
+00:20:57,600 --> 00:21:00,559
+Another thing that you have to do in
+
+485
+00:20:58,960 --> 00:21:04,559
+game theory that's very important is you
+
+486
+00:21:00,559 --> 00:21:07,679
+have to rank the power of uh power of
+
+487
+00:21:04,559 --> 00:21:08,640
+each player. Uh you have a question.
+
+488
+00:21:07,679 --> 00:21:09,760
+government.
+
+489
+00:21:08,640 --> 00:21:12,000
+>> Excuse me.
+
+490
+00:21:09,760 --> 00:21:13,440
+>> The government. Yes. Sorry. Uh you're
+
+491
+00:21:12,000 --> 00:21:15,120
+you're right. I I I forgot about the
+
+492
+00:21:13,440 --> 00:21:18,240
+government.
+
+493
+00:21:15,120 --> 00:21:19,760
+Okay. And the government.
+
+494
+00:21:18,240 --> 00:21:22,480
+Yeah. Another thing that that you have
+
+495
+00:21:19,760 --> 00:21:25,360
+to do in game theory is you have to rank
+
+496
+00:21:22,480 --> 00:21:27,840
+the importance of the players. Okay. So,
+
+497
+00:21:25,360 --> 00:21:29,039
+not all players are equal. So, in this
+
+498
+00:21:27,840 --> 00:21:31,679
+game theory, even though there are
+
+499
+00:21:29,039 --> 00:21:34,960
+students and students are the majority,
+
+500
+00:21:31,679 --> 00:21:37,440
+students actually don't matter. Okay.
+
+501
+00:21:34,960 --> 00:21:39,679
+what students actually think and want
+
+502
+00:21:37,440 --> 00:21:42,960
+don't actually matter. What matters of
+
+503
+00:21:39,679 --> 00:21:45,039
+course are the parents because the
+
+504
+00:21:42,960 --> 00:21:46,799
+parents pay
+
+505
+00:21:45,039 --> 00:21:48,480
+to play in this game and parents can
+
+506
+00:21:46,799 --> 00:21:49,840
+cause a lot of problems if they they
+
+507
+00:21:48,480 --> 00:21:51,280
+don't get what they want. Okay? So the
+
+508
+00:21:49,840 --> 00:21:53,200
+most important are the parents. Then you
+
+509
+00:21:51,280 --> 00:21:54,400
+have the teachers. Why? Because the
+
+510
+00:21:53,200 --> 00:21:56,960
+teachers are the ones who are
+
+511
+00:21:54,400 --> 00:21:58,640
+implementing the rules of the game.
+
+512
+00:21:56,960 --> 00:22:02,480
+Okay? The way that teachers behave
+
+513
+00:21:58,640 --> 00:22:05,440
+determines how this game is played.
+
+514
+00:22:02,480 --> 00:22:07,840
+And then these two are the most
+
+515
+00:22:05,440 --> 00:22:10,240
+important. Okay. Then maybe you have
+
+516
+00:22:07,840 --> 00:22:12,000
+administrators as well, but they're not
+
+517
+00:22:10,240 --> 00:22:13,679
+as important as a parents and the
+
+518
+00:22:12,000 --> 00:22:15,440
+teachers.
+
+519
+00:22:13,679 --> 00:22:17,600
+The government doesn't really matter
+
+520
+00:22:15,440 --> 00:22:20,000
+because they don't really care, right?
+
+521
+00:22:17,600 --> 00:22:21,919
+It's one school among thousands. Who
+
+522
+00:22:20,000 --> 00:22:23,760
+cares what the school does as long as it
+
+523
+00:22:21,919 --> 00:22:26,080
+doesn't cause me any problems? The
+
+524
+00:22:23,760 --> 00:22:30,159
+colleges don't care either. You they say
+
+525
+00:22:26,080 --> 00:22:31,919
+they want really passionate students who
+
+526
+00:22:30,159 --> 00:22:34,640
+are curious, who are match from China.
+
+527
+00:22:31,919 --> 00:22:36,080
+They don't care. Okay? For them, it's a
+
+528
+00:22:34,640 --> 00:22:38,640
+business. They just want students who
+
+529
+00:22:36,080 --> 00:22:40,880
+are willing to pay money to get a crappy
+
+530
+00:22:38,640 --> 00:22:42,400
+education in America.
+
+531
+00:22:40,880 --> 00:22:44,000
+All right? So, the costs don't really
+
+532
+00:22:42,400 --> 00:22:46,880
+matter. They'll take anyone who's
+
+533
+00:22:44,000 --> 00:22:48,880
+willing to pay.
+
+534
+00:22:46,880 --> 00:22:50,480
+And the Ivy League, yeah, everyone's
+
+535
+00:22:48,880 --> 00:22:53,039
+getting Ivy League, but but who do the
+
+536
+00:22:50,480 --> 00:22:54,720
+Ivy League want? They want people who
+
+537
+00:22:53,039 --> 00:22:56,480
+want to be successful in life, right?
+
+538
+00:22:54,720 --> 00:22:58,240
+And who are these people? Not the best
+
+539
+00:22:56,480 --> 00:23:00,880
+students. These are people from powerful
+
+540
+00:22:58,240 --> 00:23:03,120
+families. Okay? So, this game is rigged,
+
+541
+00:23:00,880 --> 00:23:05,360
+right? They have all this talk about,
+
+542
+00:23:03,120 --> 00:23:07,039
+you know, we want the best motivated
+
+543
+00:23:05,360 --> 00:23:08,240
+students. We want PE students who are
+
+544
+00:23:07,039 --> 00:23:09,919
+curious, we're passionate. It's all
+
+545
+00:23:08,240 --> 00:23:11,200
+nonsense. Yeah, that's not how the game
+
+546
+00:23:09,919 --> 00:23:13,280
+is played. So, the cards don't really
+
+547
+00:23:11,200 --> 00:23:15,440
+matter either. [snorts] Um, okay. So,
+
+548
+00:23:13,280 --> 00:23:17,520
+these are the three major players. The
+
+549
+00:23:15,440 --> 00:23:19,200
+parents, the teachers, administrators,
+
+550
+00:23:17,520 --> 00:23:21,280
+students, government, colleges, they are
+
+551
+00:23:19,200 --> 00:23:24,080
+in this game, they don't really matter.
+
+552
+00:23:21,280 --> 00:23:27,840
+Okay. So, now we're going to do is we'll
+
+553
+00:23:24,080 --> 00:23:30,880
+analyze the mentality, the worldview,
+
+554
+00:23:27,840 --> 00:23:32,559
+the interests of each player. Okay. And
+
+555
+00:23:30,880 --> 00:23:34,799
+again once you do that once we figure
+
+556
+00:23:32,559 --> 00:23:37,436
+out where they converge then we know how
+
+557
+00:23:34,799 --> 00:23:38,640
+the game is constructed. All right
+
+558
+00:23:37,436 --> 00:23:42,480
+[clears throat] so let's look at
+
+559
+00:23:38,640 --> 00:23:44,720
+students. Students okay I mean they want
+
+560
+00:23:42,480 --> 00:23:48,320
+to be popular
+
+561
+00:23:44,720 --> 00:23:49,760
+right so most students come to school
+
+562
+00:23:48,320 --> 00:23:51,600
+and actually their priority is not to
+
+563
+00:23:49,760 --> 00:23:54,000
+learn. The priority is to make friends
+
+564
+00:23:51,600 --> 00:23:55,840
+and to be popular among their friends.
+
+565
+00:23:54,000 --> 00:23:59,039
+Okay that that's just human nature.
+
+566
+00:23:55,840 --> 00:24:01,440
+That's true right? [snorts] Um then you
+
+567
+00:23:59,039 --> 00:24:04,880
+have
+
+568
+00:24:01,440 --> 00:24:06,880
+uh please teachers
+
+569
+00:24:04,880 --> 00:24:08,320
+and parents. Okay, this guy this is
+
+570
+00:24:06,880 --> 00:24:10,159
+really important to understand. You're
+
+571
+00:24:08,320 --> 00:24:12,400
+not in school not to learn. You're in
+
+572
+00:24:10,159 --> 00:24:15,039
+school to please parents into teachers.
+
+573
+00:24:12,400 --> 00:24:17,679
+Why? Because parents are the ones who
+
+574
+00:24:15,039 --> 00:24:19,440
+pay for your way in life, right? The
+
+575
+00:24:17,679 --> 00:24:21,360
+ones who give you food. Teachers are the
+
+576
+00:24:19,440 --> 00:24:23,039
+one who gives you grades. You're not
+
+577
+00:24:21,360 --> 00:24:25,600
+here to learn. You're here to please
+
+578
+00:24:23,039 --> 00:24:28,640
+them. There's a difference. Okay? And
+
+579
+00:24:25,600 --> 00:24:31,360
+grades are a way of showing how well
+
+580
+00:24:28,640 --> 00:24:33,279
+you're pleasing the parents and the
+
+581
+00:24:31,360 --> 00:24:37,200
+teachers.
+
+582
+00:24:33,279 --> 00:24:41,840
+Okay. Is that true? All right. Um and
+
+583
+00:24:37,200 --> 00:24:47,120
+then you're like have fun.
+
+584
+00:24:41,840 --> 00:24:49,600
+Okay. And then get a good college.
+
+585
+00:24:47,120 --> 00:24:52,880
+Okay.
+
+586
+00:24:49,600 --> 00:24:55,200
+All right. So, am I missing any anything
+
+587
+00:24:52,880 --> 00:24:56,559
+among my students?
+
+588
+00:24:55,200 --> 00:24:57,840
+All right. So, but okay. I'm sure
+
+589
+00:24:56,559 --> 00:25:00,320
+there's more, but but let's just keep on
+
+590
+00:24:57,840 --> 00:25:03,039
+going. Okay. Now, parents, well, the
+
+591
+00:25:00,320 --> 00:25:05,520
+parents, what they want is, of course,
+
+592
+00:25:03,039 --> 00:25:07,279
+successful kids.
+
+593
+00:25:05,520 --> 00:25:10,559
+But they want successful kids not
+
+594
+00:25:07,279 --> 00:25:12,240
+because they believe that success will
+
+595
+00:25:10,559 --> 00:25:15,760
+make their kid happy. What they really
+
+596
+00:25:12,240 --> 00:25:17,652
+want, of course, is face,
+
+597
+00:25:15,760 --> 00:25:18,240
+right?
+
+598
+00:25:17,652 --> 00:25:20,159
+>> [snorts]
+
+599
+00:25:18,240 --> 00:25:22,159
+>> They want their kid to go to the Ivory
+
+600
+00:25:20,159 --> 00:25:24,320
+League and they only the kid the Ivy
+
+601
+00:25:22,159 --> 00:25:25,600
+League provides a good education or
+
+602
+00:25:24,320 --> 00:25:27,039
+their kid will be happy at the Ivy
+
+603
+00:25:25,600 --> 00:25:28,480
+League. They just want to brag to their
+
+604
+00:25:27,039 --> 00:25:31,440
+relatives and their friends and their
+
+605
+00:25:28,480 --> 00:25:33,919
+colleagues. My kid is at Brown or
+
+606
+00:25:31,440 --> 00:25:37,679
+Cornell or Dartmouth.
+
+607
+00:25:33,919 --> 00:25:41,279
+Okay. Um but face also means to treat
+
+608
+00:25:37,679 --> 00:25:43,120
+education as a luxury product.
+
+609
+00:25:41,279 --> 00:25:44,559
+Why do parents send kids to national
+
+610
+00:25:43,120 --> 00:25:46,320
+schools? Not because national schools
+
+611
+00:25:44,559 --> 00:25:48,000
+provide a better education. It's because
+
+612
+00:25:46,320 --> 00:25:49,919
+international schools are more expensive
+
+613
+00:25:48,000 --> 00:25:54,880
+and most importantly international
+
+614
+00:25:49,919 --> 00:25:57,880
+schools have white faces, right? White
+
+615
+00:25:54,880 --> 00:25:57,880
+faces.
+
+616
+00:25:59,279 --> 00:26:02,279
+Okay,
+
+617
+00:26:02,640 --> 00:26:08,159
+this is the main marketing tool of
+
+618
+00:26:05,520 --> 00:26:11,120
+international schools, right?
+
+619
+00:26:08,159 --> 00:26:12,880
+They have all these white faces, white
+
+620
+00:26:11,120 --> 00:26:14,159
+teachers like, "Oh my god, this is a
+
+621
+00:26:12,880 --> 00:26:15,679
+real national school now." You don't
+
+622
+00:26:14,159 --> 00:26:17,279
+care if the what if the teacher actually
+
+623
+00:26:15,679 --> 00:26:19,200
+good at what they're doing. You don't
+
+624
+00:26:17,279 --> 00:26:20,320
+care if the kids are actually learning.
+
+625
+00:26:19,200 --> 00:26:21,360
+You don't care what the curriculum is.
+
+626
+00:26:20,320 --> 00:26:22,960
+You don't understand that sort of stuff.
+
+627
+00:26:21,360 --> 00:26:25,520
+You just understand, okay, 10 white
+
+628
+00:26:22,960 --> 00:26:28,400
+faces, therefore this is a good school.
+
+629
+00:26:25,520 --> 00:26:30,080
+It's that simple. Okay? [snorts]
+
+630
+00:26:28,400 --> 00:26:32,400
+And then of course you want some good
+
+631
+00:26:30,080 --> 00:26:34,880
+outcome.
+
+632
+00:26:32,400 --> 00:26:36,480
+Okay? You want you want a good outcome.
+
+633
+00:26:34,880 --> 00:26:38,159
+You don't care if your kid is actually
+
+634
+00:26:36,480 --> 00:26:41,120
+learning in school. What you want is
+
+635
+00:26:38,159 --> 00:26:43,520
+your kid to get good grades, to get in a
+
+636
+00:26:41,120 --> 00:26:45,520
+good college. Okay? These are not the
+
+637
+00:26:43,520 --> 00:26:48,960
+same thing, right? So that's the
+
+638
+00:26:45,520 --> 00:26:52,159
+parents. Then the teachers. Teachers are
+
+639
+00:26:48,960 --> 00:26:56,159
+really simple because teachers do this
+
+640
+00:26:52,159 --> 00:27:00,159
+job and for them the priority is to do
+
+641
+00:26:56,159 --> 00:27:01,760
+as little work as possible to get by.
+
+642
+00:27:00,159 --> 00:27:03,279
+Okay? I'm not saying all teachers. I'm
+
+643
+00:27:01,760 --> 00:27:06,240
+saying the majority of teachers in the
+
+644
+00:27:03,279 --> 00:27:09,200
+school are just trying to get by because
+
+645
+00:27:06,240 --> 00:27:10,640
+quite honestly, they have families, they
+
+646
+00:27:09,200 --> 00:27:13,120
+have other responsibilities. So you
+
+647
+00:27:10,640 --> 00:27:17,919
+don't have time to focus entirely in
+
+648
+00:27:13,120 --> 00:27:21,120
+school, okay? So basically just get by,
+
+649
+00:27:17,919 --> 00:27:24,480
+okay? Or the minimum
+
+650
+00:27:21,120 --> 00:27:26,320
+amount of work,
+
+651
+00:27:24,480 --> 00:27:27,679
+okay? You may not you may not believe
+
+652
+00:27:26,320 --> 00:27:29,600
+this, but like when you actually grow up
+
+653
+00:27:27,679 --> 00:27:31,279
+and get a job, you'll do the same thing.
+
+654
+00:27:29,600 --> 00:27:34,000
+Okay, just get the do a minimum amount
+
+655
+00:27:31,279 --> 00:27:36,320
+of work in order to get by.
+
+656
+00:27:34,000 --> 00:27:38,480
+um administrators they want good
+
+657
+00:27:36,320 --> 00:27:40,080
+outcomes
+
+658
+00:27:38,480 --> 00:27:42,559
+but what their real priority is to
+
+659
+00:27:40,080 --> 00:27:44,320
+protect
+
+660
+00:27:42,559 --> 00:27:47,120
+relationship
+
+661
+00:27:44,320 --> 00:27:49,360
+with parents. Okay, just give parents
+
+662
+00:27:47,120 --> 00:27:51,279
+what they want.
+
+663
+00:27:49,360 --> 00:27:52,720
+Okay, their job is to sell the school.
+
+664
+00:27:51,279 --> 00:27:55,440
+So, so whatever parents want, you just
+
+665
+00:27:52,720 --> 00:27:57,760
+give it to them. And administrators
+
+666
+00:27:55,440 --> 00:27:59,440
+also, by the way, have families. This is
+
+667
+00:27:57,760 --> 00:28:01,440
+a job for them. They also just want to
+
+668
+00:27:59,440 --> 00:28:02,640
+get by,
+
+669
+00:28:01,440 --> 00:28:04,240
+okay? They're not trying to build the
+
+670
+00:28:02,640 --> 00:28:05,600
+best school possible. They're not trying
+
+671
+00:28:04,240 --> 00:28:06,799
+to change the world. They're not trying
+
+672
+00:28:05,600 --> 00:28:09,360
+to educate students. They're just trying
+
+673
+00:28:06,799 --> 00:28:11,440
+to get by, do the least amount of work
+
+674
+00:28:09,360 --> 00:28:14,640
+in order to
+
+675
+00:28:11,440 --> 00:28:16,480
+uh get by. Government is okay. They say
+
+676
+00:28:14,640 --> 00:28:19,600
+they want innovation, creativity,
+
+677
+00:28:16,480 --> 00:28:22,640
+technology, but really it's just like no
+
+678
+00:28:19,600 --> 00:28:24,080
+problems, guys.
+
+679
+00:28:22,640 --> 00:28:26,159
+Okay? As long as you don't care any
+
+680
+00:28:24,080 --> 00:28:28,960
+problems for us, we're happy with you.
+
+681
+00:28:26,159 --> 00:28:30,559
+Just stay away from us. We're happy to
+
+682
+00:28:28,960 --> 00:28:33,360
+not bother you. Please don't come bother
+
+683
+00:28:30,559 --> 00:28:35,520
+us. Yeah, that's government. Also, what
+
+684
+00:28:33,360 --> 00:28:39,279
+they want is for students who will also
+
+685
+00:28:35,520 --> 00:28:41,760
+be no problems in the future, right?
+
+686
+00:28:39,279 --> 00:28:45,200
+Right. So, compliance. So, as long as
+
+687
+00:28:41,760 --> 00:28:46,880
+schools are teaching you how to obey
+
+688
+00:28:45,200 --> 00:28:49,039
+authority,
+
+689
+00:28:46,880 --> 00:28:50,559
+how to comply,
+
+690
+00:28:49,039 --> 00:28:53,039
+how to do what you're told, they're
+
+691
+00:28:50,559 --> 00:28:57,279
+happy. You're a good school. Okay?
+
+692
+00:28:53,039 --> 00:28:58,960
+Colleges again just want the money.
+
+693
+00:28:57,279 --> 00:29:00,399
+Okay? That's all they care about. If
+
+694
+00:28:58,960 --> 00:29:02,559
+you're willing to go to American College
+
+695
+00:29:00,399 --> 00:29:04,880
+and pay how much how much is is it
+
+696
+00:29:02,559 --> 00:29:07,520
+nowadays like 50,000 100,000 a year?
+
+697
+00:29:04,880 --> 00:29:08,720
+That's a lot of money, guys. Okay. If
+
+698
+00:29:07,520 --> 00:29:11,440
+you're willing to pay that, they'll take
+
+699
+00:29:08,720 --> 00:29:14,080
+you. I guarantee you. Even even if you
+
+700
+00:29:11,440 --> 00:29:17,960
+don't speak English, they'll take you.
+
+701
+00:29:14,080 --> 00:29:17,960
+All right. Uh yeah.
+
+702
+00:29:21,039 --> 00:29:25,440
+So, you mentioned that earlier like the
+
+703
+00:29:23,360 --> 00:29:27,679
+the the purpose of education are that
+
+704
+00:29:25,440 --> 00:29:30,880
+three things, but now schools don't do
+
+705
+00:29:27,679 --> 00:29:32,000
+that. So what caused the transformation?
+
+706
+00:29:30,880 --> 00:29:32,799
+>> Yeah, that's a really good question.
+
+707
+00:29:32,000 --> 00:29:34,320
+when and also
+
+708
+00:29:32,799 --> 00:29:37,520
+>> yeah okay [snorts]
+
+709
+00:29:34,320 --> 00:29:41,480
+so what we discussed last class is the
+
+710
+00:29:37,520 --> 00:29:41,480
+idea of superstructure right
+
+711
+00:29:42,000 --> 00:29:45,440
+superructure
+
+712
+00:29:43,760 --> 00:29:47,679
+sorry
+
+713
+00:29:45,440 --> 00:29:51,440
+superructure
+
+714
+00:29:47,679 --> 00:29:53,120
+is just the macro picture of a society
+
+715
+00:29:51,440 --> 00:29:55,440
+it's demographics how many people are
+
+716
+00:29:53,120 --> 00:29:58,240
+there it's economy it's politics it's
+
+717
+00:29:55,440 --> 00:30:02,159
+religion okay and we discuss how
+
+718
+00:29:58,240 --> 00:30:05,360
+societies are born they mature and then
+
+719
+00:30:02,159 --> 00:30:08,080
+they die. Okay. So there's actually
+
+720
+00:30:05,360 --> 00:30:10,559
+another way of understanding this. You
+
+721
+00:30:08,080 --> 00:30:13,039
+can actually use three metrics to
+
+722
+00:30:10,559 --> 00:30:17,559
+understand how societies develop. Okay.
+
+723
+00:30:13,039 --> 00:30:17,559
+And these three metrics are cohesion,
+
+724
+00:30:17,760 --> 00:30:23,039
+openness
+
+725
+00:30:20,640 --> 00:30:26,159
+and energy.
+
+726
+00:30:23,039 --> 00:30:29,919
+Okay. So what is energy? Energy just
+
+727
+00:30:26,159 --> 00:30:33,120
+means you want to work hard.
+
+728
+00:30:29,919 --> 00:30:35,039
+Okay. you are, you believe, you're
+
+729
+00:30:33,120 --> 00:30:37,520
+motivated, you're driven, you work hard
+
+730
+00:30:35,039 --> 00:30:39,200
+all the time. And working hard just
+
+731
+00:30:37,520 --> 00:30:41,200
+doesn't mean like you work 12 hours. It
+
+732
+00:30:39,200 --> 00:30:42,799
+just means like you're focused, you're
+
+733
+00:30:41,200 --> 00:30:44,799
+attentive,
+
+734
+00:30:42,799 --> 00:30:47,679
+right? So, for example, if you're
+
+735
+00:30:44,799 --> 00:30:49,520
+working at a restaurant as a cook, you
+
+736
+00:30:47,679 --> 00:30:51,600
+want to make a really good meal. Okay?
+
+737
+00:30:49,520 --> 00:30:54,159
+You're energetic about it. Okay? Does
+
+738
+00:30:51,600 --> 00:30:57,840
+that make sense? That's energy. Okay?
+
+739
+00:30:54,159 --> 00:31:00,640
+So, um, openness just means that you
+
+740
+00:30:57,840 --> 00:31:03,279
+want to learn, you want to grow, you're
+
+741
+00:31:00,640 --> 00:31:07,600
+willing to admit you made a mistake and
+
+742
+00:31:03,279 --> 00:31:11,120
+improve on yourself. Okay. And the last
+
+743
+00:31:07,600 --> 00:31:15,600
+thing is cohesion where you are you see
+
+744
+00:31:11,120 --> 00:31:18,960
+yourself as part of a society, part of
+
+745
+00:31:15,600 --> 00:31:22,159
+part of a community of people and you
+
+746
+00:31:18,960 --> 00:31:24,399
+want your community to grow as well.
+
+747
+00:31:22,159 --> 00:31:27,760
+And when you have all three things
+
+748
+00:31:24,399 --> 00:31:30,880
+together, the schools are great. Okay?
+
+749
+00:31:27,760 --> 00:31:33,520
+And so, for example, go to Finland.
+
+750
+00:31:30,880 --> 00:31:35,440
+It's a small country, maybe about 5
+
+751
+00:31:33,520 --> 00:31:38,799
+million people, but the schools are
+
+752
+00:31:35,440 --> 00:31:41,519
+amazing. Why? Because Finland is an
+
+753
+00:31:38,799 --> 00:31:43,600
+energetic, open, and coy society. And
+
+754
+00:31:41,519 --> 00:31:46,080
+when you're hear that, what you want to
+
+755
+00:31:43,600 --> 00:31:48,000
+do is invest in the future. And what
+
+756
+00:31:46,080 --> 00:31:49,679
+that means is you want you have to make
+
+757
+00:31:48,000 --> 00:31:52,159
+sure that every child not just your
+
+758
+00:31:49,679 --> 00:31:54,399
+child but every child has good future
+
+759
+00:31:52,159 --> 00:31:56,399
+has good education. And so what you do
+
+760
+00:31:54,399 --> 00:31:58,240
+is you have your best and brightest
+
+761
+00:31:56,399 --> 00:32:01,360
+become teachers,
+
+762
+00:31:58,240 --> 00:32:03,600
+right? You pay them very well. You give
+
+763
+00:32:01,360 --> 00:32:06,679
+them high status and you give them a lot
+
+764
+00:32:03,600 --> 00:32:06,679
+of autonom.
+
+765
+00:32:07,360 --> 00:32:12,640
+And if you do that, the schools are
+
+766
+00:32:09,039 --> 00:32:15,760
+great. And guess what guys? in China
+
+767
+00:32:12,640 --> 00:32:18,000
+in maybe 1980s, the schools were amazing
+
+768
+00:32:15,760 --> 00:32:20,720
+here. Okay,
+
+769
+00:32:18,000 --> 00:32:22,640
+what we're seeing today is today. But if
+
+770
+00:32:20,720 --> 00:32:24,240
+you go back to the 1980s, the schools
+
+771
+00:32:22,640 --> 00:32:25,760
+were really good. If you went to a
+
+772
+00:32:24,240 --> 00:32:26,559
+school in China, I'm I'm not talking
+
+773
+00:32:25,760 --> 00:32:29,120
+about like the best. I'm just talking
+
+774
+00:32:26,559 --> 00:32:31,279
+about like an average school, teachers
+
+775
+00:32:29,120 --> 00:32:33,120
+felt respected.
+
+776
+00:32:31,279 --> 00:32:37,200
+They believed that the responsibility to
+
+777
+00:32:33,120 --> 00:32:40,399
+train the young. They took pride
+
+778
+00:32:37,200 --> 00:32:42,240
+and joy in their work and the students
+
+779
+00:32:40,399 --> 00:32:46,000
+enjoyed learning. And guess what? Back
+
+780
+00:32:42,240 --> 00:32:48,080
+in 1980s, kids did less work.
+
+781
+00:32:46,000 --> 00:32:50,960
+There were less tests, there was less
+
+782
+00:32:48,080 --> 00:32:52,880
+pressure and they learn a lot more.
+
+783
+00:32:50,960 --> 00:32:56,320
+Okay?
+
+784
+00:32:52,880 --> 00:32:58,080
+So when a society be starts
+
+785
+00:32:56,320 --> 00:33:00,799
+and begins, you have these three
+
+786
+00:32:58,080 --> 00:33:04,960
+aspects. But over time,
+
+787
+00:33:00,799 --> 00:33:07,360
+what happens is all three decline.
+
+788
+00:33:04,960 --> 00:33:09,440
+Why? Because
+
+789
+00:33:07,360 --> 00:33:12,240
+there's more corruption, there's more
+
+790
+00:33:09,440 --> 00:33:16,960
+inequality, there's more wealth. Okay?
+
+791
+00:33:12,240 --> 00:33:19,919
+So, what happens is wealth generation
+
+792
+00:33:16,960 --> 00:33:23,279
+and inequality, corruption,
+
+793
+00:33:19,919 --> 00:33:25,039
+and so people feel under stress. Okay?
+
+794
+00:33:23,279 --> 00:33:28,480
+So, rather than cohesion, you have
+
+795
+00:33:25,039 --> 00:33:29,519
+individualization, individual.
+
+796
+00:33:28,480 --> 00:33:30,960
+Okay? Does that make sense? Where
+
+797
+00:33:29,519 --> 00:33:32,399
+everyone's like, you know what? I don't
+
+798
+00:33:30,960 --> 00:33:33,919
+care if other kids are doing well.
+
+799
+00:33:32,399 --> 00:33:37,039
+What's important is that my kid does
+
+800
+00:33:33,919 --> 00:33:38,640
+well because it's a zero- sum game. If
+
+801
+00:33:37,039 --> 00:33:40,799
+if if all the other kids in the school
+
+802
+00:33:38,640 --> 00:33:43,519
+do really well, but my kid flunks out,
+
+803
+00:33:40,799 --> 00:33:45,519
+I'm dead. I'm screwed. So, I rather my
+
+804
+00:33:43,519 --> 00:33:47,760
+kid do okay and every other kid gets
+
+805
+00:33:45,519 --> 00:33:50,240
+screwed over. Okay. So, now it's a
+
+806
+00:33:47,760 --> 00:33:53,200
+competition
+
+807
+00:33:50,240 --> 00:33:56,080
+in schools.
+
+808
+00:33:53,200 --> 00:33:58,399
+All right. Openness. Are you willing to
+
+809
+00:33:56,080 --> 00:33:59,679
+learn from your mistakes? And the answer
+
+810
+00:33:58,399 --> 00:34:01,679
+is no. Because if I'm an administrator
+
+811
+00:33:59,679 --> 00:34:02,880
+and I say to parents, "I'm sorry. I made
+
+812
+00:34:01,679 --> 00:34:04,799
+a mistake today." The parents will be
+
+813
+00:34:02,880 --> 00:34:07,760
+like, "You're fired. Get out of here.
+
+814
+00:34:04,799 --> 00:34:09,760
+You're incompetent." Okay? So, you could
+
+815
+00:34:07,760 --> 00:34:11,359
+be like the best person in the world,
+
+816
+00:34:09,760 --> 00:34:14,320
+but if you make make a mistake, the
+
+817
+00:34:11,359 --> 00:34:15,599
+parents will come and kill you. But if
+
+818
+00:34:14,320 --> 00:34:16,720
+you you but you could be the worst
+
+819
+00:34:15,599 --> 00:34:18,079
+person in the world, but you just hide
+
+820
+00:34:16,720 --> 00:34:20,240
+in your office. The parents can't find
+
+821
+00:34:18,079 --> 00:34:23,760
+you. You're okay. Okay. So, school
+
+822
+00:34:20,240 --> 00:34:26,240
+administrators are are are now afraid to
+
+823
+00:34:23,760 --> 00:34:29,839
+admit they're wrong, which means that a
+
+824
+00:34:26,240 --> 00:34:31,359
+school can never improve.
+
+825
+00:34:29,839 --> 00:34:35,040
+Right? Then you have energy which is
+
+826
+00:34:31,359 --> 00:34:38,560
+like you know what if I do a good job
+
+827
+00:34:35,040 --> 00:34:40,079
+parents will want me to do a better job.
+
+828
+00:34:38,560 --> 00:34:42,960
+I can't please all the parents. So I'll
+
+829
+00:34:40,079 --> 00:34:45,919
+just hide my office do as little work as
+
+830
+00:34:42,960 --> 00:34:50,399
+possible and then if parents complain
+
+831
+00:34:45,919 --> 00:34:53,040
+I'll just shut off my brain. Okay. And
+
+832
+00:34:50,399 --> 00:34:55,040
+this is happening because
+
+833
+00:34:53,040 --> 00:34:57,280
+of wealth generation. 1980s China was
+
+834
+00:34:55,040 --> 00:35:01,040
+really poor.
+
+835
+00:34:57,280 --> 00:35:03,119
+And no only way to get to to lead a
+
+836
+00:35:01,040 --> 00:35:05,200
+better life is through education. That's
+
+837
+00:35:03,119 --> 00:35:07,359
+why students work hard. If students work
+
+838
+00:35:05,200 --> 00:35:11,040
+hard, teachers are motivated to teach
+
+839
+00:35:07,359 --> 00:35:15,599
+well. And now you having a time when you
+
+840
+00:35:11,040 --> 00:35:18,880
+know today in 2025 26 when parents have
+
+841
+00:35:15,599 --> 00:35:20,560
+money. So it doesn't matter if you don't
+
+842
+00:35:18,880 --> 00:35:23,040
+do well in school because your parents
+
+843
+00:35:20,560 --> 00:35:24,880
+can just give you an apartment, can buy
+
+844
+00:35:23,040 --> 00:35:26,960
+you a car.
+
+845
+00:35:24,880 --> 00:35:28,480
+Who cares if you do well in school? So
+
+846
+00:35:26,960 --> 00:35:30,160
+you're not motivated. If you're not
+
+847
+00:35:28,480 --> 00:35:32,880
+motivated, indifferent, then as a
+
+848
+00:35:30,160 --> 00:35:35,200
+teacher, why am I going to want to
+
+849
+00:35:32,880 --> 00:35:36,640
+teach? Well,
+
+850
+00:35:35,200 --> 00:35:39,040
+okay. So it's a super structure of
+
+851
+00:35:36,640 --> 00:35:40,640
+society. Okay. Does does that make
+
+852
+00:35:39,040 --> 00:35:43,839
+sense?
+
+853
+00:35:40,640 --> 00:35:45,680
+All right. Any more questions?
+
+854
+00:35:43,839 --> 00:35:48,680
+Okay. Okay. So So thank you. Okay. So
+
+855
+00:35:45,680 --> 00:35:48,680
+again
+
+856
+00:35:51,280 --> 00:35:55,359
+um
+
+857
+00:35:52,960 --> 00:35:58,720
+superructure determines the motivations
+
+858
+00:35:55,359 --> 00:36:00,480
+of the players and where the interest of
+
+859
+00:35:58,720 --> 00:36:04,000
+the players converge is the game that
+
+860
+00:36:00,480 --> 00:36:05,920
+you have. Okay. All right. So you go
+
+861
+00:36:04,000 --> 00:36:08,920
+back to this list and what we're seeing
+
+862
+00:36:05,920 --> 00:36:08,920
+is
+
+863
+00:36:09,760 --> 00:36:16,079
+parents just want white faces.
+
+864
+00:36:13,440 --> 00:36:18,320
+Okay, sorry. white faces
+
+865
+00:36:16,079 --> 00:36:20,640
+and they want
+
+866
+00:36:18,320 --> 00:36:22,800
+um successful kids which means good
+
+867
+00:36:20,640 --> 00:36:25,119
+grades.
+
+868
+00:36:22,800 --> 00:36:26,640
+Okay. Um parents teachers just want to
+
+869
+00:36:25,119 --> 00:36:29,280
+get by and do as little work as
+
+870
+00:36:26,640 --> 00:36:31,599
+possible. The ministry just want to
+
+871
+00:36:29,280 --> 00:36:34,320
+protect relationship with parents. Okay.
+
+872
+00:36:31,599 --> 00:36:38,440
+And so when you do this convergence this
+
+873
+00:36:34,320 --> 00:36:38,440
+this is what schools look like now.
+
+874
+00:36:38,640 --> 00:36:42,960
+Okay.
+
+875
+00:36:40,880 --> 00:36:44,800
+schools in China, international schools
+
+876
+00:36:42,960 --> 00:36:46,480
+in China, by the way. And again, this is
+
+877
+00:36:44,800 --> 00:36:47,440
+like the majority. I'm not saying it's
+
+878
+00:36:46,480 --> 00:36:49,680
+every school, but I'm saying it's the
+
+879
+00:36:47,440 --> 00:36:52,680
+majority. Okay? What you have are white
+
+880
+00:36:49,680 --> 00:36:52,680
+faces,
+
+881
+00:36:53,680 --> 00:37:01,440
+easy grades, right? It's really easy to
+
+882
+00:36:57,440 --> 00:37:04,240
+get a good grade. All right. Um,
+
+883
+00:37:01,440 --> 00:37:06,560
+some top students,
+
+884
+00:37:04,240 --> 00:37:09,200
+these students are given scholarships
+
+885
+00:37:06,560 --> 00:37:11,760
+and then they're sent to top
+
+886
+00:37:09,200 --> 00:37:16,680
+universities.
+
+887
+00:37:11,760 --> 00:37:16,680
+Okay. Then you have lots of cheating.
+
+888
+00:37:18,160 --> 00:37:24,400
+Okay. And high turnover
+
+889
+00:37:21,280 --> 00:37:27,119
+where students leave, teachers leave,
+
+890
+00:37:24,400 --> 00:37:28,800
+but new ones come in. So, who cares?
+
+891
+00:37:27,119 --> 00:37:30,960
+Okay. And this is what it looks like.
+
+892
+00:37:28,800 --> 00:37:33,040
+This this what happens when you take the
+
+893
+00:37:30,960 --> 00:37:34,960
+interests of these different players,
+
+894
+00:37:33,040 --> 00:37:37,760
+you converge them together. And this is
+
+895
+00:37:34,960 --> 00:37:39,520
+what what schools look like today.
+
+896
+00:37:37,760 --> 00:37:42,320
+There's lots of white faces, lots of
+
+897
+00:37:39,520 --> 00:37:43,920
+really nice buildings, lots of fancy
+
+898
+00:37:42,320 --> 00:37:48,480
+activities,
+
+899
+00:37:43,920 --> 00:37:50,880
+great marketing, beautiful website,
+
+900
+00:37:48,480 --> 00:37:52,720
+really motivate admissions officers.
+
+901
+00:37:50,880 --> 00:37:56,640
+Then you have easy grades where everyone
+
+902
+00:37:52,720 --> 00:37:58,240
+gets an A no matter what you do. Um, you
+
+903
+00:37:56,640 --> 00:38:01,040
+have some top students who will get into
+
+904
+00:37:58,240 --> 00:38:03,359
+good school so that um the the school
+
+905
+00:38:01,040 --> 00:38:05,520
+can brag about them. You have lots of
+
+906
+00:38:03,359 --> 00:38:07,760
+cheating going on. Okay, if you don't
+
+907
+00:38:05,520 --> 00:38:10,160
+get a good grade, just complain and
+
+908
+00:38:07,760 --> 00:38:12,160
+you'll get a good grade. Okay, so that
+
+909
+00:38:10,160 --> 00:38:16,800
+happened to me at the school where I
+
+910
+00:38:12,160 --> 00:38:18,720
+tried my first year to give um fair
+
+911
+00:38:16,800 --> 00:38:20,240
+grades. Okay, and a fair grade is not
+
+912
+00:38:18,720 --> 00:38:22,320
+like I I give you a 20. I give you like
+
+913
+00:38:20,240 --> 00:38:24,640
+an 80 and students complain about me. So
+
+914
+00:38:22,320 --> 00:38:28,480
+now, so I'm stuck giving them like a
+
+915
+00:38:24,640 --> 00:38:29,920
+pass fail, right? So it's not hard for
+
+916
+00:38:28,480 --> 00:38:31,839
+students to get to pass. If you don't
+
+917
+00:38:29,920 --> 00:38:34,640
+like a teacher, just complain and then
+
+918
+00:38:31,839 --> 00:38:36,640
+the teacher has to change. And so you
+
+919
+00:38:34,640 --> 00:38:39,359
+now you have high ch turnover where
+
+920
+00:38:36,640 --> 00:38:41,440
+teachers feel stressed out and where
+
+921
+00:38:39,359 --> 00:38:43,839
+parents are never happy and where
+
+922
+00:38:41,440 --> 00:38:45,599
+students don't care.
+
+923
+00:38:43,839 --> 00:38:50,400
+Okay?
+
+924
+00:38:45,599 --> 00:38:53,280
+Doesn't make sense. This is why schools
+
+925
+00:38:50,400 --> 00:38:56,640
+suck. And I'm I'm saying they suck not
+
+926
+00:38:53,280 --> 00:39:00,720
+just in China, not just in our schools,
+
+927
+00:38:56,640 --> 00:39:02,000
+but in most places around the world. And
+
+928
+00:39:00,720 --> 00:39:04,079
+it has to do with the superstructure of
+
+929
+00:39:02,000 --> 00:39:07,839
+society.
+
+930
+00:39:04,079 --> 00:39:09,599
+Okay. But what but I I mean like the
+
+931
+00:39:07,839 --> 00:39:11,440
+point of today's class is not like
+
+932
+00:39:09,599 --> 00:39:13,520
+schools suck, don't go to school. The
+
+933
+00:39:11,440 --> 00:39:15,280
+point of today's class is we're trying
+
+934
+00:39:13,520 --> 00:39:18,320
+to analyze
+
+935
+00:39:15,280 --> 00:39:21,520
+why schools are the way they are. And
+
+936
+00:39:18,320 --> 00:39:24,880
+one way to analyze it is by figuring out
+
+937
+00:39:21,520 --> 00:39:27,839
+what at what point, okay,
+
+938
+00:39:24,880 --> 00:39:29,520
+do the different players converge,
+
+939
+00:39:27,839 --> 00:39:31,359
+right?
+
+940
+00:39:29,520 --> 00:39:34,079
+So think of you have different sets,
+
+941
+00:39:31,359 --> 00:39:34,079
+right?
+
+942
+00:39:36,400 --> 00:39:40,952
+Okay. Parents,
+
+943
+00:39:38,960 --> 00:39:42,240
+teachers,
+
+944
+00:39:40,952 --> 00:39:44,880
+[snorts]
+
+945
+00:39:42,240 --> 00:39:48,000
+students, government,
+
+946
+00:39:44,880 --> 00:39:51,440
+ecologist. Okay. And their convergence
+
+947
+00:39:48,000 --> 00:39:53,040
+point is the game they play.
+
+948
+00:39:51,440 --> 00:39:56,720
+Okay. Now, what's important for us to
+
+949
+00:39:53,040 --> 00:39:59,680
+understand is that there is actually a
+
+950
+00:39:56,720 --> 00:40:04,240
+lot of room to this convergence point.
+
+951
+00:39:59,680 --> 00:40:07,440
+So it's possible to do reform but only
+
+952
+00:40:04,240 --> 00:40:11,119
+within a subset of
+
+953
+00:40:07,440 --> 00:40:16,240
+of this convergence point.
+
+954
+00:40:11,119 --> 00:40:17,440
+Okay. So my problem is back in 2008 I
+
+955
+00:40:16,240 --> 00:40:20,880
+was like you know what I'm going to set
+
+956
+00:40:17,440 --> 00:40:23,680
+up a new universe
+
+957
+00:40:20,880 --> 00:40:25,200
+my own world. I'll make up the rules.
+
+958
+00:40:23,680 --> 00:40:26,640
+I'll be god and you just have to play
+
+959
+00:40:25,200 --> 00:40:28,000
+the game. I tell you to play the game.
+
+960
+00:40:26,640 --> 00:40:30,400
+Okay. That's why everyone is like you're
+
+961
+00:40:28,000 --> 00:40:32,880
+an
+
+962
+00:40:30,400 --> 00:40:35,200
+Okay, whatever you do, whatever game you
+
+963
+00:40:32,880 --> 00:40:38,640
+set up has to be within this conversion
+
+964
+00:40:35,200 --> 00:40:40,800
+point in order for players to accept it.
+
+965
+00:40:38,640 --> 00:40:42,160
+Okay, and this is true for everything.
+
+966
+00:40:40,800 --> 00:40:44,320
+If you want to implement political
+
+967
+00:40:42,160 --> 00:40:45,599
+reform anywhere, you have to figure out
+
+968
+00:40:44,320 --> 00:40:48,640
+where the different stakeholders
+
+969
+00:40:45,599 --> 00:40:52,240
+converge and figure out how to move the
+
+970
+00:40:48,640 --> 00:40:54,400
+stakeholders from one part of the
+
+971
+00:40:52,240 --> 00:40:55,760
+convergence point to another part of the
+
+972
+00:40:54,400 --> 00:40:58,640
+conver convergence point. Okay, this
+
+973
+00:40:55,760 --> 00:41:01,520
+slow incremental reform.
+
+974
+00:40:58,640 --> 00:41:06,200
+Okay, does that make sense? Okay, any
+
+975
+00:41:01,520 --> 00:41:06,200
+questions before I I conclude
+
+976
+00:41:09,040 --> 00:41:13,680
+guys ask questions?
+
+977
+00:41:11,200 --> 00:41:17,400
+What what was this clear?
+
+978
+00:41:13,680 --> 00:41:17,400
+>> Yeah, you have a question.
+
+979
+00:41:20,880 --> 00:41:26,480
+So in the future will we learn more
+
+980
+00:41:23,119 --> 00:41:28,240
+about how do we find out what causes
+
+981
+00:41:26,480 --> 00:41:30,800
+different stakeholders to have different
+
+982
+00:41:28,240 --> 00:41:32,000
+interests like in the future? It's like
+
+983
+00:41:30,800 --> 00:41:33,040
+not really really
+
+984
+00:41:32,000 --> 00:41:34,400
+>> okay. Yeah, that's a really good
+
+985
+00:41:33,040 --> 00:41:37,280
+question. So so thank you for asking.
+
+986
+00:41:34,400 --> 00:41:38,800
+Okay.
+
+987
+00:41:37,280 --> 00:41:41,760
+All right.
+
+988
+00:41:38,800 --> 00:41:45,440
+So the question is
+
+989
+00:41:41,760 --> 00:41:49,040
+where do the interest
+
+990
+00:41:45,440 --> 00:41:52,319
+of these different players come from?
+
+991
+00:41:49,040 --> 00:41:54,160
+Okay. And
+
+992
+00:41:52,319 --> 00:41:58,079
+I mean the easy answer is the super
+
+993
+00:41:54,160 --> 00:42:00,640
+structure of society. Okay, people are
+
+994
+00:41:58,079 --> 00:42:02,319
+responding to their culture.
+
+995
+00:42:00,640 --> 00:42:04,960
+But in game theory, what I want to teach
+
+996
+00:42:02,319 --> 00:42:07,119
+you is that it's because they themselves
+
+997
+00:42:04,960 --> 00:42:12,440
+are playing different games.
+
+998
+00:42:07,119 --> 00:42:12,440
+Okay, so let's look at parents.
+
+999
+00:42:12,914 --> 00:42:20,000
+[snorts] Okay, parents have different
+
+1000
+00:42:15,200 --> 00:42:22,880
+identities. They are um family,
+
+1001
+00:42:20,000 --> 00:42:25,839
+they are colleagues.
+
+1002
+00:42:22,880 --> 00:42:27,599
+Okay. And depending on on on their
+
+1003
+00:42:25,839 --> 00:42:30,480
+identity, they're playing a different
+
+1004
+00:42:27,599 --> 00:42:34,079
+game. All right. So, what does family
+
+1005
+00:42:30,480 --> 00:42:38,640
+family mean? Family means that you
+
+1006
+00:42:34,079 --> 00:42:40,319
+um might have brothers, right? Brothers.
+
+1007
+00:42:38,640 --> 00:42:42,640
+What do brothers do? They compete
+
+1008
+00:42:40,319 --> 00:42:44,319
+against each other, right? You have
+
+1009
+00:42:42,640 --> 00:42:46,079
+three brothers. You want to prove that
+
+1010
+00:42:44,319 --> 00:42:48,000
+you're better than your brother. How?
+
+1011
+00:42:46,079 --> 00:42:50,640
+Well, by having more money, by having
+
+1012
+00:42:48,000 --> 00:42:52,480
+better kids, by having a more beautiful
+
+1013
+00:42:50,640 --> 00:42:54,640
+wife. Okay, that's a game they're
+
+1014
+00:42:52,480 --> 00:42:57,680
+playing,
+
+1015
+00:42:54,640 --> 00:43:01,040
+right? Um, but then you have colleagues.
+
+1016
+00:42:57,680 --> 00:43:03,680
+You have colleagues
+
+1017
+00:43:01,040 --> 00:43:05,119
+and the game you're trying to play there
+
+1018
+00:43:03,680 --> 00:43:06,720
+is get along your colleagues because
+
+1019
+00:43:05,119 --> 00:43:09,280
+that that's what ensures your success in
+
+1020
+00:43:06,720 --> 00:43:13,119
+life. Okay? So you need to make sure
+
+1021
+00:43:09,280 --> 00:43:16,240
+that your child no matter how he or she
+
+1022
+00:43:13,119 --> 00:43:18,079
+is educated is able to become friends
+
+1023
+00:43:16,240 --> 00:43:20,319
+with the sons and daughters of your
+
+1024
+00:43:18,079 --> 00:43:21,920
+colleagues.
+
+1025
+00:43:20,319 --> 00:43:25,040
+Okay?
+
+1026
+00:43:21,920 --> 00:43:26,160
+So because this is what ensures success.
+
+1027
+00:43:25,040 --> 00:43:27,760
+All right? And so there are other games
+
+1028
+00:43:26,160 --> 00:43:29,760
+as well. But but you understand this
+
+1029
+00:43:27,760 --> 00:43:32,720
+right? You understand how parents so
+
+1030
+00:43:29,760 --> 00:43:34,400
+calculation isn't just like my kid I
+
+1031
+00:43:32,720 --> 00:43:36,480
+want my kid to be successful. No, no.
+
+1032
+00:43:34,400 --> 00:43:38,079
+You're thinking about how to play
+
+1033
+00:43:36,480 --> 00:43:42,400
+different games and be successful in
+
+1034
+00:43:38,079 --> 00:43:44,560
+other games, right? Because if you if
+
+1035
+00:43:42,400 --> 00:43:48,800
+your kid becomes very successful but not
+
+1036
+00:43:44,560 --> 00:43:51,040
+in a way that pleases the colleagues,
+
+1037
+00:43:48,800 --> 00:43:52,720
+you become you can be thrown out of the
+
+1038
+00:43:51,040 --> 00:43:56,319
+game. Okay. The people that the thing
+
+1039
+00:43:52,720 --> 00:43:59,280
+that people fear the most is the idea of
+
+1040
+00:43:56,319 --> 00:44:02,160
+aization. Okay.
+
+1041
+00:43:59,280 --> 00:44:05,680
+or basically just exile
+
+1042
+00:44:02,160 --> 00:44:07,760
+where you are no longer part of the
+
+1043
+00:44:05,680 --> 00:44:09,359
+group. They kick you out as a player.
+
+1044
+00:44:07,760 --> 00:44:11,119
+Okay,
+
+1045
+00:44:09,359 --> 00:44:14,240
+that's what people are afraid of and
+
+1046
+00:44:11,119 --> 00:44:15,520
+that's why people are motivated by what
+
+1047
+00:44:14,240 --> 00:44:17,599
+they do because they're trying to
+
+1048
+00:44:15,520 --> 00:44:19,839
+they're trying as hard as possible to to
+
+1049
+00:44:17,599 --> 00:44:22,480
+play the game
+
+1050
+00:44:19,839 --> 00:44:24,000
+and get along with other other players
+
+1051
+00:44:22,480 --> 00:44:26,079
+while at the same time competing against
+
+1052
+00:44:24,000 --> 00:44:27,760
+them. So so it's a weird psychology.
+
+1053
+00:44:26,079 --> 00:44:30,560
+Okay, you're trying to beat them. At the
+
+1054
+00:44:27,760 --> 00:44:32,079
+same time, you don't want to piss them
+
+1055
+00:44:30,560 --> 00:44:33,760
+off and get thrown out of the game.
+
+1056
+00:44:32,079 --> 00:44:35,200
+Okay,
+
+1057
+00:44:33,760 --> 00:44:38,200
+and this is what prevents the idea of
+
+1058
+00:44:35,200 --> 00:44:38,200
+cheating.
+
+1059
+00:44:40,800 --> 00:44:45,359
+But from the perspective of the game, if
+
+1060
+00:44:43,359 --> 00:44:47,119
+you're doing anything different, that's
+
+1061
+00:44:45,359 --> 00:44:49,839
+still cheating.
+
+1062
+00:44:47,119 --> 00:44:54,000
+Okay? Because so another way of saying
+
+1063
+00:44:49,839 --> 00:44:59,599
+this is a lot of the rebellion against
+
+1064
+00:44:54,000 --> 00:45:03,520
+what I was doing as a reformer is I was
+
+1065
+00:44:59,599 --> 00:45:07,680
+subverting traditional Chinese values.
+
+1066
+00:45:03,520 --> 00:45:09,760
+Okay. I was arguing against the norms,
+
+1067
+00:45:07,680 --> 00:45:12,480
+the values,
+
+1068
+00:45:09,760 --> 00:45:16,000
+the conventions of this country. And
+
+1069
+00:45:12,480 --> 00:45:18,880
+it's and so if people believed in me
+
+1070
+00:45:16,000 --> 00:45:22,400
+then they risk themselves being
+
+1071
+00:45:18,880 --> 00:45:25,440
+ostracized by the larger community.
+
+1072
+00:45:22,400 --> 00:45:29,440
+Okay, does that make sense? All right,
+
+1073
+00:45:25,440 --> 00:45:31,760
+so that's parents. Then you have
+
+1074
+00:45:29,440 --> 00:45:34,160
+um
+
+1075
+00:45:31,760 --> 00:45:36,240
+um
+
+1076
+00:45:34,160 --> 00:45:39,920
+right. Okay, but students, right? So
+
+1077
+00:45:36,240 --> 00:45:41,599
+students they're trying to play a game
+
+1078
+00:45:39,920 --> 00:45:44,000
+where they do well in school because
+
+1079
+00:45:41,599 --> 00:45:45,520
+that ensures a good outcome but at the
+
+1080
+00:45:44,000 --> 00:45:46,960
+same time students play other games as
+
+1081
+00:45:45,520 --> 00:45:48,640
+well. So for for example a friendship
+
+1082
+00:45:46,960 --> 00:45:49,920
+game right where you're trying to have
+
+1083
+00:45:48,640 --> 00:45:51,040
+as many friends as possible. You're
+
+1084
+00:45:49,920 --> 00:45:52,480
+trying to be popular in school. That's
+
+1085
+00:45:51,040 --> 00:45:54,800
+another game you play. You're also
+
+1086
+00:45:52,480 --> 00:45:56,560
+trying to please your parents
+
+1087
+00:45:54,800 --> 00:45:58,400
+right because by pleasing your parents
+
+1088
+00:45:56,560 --> 00:46:00,880
+that ensures that you have an easy
+
+1089
+00:45:58,400 --> 00:46:02,720
+comfortable [music] life. In fact you
+
+1090
+00:46:00,880 --> 00:46:04,400
+could argue that of these three games
+
+1091
+00:46:02,720 --> 00:46:07,839
+pleasing your parents is the most
+
+1092
+00:46:04,400 --> 00:46:10,240
+important. Then comes um having good
+
+1093
+00:46:07,839 --> 00:46:11,839
+friends because [music] that will also
+
+1094
+00:46:10,240 --> 00:46:13,280
+ensure your success in life. And the and
+
+1095
+00:46:11,839 --> 00:46:15,520
+the game that you care the least about
+
+1096
+00:46:13,280 --> 00:46:18,000
+that matters the least is actually doing
+
+1097
+00:46:15,520 --> 00:46:19,680
+all in school learning learning in
+
+1098
+00:46:18,000 --> 00:46:22,079
+school.
+
+1099
+00:46:19,680 --> 00:46:24,319
+Okay.
+
+1100
+00:46:22,079 --> 00:46:27,119
+Does does that make sense? So game
+
+1101
+00:46:24,319 --> 00:46:28,800
+theory it sounds easy but it's very very
+
+1102
+00:46:27,119 --> 00:46:30,960
+complicated because we're complicated
+
+1103
+00:46:28,800 --> 00:46:33,920
+individuals.
+
+1104
+00:46:30,960 --> 00:46:36,319
+Each one of us has different identities,
+
+1105
+00:46:33,920 --> 00:46:38,400
+has different motivations, and has
+
+1106
+00:46:36,319 --> 00:46:39,760
+different outlooks. And and also what's
+
+1107
+00:46:38,400 --> 00:46:41,920
+really important for us to understand is
+
+1108
+00:46:39,760 --> 00:46:43,359
+we're always changing as people. Okay?
+
+1109
+00:46:41,920 --> 00:46:45,280
+So the way that you behaved in
+
+1110
+00:46:43,359 --> 00:46:46,960
+kindergarten is not the way you behave
+
+1111
+00:46:45,280 --> 00:46:48,800
+today in high school, it will not be the
+
+1112
+00:46:46,960 --> 00:46:50,640
+way you behave when you enter society.
+
+1113
+00:46:48,800 --> 00:46:52,560
+You're always changing because the game
+
+1114
+00:46:50,640 --> 00:46:55,119
+is always changing. You must adapt to
+
+1115
+00:46:52,560 --> 00:46:57,200
+new games that have different players
+
+1116
+00:46:55,119 --> 00:46:59,680
+and have new requirements. Okay. So
+
+1117
+00:46:57,200 --> 00:47:01,440
+that's wonderful about us where we are
+
+1118
+00:46:59,680 --> 00:47:05,280
+easily
+
+1119
+00:47:01,440 --> 00:47:10,079
+adaptable where we are we are resilient
+
+1120
+00:47:05,280 --> 00:47:15,040
+okay but um we are always changing
+
+1121
+00:47:10,079 --> 00:47:18,160
+according to the game and and
+
+1122
+00:47:15,040 --> 00:47:21,599
+we are who we are is often determined by
+
+1123
+00:47:18,160 --> 00:47:24,319
+the nature of the game. Okay. So you
+
+1124
+00:47:21,599 --> 00:47:27,200
+could have come into school
+
+1125
+00:47:24,319 --> 00:47:28,800
+wanting to learn, being creative and all
+
+1126
+00:47:27,200 --> 00:47:30,319
+that, but eventually you you recognize
+
+1127
+00:47:28,800 --> 00:47:33,839
+that that's not really rewarded in
+
+1128
+00:47:30,319 --> 00:47:37,760
+school. All right? Getting along, having
+
+1129
+00:47:33,839 --> 00:47:40,000
+lots of friends, doing helping other
+
+1130
+00:47:37,760 --> 00:47:42,240
+students cheat, that's rewarded. And so
+
+1131
+00:47:40,000 --> 00:47:45,280
+you adapt to the game and that's why you
+
+1132
+00:47:42,240 --> 00:47:46,640
+behave the way you do. Okay? And if you
+
+1133
+00:47:45,280 --> 00:47:49,440
+actually go back and think about
+
+1134
+00:47:46,640 --> 00:47:52,079
+everything that you did in school,
+
+1135
+00:47:49,440 --> 00:47:57,280
+the answer is you're responding to a
+
+1136
+00:47:52,079 --> 00:47:59,040
+certain incentive or rule of the game.
+
+1137
+00:47:57,280 --> 00:48:01,040
+Okay?
+
+1138
+00:47:59,040 --> 00:48:02,960
+And that's what you need to that's what
+
+1139
+00:48:01,040 --> 00:48:05,760
+we need to understand
+
+1140
+00:48:02,960 --> 00:48:08,720
+about game theory.
+
+1141
+00:48:05,760 --> 00:48:10,880
+Game theory, it's not about ideas. It's
+
+1142
+00:48:08,720 --> 00:48:12,800
+not about ideals. It's not the way
+
+1143
+00:48:10,880 --> 00:48:14,480
+things should be. It's the way things
+
+1144
+00:48:12,800 --> 00:48:17,839
+are. And the way things are are
+
+1145
+00:48:14,480 --> 00:48:20,480
+determined by who players are and the
+
+1146
+00:48:17,839 --> 00:48:22,960
+way players behave
+
+1147
+00:48:20,480 --> 00:48:25,280
+um is a response to their the game they
+
+1148
+00:48:22,960 --> 00:48:27,760
+believe they're playing. Okay, does that
+
+1149
+00:48:25,280 --> 00:48:31,000
+make sense? Okay, so so thank you. Any
+
+1150
+00:48:27,760 --> 00:48:31,000
+more questions?
+
+1151
+00:48:32,960 --> 00:48:40,520
+Okay, great. So um we will continue this
+
+1152
+00:48:36,640 --> 00:48:40,520
+next class. Okay.
+

@@ -1,0 +1,301 @@
+{% extends "base.html" %}
+{% block title %}{{ d.meta.series }} #{{ d.meta.episode }}: {{ d.meta.title }} — Predictive History Audit{% endblock %}
+
+{% block content %}
+<section class="page-hero">
+  <div class="container">
+    <span class="series-badge">{{ d.meta.series }}</span>
+    <div class="episode-label">{% if d.meta.episode %}Episode {{ d.meta.episode }}{% endif %}{% if d.meta.upload_date %}{% if d.meta.episode %} &middot; {% endif %}Posted {{ d.meta.upload_date }}{% endif %}</div>
+    <h1>{{ d.meta.title }}</h1>
+    <div class="hero-body">
+      <p class="lead">{{ d.synopsis }}</p>
+      <a href="https://www.youtube.com/watch?v={{ d.meta.video_id }}" target="_blank" rel="noopener" class="hero-thumb">
+        <img src="https://img.youtube.com/vi/{{ d.meta.video_id }}/hqdefault.jpg" alt="Video thumbnail" class="hero-thumb-img">
+      </a>
+    </div>
+    <div style="margin-top: var(--space-md);">
+      <a href="https://www.youtube.com/watch?v={{ d.meta.video_id }}" class="mono" style="font-size: 0.78rem; color: var(--text-muted);" target="_blank" rel="noopener">
+        youtube.com/watch?v={{ d.meta.video_id }} &#x2197;
+      </a>
+      <span class="mono muted" style="font-size: 0.7rem; margin-left: var(--space-md);">
+        Analyzed {{ d.meta.analysis_date }} by {{ d.meta.analyzed_by }}
+      </span>
+    </div>
+  </div>
+</section>
+
+<div class="container">
+
+  <!-- VIEWER ADVISORY -->
+  <div class="advisory-box fade-up" style="margin-top: var(--space-xl);">
+    <h4>Viewer Advisory</h4>
+    <ul class="advisory-list">
+      {% for point in advisory_points %}
+      <li>{{ point }}</li>
+      {% endfor %}
+    </ul>
+  </div>
+
+  <!-- THESIS -->
+  <div class="card fade-up" style="margin-top: var(--space-md);">
+    <div class="card-header">
+      <span class="card-title">Central Thesis</span>
+    </div>
+    <p style="font-size: 1.05rem; line-height: 1.6;">{{ d.thesis.central_thesis }}</p>
+    {% if d.thesis.supporting_claims %}
+    <ul style="margin-top: var(--space-md); padding-left: var(--space-lg);">
+      {% for claim in d.thesis.supporting_claims %}
+      <li style="font-size: 0.88rem; color: var(--text-secondary); line-height: 1.55; margin-bottom: var(--space-xs);">{{ claim }}</li>
+      {% endfor %}
+    </ul>
+    {% endif %}
+  </div>
+
+  <!-- SCORES -->
+  <div class="card fade-up" style="margin-top: var(--space-md);">
+    <div class="card-header">
+      <span class="card-title">Qualitative Scorecard</span>
+      <span class="mono muted" style="font-size: 0.7rem;">{{ "%.1f"|format(avg) }} / 5.0 average across 7 axes</span>
+    </div>
+    <div class="score-panel">
+      <div class="radar-wrap">
+        <canvas id="radarChart" width="260" height="260"></canvas>
+      </div>
+      <div class="score-details">
+        {% for key, label in score_labels.items() %}
+        <div class="score-row" data-expandable>
+          <div>
+            <div class="score-name">
+              <span class="tip-wide" data-tip="{{ score_tips[key] }}">{{ label }}</span>
+              <span class="score-expand-hint">&#x25B8; Expand</span>
+            </div>
+            <div class="score-justification">{{ d.scores[key].justification }}</div>
+          </div>
+          <div class="score-badge score-{{ d.scores[key].score }}" data-tip="{{ d.scores[key].score }} / 5">{{ d.scores[key].score }}</div>
+        </div>
+        {% endfor %}
+        <div class="score-row" style="border-top: 2px solid var(--border);">
+          <div>
+            <div class="score-name" style="font-weight: 700; color: var(--text-primary);">Overall Average</div>
+          </div>
+          <div class="score-badge score-{{ avg|round|int }}" style="font-size: 1.1rem;">{{ "%.1f"|format(avg) }}</div>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  {% if d.scores.civilizational_framing.china_treatment or d.scores.civilizational_framing.us_treatment or d.scores.civilizational_framing.russia_treatment or d.scores.civilizational_framing.west_treatment %}
+  <div class="card fade-up">
+    <div class="card-header">
+      <span class="card-title">Civilizational Treatment</span>
+    </div>
+    {% if d.scores.civilizational_framing.china_treatment %}
+    <div style="margin-bottom: var(--space-sm);">
+      <span class="mono" style="font-size: 0.7rem; color: var(--accent-dim);">CHINA</span>
+      <p style="font-size: 0.85rem; color: var(--text-secondary); margin-top: 2px;">{{ d.scores.civilizational_framing.china_treatment }}</p>
+    </div>
+    {% endif %}
+    {% if d.scores.civilizational_framing.us_treatment %}
+    <div style="margin-bottom: var(--space-sm);">
+      <span class="mono" style="font-size: 0.7rem; color: var(--accent-dim);">UNITED STATES</span>
+      <p style="font-size: 0.85rem; color: var(--text-secondary); margin-top: 2px;">{{ d.scores.civilizational_framing.us_treatment }}</p>
+    </div>
+    {% endif %}
+    {% if d.scores.civilizational_framing.russia_treatment %}
+    <div style="margin-bottom: var(--space-sm);">
+      <span class="mono" style="font-size: 0.7rem; color: var(--accent-dim);">RUSSIA</span>
+      <p style="font-size: 0.85rem; color: var(--text-secondary); margin-top: 2px;">{{ d.scores.civilizational_framing.russia_treatment }}</p>
+    </div>
+    {% endif %}
+    {% if d.scores.civilizational_framing.west_treatment %}
+    <div>
+      <span class="mono" style="font-size: 0.7rem; color: var(--accent-dim);">THE WEST</span>
+      <p style="font-size: 0.85rem; color: var(--text-secondary); margin-top: 2px;">{{ d.scores.civilizational_framing.west_treatment }}</p>
+    </div>
+    {% endif %}
+  </div>
+  {% endif %}
+
+  <!-- SOURCES -->
+  <button class="section-toggle" data-target="sources-section">
+    <h3>Sources <span class="muted" style="text-transform: none; letter-spacing: normal; font-weight: 400;">&mdash; {{ d.sources.named_sources|length }} cited, {{ d.sources.vague_appeals|length }} vague, {{ d.sources.notable_omissions|length }} omitted</span></h3>
+    <span class="toggle-hint"><span class="hint-expand">Expand</span><span class="hint-collapse">Collapse</span></span>
+    <span class="toggle-icon">&#x25B8;</span>
+  </button>
+  <div class="section-content" id="sources-section">
+    {% if d.sources.named_sources %}
+    <h4 class="card-title" style="margin-bottom: var(--space-md);">Named Sources</h4>
+    {% for src in d.sources.named_sources %}
+    <div class="source-entry">
+      <span class="source-type-badge">{{ src.type }}</span>
+      <div>
+        <div class="source-name">{{ src.name }}</div>
+        <div class="source-usage">{{ src.how_used }}</div>
+      </div>
+      <span class="source-accuracy {% if src.accurate_representation == true %}accurate{% elif src.accurate_representation == false %}inaccurate{% else %}unverified{% endif %}" data-tip="{% if src.accurate_representation == true %}Source is represented accurately{% elif src.accurate_representation == false %}Source is misrepresented{% else %}Could not verify representation{% endif %}">
+        {% if src.accurate_representation == true %}&#x2713; Accurate{% elif src.accurate_representation == false %}&#x2717; Inaccurate{% else %}? Unverified{% endif %}
+      </span>
+    </div>
+    {% endfor %}
+    {% endif %}
+
+    {% if d.sources.vague_appeals %}
+    <h4 class="card-title" style="margin: var(--space-lg) 0 var(--space-sm);">Vague Appeals to Authority</h4>
+    <ul class="flagged-list">
+      {% for appeal in d.sources.vague_appeals %}
+      <li>{{ appeal }}</li>
+      {% endfor %}
+    </ul>
+    {% endif %}
+
+    {% if d.sources.notable_omissions %}
+    <h4 class="card-title" style="margin: var(--space-lg) 0 var(--space-sm);">Notable Omissions</h4>
+    <ul class="flagged-list omissions">
+      {% for omission in d.sources.notable_omissions %}
+      <li>{{ omission }}</li>
+      {% endfor %}
+    </ul>
+    {% endif %}
+  </div>
+
+  <!-- RHETORIC -->
+  <button class="section-toggle" data-target="rhetoric-section">
+    <h3>Rhetorical Techniques <span class="muted" style="text-transform: none; letter-spacing: normal; font-weight: 400;">&mdash; {{ d.rhetoric|length }} instances identified</span></h3>
+    <span class="toggle-hint"><span class="hint-expand">Expand</span><span class="hint-collapse">Collapse</span></span>
+    <span class="toggle-icon">&#x25B8;</span>
+  </button>
+  <div class="section-content" id="rhetoric-section">
+    {% for r in d.rhetoric %}
+    <div class="rhetoric-entry">
+      <div style="display: flex; align-items: center; gap: var(--space-md); margin-bottom: var(--space-xs);">
+        <span class="rhetoric-technique">{{ r.technique }}</span>
+        {% if r.timestamp %}
+        <a href="https://www.youtube.com/watch?v={{ d.meta.video_id }}&t={{ r.timestamp|ts_to_seconds }}" class="quote-timestamp" target="_blank" rel="noopener">{{ r.timestamp }}</a>
+        {% endif %}
+      </div>
+      {% if r.screencap %}
+      <img src="{{ root }}caps/{{ r.screencap }}" alt="Frame at {{ r.timestamp }}" class="quote-screencap" style="max-width: 240px; margin-bottom: var(--space-sm);">
+      {% endif %}
+      <div class="rhetoric-instance">{{ r.instance }}</div>
+      <div class="rhetoric-effect">{{ r.effect }}</div>
+    </div>
+    {% endfor %}
+  </div>
+
+  <!-- NOTABLE QUOTES -->
+  <button class="section-toggle" data-target="quotes-section">
+    <h3>Notable Quotes <span class="muted" style="text-transform: none; letter-spacing: normal; font-weight: 400;">&mdash; {{ d.notable_quotes|length }} excerpts</span></h3>
+    <span class="toggle-hint"><span class="hint-expand">Expand</span><span class="hint-collapse">Collapse</span></span>
+    <span class="toggle-icon">&#x25B8;</span>
+  </button>
+  <div class="section-content" id="quotes-section">
+    {% for q in d.notable_quotes %}
+    <div class="quote-block">
+      <div>
+        {% if q.screencap %}
+        <img src="{{ root }}caps/{{ q.screencap }}" alt="Frame at {{ q.timestamp }}" class="quote-screencap">
+        {% endif %}
+        <a href="https://www.youtube.com/watch?v={{ d.meta.video_id }}&t={{ q.timestamp|ts_to_seconds }}" class="quote-timestamp" target="_blank" rel="noopener" style="display: block; margin-top: var(--space-xs);">&#x23F5; {{ q.timestamp }}</a>
+      </div>
+      <div>
+        <div class="quote-text">{{ q.quote }}</div>
+        <div class="quote-significance">{{ q.significance }}</div>
+        {% if q.ironic_mirror %}
+        <div class="ironic-mirror">{{ q.ironic_mirror }}</div>
+        {% endif %}
+      </div>
+    </div>
+    {% endfor %}
+  </div>
+
+  <!-- PREDICTIONS -->
+  {% if d.thesis.predictions %}
+  <button class="section-toggle" data-target="predictions-section">
+    <h3>Predictions &amp; Claims <span class="muted" style="text-transform: none; letter-spacing: normal; font-weight: 400;">&mdash; {{ d.thesis.predictions|length }} tracked</span></h3>
+    <span class="toggle-hint"><span class="hint-expand">Expand</span><span class="hint-collapse">Collapse</span></span>
+    <span class="toggle-icon">&#x25B8;</span>
+  </button>
+  <div class="section-content" id="predictions-section">
+    {% for p in d.thesis.predictions %}
+    <div class="prediction-entry">
+      <div>
+        <div class="prediction-claim">
+          <span class="pred-type-badge pred-type-{{ p.type|default('prediction') }}">{{ p.type|default('prediction') }}</span>
+          {{ p.claim }}
+        </div>
+        <div class="prediction-meta">
+          <a href="https://www.youtube.com/watch?v={{ d.meta.video_id }}&t={{ p.timestamp|ts_to_seconds }}" target="_blank" rel="noopener">{{ p.timestamp }}</a>
+          &middot;
+          {% if p.falsifiable %}Falsifiable{% else %}Not falsifiable{% endif %}
+        </div>
+      </div>
+      <span class="status-badge status-{{ p.status|default('untested') }}" data-tip="{% if p.status == 'confirmed' %}Events matched this prediction{% elif p.status == 'disconfirmed' %}Events contradicted this prediction{% elif p.status == 'partially_confirmed' %}Partially correct — see notes{% elif p.status == 'unfalsifiable' %}Cannot be tested or verified{% else %}Not yet testable or tested{% endif %}">{{ p.status|default('untested')|replace('_', ' ') }}</span>
+    </div>
+    {% if p.status_note %}
+    <div class="prediction-note">{{ p.status_note }}</div>
+    {% endif %}
+    {% endfor %}
+  </div>
+  {% endif %}
+
+  <!-- VERDICT -->
+  <div style="margin-top: var(--space-xl);">
+    <div class="card-header" style="border-bottom: none; padding-bottom: 0;">
+      <span class="card-title">Verdict</span>
+    </div>
+    <div class="verdict-grid" style="margin-top: var(--space-md);">
+      <div class="verdict-box strengths">
+        <h4>Strengths</h4>
+        <p>{{ d.verdict.strengths }}</p>
+      </div>
+      <div class="verdict-box weaknesses">
+        <h4>Weaknesses</h4>
+        <p>{{ d.verdict.weaknesses }}</p>
+      </div>
+    </div>
+  </div>
+
+  <!-- CROSS-REFERENCES -->
+  {% if d.cross_references.builds_on or d.cross_references.contradicts or d.cross_references.pattern_notes %}
+  <div class="card" style="margin-top: var(--space-xl);">
+    <div class="card-header">
+      <span class="card-title">Cross-References</span>
+    </div>
+    {% if d.cross_references.builds_on %}
+    <h4 class="mono muted" style="font-size: 0.7rem; margin-bottom: var(--space-sm);">BUILDS ON</h4>
+    <ul class="cross-ref-list">
+      {% for ref in d.cross_references.builds_on %}
+      <li>{{ ref }}</li>
+      {% endfor %}
+    </ul>
+    {% endif %}
+    {% if d.cross_references.contradicts %}
+    <h4 class="mono muted" style="font-size: 0.7rem; margin: var(--space-md) 0 var(--space-sm);">CONTRADICTS</h4>
+    <ul class="cross-ref-list">
+      {% for ref in d.cross_references.contradicts %}
+      <li>{{ ref }}</li>
+      {% endfor %}
+    </ul>
+    {% endif %}
+    {% if d.cross_references.pattern_notes %}
+    <div class="pattern-notes">{{ d.cross_references.pattern_notes }}</div>
+    {% endif %}
+  </div>
+  {% endif %}
+
+</div>
+
+<script>
+document.addEventListener('DOMContentLoaded', function() {
+  initRadarChart('radarChart', {
+    historical_accuracy: {{ d.scores.historical_accuracy.score }},
+    argumentative_rigor: {{ d.scores.argumentative_rigor.score }},
+    framing_and_selectivity: {{ d.scores.framing_and_selectivity.score }},
+    perspective_diversity: {{ d.scores.perspective_diversity.score }},
+    normative_loading: {{ d.scores.normative_loading.score }},
+    determinism_vs_contingency: {{ d.scores.determinism_vs_contingency.score }},
+    civilizational_framing: {{ d.scores.civilizational_framing.score }}
+  });
+});
+</script>
+{% endblock %}

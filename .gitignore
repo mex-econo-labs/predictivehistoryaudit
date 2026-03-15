@@ -1,0 +1,6 @@
+analysis/dist/
+analysis/__pycache__/
+analysis/*.log
+analysis/caps/
+*.pyc
+.DS_Store

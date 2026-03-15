@@ -1,0 +1,245 @@
+/* ============================================================
+   PREDICTIVE HISTORY AUDIT — Client-side interactivity
+   ============================================================ */
+
+/* --- Radar Chart (using Chart.js) --- */
+function initRadarChart(canvasId, scores) {
+  const labels = [
+    'Accuracy', 'Rigor', 'Framing',
+    'Diversity', 'Normative', 'Determinism', 'Civ. Framing'
+  ];
+  const data = [
+    scores.historical_accuracy,
+    scores.argumentative_rigor,
+    scores.framing_and_selectivity,
+    scores.perspective_diversity,
+    scores.normative_loading,
+    scores.determinism_vs_contingency,
+    scores.civilizational_framing
+  ];
+
+  const ctx = document.getElementById(canvasId);
+  if (!ctx) return;
+
+  new Chart(ctx, {
+    type: 'radar',
+    data: {
+      labels: labels,
+      datasets: [{
+        data: data,
+        backgroundColor: 'rgba(252, 226, 143, 0.08)',
+        borderColor: 'rgba(252, 226, 143, 0.6)',
+        borderWidth: 1.5,
+        pointBackgroundColor: function(context) {
+          const v = context.raw;
+          const colors = {
+            1: '#ff9494', 2: '#ffbe72', 3: '#f5dc6a',
+            4: '#96e880', 5: '#6eeaaa'
+          };
+          return colors[v] || '#b0a99e';
+        },
+        pointBorderColor: 'transparent',
+        pointRadius: 5,
+        pointHoverRadius: 7,
+      }]
+    },
+    options: {
+      responsive: true,
+      maintainAspectRatio: true,
+      scales: {
+        r: {
+          min: 0,
+          max: 5,
+          ticks: {
+            stepSize: 1,
+            display: false,
+          },
+          grid: {
+            color: 'rgba(255,255,255,0.06)',
+          },
+          angleLines: {
+            color: 'rgba(255,255,255,0.06)',
+          },
+          pointLabels: {
+            color: '#b0a99e',
+            font: {
+              family: "'DM Sans', sans-serif",
+              size: 11,
+              weight: 500,
+            }
+          }
+        }
+      },
+      plugins: {
+        legend: { display: false },
+        tooltip: {
+          backgroundColor: '#171b22',
+          borderColor: '#252a33',
+          borderWidth: 1,
+          titleFont: { family: "'JetBrains Mono', monospace", size: 12 },
+          bodyFont: { family: "'DM Sans', sans-serif", size: 12 },
+          callbacks: {
+            label: function(context) {
+              return context.raw + ' / 5';
+            }
+          }
+        }
+      }
+    }
+  });
+}
+
+/* --- Table Sorting --- */
+function initTableSort() {
+  const table = document.querySelector('.data-table');
+  if (!table) return;
+
+  const headers = table.querySelectorAll('th[data-sort]');
+  let currentSort = null;
+  let currentDir = 'asc';
+
+  // Detect pre-set default sort from markup
+  headers.forEach(th => {
+    if (th.classList.contains('sort-asc')) {
+      currentSort = th.dataset.sort;
+      currentDir = 'asc';
+    } else if (th.classList.contains('sort-desc')) {
+      currentSort = th.dataset.sort;
+      currentDir = 'desc';
+    }
+  });
+
+  function sortBy(key, type, dir) {
+    const tbody = table.querySelector('tbody');
+    const rows = Array.from(tbody.querySelectorAll('tr'));
+
+    rows.sort((a, b) => {
+      let va = a.querySelector(`[data-value="${key}"]`)?.dataset.raw || a.querySelector(`[data-value="${key}"]`)?.textContent || '';
+      let vb = b.querySelector(`[data-value="${key}"]`)?.dataset.raw || b.querySelector(`[data-value="${key}"]`)?.textContent || '';
+
+      if (type === 'number') {
+        va = parseFloat(va) || 0;
+        vb = parseFloat(vb) || 0;
+      }
+
+      let cmp = va < vb ? -1 : va > vb ? 1 : 0;
+      return dir === 'asc' ? cmp : -cmp;
+    });
+
+    rows.forEach(row => tbody.appendChild(row));
+  }
+
+  headers.forEach(th => {
+    th.addEventListener('click', () => {
+      const key = th.dataset.sort;
+      const type = th.dataset.sortType || 'number';
+
+      if (currentSort === key) {
+        currentDir = currentDir === 'asc' ? 'desc' : 'asc';
+      } else {
+        currentSort = key;
+        currentDir = type === 'string' ? 'asc' : 'desc';
+      }
+
+      headers.forEach(h => h.classList.remove('sort-asc', 'sort-desc'));
+      th.classList.add(currentDir === 'asc' ? 'sort-asc' : 'sort-desc');
+
+      sortBy(key, type, currentDir);
+    });
+  });
+}
+
+/* --- Series Filter --- */
+function initSeriesFilter() {
+  const tabs = document.querySelectorAll('.filter-tab');
+  const rows = document.querySelectorAll('.data-table tbody tr');
+
+  if (!tabs.length) return;
+
+  tabs.forEach(tab => {
+    tab.addEventListener('click', () => {
+      tabs.forEach(t => t.classList.remove('active'));
+      tab.classList.add('active');
+
+      const series = tab.dataset.series;
+      rows.forEach(row => {
+        if (series === 'all' || row.dataset.series === series) {
+          row.style.display = '';
+        } else {
+          row.style.display = 'none';
+        }
+      });
+    });
+  });
+}
+
+/* --- Collapsible Sections --- */
+function initCollapsibles() {
+  document.querySelectorAll('.section-toggle').forEach(toggle => {
+    toggle.addEventListener('click', () => {
+      const target = document.getElementById(toggle.dataset.target);
+      const isOpen = toggle.classList.contains('open');
+
+      toggle.classList.toggle('open');
+      if (target) target.classList.toggle('open');
+    });
+  });
+}
+
+/* --- Score Row Expand --- */
+function initScoreExpand() {
+  document.querySelectorAll('.score-row[data-expandable]').forEach(row => {
+    row.style.cursor = 'pointer';
+    row.addEventListener('click', () => {
+      row.classList.toggle('expanded');
+      const hint = row.querySelector('.score-expand-hint');
+      if (hint) {
+        hint.innerHTML = row.classList.contains('expanded') ? '&#x25BE; Collapse' : '&#x25B8; Expand';
+      }
+    });
+  });
+}
+
+/* --- Prediction/Claim Filter --- */
+function initPredFilter() {
+  const bar = document.getElementById('pred-filter-bar');
+  if (!bar) return;
+
+  const tabs = bar.querySelectorAll('.filter-tab');
+  const entries = document.querySelectorAll('.prediction-entry[data-pred-type], .prediction-note[data-pred-type]');
+  const statsBars = document.querySelectorAll('.pred-stats');
+
+  tabs.forEach(tab => {
+    tab.addEventListener('click', () => {
+      tabs.forEach(t => t.classList.remove('active'));
+      tab.classList.add('active');
+
+      const filter = tab.dataset.predFilter;
+
+      entries.forEach(entry => {
+        if (filter === 'all' || entry.dataset.predType === filter) {
+          entry.style.display = '';
+        } else {
+          entry.style.display = 'none';
+        }
+      });
+
+      statsBars.forEach(sb => {
+        if (filter === 'all') {
+          sb.style.display = sb.dataset.predStats === 'prediction' ? '' : 'none';
+        } else {
+          sb.style.display = sb.dataset.predStats === filter ? '' : 'none';
+        }
+      });
+    });
+  });
+}
+
+/* --- Init all --- */
+document.addEventListener('DOMContentLoaded', () => {
+  initTableSort();
+  initSeriesFilter();
+  initCollapsibles();
+  initScoreExpand();
+  initPredFilter();
+});

@@ -1,0 +1,167 @@
+{
+  "briefing_date": "2026-03-14",
+  "last_scoring_date": null,
+  "next_scoring_date": "2026-04-01",
+  "theatres": [
+    {
+      "name": "Iran / Strait of Hormuz",
+      "status": "disconfirmed",
+      "status_label": "active war",
+      "summary": "US-Israel air campaign ongoing since Feb 28. Iran blockading Strait of Hormuz — tanker traffic at ~zero. Brent crude >$100. IRGC attacking commercial shipping and striking 9+ countries. Three Iranian missiles entered Turkish airspace (Mar 4-13), intercepted by NATO.",
+      "countries": ["Iran", "Israel", "Bahrain", "Kuwait", "Qatar", "UAE", "Saudi Arabia", "Oman", "Iraq", "Jordan", "Turkey", "Cyprus", "Azerbaijan"]
+    },
+    {
+      "name": "Russia-Ukraine War",
+      "status": "untested",
+      "status_label": "grinding war",
+      "summary": "Russia holds ~20% of Ukraine. 128 combat engagements per day. No decisive breakthrough either side. UK/France committed peacekeeping troops in principle; Russia rejects. Peace talks stalled.",
+      "countries": ["Russia", "Ukraine"]
+    },
+    {
+      "name": "Latin America — Venezuela / Cuba / Colombia",
+      "status": "partially_confirmed",
+      "status_label": "in flux",
+      "summary": "Maduro captured Jan 3 (Operation Absolute Resolve), arraigned NYC. Rodriguez acting president — oil reform, amnesty. US recognized Rodriguez Mar 11. Cuba in energy crisis (90% fuel cutoff). Secret US-Cuba talks confirmed Mar 13. Colombia in economic emergency; peace process collapsed.",
+      "countries": ["Venezuela", "Cuba", "Colombia"]
+    },
+    {
+      "name": "US-China Trade",
+      "status": "untested",
+      "status_label": "fragile truce",
+      "summary": "Tariffs reduced to 10% under one-year extension (Oct 2025). Fundamental issues unresolved. Communication channels reestablished but relationship adversarial.",
+      "countries": ["United States", "China"]
+    },
+    {
+      "name": "East Asia — DPRK / Korean Peninsula",
+      "status": "untested",
+      "status_label": "elevated risk",
+      "summary": "Russia-DPRK alliance deepened. 12,000 DPRK troops in Russia. Mutual defense treaty. South Korea political crisis resolved (Lee Jae-myung elected). No direct DPRK action against South Korea.",
+      "countries": ["North Korea", "South Korea", "Japan"]
+    }
+  ],
+  "metrics": [
+    {"name": "Brent Crude ($/bbl)", "value": "$103.14", "change": "+47%", "change_color": "var(--score-1)", "as_of": "2026-03-13"},
+    {"name": "Hormuz Tanker Traffic", "value": "~0", "change": "-99%", "change_color": "var(--score-1)", "as_of": "2026-03-14"},
+    {"name": "US Military KIA (Iran theatre)", "value": "11", "change": "+6", "change_color": "var(--score-1)", "as_of": "2026-03-13"},
+    {"name": "Iran Civilian Casualties", "value": "1,444+", "change": "ongoing", "change_color": "var(--score-1)", "as_of": "2026-03-14"},
+    {"name": "Ships Trapped in Gulf", "value": "~750", "change": "—", "change_color": "var(--text-muted)", "as_of": "2026-03-12"},
+    {"name": "Qatar Gas Production", "value": "0 (halted)", "change": "-100%", "change_color": "var(--score-1)", "as_of": "2026-03-02"},
+    {"name": "Ukraine Territory Occupied", "value": "~20%", "change": "stable", "change_color": "var(--text-muted)", "as_of": "2026-03-12"},
+    {"name": "Cuba Fuel Imports", "value": "-90%", "change": "crisis", "change_color": "var(--score-1)", "as_of": "2026-02-28"}
+  ],
+  "daily_entries": [
+    {
+      "date": "2026-03-14",
+      "tags": ["Iran", "Turkey"],
+      "summary": "Turkey confirms third Iranian ballistic missile intercepted by NATO air defenses in the Eastern Mediterranean. FM Fidan warned Iran 'next time, Turkey will respond in kind.' NATO Secretary General Rutte says Article 5 not under consideration.",
+      "details": [
+        "All three missiles (Mar 4, 9, 13) reportedly aimed at Incirlik Air Base area",
+        "Iran denies intentional targeting, cites 'technical anomaly'",
+        "Turkey running diplomatic back-channel between Washington and Tehran"
+      ],
+      "prediction_impact": "Jiang predicted US would get 'trapped' in Iran — the war is expanding to hit NATO member Turkey, but Turkey is not escalating. Regional containment holding so far.",
+      "source": "Al Jazeera, CNBC, Washington Times"
+    },
+    {
+      "date": "2026-03-13",
+      "tags": ["Cuba", "US"],
+      "summary": "Cuban President Diaz-Canel confirms secret negotiations with the US. Secretary of State Rubio has led at least half a dozen meetings with Cuban representatives.",
+      "details": [
+        "White House says Trump believes a deal 'could be done easily'",
+        "Cuba warns agreement 'will take time'",
+        "Comes amid 90% fuel import cutoff following Venezuela operation"
+      ],
+      "prediction_impact": null,
+      "source": "Washington Post, ABC News, Fox News"
+    },
+    {
+      "date": "2026-03-12",
+      "tags": ["Hormuz", "Shipping"],
+      "summary": "Three more ships struck in Persian Gulf. Oil closes above $100 for second consecutive day at $103.14. IEA authorized record 400M barrel strategic reserve release.",
+      "details": [
+        "Brent peaked at $126/bbl earlier in the week",
+        "Markets doubt reserve release will provide lasting relief",
+        "Fortune: 'Biggest oil supply disruption in history'"
+      ],
+      "prediction_impact": "Jiang predicted Hormuz blockade would be devastating — confirmed. Oil prices have not yet hit the $200 IRGC projection.",
+      "source": "CNBC, CNN, Fortune, IEA"
+    },
+    {
+      "date": "2026-03-11",
+      "tags": ["Hormuz", "Thailand", "Shipping"],
+      "summary": "IRGC struck Thailand-flagged bulk carrier MV Mayuree Naree in Strait of Hormuz. 3 crew missing, 20 rescued. At least three commercial vessels attacked on this day alone.",
+      "details": [
+        "Ship was sailing in ballast from UAE to India",
+        "Two oil tankers also attacked by Iranian drone boat off Basra, Iraq — 1+ crew killed",
+        "Thailand summoned Iran's ambassador, demanded apology",
+        "IRGC claimed ship ignored 'warnings'"
+      ],
+      "prediction_impact": "War expanding to hit neutral countries' shipping — Thailand has no involvement in the conflict.",
+      "source": "CBS News, Bloomberg, USNI News, Nation Thailand"
+    },
+    {
+      "date": "2026-03-11",
+      "tags": ["Venezuela", "US"],
+      "summary": "US formally recognized Delcy Rodriguez as 'sole' head of state of Venezuela via court filing. Opposition leader Machado welcomed the recognition.",
+      "details": [],
+      "prediction_impact": null,
+      "source": "Bloomberg, ColombiaOne, UPI"
+    },
+    {
+      "date": "2026-03-09",
+      "tags": ["Iran", "Succession"],
+      "summary": "Mojtaba Khamenei announced as new Supreme Leader of Iran, elected by Assembly of Experts under significant IRGC pressure.",
+      "details": [
+        "Assembly of Experts election ran March 3-8",
+        "Mojtaba is son of assassinated Ali Khamenei",
+        "Stated Hormuz blockade must continue"
+      ],
+      "prediction_impact": "Jiang predicted Khamenei assassination — confirmed. Dynastic succession was not predicted.",
+      "source": "Al Jazeera, Reuters"
+    },
+    {
+      "date": "2026-03-05",
+      "tags": ["Venezuela", "US"],
+      "summary": "US and Venezuela agreed to re-establish diplomatic and consular relations, severed since 2019. Embassies to reopen.",
+      "details": [],
+      "prediction_impact": null,
+      "source": "US State Department"
+    },
+    {
+      "date": "2026-03-04",
+      "tags": ["Hormuz", "Gulf"],
+      "summary": "By this date, Iran had launched 189 ballistic missiles, 941 drones, and 3 cruise missiles against the UAE alone. All major Gulf states reporting damage to energy infrastructure.",
+      "details": [
+        "UAE ADNOC Ruwais refinery (922K bbl/day) shut down after drone strike",
+        "Dubai International Airport struck — evacuation ordered",
+        "Major maritime insurers cancelled war risk cover for Gulf transit"
+      ],
+      "prediction_impact": "Scale of Iranian retaliation across Gulf states exceeds what most analyses predicted. Jiang's framing of Iran as formidable adversary partially vindicated.",
+      "source": "Al Jazeera, CNBC, TIME"
+    },
+    {
+      "date": "2026-03-02",
+      "tags": ["Hormuz", "Qatar", "Energy"],
+      "summary": "QatarEnergy halted all gas production after Iranian strikes on gas facilities. IRGC declares Strait of Hormuz closed. Qatar is the world's largest LNG exporter.",
+      "details": [
+        "Force majeure declared on all gas contracts March 4",
+        "Qatar PM called attacks 'a big sense of betrayal'",
+        "European natural gas prices nearly doubled"
+      ],
+      "prediction_impact": "Jiang predicted Hormuz closure — confirmed. Qatar gas halt is a major escalation with global consequences he specifically discussed.",
+      "source": "Al Jazeera, CNBC"
+    },
+    {
+      "date": "2026-02-28",
+      "tags": ["Iran", "Israel", "US"],
+      "summary": "US and Israel launched ~900 strikes in 12 hours on Iran. Supreme Leader Khamenei assassinated in Tehran. Iran retaliates across 9+ countries. IRGC begins Hormuz blockade.",
+      "details": [
+        "At least 1,444 killed, 18,551 injured in Iran (Health Ministry figures)",
+        "Missile struck a girls' school in Minab, killing ~170",
+        "Iran responded with 500+ missiles and ~2,000 drones"
+      ],
+      "prediction_impact": "Jiang predicted US-Israel war on Iran, Khamenei assassination, and Hormuz blockade — all confirmed on this single day.",
+      "source": "Multiple (Al Jazeera, BBC, Reuters, NPR, CNN)"
+    }
+  ]
+}
