@@ -151,7 +151,7 @@ function initTableSort() {
 
 /* --- Series Filter --- */
 function initSeriesFilter() {
-  const tabs = document.querySelectorAll('.filter-tab');
+  const tabs = document.querySelectorAll('.filter-tab[data-series]');
   const rows = document.querySelectorAll('.data-table tbody tr');
 
   if (!tabs.length) return;
@@ -202,35 +202,49 @@ function initScoreExpand() {
 
 /* --- Prediction/Claim Filter --- */
 function initPredFilter() {
-  const bar = document.getElementById('pred-filter-bar');
-  if (!bar) return;
+  const typeBar = document.getElementById('pred-filter-bar');
+  const statusBar = document.getElementById('status-filter-bar');
+  if (!typeBar) return;
 
-  const tabs = bar.querySelectorAll('.filter-tab');
-  const entries = document.querySelectorAll('.prediction-entry[data-pred-type], .prediction-note[data-pred-type]');
+  const typeTabs = typeBar.querySelectorAll('.filter-tab');
+  const statusTabs = statusBar ? statusBar.querySelectorAll('.filter-tab') : [];
+  const entries = document.querySelectorAll('.prediction-entry[data-pred-type]');
   const statsBars = document.querySelectorAll('.pred-stats');
 
-  tabs.forEach(tab => {
+  let activeType = 'all';
+  let activeStatus = 'all';
+
+  function applyFilters() {
+    entries.forEach(entry => {
+      const typeMatch = activeType === 'all' || entry.dataset.predType === activeType;
+      const statusMatch = activeStatus === 'all' || entry.dataset.predStatus === activeStatus;
+      entry.style.display = (typeMatch && statusMatch) ? '' : 'none';
+    });
+
+    statsBars.forEach(sb => {
+      if (activeType === 'all') {
+        sb.style.display = sb.dataset.predStats === 'prediction' ? '' : 'none';
+      } else {
+        sb.style.display = sb.dataset.predStats === activeType ? '' : 'none';
+      }
+    });
+  }
+
+  typeTabs.forEach(tab => {
     tab.addEventListener('click', () => {
-      tabs.forEach(t => t.classList.remove('active'));
+      typeTabs.forEach(t => t.classList.remove('active'));
       tab.classList.add('active');
+      activeType = tab.dataset.predFilter;
+      applyFilters();
+    });
+  });
 
-      const filter = tab.dataset.predFilter;
-
-      entries.forEach(entry => {
-        if (filter === 'all' || entry.dataset.predType === filter) {
-          entry.style.display = '';
-        } else {
-          entry.style.display = 'none';
-        }
-      });
-
-      statsBars.forEach(sb => {
-        if (filter === 'all') {
-          sb.style.display = sb.dataset.predStats === 'prediction' ? '' : 'none';
-        } else {
-          sb.style.display = sb.dataset.predStats === filter ? '' : 'none';
-        }
-      });
+  statusTabs.forEach(tab => {
+    tab.addEventListener('click', () => {
+      statusTabs.forEach(t => t.classList.remove('active'));
+      tab.classList.add('active');
+      activeStatus = tab.dataset.statusFilter;
+      applyFilters();
     });
   });
 }

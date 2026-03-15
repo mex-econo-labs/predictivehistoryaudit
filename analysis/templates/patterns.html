@@ -18,63 +18,28 @@
   </div>
   {% endif %}
 
-  <!-- VIEWS vs QUALITY -->
-  <div class="card fade-up">
-    <div class="card-header">
-      <span class="card-title">Views vs. Quality Score</span>
-      <span class="card-count">Do worse lectures get more views?</span>
-    </div>
-    <div style="max-width: 800px; margin: 0 auto;">
-      <canvas id="viewsScatter" height="400"></canvas>
-    </div>
-  </div>
-
-  <!-- SCORE DISTRIBUTION BY SERIES -->
-  <div class="card fade-up">
-    <div class="card-header">
-      <span class="card-title">Average Scores by Series</span>
-    </div>
-    <table class="rubric-table" style="margin: 0;">
-      <thead>
-        <tr>
-          <th>Series</th>
-          <th style="text-align:center;">Acc</th>
-          <th style="text-align:center;">Rig</th>
-          <th style="text-align:center;">Fra</th>
-          <th style="text-align:center;">Div</th>
-          <th style="text-align:center;">Nor</th>
-          <th style="text-align:center;">Det</th>
-          <th style="text-align:center;">Civ</th>
-          <th style="text-align:center;">Avg</th>
-          <th style="text-align:center;">n</th>
-        </tr>
-      </thead>
-      <tbody>
-        {% for s in series_stats %}
-        <tr>
-          <td style="font-weight: 600; color: var(--text-primary);">{{ s.name }}</td>
-          {% for v in s.axis_avgs %}
-          <td style="text-align:center;"><span class="score-cell score-{{ v|round|int }}">{{ "%.1f"|format(v) }}</span></td>
-          {% endfor %}
-          <td style="text-align:center;"><span class="score-cell avg-cell score-{{ s.overall|round|int }}">{{ "%.1f"|format(s.overall) }}</span></td>
-          <td style="text-align:center;" class="mono muted">{{ s.count }}</td>
-        </tr>
-        {% endfor %}
-      </tbody>
-    </table>
-  </div>
-
   <!-- PREDICTIONS & CLAIMS TRACKER -->
-  <div class="card fade-up" style="margin-top: var(--space-lg);">
+  <div class="card fade-up">
     <div class="card-header">
       <span class="card-title">Predictions &amp; Claims Tracker</span>
       <span class="card-count">{{ all_predictions|length }} across corpus</span>
     </div>
 
-    <div class="filter-bar" id="pred-filter-bar" style="margin-bottom: var(--space-md);">
+    <!-- Type filter -->
+    <div class="filter-bar" id="pred-filter-bar" style="margin-bottom: 0; border-bottom: none;">
       <button class="filter-tab active" data-pred-filter="all">All ({{ all_predictions|length }})</button>
       <button class="filter-tab" data-pred-filter="prediction">Predictions ({{ prediction_stats.values()|sum }})</button>
       <button class="filter-tab" data-pred-filter="claim">Claims ({{ claim_stats.values()|sum }})</button>
+    </div>
+
+    <!-- Status filter -->
+    <div class="filter-bar" id="status-filter-bar" style="margin-bottom: var(--space-md);">
+      <button class="filter-tab active" data-status-filter="all">All Statuses</button>
+      <button class="filter-tab" data-status-filter="confirmed">Confirmed</button>
+      <button class="filter-tab" data-status-filter="partially_confirmed">Partial</button>
+      <button class="filter-tab" data-status-filter="disconfirmed">Disconfirmed</button>
+      <button class="filter-tab" data-status-filter="untested">Untested</button>
+      <button class="filter-tab" data-status-filter="unfalsifiable">Unfalsifiable</button>
     </div>
 
     <div class="stats-bar pred-stats" data-pred-stats="prediction" style="margin: var(--space-md) 0;">
@@ -123,8 +88,9 @@
       </div>
     </div>
 
+    <div id="predictions-list">
     {% for p in all_predictions %}
-    <div class="prediction-entry" data-pred-type="{{ p.type }}">
+    <div class="prediction-entry" data-pred-type="{{ p.type }}" data-pred-status="{{ p.status|default('untested') }}">
       <div>
         <div class="prediction-claim">
           <span class="pred-type-badge pred-type-{{ p.type }}">{{ p.type }}</span>
@@ -135,13 +101,60 @@
           {% if p.upload_date %}&middot; Posted {{ p.upload_date }}{% endif %}
           &middot; {{ p.timestamp }}
         </div>
+        {% if p.status_note %}
+        <div class="prediction-note">{{ p.status_note }}</div>
+        {% endif %}
       </div>
       <span class="status-badge status-{{ p.status|default('untested') }}">{{ p.status|default('untested')|replace('_', ' ') }}</span>
     </div>
-    {% if p.status_note %}
-    <div class="prediction-note" data-pred-type="{{ p.type }}">{{ p.status_note }}</div>
-    {% endif %}
     {% endfor %}
+    </div>
+  </div>
+
+  <!-- VIEWS vs QUALITY -->
+  <div class="card fade-up" style="margin-top: var(--space-lg);">
+    <div class="card-header">
+      <span class="card-title">Views vs. Quality Score</span>
+      <span class="card-count">Do worse lectures get more views?</span>
+    </div>
+    <div style="max-width: 800px; margin: 0 auto;">
+      <canvas id="viewsScatter" height="400"></canvas>
+    </div>
+  </div>
+
+  <!-- SCORE DISTRIBUTION BY SERIES -->
+  <div class="card fade-up" style="margin-top: var(--space-lg);">
+    <div class="card-header">
+      <span class="card-title">Average Scores by Series</span>
+    </div>
+    <table class="rubric-table" style="margin: 0;">
+      <thead>
+        <tr>
+          <th>Series</th>
+          <th style="text-align:center;">Acc</th>
+          <th style="text-align:center;">Rig</th>
+          <th style="text-align:center;">Fra</th>
+          <th style="text-align:center;">Div</th>
+          <th style="text-align:center;">Nor</th>
+          <th style="text-align:center;">Det</th>
+          <th style="text-align:center;">Civ</th>
+          <th style="text-align:center;">Avg</th>
+          <th style="text-align:center;">n</th>
+        </tr>
+      </thead>
+      <tbody>
+        {% for s in series_stats %}
+        <tr>
+          <td style="font-weight: 600; color: var(--text-primary);">{{ s.name }}</td>
+          {% for v in s.axis_avgs %}
+          <td style="text-align:center;"><span class="score-cell score-{{ v|round|int }}">{{ "%.1f"|format(v) }}</span></td>
+          {% endfor %}
+          <td style="text-align:center;"><span class="score-cell avg-cell score-{{ s.overall|round|int }}">{{ "%.1f"|format(s.overall) }}</span></td>
+          <td style="text-align:center;" class="mono muted">{{ s.count }}</td>
+        </tr>
+        {% endfor %}
+      </tbody>
+    </table>
   </div>
 
   <!-- RHETORIC FREQUENCY -->
@@ -197,7 +210,7 @@ document.addEventListener('DOMContentLoaded', function() {
   ];
 
   const seriesColors = {};
-  const palette = ['#f5d272','#ff7b7b','#7ed868','#55e09a','#f5a855','#7bb8ff','#c77bff','#ff7be0'];
+  const palette = ['#faea8e','#ffbbbb','#b4f2a0','#94f4c6','#ffd69a','#a8d8ff','#d8ccf2','#ff7be0'];
   const seriesNames = [...new Set(data.map(d => d.series))];
   seriesNames.forEach((s, i) => seriesColors[s] = palette[i % palette.length]);
 
@@ -218,19 +231,19 @@ document.addEventListener('DOMContentLoaded', function() {
       responsive: true,
       scales: {
         x: {
-          title: { display: true, text: 'Average Quality Score', color: '#b0a99e', font: { family: "'DM Sans', sans-serif", size: 13 } },
+          title: { display: true, text: 'Average Quality Score', color: '#ddd7cb', font: { family: "'DM Sans', sans-serif", size: 13 } },
           min: 1, max: 5,
-          ticks: { stepSize: 0.5, color: '#b0a99e' },
+          ticks: { stepSize: 0.5, color: '#ddd7cb' },
           grid: { color: 'rgba(255,255,255,0.06)' }
         },
         y: {
-          title: { display: true, text: 'YouTube Views', color: '#b0a99e', font: { family: "'DM Sans', sans-serif", size: 13 } },
-          ticks: { color: '#b0a99e', callback: v => v >= 1000000 ? (v/1000000).toFixed(1)+'M' : v >= 1000 ? (v/1000).toFixed(0)+'K' : v },
+          title: { display: true, text: 'YouTube Views', color: '#ddd7cb', font: { family: "'DM Sans', sans-serif", size: 13 } },
+          ticks: { color: '#ddd7cb', callback: v => v >= 1000000 ? (v/1000000).toFixed(1)+'M' : v >= 1000 ? (v/1000).toFixed(0)+'K' : v },
           grid: { color: 'rgba(255,255,255,0.06)' }
         }
       },
       plugins: {
-        legend: { labels: { color: '#b0a99e', font: { family: "'DM Sans', sans-serif", size: 12 } } },
+        legend: { labels: { color: '#ddd7cb', font: { family: "'DM Sans', sans-serif", size: 12 } } },
         tooltip: {
           backgroundColor: '#171b22',
           borderColor: '#252a33',
