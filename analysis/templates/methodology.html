@@ -17,7 +17,7 @@
   </p>
   <ol style="color: var(--text-secondary); line-height: 1.8; margin-bottom: var(--space-xl); padding-left: var(--space-lg);">
     <li><strong>Transcript extraction</strong> &mdash; Auto-generated English subtitles downloaded via <code class="mono" style="font-size: 0.85em; color: var(--accent);">yt-dlp</code> in SRT format with timestamps.</li>
-    <li><strong>AI analysis</strong> &mdash; The full transcript is provided to a large language model (Claude Opus 4.6 or GPT-4) with the analysis schema and scoring rubric. The model reads the entire transcript and produces a structured JSON assessment.</li>
+    <li><strong>AI analysis</strong> &mdash; The full transcript is provided to Claude Opus 4.6 with the analysis schema and scoring rubric. The model reads the entire transcript and produces a structured JSON assessment.</li>
     <li><strong>Screencap extraction</strong> &mdash; For every timestamped item (quotes, rhetoric, predictions), a video frame is captured automatically via <code class="mono" style="font-size: 0.85em; color: var(--accent);">ffmpeg</code>.</li>
     <li><strong>Publication</strong> &mdash; JSON is rendered to static HTML. No editorial intervention beyond the rubric design.</li>
   </ol>
@@ -92,9 +92,26 @@
   </ul>
 
   <h2 style="font-size: 1.4rem; margin: var(--space-xl) 0 var(--space-md);">Reproducibility</h2>
-  <p style="color: var(--text-secondary); line-height: 1.7;">
-    The full JSON schema, all analysis outputs, screencaps, and the static site generator are available. Every claim in every report is traceable to a timestamp in a public YouTube video. If you disagree with an assessment, the data is there to check.
+  <p style="color: var(--text-secondary); line-height: 1.7; margin-bottom: var(--space-md);">
+    Every claim in every report is traceable to a timestamp in a public YouTube video. The <a href="static/schema.json">analysis schema</a> is published — anyone can feed the same transcripts and rubric to an LLM and compare results.
   </p>
+
+  <h2 id="fair-use" style="font-size: 1.4rem; margin: var(--space-xl) 0 var(--space-md);">Fair Use Notice</h2>
+  <div style="color: var(--text-secondary); line-height: 1.7;">
+    <p style="margin-bottom: var(--space-md);">
+      This site constitutes <strong>fair use</strong> under Section 107 of the U.S. Copyright Act (17 U.S.C. &sect; 107) and analogous provisions in other jurisdictions. All original lecture content remains the property of its creator(s).
+    </p>
+    <p style="margin-bottom: var(--space-sm); font-weight: 600; color: var(--text-primary);">The four statutory factors:</p>
+    <ol style="padding-left: var(--space-lg); margin-bottom: var(--space-md);">
+      <li style="margin-bottom: var(--space-sm);"><strong>Purpose and character of the use.</strong> This project is transformative — it subjects publicly available lectures to systematic critical analysis, commentary, and research. No original content is reproduced for entertainment or as a substitute for the source material.</li>
+      <li style="margin-bottom: var(--space-sm);"><strong>Nature of the copyrighted work.</strong> The source lectures are published on YouTube, a public platform, and address matters of public interest (geopolitics, history, current affairs).</li>
+      <li style="margin-bottom: var(--space-sm);"><strong>Amount and substantiality.</strong> Only brief, timestamped quotations are reproduced to support specific analytical points. Individual video frames are used as contextual reference. Neither substitutes for viewing the original lectures.</li>
+      <li style="margin-bottom: var(--space-sm);"><strong>Effect on the market.</strong> This analysis does not compete with the original lectures and is likely to drive additional viewership to the source channel. No content is monetized.</li>
+    </ol>
+    <p>
+      All quoted material and screencaps are used solely for purposes of criticism, commentary, and scholarly analysis. Each item links or refers to the original public source.
+    </p>
+  </div>
 
 </div>
 {% endblock %}

@@ -1,0 +1,213 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "Predictive History Lecture Analysis",
+  "type": "object",
+  "required": ["meta", "synopsis", "thesis", "sources", "scores", "rhetoric", "notable_quotes", "cross_references", "verdict"],
+  "properties": {
+    "meta": {
+      "type": "object",
+      "properties": {
+        "series": { "type": "string", "description": "Series name: Civilization, Secret History, Game Theory, Geo-Strategy, Great Books, or Standalone" },
+        "episode": { "type": ["integer", "string", "null"], "description": "Episode number or label (e.g. 'END', 'BONUS')" },
+        "title": { "type": "string" },
+        "video_id": { "type": "string" },
+        "url": { "type": "string" },
+        "transcript_file": { "type": "string" },
+        "analyzed_by": { "type": "string", "description": "Which LLM performed this analysis" },
+        "analysis_date": { "type": "string", "format": "date" },
+        "schema_version": { "type": "string", "const": "1.0" }
+      },
+      "required": ["series", "episode", "title", "video_id", "url", "transcript_file", "analyzed_by", "analysis_date", "schema_version"]
+    },
+
+    "synopsis": {
+      "type": "string",
+      "description": "3-5 sentence neutral summary of the lecture's content and argument"
+    },
+
+    "thesis": {
+      "type": "object",
+      "properties": {
+        "central_thesis": { "type": "string", "description": "One-sentence statement of the lecture's core argument" },
+        "supporting_claims": {
+          "type": "array",
+          "items": { "type": "string" },
+          "description": "Key sub-claims, each stated neutrally"
+        },
+        "predictions": {
+          "type": "array",
+          "items": {
+            "type": "object",
+            "properties": {
+              "claim": { "type": "string" },
+              "type": { "type": "string", "enum": ["prediction", "claim"], "description": "prediction = forward-looking statement about future events; claim = assertion about the past, present, or analytical framework" },
+              "timestamp": { "type": "string" },
+              "falsifiable": { "type": "boolean" },
+              "status": { "type": "string", "enum": ["untested", "confirmed", "partially_confirmed", "disconfirmed", "unfalsifiable"] },
+              "status_note": { "type": "string", "description": "Brief explanation of why this status was assigned, with key facts and dates." }
+            },
+            "required": ["claim", "type", "timestamp", "falsifiable"]
+          }
+        }
+      },
+      "required": ["central_thesis", "supporting_claims", "predictions"]
+    },
+
+    "sources": {
+      "type": "object",
+      "properties": {
+        "named_sources": {
+          "type": "array",
+          "items": {
+            "type": "object",
+            "properties": {
+              "name": { "type": "string", "description": "Author, title, or document cited" },
+              "type": { "type": "string", "enum": ["book", "paper", "primary_document", "scholar", "journalist", "media", "data", "other"] },
+              "how_used": { "type": "string", "description": "How this source is deployed in the argument" },
+              "accurate_representation": { "type": ["boolean", "null"], "description": "Does the lecture accurately represent this source? null if unable to verify" }
+            },
+            "required": ["name", "type", "how_used"]
+          }
+        },
+        "vague_appeals": {
+          "type": "array",
+          "items": { "type": "string" },
+          "description": "Unsourced appeals to authority: 'historians agree', 'it is well known', etc."
+        },
+        "notable_omissions": {
+          "type": "array",
+          "items": { "type": "string" },
+          "description": "Major scholars, works, or perspectives that a balanced treatment would include but were absent"
+        }
+      },
+      "required": ["named_sources", "vague_appeals", "notable_omissions"]
+    },
+
+    "scores": {
+      "type": "object",
+      "description": "Each score is 1-5 with a justification string",
+      "properties": {
+        "historical_accuracy": {
+          "type": "object",
+          "properties": {
+            "score": { "type": "integer", "minimum": 1, "maximum": 5 },
+            "justification": { "type": "string" }
+          },
+          "required": ["score", "justification"]
+        },
+        "argumentative_rigor": {
+          "type": "object",
+          "properties": {
+            "score": { "type": "integer", "minimum": 1, "maximum": 5 },
+            "justification": { "type": "string" }
+          },
+          "required": ["score", "justification"]
+        },
+        "framing_and_selectivity": {
+          "type": "object",
+          "properties": {
+            "score": { "type": "integer", "minimum": 1, "maximum": 5 },
+            "justification": { "type": "string" }
+          },
+          "required": ["score", "justification"]
+        },
+        "perspective_diversity": {
+          "type": "object",
+          "properties": {
+            "score": { "type": "integer", "minimum": 1, "maximum": 5 },
+            "justification": { "type": "string" }
+          },
+          "required": ["score", "justification"]
+        },
+        "normative_loading": {
+          "type": "object",
+          "properties": {
+            "score": { "type": "integer", "minimum": 1, "maximum": 5 },
+            "justification": { "type": "string" }
+          },
+          "required": ["score", "justification"]
+        },
+        "determinism_vs_contingency": {
+          "type": "object",
+          "properties": {
+            "score": { "type": "integer", "minimum": 1, "maximum": 5 },
+            "justification": { "type": "string" }
+          },
+          "required": ["score", "justification"]
+        },
+        "civilizational_framing": {
+          "type": "object",
+          "properties": {
+            "score": { "type": "integer", "minimum": 1, "maximum": 5 },
+            "justification": { "type": "string" },
+            "china_treatment": { "type": ["string", "null"], "description": "How China/Chinese civilization is characterized, if mentioned" },
+            "us_treatment": { "type": ["string", "null"], "description": "How the US/American civilization is characterized, if mentioned" },
+            "russia_treatment": { "type": ["string", "null"], "description": "How Russia is characterized, if mentioned" },
+            "west_treatment": { "type": ["string", "null"], "description": "How 'the West' as a concept is characterized, if mentioned" }
+          },
+          "required": ["score", "justification"]
+        }
+      },
+      "required": ["historical_accuracy", "argumentative_rigor", "framing_and_selectivity", "perspective_diversity", "normative_loading", "determinism_vs_contingency", "civilizational_framing"]
+    },
+
+    "rhetoric": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "properties": {
+          "technique": { "type": "string", "description": "Name of the rhetorical technique" },
+          "instance": { "type": "string", "description": "Specific example from the lecture" },
+          "timestamp": { "type": "string" },
+          "effect": { "type": "string", "description": "What this technique accomplishes in context" }
+        },
+        "required": ["technique", "instance", "effect"]
+      }
+    },
+
+    "notable_quotes": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "properties": {
+          "quote": { "type": "string" },
+          "timestamp": { "type": "string" },
+          "significance": { "type": "string", "description": "Why this quote is notable — reveals perspective, bias, insight, or pattern" },
+          "ironic_mirror": { "type": ["string", "null"], "description": "If the quote criticizes one civilization/actor but equally or more aptly describes another (especially China), explain the unintentional irony. null if not applicable." }
+        },
+        "required": ["quote", "timestamp", "significance"]
+      }
+    },
+
+    "cross_references": {
+      "type": "object",
+      "properties": {
+        "builds_on": {
+          "type": "array",
+          "items": { "type": "string" },
+          "description": "Other lectures in the corpus this one references or depends on"
+        },
+        "contradicts": {
+          "type": "array",
+          "items": { "type": "string" },
+          "description": "Other lectures whose claims conflict with this one"
+        },
+        "pattern_notes": {
+          "type": "string",
+          "description": "Emerging patterns observed across the corpus relevant to this lecture"
+        }
+      },
+      "required": ["builds_on", "contradicts"]
+    },
+
+    "verdict": {
+      "type": "object",
+      "properties": {
+        "strengths": { "type": "string" },
+        "weaknesses": { "type": "string" },
+        "viewer_advisory": { "type": "string", "description": "What a critical viewer should watch out for" }
+      },
+      "required": ["strengths", "weaknesses", "viewer_advisory"]
+    }
+  }
+}

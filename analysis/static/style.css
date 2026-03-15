@@ -337,6 +337,7 @@ img { max-width: 100%; display: block; }
   border-collapse: collapse;
   font-family: var(--font-data);
   font-size: 0.78rem;
+  table-layout: fixed;
 }
 
 .data-table thead {
@@ -352,13 +353,14 @@ img { max-width: 100%; display: block; }
   font-size: 0.65rem;
   letter-spacing: 0.1em;
   text-transform: uppercase;
-  padding: 0.8em 1em;
+  padding: 0.8em 0.5em;
   text-align: left;
   border-bottom: 1px solid var(--border);
   white-space: nowrap;
   cursor: pointer;
   user-select: none;
   transition: color 0.15s;
+  overflow: hidden;
 }
 
 .data-table th:hover {
@@ -370,13 +372,15 @@ img { max-width: 100%; display: block; }
 
 .data-table th.col-score {
   text-align: center;
-  min-width: 48px;
+  width: 44px;
 }
 
 .data-table td {
-  padding: 0.7em 1em;
+  padding: 0.7em 0.5em;
   border-bottom: 1px solid var(--border-subtle);
   vertical-align: middle;
+  overflow: hidden;
+  text-overflow: ellipsis;
 }
 
 .data-table tbody tr {
