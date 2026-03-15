@@ -19,7 +19,7 @@
   /* Text — 13:1+ contrast against bg-primary for content & headings */
   --text-primary: #f2f0ec;
   --text-secondary: #e6e3dc;
-  --text-muted: #cec8bc;
+  --text-muted: #ddd7cb;
   --text-accent: #fce28f;
 
   /* Accent — bright vivid gold */
@@ -28,18 +28,18 @@
   --accent-glow: rgba(252, 226, 143, 0.1);
 
   /* Score colors — maximally bright while retaining hue identity */
-  --score-1: #ff9494;
-  --score-2: #ffbe72;
-  --score-3: #f5dc6a;
-  --score-4: #96e880;
-  --score-5: #6eeaaa;
+  --score-1: #ffbbbb;
+  --score-2: #ffd69a;
+  --score-3: #faea8e;
+  --score-4: #b4f2a0;
+  --score-5: #94f4c6;
 
   /* Status badges — vivid on dark */
-  --status-confirmed: #6eeaaa;
-  --status-disconfirmed: #ff9494;
-  --status-untested: #cec8bc;
-  --status-partial: #f5dc6a;
-  --status-unfalsifiable: #c8b4ea;
+  --status-confirmed: #94f4c6;
+  --status-disconfirmed: #ffbbbb;
+  --status-untested: #ddd7cb;
+  --status-partial: #faea8e;
+  --status-unfalsifiable: #d8ccf2;
 
   /* Type */
   --font-body: 'Source Serif 4', Georgia, serif;
@@ -414,11 +414,11 @@ img { max-width: 100%; display: block; }
   justify-content: center;
 }
 
-.score-1 { color: var(--score-1); background: rgba(255, 148, 148, 0.15); }
-.score-2 { color: var(--score-2); background: rgba(255, 190, 114, 0.15); }
-.score-3 { color: var(--score-3); background: rgba(245, 220, 106, 0.15); }
-.score-4 { color: var(--score-4); background: rgba(150, 232, 128, 0.15); }
-.score-5 { color: var(--score-5); background: rgba(110, 234, 170, 0.15); }
+.score-1 { color: var(--score-1); background: rgba(255, 187, 187, 0.14); }
+.score-2 { color: var(--score-2); background: rgba(255, 214, 154, 0.14); }
+.score-3 { color: var(--score-3); background: rgba(250, 234, 142, 0.14); }
+.score-4 { color: var(--score-4); background: rgba(180, 242, 160, 0.14); }
+.score-5 { color: var(--score-5); background: rgba(148, 244, 198, 0.14); }
 
 .avg-cell {
   font-weight: 700;
@@ -842,11 +842,11 @@ img { max-width: 100%; display: block; }
   white-space: nowrap;
 }
 
-.status-confirmed { background: rgba(110,234,170,0.12); color: var(--status-confirmed); border: 1px solid rgba(110,234,170,0.3); }
-.status-disconfirmed { background: rgba(255,148,148,0.12); color: var(--status-disconfirmed); border: 1px solid rgba(255,148,148,0.3); }
-.status-untested { background: rgba(206,200,188,0.12); color: var(--status-untested); border: 1px solid rgba(206,200,188,0.25); }
-.status-partially_confirmed { background: rgba(245,220,106,0.12); color: var(--status-partial); border: 1px solid rgba(245,220,106,0.3); }
-.status-unfalsifiable { background: rgba(200,180,234,0.12); color: var(--status-unfalsifiable); border: 1px solid rgba(200,180,234,0.3); }
+.status-confirmed { background: rgba(148,244,198,0.12); color: var(--status-confirmed); border: 1px solid rgba(148,244,198,0.3); }
+.status-disconfirmed { background: rgba(255,187,187,0.12); color: var(--status-disconfirmed); border: 1px solid rgba(255,187,187,0.3); }
+.status-untested { background: rgba(221,215,203,0.12); color: var(--status-untested); border: 1px solid rgba(221,215,203,0.25); }
+.status-partially_confirmed { background: rgba(250,234,142,0.12); color: var(--status-partial); border: 1px solid rgba(250,234,142,0.3); }
+.status-unfalsifiable { background: rgba(216,204,242,0.12); color: var(--status-unfalsifiable); border: 1px solid rgba(216,204,242,0.3); }
 
 /* --- Verdict Panel --- */
 .verdict-grid {
@@ -1072,15 +1072,15 @@ img { max-width: 100%; display: block; }
 }
 
 .pred-type-prediction {
-  background: rgba(110, 234, 170, 0.12);
-  color: #6eeaaa;
-  border: 1px solid rgba(110, 234, 170, 0.25);
+  background: rgba(148, 244, 198, 0.12);
+  color: #94f4c6;
+  border: 1px solid rgba(148, 244, 198, 0.25);
 }
 
 .pred-type-claim {
-  background: rgba(142, 200, 255, 0.12);
-  color: #8ec8ff;
-  border: 1px solid rgba(142, 200, 255, 0.25);
+  background: rgba(168, 216, 255, 0.12);
+  color: #a8d8ff;
+  border: 1px solid rgba(168, 216, 255, 0.25);
 }
 
 /* --- Custom Tooltips --- */
@@ -1172,18 +1172,18 @@ img { max-width: 100%; display: block; }
 }
 
 .briefing-tag-iran,
-.briefing-tag-hormuz { background: rgba(255, 148, 148, 0.1); color: var(--score-1); border-color: rgba(255, 148, 148, 0.25); }
-.briefing-tag-turkey { background: rgba(255, 190, 114, 0.1); color: var(--score-2); border-color: rgba(255, 190, 114, 0.25); }
-.briefing-tag-shipping { background: rgba(142, 200, 255, 0.1); color: #8ec8ff; border-color: rgba(142, 200, 255, 0.25); }
-.briefing-tag-us { background: rgba(142, 200, 255, 0.1); color: #8ec8ff; border-color: rgba(142, 200, 255, 0.25); }
-.briefing-tag-venezuela { background: rgba(110, 234, 170, 0.1); color: var(--score-5); border-color: rgba(110, 234, 170, 0.25); }
-.briefing-tag-cuba { background: rgba(200, 180, 234, 0.1); color: var(--status-unfalsifiable); border-color: rgba(200, 180, 234, 0.25); }
-.briefing-tag-israel { background: rgba(245, 220, 106, 0.1); color: var(--score-3); border-color: rgba(245, 220, 106, 0.25); }
+.briefing-tag-hormuz { background: rgba(255, 187, 187, 0.1); color: var(--score-1); border-color: rgba(255, 187, 187, 0.25); }
+.briefing-tag-turkey { background: rgba(255, 214, 154, 0.1); color: var(--score-2); border-color: rgba(255, 214, 154, 0.25); }
+.briefing-tag-shipping { background: rgba(168, 216, 255, 0.1); color: #a8d8ff; border-color: rgba(168, 216, 255, 0.25); }
+.briefing-tag-us { background: rgba(168, 216, 255, 0.1); color: #a8d8ff; border-color: rgba(168, 216, 255, 0.25); }
+.briefing-tag-venezuela { background: rgba(148, 244, 198, 0.1); color: var(--score-5); border-color: rgba(148, 244, 198, 0.25); }
+.briefing-tag-cuba { background: rgba(216, 204, 242, 0.1); color: var(--status-unfalsifiable); border-color: rgba(216, 204, 242, 0.25); }
+.briefing-tag-israel { background: rgba(250, 234, 142, 0.1); color: var(--score-3); border-color: rgba(250, 234, 142, 0.25); }
 .briefing-tag-gulf,
 .briefing-tag-qatar,
-.briefing-tag-energy { background: rgba(255, 190, 114, 0.1); color: var(--score-2); border-color: rgba(255, 190, 114, 0.25); }
-.briefing-tag-thailand { background: rgba(150, 232, 128, 0.1); color: var(--score-4); border-color: rgba(150, 232, 128, 0.25); }
-.briefing-tag-succession { background: rgba(200, 180, 234, 0.1); color: var(--status-unfalsifiable); border-color: rgba(200, 180, 234, 0.25); }
+.briefing-tag-energy { background: rgba(255, 214, 154, 0.1); color: var(--score-2); border-color: rgba(255, 214, 154, 0.25); }
+.briefing-tag-thailand { background: rgba(180, 242, 160, 0.1); color: var(--score-4); border-color: rgba(180, 242, 160, 0.25); }
+.briefing-tag-succession { background: rgba(216, 204, 242, 0.1); color: var(--status-unfalsifiable); border-color: rgba(216, 204, 242, 0.25); }
 
 .briefing-entry:last-child { border-bottom: none; }
 

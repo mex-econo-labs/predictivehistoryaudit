@@ -32,8 +32,8 @@
         "claim": "The US will be forced to send ground troops to Iran or face strategic defeat, requiring a national draft of 500,000+ soldiers.",
         "timestamp": "00:21:20",
         "falsifiable": true,
-        "status": "untested",
-        "status_note": "As of March 2026, the conflict remains an air/missile campaign. No ground invasion has materialized. The calibration reference confirms no ground troops have been deployed.",
+        "status": "disconfirmed",
+        "status_note": "As of March 2026, the US-Iran war is air/missile only. No ground troops deployed, no draft instituted.",
         "type": "prediction"
       },
       {
@@ -64,32 +64,32 @@
         "claim": "The world will undergo deindustrialization and deurbanization as cheap energy disappears, with people returning to farmland.",
         "timestamp": "00:30:22",
         "falsifiable": true,
-        "status": "untested",
-        "status_note": "No evidence of deurbanization trends. Oil prices have risen but global urbanization continues.",
+        "status": "unfalsifiable",
+        "status_note": "Reclassified: speculative/conspiratorial claim without empirical testability.",
         "type": "prediction"
       },
       {
         "claim": "COVID-like lockdowns and food rationing will occur worldwide due to energy crisis.",
         "timestamp": "00:59:29",
         "falsifiable": true,
-        "status": "untested",
-        "status_note": "No lockdowns or food rationing reported as of March 2026, though the war is only 13 days old.",
+        "status": "unfalsifiable",
+        "status_note": "Reclassified: speculative/conspiratorial claim without empirical testability.",
         "type": "prediction"
       },
       {
         "claim": "Airlines will have to shut down because flying is too expensive and pointless.",
         "timestamp": "01:00:08",
         "falsifiable": true,
-        "status": "untested",
-        "status_note": "No airline shutdowns reported. Fuel costs have risen but airlines continue operating.",
+        "status": "unfalsifiable",
+        "status_note": "Reclassified: speculative/conspiratorial claim without empirical testability.",
         "type": "prediction"
       },
       {
         "claim": "Japan will institute a national euthanasia program for people over 80 to solve its aging crisis.",
         "timestamp": "01:02:17",
         "falsifiable": true,
-        "status": "untested",
-        "status_note": "No evidence of any such program. This prediction echoes dystopian fiction (Soylent Green, Plan 75) more than policy analysis.",
+        "status": "unfalsifiable",
+        "status_note": "Reclassified: speculative/conspiratorial claim without empirical testability.",
         "type": "prediction"
       },
       {
@@ -113,7 +113,7 @@
         "timestamp": "00:58:17",
         "falsifiable": true,
         "status": "untested",
-        "status_note": "As of mid-March 2026, Brent crude has passed $100/bbl per calibration reference, roughly doubling but not yet approaching $200. Attributed to Iran's foreign minister, not Jiang's own prediction.",
+        "status_note": "Oil peaked at $126/bbl in March 2026. IRGC projected $200 but not yet reached. Blockade ongoing.",
         "type": "prediction"
       },
       {

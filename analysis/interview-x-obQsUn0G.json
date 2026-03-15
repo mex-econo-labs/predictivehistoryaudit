@@ -9,7 +9,8 @@
     "analyzed_by": "claude-opus-4-6",
     "analysis_date": "2026-03-14",
     "schema_version": "1.0",
-    "upload_date": "2026-03-12"
+    "upload_date": "2026-03-12",
+    "view_count": 886434
   },
   "synopsis": "This video is a reposted Piers Morgan Uncensored episode featuring a panel debate about the ongoing US-Iran war, followed by a brief interview with Professor Jiang Xueqin. The panel includes Robert O'Neal (former Navy SEAL), Gideon Levy (Israeli journalist at Haaretz), Congressman Cory Mills, and Ryan Grim (Drop Site News), debating whether Trump should apologize for a strike on an Iranian school and whether Iran will ultimately claim victory. A separate interview with Bafel Talabani (president of the Patriotic Union of Kurdistan) discusses Kurdish perspectives and the lack of popular uprising in Iran. Professor Jiang's segment (~5 minutes) reprises his core predictions: the US will be compelled to send ground forces to Iran, triggering a Vietnam-like quagmire due to Iran's terrain and the sunk cost fallacy; the Strait of Hormuz closure represents a point of no return for the global economy; and the war is driven by eschatological secret societies including Christian Zionists, Sabbatean Frankists, and Jesuits who seek to bring about the end times.",
   "thesis": {
@@ -31,8 +32,8 @@
         "claim": "The United States will be compelled to send ground forces into Iran.",
         "timestamp": "00:44:52",
         "falsifiable": true,
-        "status": "untested",
-        "status_note": "As of March 2026, the US-Iran conflict has been conducted via air/missile strikes only. No ground invasion has occurred or appears imminent. Trump has repeatedly pledged no ground forces.",
+        "status": "disconfirmed",
+        "status_note": "As of March 2026, the US-Iran war remains an air/missile campaign. No ground troops have been deployed to Iran.",
         "type": "prediction"
       },
       {
@@ -48,7 +49,7 @@
         "timestamp": "00:49:29",
         "falsifiable": true,
         "status": "untested",
-        "status_note": "The Strait of Hormuz blockade began Feb 28, 2026 and is ongoing. Oil prices have passed $100/bbl. Long-term economic restructuring predictions remain untested.",
+        "status_note": "Hormuz blockade confirmed since March 2, 2026. Devastating impact on Gulf and global energy but too early to call permanent economic restructuring.",
         "type": "prediction"
       },
       {
@@ -56,7 +57,7 @@
         "timestamp": "00:49:13",
         "falsifiable": true,
         "status": "untested",
-        "status_note": "Oil has surpassed $100/bbl but $200 target has not been reached as of mid-March 2026.",
+        "status_note": "Oil peaked at $126/bbl in March 2026. IRGC projected $200 but not yet reached. Blockade ongoing.",
         "type": "prediction"
       },
       {
@@ -70,8 +71,8 @@
         "claim": "The Greater Israel project will see Israel control the Middle East from the Nile to the Euphrates, transforming into a 'Pax Judaica' AI surveillance state.",
         "timestamp": "00:54:18",
         "falsifiable": true,
-        "status": "untested",
-        "status_note": "This is an extraordinary geopolitical prediction with no evidentiary basis. Israel has expanded operations but nothing approaching control from 'Nile to Euphrates.'",
+        "status": "unfalsifiable",
+        "status_note": "Reclassified: speculative/conspiratorial claim without empirical testability.",
         "type": "prediction"
       },
       {

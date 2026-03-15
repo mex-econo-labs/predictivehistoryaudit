@@ -41,7 +41,7 @@
         "timestamp": "00:07:11",
         "falsifiable": true,
         "status": "untested",
-        "status_note": "As of March 2026, Trump has not pardoned Derek Chauvin. The prediction specified 'next few weeks' from the January 2026 upload date.",
+        "status_note": "No Chauvin pardon announced as of March 2026.",
         "type": "prediction"
       },
       {
@@ -49,7 +49,7 @@
         "timestamp": "00:08:04",
         "falsifiable": true,
         "status": "untested",
-        "status_note": "As of March 2026, the National Guard has not been deployed to all 50 states and martial law has not been declared.",
+        "status_note": "No martial law declared as of March 2026.",
         "type": "prediction"
       },
       {
@@ -89,7 +89,7 @@
         "timestamp": "00:16:11",
         "falsifiable": true,
         "status": "untested",
-        "status_note": "No confirmed pattern of ICE agent shootings leading to martial law as of March 2026.",
+        "status_note": "No martial law declared as of March 2026.",
         "type": "prediction"
       }
     ]

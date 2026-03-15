@@ -39,8 +39,8 @@
         "claim": "American bombing and strategy will make Iranian society more energetic, open, and cohesive, ultimately strengthening Iran.",
         "timestamp": "00:37:44",
         "falsifiable": true,
-        "status": "untested",
-        "status_note": "War is too recent (began Feb 28, 2026) to assess societal transformation effects.",
+        "status": "partially_confirmed",
+        "status_note": "Mojtaba Khamenei elected Supreme Leader under IRGC pressure after father's assassination. Iran retaliating fiercely across 9+ countries. Some evidence of nationalist galvanization, but regime also weakened by leadership decapitation.",
         "type": "prediction"
       },
       {
@@ -64,7 +64,7 @@
         "timestamp": "00:29:05",
         "falsifiable": true,
         "status": "untested",
-        "status_note": "No public confirmation of this strategy as of March 2026.",
+        "status_note": "No evidence of US-backed ethnic insurgencies in Iran as of March 2026. War is air/missile campaign only.",
         "type": "prediction"
       },
       {
@@ -79,8 +79,8 @@
         "claim": "The grand question is whether America will launch a ground invasion of Iran, which would mean they've lost.",
         "timestamp": "00:43:42",
         "falsifiable": true,
-        "status": "untested",
-        "status_note": "As of March 2026, the US campaign has been air/missile strikes only — no ground invasion launched.",
+        "status": "disconfirmed",
+        "status_note": "As of March 2026, the US-Iran war remains an air/missile campaign. No ground troops have been deployed to Iran.",
         "type": "prediction"
       },
       {
@@ -94,8 +94,8 @@
         "claim": "The Iranians were willing to agree to all American terms in nuclear talks, but the US attacked anyway.",
         "timestamp": "00:45:12",
         "falsifiable": true,
-        "status": "untested",
-        "status_note": "Claim is unverified. Nuclear negotiations did occur but details of Iranian concessions are not publicly confirmed.",
+        "status": "disconfirmed",
+        "status_note": "Iran refused to halt all uranium enrichment as demanded. Talks broke down before Operation Midnight Hammer. Iran was NOT willing to accept all US terms.",
         "type": "prediction"
       }
     ]

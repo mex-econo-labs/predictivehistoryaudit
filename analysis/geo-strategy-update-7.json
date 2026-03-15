@@ -63,7 +63,7 @@
         "timestamp": "00:34:37",
         "falsifiable": true,
         "status": "untested",
-        "status_note": "As of March 2026, UK and France have committed peacekeeping troops to Ukraine but Odessa has not become a focal point of NATO-Russia conflict in this manner.",
+        "status_note": "No battle for Odessa as of March 2026. Frontline remains in eastern Ukraine (Kostiantynivka/Kramatorsk area).",
         "type": "prediction"
       },
       {
@@ -71,21 +71,24 @@
         "timestamp": "00:17:47",
         "falsifiable": true,
         "status": "untested",
-        "type": "prediction"
+        "type": "prediction",
+        "status_note": "Turkey hit by 3 Iranian missiles (Mar 4-13, 2026) but has not collapsed or been drawn into war. Running back-channel diplomacy."
       },
       {
         "claim": "Putin will allow Greeks to return to Constantinople, restoring the Byzantine Empire and unifying the Orthodox world.",
         "timestamp": "00:35:38",
         "falsifiable": true,
-        "status": "untested",
-        "type": "prediction"
+        "status": "unfalsifiable",
+        "type": "prediction",
+        "status_note": "Reclassified: speculative/conspiratorial claim without empirical testability."
       },
       {
         "claim": "After America leaves the Middle East, the Greater Israel project will merge with US CENTCOM infrastructure to become the Empire of Israel, which will destroy the Dome of the Rock to build the Third Temple.",
         "timestamp": "00:35:53",
         "falsifiable": true,
-        "status": "untested",
-        "type": "prediction"
+        "status": "unfalsifiable",
+        "type": "prediction",
+        "status_note": "Reclassified: speculative/conspiratorial claim without empirical testability."
       },
       {
         "claim": "China is heading toward ecological catastrophe and will not survive an economic or ecological crisis, making it irrelevant to future geopolitics.",

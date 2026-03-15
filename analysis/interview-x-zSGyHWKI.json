@@ -9,7 +9,8 @@
     "analyzed_by": "claude-opus-4-6",
     "analysis_date": "2026-03-14",
     "schema_version": "1.0",
-    "upload_date": "2026-03-06"
+    "upload_date": "2026-03-06",
+    "view_count": 178941
   },
   "synopsis": "In this nearly two-hour interview with a host named Richard, Professor Jiang Xueqin discusses his theory that sacred narratives and eschatological beliefs are the primary drivers of human history. The conversation centers on three major themes: the eschatological motivations behind Israeli policy in the Middle East (including predictions of Al-Aqsa Mosque destruction and a third temple), the coming American civil war that Jiang believes will last 20-30 years and result in a Christian theocracy, and the role of secret societies and figures like Peter Thiel in orchestrating global events. The interview is notably more conspiratorial than Jiang's regular lectures, delving into Kabbalistic numerology, false-flag operations, Zionist-Nazi collaboration claims, and the assassination of Charlie Kirk as a ritualistic spectacle with hidden occult symbolism.",
   "thesis": {
@@ -31,8 +32,9 @@
         "claim": "Israel will destroy the Al-Aqsa Mosque as part of eschatological prophecy, using a pre-determined date based on Kabbalistic numerology.",
         "timestamp": "00:28:33",
         "falsifiable": true,
-        "status": "untested",
-        "type": "prediction"
+        "status": "unfalsifiable",
+        "type": "prediction",
+        "status_note": "Reclassified: speculative/conspiratorial claim without empirical testability."
       },
       {
         "claim": "The United States will send ground troops against Iran.",
@@ -98,8 +100,9 @@
         "claim": "The next step after COVID will be implanting microchips into people's bodies as a form of social control.",
         "timestamp": "01:54:10",
         "falsifiable": true,
-        "status": "untested",
-        "type": "prediction"
+        "status": "unfalsifiable",
+        "type": "prediction",
+        "status_note": "Reclassified: speculative/conspiratorial claim without empirical testability."
       }
     ]
   },

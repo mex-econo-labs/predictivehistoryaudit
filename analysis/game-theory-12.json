@@ -31,8 +31,8 @@
         "claim": "The United States will deploy ground troops in Iran and institute a national draft.",
         "timestamp": "00:00:22",
         "falsifiable": true,
-        "status": "untested",
-        "status_note": "As of March 2026, the US-Iran conflict has been an air/missile campaign. No ground troops deployed, no draft instituted. Senator Blumenthal's clip suggests this is being discussed but hasn't happened.",
+        "status": "disconfirmed",
+        "status_note": "As of March 2026, the US-Iran war is air/missile only. No ground troops deployed, no draft instituted.",
         "type": "prediction"
       },
       {
@@ -71,8 +71,8 @@
         "claim": "GCC economies will be destroyed as part of the Greater Israel project.",
         "timestamp": "00:55:39",
         "falsifiable": true,
-        "status": "untested",
-        "status_note": "GCC economies have been impacted by the Strait of Hormuz blockade but have not collapsed.",
+        "status": "partially_confirmed",
+        "status_note": "GCC states severely damaged by Iranian strikes: UAE ADNOC refinery shut, Qatar halted all gas production, Kuwait/Bahrain declared force majeure. But states have not collapsed — governments functioning, diplomacy active.",
         "type": "prediction"
       },
       {
@@ -95,16 +95,16 @@
         "claim": "Companies like Nvidia, Oracle, Microsoft, and Google will transfer themselves to Israel as it becomes the center of 'Pax Judaica.'",
         "timestamp": "00:58:10",
         "falsifiable": true,
-        "status": "untested",
-        "status_note": "No evidence of major tech companies relocating to Israel.",
+        "status": "unfalsifiable",
+        "status_note": "Reclassified: speculative/conspiratorial claim without empirical testability.",
         "type": "prediction"
       },
       {
         "claim": "Russia will win the war in Ukraine and then support Greeks in retaking Constantinople (Istanbul) from Turkey.",
         "timestamp": "00:58:37",
         "falsifiable": true,
-        "status": "untested",
-        "status_note": "Russia-Ukraine war continues as grinding attritional conflict with no decisive Russian victory. A Greek-Turkish war over Istanbul is extremely unlikely.",
+        "status": "unfalsifiable",
+        "status_note": "Reclassified: speculative/conspiratorial claim without empirical testability.",
         "type": "prediction"
       },
       {
@@ -119,8 +119,8 @@
         "claim": "The US economy will collapse because the entire US economy is based on the stock market, finance, AI, and GCC investment.",
         "timestamp": "01:04:56",
         "falsifiable": true,
-        "status": "untested",
-        "status_note": "US economy has not collapsed, though oil price spikes from Strait of Hormuz blockade have caused disruption.",
+        "status": "partially_confirmed",
+        "status_note": "GCC states severely damaged by Iranian strikes: UAE ADNOC refinery shut, Qatar halted all gas production, Kuwait/Bahrain declared force majeure. But states have not collapsed — governments functioning, diplomacy active.",
         "type": "prediction"
       }
     ]

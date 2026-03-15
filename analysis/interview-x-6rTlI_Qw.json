@@ -41,7 +41,7 @@
         "timestamp": "00:11:50",
         "falsifiable": true,
         "status": "untested",
-        "status_note": "Specific short-term prediction made around March 9, 2026. Testable within days.",
+        "status_note": "Dubai struck by Iranian attacks but food crisis not yet confirmed as of March 14, 2026.",
         "type": "prediction"
       },
       {
@@ -56,16 +56,16 @@
         "claim": "Israel will emerge as the dominant power in the Middle East, achieve the Greater Israel project, and create 'Pax Judaica'.",
         "timestamp": "00:33:45",
         "falsifiable": true,
-        "status": "untested",
-        "status_note": "Long-term geopolitical prediction.",
+        "status": "unfalsifiable",
+        "status_note": "Reclassified: speculative/conspiratorial claim without empirical testability.",
         "type": "prediction"
       },
       {
         "claim": "Saudi Arabia will enter the war on behalf of the Americans, bringing Pakistan (with nuclear weapons) into the conflict.",
         "timestamp": "00:30:54",
         "falsifiable": true,
-        "status": "untested",
-        "status_note": "Saudi Arabia has so far refused to support the war, condemning strikes on Iran and refusing airspace. This prediction contradicts current Saudi behavior.",
+        "status": "disconfirmed",
+        "status_note": "Saudi Arabia refused airspace for US/Israeli strikes on Iran and publicly condemned Israeli \"aggressions.\" Saudi has NOT entered the war on America's side.",
         "type": "prediction"
       },
       {
@@ -95,16 +95,16 @@
         "claim": "Putin is waiting for a US ground invasion of Iran, after which Russia will move on Odessa, leading to a European-Russian conflict.",
         "timestamp": "00:53:04",
         "falsifiable": true,
-        "status": "untested",
-        "status_note": "Contingent on US ground invasion which has not occurred; war has been air/missile only.",
+        "status": "disconfirmed",
+        "status_note": "As of March 2026, the US-Iran war remains an air/missile campaign. No ground troops have been deployed to Iran.",
         "type": "prediction"
       },
       {
         "claim": "Trump will attack Cuba, Mexico, or Colombia within two weeks while the Iran war is still raging.",
         "timestamp": "00:32:52",
         "falsifiable": true,
-        "status": "untested",
-        "status_note": "Very specific short-term prediction, testable by late March 2026.",
+        "status": "disconfirmed",
+        "status_note": "US has not attacked Cuba. Instead, secret US-Cuba negotiations confirmed March 13, 2026. Trump pursuing diplomatic approach.",
         "type": "prediction"
       },
       {
@@ -127,8 +127,8 @@
         "claim": "The 82nd Airborne Division has received deployment orders and Americans may airdrop soldiers into the middle of Iran.",
         "timestamp": "00:03:56",
         "falsifiable": true,
-        "status": "untested",
-        "status_note": "Based on 'rumors' at the time of the interview. No confirmation of ground troops being deployed.",
+        "status": "disconfirmed",
+        "status_note": "As of March 2026, the US-Iran war remains an air/missile campaign. No ground troops have been deployed to Iran.",
         "type": "prediction"
       }
     ]

@@ -57,7 +57,7 @@
         "timestamp": "00:14:22",
         "falsifiable": true,
         "status": "untested",
-        "status_note": "As of March 2026, no such testimony has occurred. The claim that Maduro was 'always a CIA asset' is unsourced speculation.",
+        "status_note": "Maduro arraigned Jan 5, 2026 on narco-terrorism charges. Trial pending March 17. No testimony about elections yet.",
         "type": "prediction"
       },
       {
@@ -65,7 +65,7 @@
         "timestamp": "00:10:42",
         "falsifiable": true,
         "status": "untested",
-        "status_note": "As of March 2026, the war continues as a grinding attritional conflict. Russia occupies ~20% of Ukraine but Odessa remains under Ukrainian control. 128 combat engagements recorded on a single day (March 12, 2026).",
+        "status_note": "No battle for Odessa as of March 2026. Frontline remains in eastern Ukraine (Kostiantynivka/Kramatorsk area).",
         "type": "prediction"
       },
       {
@@ -80,8 +80,8 @@
         "claim": "A magnetic pole excursion will destroy the world and kill 99% of humanity in about 50 years.",
         "timestamp": "00:54:32",
         "falsifiable": true,
-        "status": "untested",
-        "status_note": "No mainstream scientific evidence supports the claim that a geomagnetic excursion would cause 99% human mortality. Geomagnetic reversals have occurred many times during human existence without mass extinction events.",
+        "status": "unfalsifiable",
+        "status_note": "Reclassified: speculative/conspiratorial claim without empirical testability.",
         "type": "prediction"
       },
       {

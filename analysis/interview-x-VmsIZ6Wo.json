@@ -9,7 +9,8 @@
     "transcript_file": "Interview：  World War 3 Starts NOW [VmsIZ6WopxI].en.srt",
     "analyzed_by": "claude-opus-4-6",
     "analysis_date": "2026-03-14",
-    "schema_version": "1.0"
+    "schema_version": "1.0",
+    "view_count": 163585
   },
   "synopsis": "In this interview on the Kim Iverson Show, Jiang Xueqin argues that World War 3 has effectively been underway since Russia's 2022 invasion of Ukraine and will escalate dramatically through 2026-2027. He identifies multiple flashpoints — Ukraine, the Western Hemisphere, China-Japan tensions over Taiwan, US-Russia naval confrontations, and Iran — and predicts the US will pursue a 'grand bargain' with China before launching a full-scale invasion of Iran in 2027. The interview concludes with philosophical advice about focusing on spiritual resilience and community rather than material wealth preservation during the coming period of global chaos.",
   "thesis": {
@@ -54,7 +55,7 @@
         "timestamp": "00:04:02",
         "falsifiable": true,
         "status": "untested",
-        "status_note": "No grand bargain has materialized. Chinese investment in Venezuelan oil continues at pre-existing levels but no new major deal tied to a US-China arrangement.",
+        "status_note": "Rodriguez government signed oil reform law (Jan 29, 2026) opening to foreign investment, but no Chinese investment deal announced yet.",
         "type": "prediction"
       },
       {
@@ -110,7 +111,7 @@
         "timestamp": "00:09:07",
         "falsifiable": true,
         "status": "untested",
-        "status_note": "Covert operations are difficult to verify. Israel and US have conducted air campaigns against Iran but evidence of CIA/Mossad-backed insurgent groups in border regions is not publicly confirmed.",
+        "status_note": "No evidence of US-backed ethnic insurgencies in Iran as of March 2026. War is air/missile campaign only.",
         "type": "prediction"
       },
       {

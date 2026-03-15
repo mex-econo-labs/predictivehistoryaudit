@@ -75,9 +75,10 @@
         "claim": "If the US invades Iran, its troops will become trapped and effectively become hostages due to Iran's terrain and supply line problems.",
         "timestamp": "00:25:39",
         "falsifiable": true,
-        "status": "untested",
+        "status": "disconfirmed",
         "screencap": "7y_hbz6loEo_002539_23.jpg",
-        "type": "prediction"
+        "type": "prediction",
+        "status_note": "No US ground troops in Iran. The war is air/missile only. The \"troops trapped\" scenario is moot."
       },
       {
         "claim": "The Iranian population will not rise up in support of American invaders.",
@@ -85,7 +86,8 @@
         "falsifiable": true,
         "status": "untested",
         "screencap": "7y_hbz6loEo_002653_24.jpg",
-        "type": "prediction"
+        "type": "prediction",
+        "status_note": "No ground invasion to test this. Air campaign has killed 1,444+ Iranians and reportedly galvanized nationalism, but no occupation to trigger uprising scenario."
       },
       {
         "claim": "Russia will position itself as a nuclear guarantor, preventing any party from using nuclear weapons in a US-Iran conflict.",

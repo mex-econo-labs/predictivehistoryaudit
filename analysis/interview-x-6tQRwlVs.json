@@ -32,8 +32,8 @@
         "claim": "America will launch a ground invasion of Iran, requiring a national draft.",
         "timestamp": "00:58:07",
         "falsifiable": true,
-        "status": "untested",
-        "status_note": "As of March 2026, the US-Iran conflict has been conducted via air/missile strikes, not ground invasion. No draft has been instituted.",
+        "status": "disconfirmed",
+        "status_note": "As of March 2026, the US-Iran war is air/missile only. No ground troops deployed, no draft instituted.",
         "type": "prediction"
       },
       {
@@ -54,8 +54,8 @@
         "claim": "Russia will capture Odessa once America sends ground troops to Iran.",
         "timestamp": "01:00:53",
         "falsifiable": true,
-        "status": "untested",
-        "status_note": "Russia has not captured Odessa as of March 2026. The precondition (US ground troops in Iran) has not occurred.",
+        "status": "disconfirmed",
+        "status_note": "As of March 2026, the US-Iran war remains an air/missile campaign. No ground troops have been deployed to Iran.",
         "type": "prediction"
       },
       {
@@ -76,22 +76,24 @@
         "claim": "The GCC nations will collapse and 'wither back into the desert' due to loss of oil revenue and food import dependency.",
         "timestamp": "00:59:42",
         "falsifiable": true,
-        "status": "untested",
-        "type": "prediction"
+        "status": "partially_confirmed",
+        "type": "prediction",
+        "status_note": "GCC states severely damaged by Iranian strikes: UAE ADNOC refinery shut, Qatar halted all gas production, Kuwait/Bahrain declared force majeure. But states have not collapsed — governments functioning, diplomacy active."
       },
       {
         "claim": "Over 90% of humanity will be killed within the next 20 years as part of a deliberate depopulation plan.",
         "timestamp": "01:13:10",
         "falsifiable": true,
-        "status": "untested",
-        "type": "prediction"
+        "status": "unfalsifiable",
+        "type": "prediction",
+        "status_note": "Reclassified: speculative/conspiratorial claim without empirical testability."
       },
       {
         "claim": "Trump will visit China at the end of the month (March 2026) to negotiate a grand bargain.",
         "timestamp": "00:37:42",
         "falsifiable": true,
-        "status": "untested",
-        "status_note": "No confirmed Trump visit to China scheduled for late March 2026 as of analysis date.",
+        "status": "disconfirmed",
+        "status_note": "Trump has not visited China in March 2026. No such visit announced or scheduled.",
         "type": "prediction"
       },
       {

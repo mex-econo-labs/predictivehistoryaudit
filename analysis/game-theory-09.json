@@ -32,7 +32,7 @@
         "timestamp": "00:10:29",
         "falsifiable": true,
         "status": "untested",
-        "status_note": "As of March 2026, Bahrain has not fallen. The conflict is only weeks old.",
+        "status_note": "Bahrain struck by Iranian drones (32+ injured, Bapco refinery hit) but no Shia uprising has occurred as of March 2026.",
         "screencap": "jIS2eB-rGv0_001029_20.jpg",
         "type": "prediction"
       },
@@ -41,7 +41,7 @@
         "timestamp": "00:08:11",
         "falsifiable": true,
         "status": "untested",
-        "status_note": "Too early to assess long-term economic impact on Dubai. Airport was disrupted but full bankruptcy claim is untested.",
+        "status_note": "Dubai struck by Iranian missiles (airport, Palm Islands) and ADNOC refinery shut. Severe damage but too early to declare bankruptcy or death of the city.",
         "screencap": "jIS2eB-rGv0_000811_21.jpg",
         "type": "prediction"
       },
@@ -49,8 +49,8 @@
         "claim": "The entire GCC area including Saudi Arabia will eventually collapse.",
         "timestamp": "00:10:41",
         "falsifiable": true,
-        "status": "untested",
-        "status_note": "Very long-term prediction. No GCC state has collapsed as of March 2026.",
+        "status": "partially_confirmed",
+        "status_note": "GCC states severely damaged by Iranian strikes: UAE ADNOC refinery shut, Qatar halted all gas production, Kuwait/Bahrain declared force majeure. But states have not collapsed — governments functioning, diplomacy active.",
         "screencap": "jIS2eB-rGv0_001041_22.jpg",
         "type": "prediction"
       },
@@ -67,8 +67,8 @@
         "claim": "The US-Israeli strategy is to destroy Iran's water supply (dams, reservoirs, power plants) to make Iran uninhabitable.",
         "timestamp": "00:17:56",
         "falsifiable": true,
-        "status": "untested",
-        "status_note": "Attacks on civilian infrastructure reported but systematic targeting of water infrastructure specifically not yet confirmed at this scale.",
+        "status": "disconfirmed",
+        "status_note": "US-Israeli strikes targeted nuclear, military, and leadership targets — not water infrastructure. No strategy to make Iran \"uninhabitable.\"",
         "screencap": "jIS2eB-rGv0_001756_24.jpg",
         "type": "prediction"
       },
@@ -77,7 +77,7 @@
         "timestamp": "00:35:25",
         "falsifiable": true,
         "status": "untested",
-        "status_note": "No evidence of this specific grand strategy being implemented. Speculative claim about intentions.",
+        "status_note": "No evidence of US-backed ethnic insurgencies in Iran as of March 2026. War is air/missile campaign only.",
         "screencap": "jIS2eB-rGv0_003525_25.jpg",
         "type": "prediction"
       },
@@ -103,8 +103,8 @@
         "claim": "Russia and China could enter the war on Iran's side, making this World War III.",
         "timestamp": "00:20:30",
         "falsifiable": true,
-        "status": "untested",
-        "status_note": "Neither Russia nor China has entered the conflict militarily as of March 2026. Russia delivered Su-35s but has not intervened directly.",
+        "status": "disconfirmed",
+        "status_note": "Neither Russia nor China has entered the Iran war militarily. Russia delivered weapons but did not intervene. China has maintained strategic ambiguity.",
         "screencap": "jIS2eB-rGv0_002030_28.jpg",
         "type": "prediction"
       },
@@ -112,8 +112,8 @@
         "claim": "America will send ground troops (half a million to 2 million soldiers) to topple the Iranian government.",
         "timestamp": "00:19:43",
         "falsifiable": true,
-        "status": "untested",
-        "status_note": "As of March 2026, the US campaign has been air/missile only with no ground invasion. This echoes the Geo-Strategy 8 prediction which also has not materialized.",
+        "status": "disconfirmed",
+        "status_note": "As of March 2026, the US-Iran war remains an air/missile campaign. No ground troops have been deployed to Iran.",
         "screencap": "jIS2eB-rGv0_001943_29.jpg",
         "type": "prediction"
       },
@@ -121,8 +121,8 @@
         "claim": "The destruction of GCC investment flows will collapse the US stock market and lead to economic depression in America.",
         "timestamp": "00:41:17",
         "falsifiable": true,
-        "status": "untested",
-        "status_note": "Oil price spikes have occurred but full economic depression and stock market collapse not yet materialized as of March 2026.",
+        "status": "partially_confirmed",
+        "status_note": "GCC states severely damaged by Iranian strikes: UAE ADNOC refinery shut, Qatar halted all gas production, Kuwait/Bahrain declared force majeure. But states have not collapsed — governments functioning, diplomacy active.",
         "screencap": "jIS2eB-rGv0_004117_30.jpg",
         "type": "prediction"
       }
