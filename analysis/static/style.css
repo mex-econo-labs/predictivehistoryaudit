@@ -385,6 +385,17 @@ img { max-width: 100%; display: block; }
   overflow: hidden;
   text-overflow: ellipsis;
 }
+.data-table td[data-value="avg"],
+.data-table td[data-value="acc"],
+.data-table td[data-value="rig"],
+.data-table td[data-value="fra"],
+.data-table td[data-value="div"],
+.data-table td[data-value="nor"],
+.data-table td[data-value="det"],
+.data-table td[data-value="civ"] {
+  overflow: visible;
+  text-overflow: clip;
+}
 
 .data-table tbody tr {
   transition: background 0.1s;
