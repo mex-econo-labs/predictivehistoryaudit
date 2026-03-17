@@ -74,6 +74,7 @@ body {
   background: var(--bg-primary);
   line-height: 1.65;
   min-height: 100vh;
+  overflow-x: hidden;
 }
 
 /* Noise texture overlay */
@@ -328,8 +329,10 @@ img { max-width: 100%; display: block; }
 /* --- Data Table --- */
 .data-table-wrap {
   overflow-x: auto;
+  -webkit-overflow-scrolling: touch;
   border: 1px solid var(--border);
   border-radius: 3px;
+  max-width: 100%;
 }
 
 .data-table {
@@ -722,6 +725,31 @@ img { max-width: 100%; display: block; }
   text-transform: uppercase;
 }
 
+/* --- Rhetoric Bar (Patterns page frequency chart) --- */
+.rhetoric-bar-row {
+  display: flex;
+  align-items: center;
+  gap: var(--space-md);
+  padding: var(--space-xs) 0;
+}
+.rhetoric-bar-label {
+  flex: 0 0 200px;
+  font-size: 0.82rem;
+  color: var(--text-secondary);
+}
+.rhetoric-bar-track {
+  flex: 1;
+  height: 6px;
+  background: var(--bg-inset);
+  border-radius: 3px;
+  overflow: hidden;
+}
+.rhetoric-bar-count {
+  font-size: 0.75rem;
+  flex: 0 0 30px;
+  text-align: right;
+}
+
 /* --- Rhetoric Entry --- */
 .rhetoric-entry {
   padding: var(--space-md) 0;
@@ -1049,17 +1077,114 @@ img { max-width: 100%; display: block; }
 
 /* --- Responsive --- */
 @media (max-width: 768px) {
-  .page-hero h1 { font-size: 1.6rem; }
-  .score-panel { grid-template-columns: 1fr; }
-  .radar-wrap { max-width: 280px; margin: 0 auto; }
-  .quote-block { grid-template-columns: 1fr; }
-  .quote-screencap { max-width: 280px; }
-  .verdict-grid { grid-template-columns: 1fr; }
+  html { font-size: 15px; }
+
+  .container { padding: 0 var(--space-md); }
+
+  /* Masthead: stack vertically, nav wraps */
+  .masthead { padding: var(--space-sm) 0; }
+  .masthead-inner { flex-direction: column; align-items: flex-start; gap: var(--space-xs); }
+  .masthead-nav { flex-wrap: wrap; gap: var(--space-sm); }
+  .masthead-nav a { font-size: 0.72rem; }
+  .masthead-title { font-size: 0.75rem; }
+  .masthead-subtitle { display: none; }
+
+  /* Hero */
+  .page-hero { padding: var(--space-lg) 0 var(--space-md); }
+  .page-hero h1 { font-size: 1.4rem; }
+  .page-hero .lead { font-size: 0.95rem; }
+  .hero-body { flex-direction: column; }
+  .hero-thumb-img { width: 100%; max-width: 400px; }
+
+  /* Stats bar: 2-col on tablets, 1-col on phones */
   .stats-bar { grid-template-columns: repeat(2, 1fr); }
-  .masthead-inner { flex-direction: column; align-items: flex-start; gap: var(--space-sm); }
-  .source-entry { grid-template-columns: 1fr; }
-  .prediction-entry { grid-template-columns: 1fr; }
-  .status-badge { margin-top: var(--space-xs); }
+  .stat-value { font-size: 1.4rem; }
+  .stat-label { font-size: 0.62rem; }
+  .stat-cell { padding: var(--space-sm); }
+
+  /* Filter bars: horizontal scroll */
+  .filter-bar { flex-wrap: nowrap; overflow-x: auto; -webkit-overflow-scrolling: touch; padding-bottom: var(--space-xs); }
+  .filter-tab { font-size: 0.68rem; padding: 0.35em 0.7em; flex-shrink: 0; }
+
+  /* Dashboard table: hide less critical columns on mobile */
+  .data-table { table-layout: auto; font-size: 0.68rem; }
+  .data-table th, .data-table td { padding: 0.5em 0.3em; }
+  .data-table th.col-score { width: auto; min-width: 30px; }
+  .data-table .lecture-title { font-size: 0.78rem; }
+  .data-table .lecture-series { font-size: 0.58rem; }
+
+  /* Score panel */
+  .score-panel { grid-template-columns: 1fr; gap: var(--space-md); }
+  .radar-wrap { max-width: 240px; margin: 0 auto; }
+
+  /* Score rows */
+  .score-row { grid-template-columns: 1fr auto; gap: var(--space-sm); }
+  .score-name { font-size: 0.72rem; }
+  .score-expand-hint { display: none; }
+  .score-justification { font-size: 0.78rem; }
+
+  /* Quotes */
+  .quote-block { grid-template-columns: 1fr; gap: var(--space-sm); }
+  .quote-screencap { max-width: 100%; }
+  .quote-text { font-size: 0.9rem; }
+
+  /* Verdict */
+  .verdict-grid { grid-template-columns: 1fr; }
+
+  /* Sources */
+  .source-entry { grid-template-columns: 1fr; gap: var(--space-xs); }
+
+  /* Predictions */
+  .prediction-entry { grid-template-columns: 1fr; gap: var(--space-xs); }
+  .prediction-claim { font-size: 0.82rem; }
+  .status-badge { margin-top: var(--space-xs); align-self: flex-start; }
+
+  /* Section toggles */
+  .section-toggle { padding: var(--space-sm) var(--space-md); }
+  .section-toggle h3 { font-size: 0.65rem; }
+  .section-content { padding: 0 var(--space-md) var(--space-md); }
+  .section-content.open { padding-top: var(--space-md); }
+
+  /* Rhetoric bars */
+  .rhetoric-bar-label { flex: 0 0 120px; font-size: 0.72rem; }
+  .rhetoric-bar-row { gap: var(--space-sm); }
+
+  /* Rubric table (patterns page) */
+  .rubric-table { font-size: 0.72rem; }
+  .rubric-table th, .rubric-table td { padding: var(--space-xs) var(--space-sm); }
+
+  /* Advisory */
+  .advisory-box { padding: var(--space-sm); }
+  .advisory-list li { font-size: 0.82rem; }
+
+  /* Briefing tags */
+  .briefing-tag { font-size: 0.5rem; }
+
+  /* Footer */
+  .footer-inner { flex-direction: column; gap: var(--space-xs); text-align: center; }
+  .footer-text { font-size: 0.62rem; }
+}
+
+/* Small phones (iPhone SE, etc.) */
+@media (max-width: 400px) {
+  .stats-bar { grid-template-columns: 1fr 1fr; }
+  .stat-value { font-size: 1.2rem; }
+
+  .page-hero h1 { font-size: 1.2rem; }
+
+  /* Hide Posted, Series, Ep columns — show only Title + scores */
+  .data-table th:nth-child(1),
+  .data-table td:nth-child(1),
+  .data-table th:nth-child(2),
+  .data-table td:nth-child(2),
+  .data-table th:nth-child(3),
+  .data-table td:nth-child(3),
+  .data-table th:nth-child(5),
+  .data-table td:nth-child(5) { display: none; }
+
+  .data-table { font-size: 0.65rem; }
+  .data-table th, .data-table td { padding: 0.4em 0.2em; }
+  .score-cell { width: 1.8em; height: 1.8em; font-size: 0.72rem; }
 }
 
 /* --- Prediction/Claim Type Badges --- */

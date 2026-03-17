@@ -127,6 +127,7 @@
     <div class="card-header">
       <span class="card-title">Average Scores by Series</span>
     </div>
+    <div class="data-table-wrap">
     <table class="rubric-table" style="margin: 0;">
       <thead>
         <tr>
@@ -155,6 +156,7 @@
         {% endfor %}
       </tbody>
     </table>
+    </div>
   </div>
 
   <!-- RHETORIC FREQUENCY -->
@@ -163,12 +165,12 @@
       <span class="card-title">Most Common Rhetorical Techniques</span>
     </div>
     {% for technique, count in rhetoric_freq[:15] %}
-    <div style="display: flex; align-items: center; gap: var(--space-md); padding: var(--space-xs) 0;">
-      <div style="flex: 0 0 200px; font-size: 0.82rem; color: var(--text-secondary);">{{ technique }}</div>
-      <div style="flex: 1; height: 6px; background: var(--bg-inset); border-radius: 3px; overflow: hidden;">
+    <div class="rhetoric-bar-row">
+      <div class="rhetoric-bar-label">{{ technique }}</div>
+      <div class="rhetoric-bar-track">
         <div style="width: {{ (count / rhetoric_freq[0][1] * 100)|round }}%; height: 100%; background: var(--accent); border-radius: 3px;"></div>
       </div>
-      <div class="mono muted" style="font-size: 0.75rem; flex: 0 0 30px; text-align: right;">{{ count }}</div>
+      <div class="rhetoric-bar-count mono muted">{{ count }}</div>
     </div>
     {% endfor %}
   </div>

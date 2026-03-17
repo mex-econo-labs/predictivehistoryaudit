@@ -54,6 +54,7 @@
           <th data-sort="episode" style="width:36px;">Ep</th>
           <th data-sort="title" data-sort-type="string">Title</th>
           <th data-sort="views" data-tip="YouTube view count" style="width:64px;">Views</th>
+          <th class="col-score tip-wide" data-sort="avg" data-tip="Overall Average — Average across all 7 axes">Avg</th>
           <th class="col-score tip-wide" data-sort="acc" data-tip="Historical Accuracy — {{ score_tips.historical_accuracy }}">Acc</th>
           <th class="col-score tip-wide" data-sort="rig" data-tip="Argumentative Rigor — {{ score_tips.argumentative_rigor }}">Rig</th>
           <th class="col-score tip-wide" data-sort="fra" data-tip="Framing &amp; Selectivity — {{ score_tips.framing_and_selectivity }}">Fra</th>
@@ -61,7 +62,6 @@
           <th class="col-score tip-wide" data-sort="nor" data-tip="Normative Loading — {{ score_tips.normative_loading }}">Nor</th>
           <th class="col-score tip-wide" data-sort="det" data-tip="Determinism vs. Contingency — {{ score_tips.determinism_vs_contingency }}">Det</th>
           <th class="col-score tip-wide" data-sort="civ" data-tip="Civilizational Framing — {{ score_tips.civilizational_framing }}">Civ</th>
-          <th class="col-score tip-wide" data-sort="avg" data-tip="Overall Average — Average across all 7 axes">Avg</th>
         </tr>
       </thead>
       <tbody>
@@ -76,14 +76,14 @@
             <a href="lectures/{{ l.slug }}.html" class="lecture-title">{{ l.display_title }}</a>
           </td>
           <td data-value="views" data-raw="{{ l.meta.view_count|default(0) }}" class="mono muted" style="font-size:0.72rem; text-align:right; white-space:nowrap;">{{ l.meta.view_count|default(0)|commafy }}</td>
+          <td data-value="avg" data-raw="{{ '%.2f'|format(l.avg) }}" style="text-align:center">
+            <span class="score-cell avg-cell score-{{ l.avg|round|int }}">{{ "%.1f"|format(l.avg) }}</span>
+          </td>
           {% for key in score_keys %}
           <td data-value="{{ score_short[loop.index0] }}" data-raw="{{ l.scores[key].score }}" style="text-align:center">
             <span class="score-cell score-{{ l.scores[key].score }}">{{ l.scores[key].score }}</span>
           </td>
           {% endfor %}
-          <td data-value="avg" data-raw="{{ '%.2f'|format(l.avg) }}" style="text-align:center">
-            <span class="score-cell avg-cell score-{{ l.avg|round|int }}">{{ "%.1f"|format(l.avg) }}</span>
-          </td>
         </tr>
         {% endfor %}
       </tbody>
