@@ -208,6 +208,14 @@ else
   echo "[6/6] Skipping build."
 fi
 
+# --- Commit and push ---
+echo "[7/7] Committing and pushing..."
+git add "$OUTPUT_FILE" "$TRANSCRIPT_DIR/$TRANSCRIPT_FILE" "${ANALYSIS_DIR}/caps/${VIDEO_ID}_"*.jpg 2>/dev/null
+git commit -m "${SERIES} #${EPISODE}: ${TITLE} (${VIDEO_ID})
+
+Co-Authored-By: Claude Opus 4.6 (1M context) <noreply@anthropic.com>"
+git push
+
 echo ""
 echo "=== Done: ${SERIES} #${EPISODE}: ${TITLE} ==="
 echo "Analysis: $OUTPUT_FILE"
