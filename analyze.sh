@@ -79,7 +79,7 @@ if [[ "$NAMEPART" == *"："* ]]; then
     EPISODE=""
   fi
 else
-  SERIES="Standalone"
+  SERIES="Interview"
   EPISODE=""
   TITLE="$NAMEPART"
 fi
