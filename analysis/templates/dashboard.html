@@ -1,5 +1,10 @@
 {% extends "base.html" %}
 {% block title %}Dashboard — Predictive History Audit{% endblock %}
+{% block og_title %}Predictive History Audit — Dashboard{% endblock %}
+{% block og_description %}{{ lectures | length }} lectures analyzed across {{ series_count }} series. Mean score: {{ '%.1f' % avg_overall }}/5. {{ total_predictions }} predictions tracked.{% endblock %}
+{% block og_url %}https://predictivehistoryaudit.pages.dev/{% endblock %}
+{% block tw_title %}Predictive History Audit — Dashboard{% endblock %}
+{% block tw_description %}{{ lectures | length }} lectures analyzed across {{ series_count }} series. Mean score: {{ '%.1f' % avg_overall }}/5. {{ total_predictions }} predictions tracked.{% endblock %}
 
 {% block content %}
 <section class="page-hero">
