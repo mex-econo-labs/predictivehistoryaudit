@@ -91,9 +91,15 @@ for srt in sorted(glob.glob(os.path.join(transcript_dir, "*.srt"))):
             episode = "null"
             title = pm2.group(2).strip()
         else:
-            series = "Standalone"
+            series = "Interview"
             episode = "null"
             title = namepart
+
+    # Map unrecognized series names to "Interview"
+    known_series = {"Civilization", "Secret History", "Game Theory", "Geo-Strategy", "Geo-Strategy Update", "Great Books", "Interview"}
+    if series not in known_series:
+        title = f"{series}： {title}" if title else series
+        series = "Interview"
 
     # Episode JSON representation
     if episode.isdigit():

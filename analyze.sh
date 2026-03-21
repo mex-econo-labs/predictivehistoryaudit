@@ -84,6 +84,15 @@ else
   TITLE="$NAMEPART"
 fi
 
+# Map unrecognized series names to "Interview"
+# Known series have episodes (e.g., "Civilization #42") or are recognized names
+KNOWN_SERIES="Civilization|Secret History|Game Theory|Geo-Strategy|Geo-Strategy Update|Great Books|Interview"
+if ! echo "$SERIES" | grep -qxE "$KNOWN_SERIES"; then
+  echo "  Unrecognized series '$SERIES' — classifying as Interview"
+  TITLE="${SERIES}： ${TITLE}"
+  SERIES="Interview"
+fi
+
 # Generate episode JSON
 if [[ "$EPISODE" =~ ^[0-9]+$ ]]; then
   EPISODE_JSON="$EPISODE"

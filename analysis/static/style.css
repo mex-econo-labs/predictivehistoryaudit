@@ -16,30 +16,30 @@
   --border: #2e3440;
   --border-subtle: #232830;
 
-  /* Text — 13:1+ contrast against bg-primary for content & headings */
-  --text-primary: #f2f0ec;
-  --text-secondary: #e6e3dc;
-  --text-muted: #ddd7cb;
-  --text-accent: #fce28f;
+  /* Text — 13:1+ contrast against bg-primary (#0c0e11) */
+  --text-primary: #f7f5f2;
+  --text-secondary: #efece6;
+  --text-muted: #e5e0d8;
+  --text-accent: #ffe9a0;
 
   /* Accent — bright vivid gold */
-  --accent: #fce28f;
-  --accent-dim: #f0d56e;
-  --accent-glow: rgba(252, 226, 143, 0.1);
+  --accent: #ffe9a0;
+  --accent-dim: #f5da78;
+  --accent-glow: rgba(255, 233, 160, 0.12);
 
   /* Score colors — maximally bright while retaining hue identity */
-  --score-1: #ffbbbb;
-  --score-2: #ffd69a;
-  --score-3: #faea8e;
-  --score-4: #b4f2a0;
-  --score-5: #94f4c6;
+  --score-1: #ffcccc;
+  --score-2: #ffe2b0;
+  --score-3: #fff4a6;
+  --score-4: #c6ffb0;
+  --score-5: #a6ffd8;
 
   /* Status badges — vivid on dark */
-  --status-confirmed: #94f4c6;
-  --status-disconfirmed: #ffbbbb;
-  --status-untested: #ddd7cb;
-  --status-partial: #faea8e;
-  --status-unfalsifiable: #d8ccf2;
+  --status-confirmed: #a6ffd8;
+  --status-disconfirmed: #ffcccc;
+  --status-untested: #e5e0d8;
+  --status-partial: #fff4a6;
+  --status-unfalsifiable: #e2d8f8;
 
   /* Type */
   --font-body: 'Source Serif 4', Georgia, serif;
@@ -347,6 +347,7 @@ img { max-width: 100%; display: block; }
   position: sticky;
   top: 0;
   z-index: 10;
+  overflow: visible;
 }
 
 .data-table th {
@@ -363,7 +364,7 @@ img { max-width: 100%; display: block; }
   cursor: pointer;
   user-select: none;
   transition: color 0.15s;
-  overflow: hidden;
+  overflow: visible;
 }
 
 .data-table th:hover {
@@ -432,11 +433,11 @@ img { max-width: 100%; display: block; }
   justify-content: center;
 }
 
-.score-1 { color: var(--score-1); background: rgba(255, 187, 187, 0.14); }
-.score-2 { color: var(--score-2); background: rgba(255, 214, 154, 0.14); }
-.score-3 { color: var(--score-3); background: rgba(250, 234, 142, 0.14); }
-.score-4 { color: var(--score-4); background: rgba(180, 242, 160, 0.14); }
-.score-5 { color: var(--score-5); background: rgba(148, 244, 198, 0.14); }
+.score-1 { color: var(--score-1); background: rgba(255, 204, 204, 0.14); }
+.score-2 { color: var(--score-2); background: rgba(255, 226, 176, 0.14); }
+.score-3 { color: var(--score-3); background: rgba(255, 244, 166, 0.14); }
+.score-4 { color: var(--score-4); background: rgba(198, 255, 176, 0.14); }
+.score-5 { color: var(--score-5); background: rgba(166, 255, 216, 0.14); }
 
 .avg-cell {
   font-weight: 700;
@@ -885,11 +886,11 @@ img { max-width: 100%; display: block; }
   white-space: nowrap;
 }
 
-.status-confirmed { background: rgba(148,244,198,0.12); color: var(--status-confirmed); border: 1px solid rgba(148,244,198,0.3); }
-.status-disconfirmed { background: rgba(255,187,187,0.12); color: var(--status-disconfirmed); border: 1px solid rgba(255,187,187,0.3); }
-.status-untested { background: rgba(221,215,203,0.12); color: var(--status-untested); border: 1px solid rgba(221,215,203,0.25); }
-.status-partially_confirmed { background: rgba(250,234,142,0.12); color: var(--status-partial); border: 1px solid rgba(250,234,142,0.3); }
-.status-unfalsifiable { background: rgba(216,204,242,0.12); color: var(--status-unfalsifiable); border: 1px solid rgba(216,204,242,0.3); }
+.status-confirmed { background: rgba(166,255,216,0.12); color: var(--status-confirmed); border: 1px solid rgba(166,255,216,0.3); }
+.status-disconfirmed { background: rgba(255,204,204,0.12); color: var(--status-disconfirmed); border: 1px solid rgba(255,204,204,0.3); }
+.status-untested { background: rgba(229,224,216,0.12); color: var(--status-untested); border: 1px solid rgba(229,224,216,0.25); }
+.status-partially_confirmed { background: rgba(255,244,166,0.12); color: var(--status-partial); border: 1px solid rgba(255,244,166,0.3); }
+.status-unfalsifiable { background: rgba(226,216,248,0.12); color: var(--status-unfalsifiable); border: 1px solid rgba(226,216,248,0.3); }
 
 /* --- Verdict Panel --- */
 .verdict-grid {
@@ -1212,15 +1213,15 @@ img { max-width: 100%; display: block; }
 }
 
 .pred-type-prediction {
-  background: rgba(148, 244, 198, 0.12);
-  color: #94f4c6;
-  border: 1px solid rgba(148, 244, 198, 0.25);
+  background: rgba(166, 255, 216, 0.12);
+  color: #a6ffd8;
+  border: 1px solid rgba(166, 255, 216, 0.25);
 }
 
 .pred-type-claim {
-  background: rgba(168, 216, 255, 0.12);
-  color: #a8d8ff;
-  border: 1px solid rgba(168, 216, 255, 0.25);
+  background: rgba(180, 225, 255, 0.12);
+  color: #b4e1ff;
+  border: 1px solid rgba(180, 225, 255, 0.25);
 }
 
 /* --- Custom Tooltips --- */
@@ -1312,18 +1313,18 @@ img { max-width: 100%; display: block; }
 }
 
 .briefing-tag-iran,
-.briefing-tag-hormuz { background: rgba(255, 187, 187, 0.1); color: var(--score-1); border-color: rgba(255, 187, 187, 0.25); }
-.briefing-tag-turkey { background: rgba(255, 214, 154, 0.1); color: var(--score-2); border-color: rgba(255, 214, 154, 0.25); }
-.briefing-tag-shipping { background: rgba(168, 216, 255, 0.1); color: #a8d8ff; border-color: rgba(168, 216, 255, 0.25); }
-.briefing-tag-us { background: rgba(168, 216, 255, 0.1); color: #a8d8ff; border-color: rgba(168, 216, 255, 0.25); }
-.briefing-tag-venezuela { background: rgba(148, 244, 198, 0.1); color: var(--score-5); border-color: rgba(148, 244, 198, 0.25); }
-.briefing-tag-cuba { background: rgba(216, 204, 242, 0.1); color: var(--status-unfalsifiable); border-color: rgba(216, 204, 242, 0.25); }
-.briefing-tag-israel { background: rgba(250, 234, 142, 0.1); color: var(--score-3); border-color: rgba(250, 234, 142, 0.25); }
+.briefing-tag-hormuz { background: rgba(255, 204, 204, 0.1); color: var(--score-1); border-color: rgba(255, 204, 204, 0.25); }
+.briefing-tag-turkey { background: rgba(255, 226, 176, 0.1); color: var(--score-2); border-color: rgba(255, 226, 176, 0.25); }
+.briefing-tag-shipping { background: rgba(180, 225, 255, 0.1); color: #b4e1ff; border-color: rgba(180, 225, 255, 0.25); }
+.briefing-tag-us { background: rgba(180, 225, 255, 0.1); color: #b4e1ff; border-color: rgba(180, 225, 255, 0.25); }
+.briefing-tag-venezuela { background: rgba(166, 255, 216, 0.1); color: var(--score-5); border-color: rgba(166, 255, 216, 0.25); }
+.briefing-tag-cuba { background: rgba(226, 216, 248, 0.1); color: var(--status-unfalsifiable); border-color: rgba(226, 216, 248, 0.25); }
+.briefing-tag-israel { background: rgba(255, 244, 166, 0.1); color: var(--score-3); border-color: rgba(255, 244, 166, 0.25); }
 .briefing-tag-gulf,
 .briefing-tag-qatar,
-.briefing-tag-energy { background: rgba(255, 214, 154, 0.1); color: var(--score-2); border-color: rgba(255, 214, 154, 0.25); }
-.briefing-tag-thailand { background: rgba(180, 242, 160, 0.1); color: var(--score-4); border-color: rgba(180, 242, 160, 0.25); }
-.briefing-tag-succession { background: rgba(216, 204, 242, 0.1); color: var(--status-unfalsifiable); border-color: rgba(216, 204, 242, 0.25); }
+.briefing-tag-energy { background: rgba(255, 226, 176, 0.1); color: var(--score-2); border-color: rgba(255, 226, 176, 0.25); }
+.briefing-tag-thailand { background: rgba(198, 255, 176, 0.1); color: var(--score-4); border-color: rgba(198, 255, 176, 0.25); }
+.briefing-tag-succession { background: rgba(226, 216, 248, 0.1); color: var(--status-unfalsifiable); border-color: rgba(226, 216, 248, 0.25); }
 
 .briefing-entry:last-child { border-bottom: none; }
 

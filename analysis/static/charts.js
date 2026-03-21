@@ -27,16 +27,16 @@ function initRadarChart(canvasId, scores) {
       labels: labels,
       datasets: [{
         data: data,
-        backgroundColor: 'rgba(252, 226, 143, 0.08)',
-        borderColor: 'rgba(252, 226, 143, 0.6)',
+        backgroundColor: 'rgba(255, 233, 160, 0.08)',
+        borderColor: 'rgba(255, 233, 160, 0.6)',
         borderWidth: 1.5,
         pointBackgroundColor: function(context) {
           const v = context.raw;
           const colors = {
-            1: '#ffbbbb', 2: '#ffd69a', 3: '#faea8e',
-            4: '#b4f2a0', 5: '#94f4c6'
+            1: '#ffcccc', 2: '#ffe2b0', 3: '#fff4a6',
+            4: '#c6ffb0', 5: '#a6ffd8'
           };
-          return colors[v] || '#b0a99e';
+          return colors[v] || '#c8c2b8';
         },
         pointBorderColor: 'transparent',
         pointRadius: 5,
@@ -61,7 +61,7 @@ function initRadarChart(canvasId, scores) {
             color: 'rgba(255,255,255,0.06)',
           },
           pointLabels: {
-            color: '#ddd7cb',
+            color: '#e5e0d8',
             font: {
               family: "'DM Sans', sans-serif",
               size: 11,

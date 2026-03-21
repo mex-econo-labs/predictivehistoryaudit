@@ -212,7 +212,7 @@ document.addEventListener('DOMContentLoaded', function() {
   ];
 
   const seriesColors = {};
-  const palette = ['#faea8e','#ffbbbb','#b4f2a0','#94f4c6','#ffd69a','#a8d8ff','#d8ccf2','#ff7be0'];
+  const palette = ['#fff4a6','#ffcccc','#c6ffb0','#a6ffd8','#ffe2b0','#b4e1ff','#e2d8f8','#ff7be0'];
   const seriesNames = [...new Set(data.map(d => d.series))];
   seriesNames.forEach((s, i) => seriesColors[s] = palette[i % palette.length]);
 
@@ -233,19 +233,19 @@ document.addEventListener('DOMContentLoaded', function() {
       responsive: true,
       scales: {
         x: {
-          title: { display: true, text: 'Average Quality Score', color: '#ddd7cb', font: { family: "'DM Sans', sans-serif", size: 13 } },
+          title: { display: true, text: 'Average Quality Score', color: '#e5e0d8', font: { family: "'DM Sans', sans-serif", size: 13 } },
           min: 1, max: 5,
-          ticks: { stepSize: 0.5, color: '#ddd7cb' },
+          ticks: { stepSize: 0.5, color: '#e5e0d8' },
           grid: { color: 'rgba(255,255,255,0.06)' }
         },
         y: {
-          title: { display: true, text: 'YouTube Views', color: '#ddd7cb', font: { family: "'DM Sans', sans-serif", size: 13 } },
-          ticks: { color: '#ddd7cb', callback: v => v >= 1000000 ? (v/1000000).toFixed(1)+'M' : v >= 1000 ? (v/1000).toFixed(0)+'K' : v },
+          title: { display: true, text: 'YouTube Views', color: '#e5e0d8', font: { family: "'DM Sans', sans-serif", size: 13 } },
+          ticks: { color: '#e5e0d8', callback: v => v >= 1000000 ? (v/1000000).toFixed(1)+'M' : v >= 1000 ? (v/1000).toFixed(0)+'K' : v },
           grid: { color: 'rgba(255,255,255,0.06)' }
         }
       },
       plugins: {
-        legend: { labels: { color: '#ddd7cb', font: { family: "'DM Sans', sans-serif", size: 12 } } },
+        legend: { labels: { color: '#e5e0d8', font: { family: "'DM Sans', sans-serif", size: 12 } } },
         tooltip: {
           backgroundColor: '#171b22',
           borderColor: '#252a33',
