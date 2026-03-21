@@ -1,11 +1,11 @@
 {% extends "base.html" %}
 {% block title %}{{ d.meta.series }} #{{ d.meta.episode }}: {{ d.meta.title }} — Predictive History Audit{% endblock %}
 {% block description %}{{ d.synopsis[:200] }}{% endblock %}
-{% block og_title %}{{ d.meta.series }} Ep.{{ d.meta.episode }}: {{ d.display_title }} — Audit{% endblock %}
+{% block og_title %}{{ d.meta.series }}{% if d.meta.episode %} Ep.{{ d.meta.episode }}:{% endif %} {{ d.display_title }} — Audit{% endblock %}
 {% block og_description %}Score: {{ '%.1f' % avg }}/5 · {{ d.synopsis[:200] }}{% endblock %}
 {% block og_image %}{{ card_url }}{% endblock %}
 {% block og_url %}https://predictivehistoryaudit.pages.dev/lectures/{{ d.slug }}.html{% endblock %}
-{% block tw_title %}{{ d.meta.series }} Ep.{{ d.meta.episode }}: {{ d.display_title }} — Audit{% endblock %}
+{% block tw_title %}{{ d.meta.series }}{% if d.meta.episode %} Ep.{{ d.meta.episode }}:{% endif %} {{ d.display_title }} — Audit{% endblock %}
 {% block tw_description %}Score: {{ '%.1f' % avg }}/5 · {{ d.synopsis[:160] }}{% endblock %}
 {% block tw_image %}{{ card_url }}{% endblock %}
 
