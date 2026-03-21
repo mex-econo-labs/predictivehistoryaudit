@@ -133,7 +133,7 @@ def load_analyses(base_dir: str) -> list:
     """Load all analysis JSON files."""
     analyses = []
     for path in sorted(glob.glob(os.path.join(base_dir, '*.json'))):
-        if os.path.basename(path) in ('schema.json', 'briefing-data.json'):
+        if os.path.basename(path) in ('schema.json', 'briefing-data.json', 'channel-data.json', 'channel-editorial.json'):
             continue
         with open(path) as f:
             data = json.load(f)
@@ -167,6 +167,11 @@ def build(base_dir: str, output_dir: str):
     env = Environment(loader=FileSystemLoader(template_dir), autoescape=False)
     env.filters['ts_to_seconds'] = ts_to_seconds
     env.filters['commafy'] = lambda v: f'{int(v):,}' if v else '0'
+    env.filters['footnotes'] = lambda text: re.sub(
+        r'\[(\d+)\]',
+        r'<sup class="fn-ref"><a href="#fn-\1" id="fn-ref-\1">[\1]</a></sup>',
+        str(text)
+    )
 
     # Create output directories
     os.makedirs(output_dir, exist_ok=True)
@@ -328,6 +333,43 @@ def build(base_dir: str, output_dir: str):
         with open(os.path.join(output_dir, 'briefing.html'), 'w') as f:
             f.write(html)
         print("  Built: briefing.html")
+
+    # Channel analysis
+    channel_path = os.path.join(base_dir, 'channel-data.json')
+    if os.path.exists(channel_path):
+        with open(channel_path) as f:
+            channel_data = json.load(f)
+
+        # Compute channel-wide score averages
+        channel_scores = {}
+        for key in SCORE_KEYS:
+            channel_scores[key] = sum(d['scores'][key]['score'] for d in analyses) / len(analyses)
+
+        channel_scores_list = [channel_scores[k] for k in SCORE_KEYS]
+        score_labels_list = [SCORE_LABELS[k] for k in SCORE_KEYS]
+
+        # Percentage of lectures scoring 1 on perspective_diversity
+        pct_div_1 = round(100 * sum(1 for d in analyses if d['scores']['perspective_diversity']['score'] == 1) / len(analyses))
+
+        tmpl = env.get_template('channel.html')
+        html = tmpl.render(
+            page='channel',
+            root='',
+            cd=channel_data,
+            total_lectures=len(analyses),
+            series_count=len(all_series),
+            avg_overall=avg_overall,
+            channel_scores=channel_scores,
+            channel_scores_list=channel_scores_list,
+            score_labels_list=score_labels_list,
+            pct_div_1=pct_div_1,
+            series_stats=series_stats,
+            zip=zip,
+            **common,
+        )
+        with open(os.path.join(output_dir, 'channel.html'), 'w') as f:
+            f.write(html)
+        print("  Built: channel.html")
 
     # Individual lecture pages
     tmpl = env.get_template('lecture.html')

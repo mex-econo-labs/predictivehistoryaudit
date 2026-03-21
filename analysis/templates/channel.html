@@ -1,0 +1,840 @@
+{% extends "base.html" %}
+
+{% block title %}Channel Analysis — Predictive History Audit{% endblock %}
+{% block description %}36.7% prediction calibration across 593 claims. Civilizational framing asymmetry: China 26.8% favorable vs US 5.2%. 29 ground invasion predictions, 0 confirmed.{% endblock %}
+{% block og_title %}Predictive History: A Systematic Audit of Jiang Xueqin{% endblock %}
+{% block og_description %}140 lectures analyzed. 36.7% prediction calibration. Systematic civilizational framing asymmetry. The data behind the channel.{% endblock %}
+{% block og_url %}https://predictivehistoryaudit.pages.dev/channel.html{% endblock %}
+{% block tw_title %}Predictive History: A Systematic Audit of Jiang Xueqin{% endblock %}
+{% block tw_description %}140 lectures analyzed. 36.7% prediction calibration. Systematic civilizational framing asymmetry. The data behind the channel.{% endblock %}
+
+{% block content %}
+
+<section class="page-hero">
+  <div class="container">
+    <span class="series-badge">Channel Analysis</span>
+    <h1>Predictive History: A Systematic Audit</h1>
+    <p class="lead">Comprehensive analysis of {{ total_lectures }} lectures across {{ series_count }} series by Jiang Xueqin ({{ cd.subject.chinese_name }}), based on quantitative scoring, prediction calibration, and civilizational framing asymmetry.</p>
+  </div>
+</section>
+
+<!-- Stats overview -->
+<div class="container">
+  <div class="stats-bar fade-up">
+    <div class="stat-cell">
+      <div class="stat-value mono">{{ total_lectures }}</div>
+      <div class="stat-label">Lectures Analyzed</div>
+    </div>
+    <div class="stat-cell">
+      <div class="stat-value mono">{{ '%.1fM' % (cd.subject.subscribers / 1000000) }}</div>
+      <div class="stat-label">Subscribers</div>
+    </div>
+    <div class="stat-cell">
+      <div class="stat-value mono">{{ '%.1fM' % (cd.subject.total_views / 1000000) }}</div>
+      <div class="stat-label">Total Views</div>
+    </div>
+    <div class="stat-cell">
+      <div class="stat-value mono">{{ '%.1f' % avg_overall }}<span class="stat-label" style="display:inline; font-size:0.5em; vertical-align: super;">/5</span></div>
+      <div class="stat-label">Mean Score</div>
+    </div>
+    <div class="stat-cell">
+      <div class="stat-value mono">{{ cd.prediction_calibration.overall_calibration }}%</div>
+      <div class="stat-label">Prediction Calibration</div>
+    </div>
+    <div class="stat-cell">
+      <div class="stat-value mono">{{ cd.prediction_calibration.total_predictions + cd.prediction_calibration.total_claims }}</div>
+      <div class="stat-label">Predictions & Claims</div>
+    </div>
+  </div>
+</div>
+
+<!-- 1. SUBJECT PROFILE -->
+<div class="container" style="margin-top: var(--space-xl);">
+
+  <button class="section-toggle open" onclick="toggleSection(this)">
+    <h3>1. Subject Profile</h3>
+    <span class="toggle-hint"><span class="hint-expand">Expand</span><span class="hint-collapse">Collapse</span></span>
+    <span class="toggle-icon">&#x25B8;</span>
+  </button>
+  <div class="section-content open">
+
+    <div class="channel-profile-grid">
+      <div class="profile-bio">
+        <table class="profile-table">
+          <tr><td class="profile-key">Name</td><td>{{ cd.subject.name }} ({{ cd.subject.chinese_name }})</td></tr>
+          <tr><td class="profile-key">Claimed Title</td><td><span style="color: var(--score-1);">{{ cd.subject.claimed_title }}</span> <span class="muted" style="font-size:0.85em;">&mdash; no graduate degree, never held a professorship<sup class="fn-ref"><a href="#fn-1" id="fn-ref-1b">[1]</a></sup></span></td></tr>
+          <tr><td class="profile-key">Actual Credential</td><td>{{ cd.subject.actual_credential }}</td></tr>
+          <tr><td class="profile-key">Nationality</td><td>{{ cd.subject.nationality }}</td></tr>
+          <tr><td class="profile-key">Current Role</td><td>{{ cd.subject.current_role | footnotes }}</td></tr>
+          {% if cd.subject.family %}<tr><td class="profile-key">Family</td><td>{{ cd.subject.family | footnotes }}</td></tr>{% endif %}
+          {% if cd.subject.residence %}<tr><td class="profile-key">Residence</td><td>{{ cd.subject.residence | footnotes }}</td></tr>{% endif %}
+          <tr><td class="profile-key">Channel</td><td>{{ cd.subject.channel_name }} &middot; {{ cd.subject.subscribers | commafy }} subscribers</td></tr>
+          <tr><td class="profile-key">Monetization</td><td>{{ cd.subject.patreon_revenue }}</td></tr>
+        </table>
+      </div>
+    </div>
+
+    <h4 class="channel-section-heading" style="margin-top: var(--space-xl);">Career Timeline</h4>
+    <div class="timeline">
+      {% for entry in cd.timeline %}
+      <div class="timeline-entry{% if '2002' in entry.year %} timeline-flagged{% endif %}{% if '2003' in entry.year %} timeline-flagged{% endif %}">
+        <span class="timeline-year mono">{{ entry.year }}</span>
+        <span class="timeline-event">{{ entry.event | footnotes }}</span>
+      </div>
+      {% endfor %}
+    </div>
+
+    <div class="advisory-box" style="margin-top: var(--space-lg);">
+      <h4>The Expulsion Paradox</h4>
+      <p>{{ cd.expulsion_paradox | footnotes }}</p>
+    </div>
+
+  </div>
+
+  <!-- 2. SCORING DASHBOARD -->
+  <button class="section-toggle open" onclick="toggleSection(this)">
+    <h3>2. Qualitative Scoring &mdash; {{ total_lectures }} Lectures</h3>
+    <span class="toggle-hint"><span class="hint-expand">Expand</span><span class="hint-collapse">Collapse</span></span>
+    <span class="toggle-icon">&#x25B8;</span>
+  </button>
+  <div class="section-content open">
+
+    <p class="muted" style="margin-bottom: var(--space-lg); font-size: 0.88rem;">Each lecture is scored 1&ndash;5 across seven qualitative axes by Claude Opus 4.6. Higher scores indicate better analytical quality. The channel-wide mean of <strong class="accent">{{ '%.2f' % avg_overall }}/5</strong> reflects systematic weaknesses in perspective diversity and framing balance.</p>
+
+    <div class="score-panel">
+      <div class="radar-wrap">
+        <canvas id="channel-radar" width="260" height="260"></canvas>
+      </div>
+      <div class="score-details">
+        {% for key, short in zip(score_keys, score_short) %}
+        <div class="score-row">
+          <div>
+            <span class="score-name">{{ score_labels[key] }}</span>
+            <span class="muted" style="font-size: 0.72rem; display: block; margin-top: 2px;">{{ score_tips[key] }}</span>
+          </div>
+          <span class="score-badge score-{{ channel_scores[key] | int }}">{{ '%.1f' % channel_scores[key] }}</span>
+        </div>
+        {% endfor %}
+      </div>
+    </div>
+
+    <h4 class="channel-section-heading" style="margin-top: var(--space-xl);">Scores by Series</h4>
+    <div class="data-table-wrap">
+      <table class="data-table">
+        <thead>
+          <tr>
+            <th style="width:180px;">Series</th>
+            <th style="width:50px; text-align:center;">N</th>
+            {% for short in score_short %}
+            <th class="col-score" data-tip="{{ score_tips[score_keys[loop.index0]] }}">{{ short | upper }}</th>
+            {% endfor %}
+            <th class="col-score">AVG</th>
+          </tr>
+        </thead>
+        <tbody>
+          {% for s in series_stats %}
+          <tr>
+            <td class="lecture-series" style="font-size:0.78rem; text-transform:none;">{{ s.name }}</td>
+            <td style="text-align:center;" class="muted">{{ s.count }}</td>
+            {% for val in s.axis_avgs %}
+            <td style="text-align:center;"><span class="score-cell score-{{ val | round | int }}">{{ '%.1f' % val }}</span></td>
+            {% endfor %}
+            <td style="text-align:center;"><span class="score-cell avg-cell score-{{ s.overall | round | int }}">{{ '%.1f' % s.overall }}</span></td>
+          </tr>
+          {% endfor %}
+        </tbody>
+      </table>
+    </div>
+
+    <p class="muted" style="margin-top: var(--space-md); font-size: 0.82rem;">Perspective diversity ({{ '%.1f' % channel_scores['perspective_diversity'] }}/5) is the weakest axis across all series, with {{ pct_div_1 }}% of lectures scoring 1 (single viewpoint). The Civilization series scores highest overall; Geo-Strategy Update and Interview series score lowest.</p>
+
+  </div>
+
+  <!-- 3. THE TRIPLE STANDARD -->
+  <button class="section-toggle open" onclick="toggleSection(this)">
+    <h3>3. The Triple Standard &mdash; Civilizational Framing</h3>
+    <span class="toggle-hint"><span class="hint-expand">Expand</span><span class="hint-collapse">Collapse</span></span>
+    <span class="toggle-icon">&#x25B8;</span>
+  </button>
+  <div class="section-content open">
+
+    <p style="margin-bottom: var(--space-lg); font-size: 0.92rem;">{{ cd.triple_standard.summary }}</p>
+
+    <div class="civ-comparison-grid">
+      <!-- China -->
+      <div class="civ-card civ-china">
+        <div class="civ-card-header">
+          <h4>China</h4>
+          <div class="civ-card-pcts">
+            <span class="civ-pct favorable">{{ cd.triple_standard.china.favorable_pct }}% favorable</span>
+            <span class="civ-pct critical">{{ cd.triple_standard.china.critical_pct }}% critical</span>
+          </div>
+        </div>
+        <p class="civ-desc">{{ cd.triple_standard.china.characterization }}</p>
+        {% for q in cd.triple_standard.china.key_quotes %}
+        <blockquote class="civ-quote">&ldquo;{{ q }}&rdquo;</blockquote>
+        {% endfor %}
+      </div>
+
+      <!-- US / West -->
+      <div class="civ-card civ-us">
+        <div class="civ-card-header">
+          <h4>United States / West</h4>
+          <div class="civ-card-pcts">
+            <span class="civ-pct favorable">{{ cd.triple_standard.us_west.favorable_pct }}% favorable</span>
+            <span class="civ-pct critical">{{ cd.triple_standard.us_west.critical_pct }}% critical</span>
+          </div>
+        </div>
+        <p class="civ-desc">{{ cd.triple_standard.us_west.characterization }}</p>
+        {% for q in cd.triple_standard.us_west.key_quotes %}
+        <blockquote class="civ-quote">&ldquo;{{ q }}&rdquo;</blockquote>
+        {% endfor %}
+      </div>
+
+      <!-- Russia -->
+      <div class="civ-card civ-russia">
+        <div class="civ-card-header">
+          <h4>Russia</h4>
+          <div class="civ-card-pcts">
+            <span class="civ-pct favorable">{{ cd.triple_standard.russia.favorable_pct }}% favorable</span>
+            <span class="civ-pct critical">{{ cd.triple_standard.russia.critical_pct }}% critical</span>
+          </div>
+        </div>
+        <p class="civ-desc">{{ cd.triple_standard.russia.characterization }}</p>
+        {% for q in cd.triple_standard.russia.key_quotes %}
+        <blockquote class="civ-quote">&ldquo;{{ q }}&rdquo;</blockquote>
+        {% endfor %}
+      </div>
+    </div>
+
+    <!-- Ironic Mirrors -->
+    <h4 class="channel-section-heading" style="margin-top: var(--space-xl);">Ironic Mirrors</h4>
+    <p class="muted" style="margin-bottom: var(--space-md); font-size: 0.85rem;">Instances where criticism of the West applies equally or more aptly to China, which goes unacknowledged.</p>
+
+    {% for im in cd.ironic_mirrors_curated %}
+    <div class="ironic-mirror-entry">
+      <div class="quote-text" style="font-size: 0.92rem;">&ldquo;{{ im.quote }}&rdquo;</div>
+      <div class="ironic-mirror-source muted mono" style="font-size: 0.72rem; margin-bottom: var(--space-xs);">{{ im.source }}</div>
+      <div class="ironic-mirror">{{ im.mirror | footnotes }}</div>
+    </div>
+    {% endfor %}
+
+  </div>
+
+  <!-- 4. PREDICTION CALIBRATION -->
+  <button class="section-toggle open" onclick="toggleSection(this)">
+    <h3>4. Prediction Calibration</h3>
+    <span class="toggle-hint"><span class="hint-expand">Expand</span><span class="hint-collapse">Collapse</span></span>
+    <span class="toggle-icon">&#x25B8;</span>
+  </button>
+  <div class="section-content open">
+
+    <div class="stats-bar" style="margin-top: 0;">
+      <div class="stat-cell">
+        <div class="stat-value mono" style="color: var(--status-confirmed);">{{ cd.prediction_calibration.confirmed }}</div>
+        <div class="stat-label">Confirmed</div>
+      </div>
+      <div class="stat-cell">
+        <div class="stat-value mono" style="color: var(--status-partial);">{{ cd.prediction_calibration.partially_confirmed }}</div>
+        <div class="stat-label">Partially Confirmed</div>
+      </div>
+      <div class="stat-cell">
+        <div class="stat-value mono" style="color: var(--status-disconfirmed);">{{ cd.prediction_calibration.disconfirmed }}</div>
+        <div class="stat-label">Disconfirmed</div>
+      </div>
+      <div class="stat-cell">
+        <div class="stat-value mono" style="color: var(--status-untested);">{{ cd.prediction_calibration.untested }}</div>
+        <div class="stat-label">Untested</div>
+      </div>
+      <div class="stat-cell">
+        <div class="stat-value mono" style="color: var(--status-unfalsifiable);">{{ cd.prediction_calibration.unfalsifiable }}</div>
+        <div class="stat-label">Unfalsifiable</div>
+      </div>
+    </div>
+
+    <!-- Calibration by topic -->
+    <h4 class="channel-section-heading">Calibration by Topic</h4>
+    <div class="data-table-wrap" style="margin-bottom: var(--space-lg);">
+      <table class="data-table" style="table-layout: auto;">
+        <thead>
+          <tr>
+            <th style="width: 220px;">Topic</th>
+            <th class="col-score" style="width:60px;">Hit</th>
+            <th class="col-score" style="width:60px;">Miss</th>
+            <th style="width: 120px;">Calibration</th>
+          </tr>
+        </thead>
+        <tbody>
+          {% for t in cd.prediction_calibration.by_topic %}
+          <tr>
+            <td>{{ t.topic }}</td>
+            <td style="text-align:center;"><span style="color: var(--status-confirmed);">{{ t.confirmed }}</span></td>
+            <td style="text-align:center;"><span style="color: var(--status-disconfirmed);">{{ t.disconfirmed }}</span></td>
+            <td>
+              <div class="calibration-bar">
+                <div class="calibration-fill" style="width: {{ t.calibration }}%;{% if t.calibration >= 50 %} background: var(--status-confirmed);{% elif t.calibration >= 30 %} background: var(--status-partial);{% else %} background: var(--status-disconfirmed);{% endif %}"></div>
+              </div>
+              <span class="mono" style="font-size: 0.75rem;">{{ '%.0f' % t.calibration }}%</span>
+            </td>
+          </tr>
+          {% endfor %}
+        </tbody>
+      </table>
+    </div>
+
+    <!-- Key hits and misses -->
+    <div class="verdict-grid">
+      <div class="verdict-box strengths">
+        <h4>Key Hits</h4>
+        <ul class="advisory-list">
+          {% for hit in cd.prediction_calibration.key_hits %}
+          <li>{{ hit }}</li>
+          {% endfor %}
+        </ul>
+      </div>
+      <div class="verdict-box weaknesses">
+        <h4>Key Misses</h4>
+        <ul class="advisory-list">
+          {% for miss in cd.prediction_calibration.key_misses %}
+          <li>{{ miss }}</li>
+          {% endfor %}
+        </ul>
+      </div>
+    </div>
+
+    <div class="advisory-box" style="margin-top: var(--space-md);">
+      <h4>The Ground Invasion Fixation</h4>
+      <p>{{ cd.prediction_calibration.ground_invasion_fixation }}</p>
+    </div>
+
+  </div>
+
+  <!-- 5. PROPAGANDA FRAMEWORK -->
+  <button class="section-toggle open" onclick="toggleSection(this)">
+    <h3>5. Propaganda Framework Analysis</h3>
+    <span class="toggle-hint"><span class="hint-expand">Expand</span><span class="hint-collapse">Collapse</span></span>
+    <span class="toggle-icon">&#x25B8;</span>
+  </button>
+  <div class="section-content open">
+
+    <div class="card" style="margin-bottom: var(--space-lg);">
+      <div class="card-header">
+        <span class="card-title">&#x5927;&#x5916;&#x5ba3; (Grand External Propaganda) Context</span>
+      </div>
+      <p style="font-size: 0.88rem; line-height: 1.6;">{{ cd.propaganda_analysis.dawaixuan_context | footnotes }}</p>
+    </div>
+
+    <div class="verdict-grid">
+      <div class="verdict-box weaknesses" style="border-color: rgba(255, 187, 187, 0.3);">
+        <h4 style="color: var(--score-1);">Alignment Indicators</h4>
+        <ul class="advisory-list">
+          {% for indicator in cd.propaganda_analysis.alignment_indicators %}
+          <li>{{ indicator | footnotes }}</li>
+          {% endfor %}
+        </ul>
+      </div>
+      <div class="verdict-box strengths" style="border-color: rgba(148, 244, 198, 0.3);">
+        <h4 style="color: var(--status-confirmed);">Counter-Indicators</h4>
+        <ul class="advisory-list">
+          {% for ci in cd.propaganda_analysis.counter_indicators %}
+          <li>{{ ci | footnotes }}</li>
+          {% endfor %}
+        </ul>
+      </div>
+    </div>
+
+    <div class="card" style="margin-top: var(--space-md);">
+      <div class="card-header">
+        <span class="card-title">&#x81ea;&#x5e72;&#x4e94; (Ziganwu) Assessment</span>
+      </div>
+      <p style="font-size: 0.88rem; line-height: 1.6;">{{ cd.propaganda_analysis.ziganwu_assessment }}</p>
+    </div>
+
+    <div class="advisory-box" style="margin-top: var(--space-md);">
+      <h4>The Structural Question</h4>
+      <p>{{ cd.propaganda_analysis.structural_question }}</p>
+    </div>
+
+  </div>
+
+  <!-- 6. ENGAGEMENT PATTERNS -->
+  <button class="section-toggle" onclick="toggleSection(this)">
+    <h3>6. Engagement &amp; Audience Patterns</h3>
+    <span class="toggle-hint"><span class="hint-expand">Expand</span><span class="hint-collapse">Collapse</span></span>
+    <span class="toggle-icon">&#x25B8;</span>
+  </button>
+  <div class="section-content">
+
+    <h4 class="channel-section-heading">Top 10 Most-Viewed Videos</h4>
+    <div class="data-table-wrap" style="margin-bottom: var(--space-lg);">
+      <table class="data-table" style="table-layout: auto;">
+        <thead>
+          <tr>
+            <th style="width: 40px;">#</th>
+            <th>Title</th>
+            <th>Series</th>
+            <th style="text-align: right; width: 120px;">Views</th>
+          </tr>
+        </thead>
+        <tbody>
+          {% for v in cd.engagement_patterns.top_10_videos %}
+          <tr>
+            <td class="muted">{{ loop.index }}</td>
+            <td class="lecture-title">{{ v.title }}</td>
+            <td class="lecture-series" style="text-transform: none;">{{ v.series }}</td>
+            <td style="text-align: right;" class="mono">{{ v.views | commafy }}</td>
+          </tr>
+          {% endfor %}
+        </tbody>
+      </table>
+    </div>
+
+    <p style="font-size: 0.88rem; line-height: 1.6; margin-bottom: var(--space-md);">{{ cd.engagement_patterns.title_analysis }}</p>
+    <p style="font-size: 0.88rem; line-height: 1.6;">{{ cd.engagement_patterns.growth_trajectory }}</p>
+
+  </div>
+
+  <!-- 7. ESCHATOLOGICAL CONTEXT -->
+  <button class="section-toggle open" onclick="toggleSection(this)">
+    <h3>7. Eschatological &amp; Millenarian Context</h3>
+    <span class="toggle-hint"><span class="hint-expand">Expand</span><span class="hint-collapse">Collapse</span></span>
+    <span class="toggle-icon">&#x25B8;</span>
+  </button>
+  <div class="section-content open">
+
+    <p class="lead" style="font-size: 0.95rem; line-height: 1.7; margin-bottom: var(--space-xl);">{{ cd.eschatological_context.summary }}</p>
+
+    <!-- The Continuity Paradox -->
+    <h4 class="channel-section-heading">{{ cd.eschatological_context.the_continuity_paradox.heading }}</h4>
+    <p style="font-size: 0.88rem; line-height: 1.65; margin-bottom: var(--space-md);">{{ cd.eschatological_context.the_continuity_paradox.text | footnotes }}</p>
+    <div class="advisory-box" style="margin-bottom: var(--space-xl);">
+      <p>{{ cd.eschatological_context.the_continuity_paradox.comparison_note }}</p>
+    </div>
+
+    <!-- The 5,000 Year Myth -->
+    <h4 class="channel-section-heading">{{ cd.eschatological_context.the_5000_year_myth.heading }}</h4>
+    <p style="font-size: 0.88rem; line-height: 1.65; margin-bottom: var(--space-xl);">{{ cd.eschatological_context.the_5000_year_myth.text | footnotes }}</p>
+
+    <!-- China's Millenarian Tradition -->
+    <h4 class="channel-section-heading">{{ cd.eschatological_context.millenarian_tradition.heading }}</h4>
+    <p style="font-size: 0.88rem; line-height: 1.65; margin-bottom: var(--space-lg);">{{ cd.eschatological_context.millenarian_tradition.text | footnotes }}</p>
+
+    {% for m in cd.eschatological_context.millenarian_tradition.movements %}
+    <div class="card" style="margin-bottom: var(--space-md);">
+      <div class="card-header">
+        <span class="card-title">{{ m.name }}</span>
+      </div>
+      <p style="font-size: 0.85rem; line-height: 1.6;">{{ m.text | footnotes }}</p>
+    </div>
+    {% endfor %}
+
+    <!-- The Guangdong Crucible -->
+    <h4 class="channel-section-heading" style="margin-top: var(--space-xl);">{{ cd.eschatological_context.guangdong_crucible.heading }}</h4>
+    <p style="font-size: 0.88rem; line-height: 1.65; margin-bottom: var(--space-xl);">{{ cd.eschatological_context.guangdong_crucible.text | footnotes }}</p>
+
+    <!-- The CCP as Competing Millenarian Movement -->
+    <h4 class="channel-section-heading">{{ cd.eschatological_context.ccp_as_millenarian.heading }}</h4>
+    <p style="font-size: 0.88rem; line-height: 1.65; margin-bottom: var(--space-xl);">{{ cd.eschatological_context.ccp_as_millenarian.text | footnotes }}</p>
+
+    <!-- Jiang's Synthesis -->
+    <div class="advisory-box">
+      <h4>{{ cd.eschatological_context.jiang_synthesis.heading }}</h4>
+      <p>{{ cd.eschatological_context.jiang_synthesis.text | footnotes }}</p>
+    </div>
+
+  </div>
+
+  <!-- 8. PUBLISHED WORKS -->
+  {% if cd.published_works %}
+  <button class="section-toggle" onclick="toggleSection(this)">
+    <h3>8. Published Works</h3>
+    <span class="toggle-hint"><span class="hint-expand">Expand</span><span class="hint-collapse">Collapse</span></span>
+    <span class="toggle-icon">&#x25B8;</span>
+  </button>
+  <div class="section-content">
+    <p class="muted" style="margin-bottom: var(--space-lg); font-size: 0.88rem;">{{ cd.published_works.note }}</p>
+
+    <h4 class="channel-section-heading">Selected Articles &amp; Op-Eds</h4>
+    <div class="data-table-wrap" style="margin-bottom: var(--space-lg);">
+      <table class="data-table" style="table-layout: auto;">
+        <thead>
+          <tr>
+            <th>Title</th>
+            <th style="width: 160px;">Publication</th>
+            <th style="width: 110px;">Date</th>
+          </tr>
+        </thead>
+        <tbody>
+          {% for a in cd.published_works.articles %}
+          <tr>
+            <td class="lecture-title">{% if a.url %}<a href="{{ a.url }}" target="_blank" rel="noopener">{{ a.title }}</a>{% else %}{{ a.title }}{% endif %}</td>
+            <td class="muted" style="font-size: 0.82rem;">{{ a.publication }}</td>
+            <td class="mono muted" style="font-size: 0.78rem;">{{ a.date or '—' }}</td>
+          </tr>
+          {% endfor %}
+        </tbody>
+      </table>
+    </div>
+
+    {% if cd.published_works.books %}
+    <h4 class="channel-section-heading">Books</h4>
+    <ul class="advisory-list" style="margin-bottom: var(--space-lg);">
+      {% for b in cd.published_works.books %}
+      <li><strong>{{ b.title }}</strong> ({{ b.year }}) &mdash; {{ b.note }}</li>
+      {% endfor %}
+    </ul>
+    {% endif %}
+
+    <h4 class="channel-section-heading">Other Outlets</h4>
+    <p style="font-size: 0.85rem; color: var(--text-secondary); line-height: 1.6;">{{ cd.published_works.other_outlets | join(', ') }}</p>
+
+    {% if cd.published_works.substack %}
+    <p style="font-size: 0.85rem; color: var(--text-secondary); margin-top: var(--space-md);">Substack: <a href="{{ cd.published_works.substack.url }}" target="_blank" rel="noopener">{{ cd.published_works.substack.name }}</a> ({{ cd.published_works.substack.subscribers | commafy }} subscribers)</p>
+    {% endif %}
+  </div>
+  {% endif %}
+
+  <!-- 9. REFERENCES -->
+  {% if cd.footnotes %}
+  <button class="section-toggle open" onclick="toggleSection(this)">
+    <h3>9. References</h3>
+    <span class="toggle-hint"><span class="hint-expand">Expand</span><span class="hint-collapse">Collapse</span></span>
+    <span class="toggle-icon">&#x25B8;</span>
+  </button>
+  <div class="section-content open">
+    <ol class="footnotes-list">
+      {% for fn in cd.footnotes %}
+      <li id="fn-{{ fn.id }}" class="footnote-item">
+        <span class="footnote-text">{{ fn.text }}</span>
+        {% if fn.url %}<a href="{{ fn.url }}" target="_blank" rel="noopener" class="footnote-source">{{ fn.source }}</a>{% else %}<span class="footnote-source">{{ fn.source }}</span>{% endif %}
+        <a href="#fn-ref-{{ fn.id }}" class="footnote-back" title="Back to text">&uarr;</a>
+      </li>
+      {% endfor %}
+    </ol>
+  </div>
+  {% endif %}
+
+  <!-- 10. METHODOLOGY -->
+  <button class="section-toggle" onclick="toggleSection(this)">
+    <h3>10. Methodology &amp; Limitations</h3>
+    <span class="toggle-hint"><span class="hint-expand">Expand</span><span class="hint-collapse">Collapse</span></span>
+    <span class="toggle-icon">&#x25B8;</span>
+  </button>
+  <div class="section-content">
+    <p style="font-size: 0.88rem; line-height: 1.6; margin-bottom: var(--space-md);">This analysis is based on {{ total_lectures }} video transcripts processed by Claude Opus 4.6 using a standardized <a href="methodology.html">7-axis scoring rubric</a>. Each lecture is independently analyzed against the same schema, with scores, predictions, rhetoric techniques, and civilizational framing extracted systematically.</p>
+    <p style="font-size: 0.88rem; line-height: 1.6; margin-bottom: var(--space-md);"><strong>Limitations:</strong> AI-assisted analysis introduces its own biases. Transcript-only analysis misses visual cues, tone, and emphasis. Scoring is subjective even with calibration references. Prediction calibration depends on status assessments that may themselves be contested. Biographical research relies on publicly available sources and may be incomplete.</p>
+    <p style="font-size: 0.88rem; line-height: 1.6;"><strong>Last updated:</strong> {{ cd.generated_date }} &middot; Channel analysis is regenerated periodically, not on every lecture publication.</p>
+  </div>
+
+</div>
+
+{% endblock %}
+
+{% block head %}
+<style>
+/* --- Channel Analysis specific styles --- */
+.profile-table {
+  width: 100%;
+  border-collapse: collapse;
+}
+.profile-table td {
+  padding: var(--space-sm) var(--space-md);
+  border-bottom: 1px solid var(--border-subtle);
+  font-size: 0.88rem;
+  vertical-align: top;
+  line-height: 1.5;
+}
+.profile-table tr:last-child td { border-bottom: none; }
+.profile-key {
+  font-family: var(--font-ui);
+  font-weight: 600;
+  font-size: 0.72rem;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+  color: var(--text-muted);
+  width: 160px;
+  white-space: nowrap;
+}
+
+/* Timeline */
+.timeline {
+  position: relative;
+  padding-left: var(--space-xl);
+}
+.timeline::before {
+  content: '';
+  position: absolute;
+  left: 4.2em;
+  top: 0;
+  bottom: 0;
+  width: 1px;
+  background: var(--border);
+}
+.timeline-entry {
+  display: flex;
+  gap: var(--space-lg);
+  padding: var(--space-xs) 0;
+  position: relative;
+  font-size: 0.88rem;
+  line-height: 1.5;
+}
+.timeline-entry::before {
+  content: '';
+  position: absolute;
+  left: calc(4.2em - 3px);
+  top: 0.65em;
+  width: 7px;
+  height: 7px;
+  border-radius: 50%;
+  background: var(--border);
+  z-index: 1;
+}
+.timeline-flagged::before {
+  background: var(--score-1);
+  box-shadow: 0 0 6px rgba(255, 187, 187, 0.4);
+}
+.timeline-year {
+  flex: 0 0 4em;
+  text-align: right;
+  font-size: 0.78rem;
+  font-weight: 600;
+  color: var(--text-muted);
+}
+.timeline-event {
+  color: var(--text-secondary);
+}
+.timeline-flagged .timeline-event {
+  color: var(--score-1);
+}
+
+/* Civ comparison grid */
+.civ-comparison-grid {
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr;
+  gap: var(--space-md);
+}
+@media (max-width: 900px) {
+  .civ-comparison-grid { grid-template-columns: 1fr; }
+}
+.civ-card {
+  background: var(--bg-card);
+  border: 1px solid var(--border);
+  border-radius: 3px;
+  padding: var(--space-lg);
+  border-top: 3px solid var(--border);
+}
+.civ-china { border-top-color: var(--status-partial); }
+.civ-us { border-top-color: var(--status-disconfirmed); }
+.civ-russia { border-top-color: var(--status-confirmed); }
+
+.civ-card-header {
+  margin-bottom: var(--space-md);
+}
+.civ-card-header h4 {
+  font-family: var(--font-ui);
+  font-size: 0.85rem;
+  font-weight: 700;
+  color: var(--text-primary);
+  margin-bottom: var(--space-xs);
+}
+.civ-card-pcts {
+  display: flex;
+  gap: var(--space-sm);
+}
+.civ-pct {
+  font-family: var(--font-data);
+  font-size: 0.65rem;
+  font-weight: 600;
+  padding: 0.15em 0.5em;
+  border-radius: 2px;
+}
+.civ-pct.favorable {
+  color: var(--status-confirmed);
+  background: rgba(148, 244, 198, 0.1);
+}
+.civ-pct.critical {
+  color: var(--status-disconfirmed);
+  background: rgba(255, 187, 187, 0.1);
+}
+.civ-desc {
+  font-size: 0.85rem;
+  color: var(--text-secondary);
+  line-height: 1.55;
+  margin-bottom: var(--space-md);
+}
+.civ-quote {
+  font-style: italic;
+  font-size: 0.82rem;
+  color: var(--text-muted);
+  border-left: 2px solid var(--border);
+  padding-left: var(--space-sm);
+  margin: var(--space-sm) 0 0 0;
+  line-height: 1.45;
+}
+
+/* Ironic mirror entries */
+.ironic-mirror-entry {
+  padding: var(--space-md) 0;
+  border-bottom: 1px solid var(--border-subtle);
+}
+.ironic-mirror-entry:last-child { border-bottom: none; }
+
+/* Calibration bar */
+.calibration-bar {
+  display: inline-block;
+  width: 80px;
+  height: 6px;
+  background: var(--bg-inset);
+  border-radius: 3px;
+  overflow: hidden;
+  vertical-align: middle;
+  margin-right: var(--space-sm);
+}
+.calibration-fill {
+  height: 100%;
+  border-radius: 3px;
+  transition: width 0.3s;
+}
+
+/* Section headings within content */
+.channel-section-heading {
+  font-family: var(--font-ui);
+  font-size: 0.72rem;
+  font-weight: 600;
+  letter-spacing: 0.1em;
+  text-transform: uppercase;
+  color: var(--text-muted);
+  padding-bottom: var(--space-sm);
+  border-bottom: 1px solid var(--border-subtle);
+  margin-bottom: var(--space-md);
+}
+
+/* Footnotes */
+.fn-ref {
+  font-size: 0.7em;
+  vertical-align: super;
+  line-height: 0;
+}
+.fn-ref a {
+  color: var(--accent);
+  text-decoration: none;
+  font-family: var(--font-data);
+  font-weight: 600;
+}
+.fn-ref a:hover {
+  text-decoration: underline;
+}
+.footnotes-list {
+  list-style: none;
+  counter-reset: fn-counter;
+  padding: 0;
+  margin: 0;
+}
+.footnote-item {
+  counter-increment: fn-counter;
+  padding: var(--space-sm) 0;
+  border-bottom: 1px solid var(--border-subtle);
+  font-size: 0.84rem;
+  line-height: 1.55;
+  display: grid;
+  grid-template-columns: 1fr auto;
+  gap: var(--space-sm);
+  align-items: baseline;
+}
+.footnote-item::before {
+  content: counter(fn-counter) ".";
+  font-family: var(--font-data);
+  font-weight: 700;
+  color: var(--accent);
+  font-size: 0.78rem;
+  grid-column: 1 / -1;
+}
+.footnote-item:last-child { border-bottom: none; }
+.footnote-text {
+  color: var(--text-secondary);
+  grid-column: 1;
+}
+.footnote-source {
+  font-family: var(--font-data);
+  font-size: 0.75rem;
+  color: var(--text-muted);
+  grid-column: 1;
+}
+a.footnote-source {
+  color: var(--accent);
+  text-decoration: none;
+}
+a.footnote-source:hover {
+  text-decoration: underline;
+}
+.footnote-back {
+  grid-column: 2;
+  grid-row: 1 / -1;
+  color: var(--text-muted);
+  text-decoration: none;
+  font-size: 0.85rem;
+  align-self: center;
+}
+.footnote-back:hover {
+  color: var(--accent);
+}
+</style>
+
+<script>
+document.addEventListener('DOMContentLoaded', function() {
+  // Channel radar chart
+  const canvas = document.getElementById('channel-radar');
+  if (canvas && typeof Chart !== 'undefined') {
+    const scores = {{ channel_scores_list | tojson }};
+    const labels = {{ score_labels_list | tojson }};
+    new Chart(canvas, {
+      type: 'radar',
+      data: {
+        labels: labels,
+        datasets: [{
+          data: scores,
+          backgroundColor: 'rgba(252, 226, 143, 0.12)',
+          borderColor: '#fce28f',
+          borderWidth: 2,
+          pointBackgroundColor: '#fce28f',
+          pointRadius: 4,
+          pointHoverRadius: 6,
+        }]
+      },
+      options: {
+        responsive: true,
+        maintainAspectRatio: true,
+        scales: {
+          r: {
+            min: 0,
+            max: 5,
+            ticks: {
+              stepSize: 1,
+              display: true,
+              color: '#ddd7cb',
+              backdropColor: 'transparent',
+              font: { size: 10 },
+            },
+            grid: { color: 'rgba(46,52,64,0.8)' },
+            angleLines: { color: 'rgba(46,52,64,0.6)' },
+            pointLabels: {
+              color: '#e6e3dc',
+              font: { family: "'DM Sans', sans-serif", size: 10 },
+            }
+          }
+        },
+        plugins: {
+          legend: { display: false }
+        }
+      }
+    });
+  }
+});
+
+function toggleSection(btn) {
+  btn.classList.toggle('open');
+  const content = btn.nextElementSibling;
+  content.classList.toggle('open');
+}
+</script>
+{% endblock %}
