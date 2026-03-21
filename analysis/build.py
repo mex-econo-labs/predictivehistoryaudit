@@ -14,8 +14,6 @@ import glob
 import os
 import re
 import shutil
-import subprocess
-import textwrap
 from collections import Counter, defaultdict
 from jinja2 import Environment, FileSystemLoader
 
@@ -117,94 +115,6 @@ def make_slug(data: dict) -> str:
 SITE_URL = 'https://predictivehistoryaudit.pages.dev'
 
 
-def xml_escape(text: str) -> str:
-    """Escape text for use in SVG/XML."""
-    return text.replace('&', '&amp;').replace('<', '&lt;').replace('>', '&gt;').replace('"', '&quot;').replace("'", '&apos;')
-
-
-def generate_social_card(data: dict, avg: float, output_dir: str) -> str:
-    """Generate a social card PNG for a lecture. Returns the filename."""
-    meta = data['meta']
-    slug = data['slug']
-    title = data.get('display_title', meta['title'])
-    series = meta['series']
-    ep = meta.get('episode', '')
-    series_ep = f"{series} #{ep}" if ep else series
-
-    # Wrap title to fit card
-    wrapped = textwrap.wrap(title, width=36)[:3]
-    title_lines = wrapped if wrapped else [title[:42]]
-
-    # Score color
-    score_int = round(avg)
-    score_colors = {1: '#ffbbbb', 2: '#ffcc88', 3: '#fce28f', 4: '#c8e6a0', 5: '#94f4c6'}
-    score_color = score_colors.get(score_int, '#fce28f')
-
-    # Prediction count
-    n_preds = len(data['thesis'].get('predictions', []))
-
-    # Build title text elements
-    title_y_start = 200
-    title_svg = ''
-    for i, line in enumerate(title_lines):
-        y = title_y_start + i * 52
-        title_svg += f'  <text x="80" y="{y}" font-family="Georgia, serif" font-size="44" font-weight="bold" fill="#f2f0ec">{xml_escape(line)}</text>\n'
-
-    # Position stats below title
-    stats_y = title_y_start + len(title_lines) * 52 + 40
-
-    svg = f'''<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="600" viewBox="0 0 1200 600">
-  <defs>
-    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
-      <stop offset="0%" stop-color="#0c0e11"/>
-      <stop offset="100%" stop-color="#151920"/>
-    </linearGradient>
-  </defs>
-  <rect width="1200" height="600" fill="url(#bg)"/>
-  <rect x="0" y="0" width="1200" height="4" fill="#fce28f"/>
-
-  <!-- Series badge -->
-  <text x="80" y="100" font-family="Helvetica, Arial, sans-serif" font-size="18" font-weight="bold" fill="#a09882" letter-spacing="2">{xml_escape(series_ep.upper())}</text>
-  <rect x="80" y="112" width="160" height="2" fill="#fce28f" opacity="0.4"/>
-
-  <!-- Title -->
-{title_svg}
-  <!-- Score -->
-  <rect x="700" y="60" width="420" height="140" rx="4" fill="#1a1f28" stroke="#2e3440" stroke-width="1"/>
-  <text x="730" y="100" font-family="Helvetica, Arial, sans-serif" font-size="14" font-weight="bold" fill="#a09882" letter-spacing="2">AUDIT SCORE</text>
-  <text x="730" y="168" font-family="monospace" font-size="72" font-weight="bold" fill="{score_color}">{'%.1f' % avg}</text>
-  <text x="905" y="168" font-family="Helvetica, Arial, sans-serif" font-size="28" fill="#6b6355">/ 5</text>
-
-  <!-- Stats -->
-  <text x="80" y="{stats_y}" font-family="monospace" font-size="18" fill="#fce28f">{n_preds} predictions</text>
-  <text x="320" y="{stats_y}" font-family="Helvetica, Arial, sans-serif" font-size="18" fill="#6b6355">tracked in this lecture</text>
-
-  <!-- Footer -->
-  <rect x="0" y="560" width="1200" height="40" fill="#0a0c0f"/>
-  <text x="80" y="586" font-family="Helvetica, Arial, sans-serif" font-size="14" fill="#6b6355">Predictive History Audit &#x2022; predictivehistoryaudit.pages.dev</text>
-</svg>'''
-
-    # Write SVG
-    cards_dir = os.path.join(output_dir, 'cards')
-    os.makedirs(cards_dir, exist_ok=True)
-    svg_path = os.path.join(cards_dir, f'{slug}.svg')
-    png_path = os.path.join(cards_dir, f'{slug}.png')
-    with open(svg_path, 'w') as f:
-        f.write(svg)
-
-    # Convert to PNG
-    try:
-        subprocess.run(
-            ['convert', svg_path, '-resize', '1200x600', png_path],
-            check=True, capture_output=True
-        )
-        os.remove(svg_path)
-    except (subprocess.CalledProcessError, FileNotFoundError):
-        pass  # Fall back to SVG or default card
-
-    return f'{SITE_URL}/cards/{slug}.png'
-
-
 def compute_avg(data: dict) -> float:
     """Compute average score across all axes."""
     vals = [data['scores'][k]['score'] for k in SCORE_KEYS]
@@ -275,7 +185,17 @@ def build(base_dir: str, output_dir: str):
     # Copy static assets
     static_src = os.path.join(base_dir, 'static')
     for f in glob.glob(os.path.join(static_src, '*')):
-        shutil.copy2(f, os.path.join(output_dir, 'static', os.path.basename(f)))
+        if os.path.isfile(f):
+            shutil.copy2(f, os.path.join(output_dir, 'static', os.path.basename(f)))
+
+    # Copy social cards
+    cards_src = os.path.join(base_dir, 'static', 'cards')
+    if os.path.isdir(cards_src):
+        cards_dst = os.path.join(output_dir, 'cards')
+        os.makedirs(cards_dst, exist_ok=True)
+        for f in glob.glob(os.path.join(cards_src, '*.png')):
+            shutil.copy2(f, os.path.join(cards_dst, os.path.basename(f)))
+        print(f"Copied {len(glob.glob(os.path.join(cards_src, '*.png')))} social cards")
 
     # Copy screencaps
     caps_src = os.path.join(base_dir, 'caps')
@@ -466,11 +386,9 @@ def build(base_dir: str, output_dir: str):
 
     # Individual lecture pages
     tmpl = env.get_template('lecture.html')
-    card_count = 0
     for d in analyses:
         advisory_points = parse_advisory_points(d.get('verdict', {}).get('viewer_advisory', ''))
-        card_url = generate_social_card(d, d['avg'], output_dir)
-        card_count += 1
+        card_url = f"{SITE_URL}/cards/{d['slug']}.png"
         html = tmpl.render(
             page='lecture',
             root='../',
@@ -485,7 +403,6 @@ def build(base_dir: str, output_dir: str):
             f.write(html)
         print(f"  Built: lectures/{d['slug']}.html")
 
-    print(f"  Generated {card_count} social cards")
     print(f"\nDone. {len(analyses) + 3} pages built to {output_dir}/")
 
 
