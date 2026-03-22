@@ -342,6 +342,7 @@ def build(base_dir: str, output_dir: str):
             daily_entries=briefing.get('daily_entries', []),
             theatres=briefing.get('theatres', []),
             metrics=briefing.get('metrics', []),
+            ground_invasion=briefing.get('ground_invasion_tracker'),
         )
         with open(os.path.join(output_dir, 'briefing.html'), 'w') as f:
             f.write(html)

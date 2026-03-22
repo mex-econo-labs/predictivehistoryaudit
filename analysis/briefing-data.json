@@ -135,6 +135,30 @@
       "as_of": "2026-03-13"
     }
   ],
+  "ground_invasion_tracker": {
+    "last_updated": "2026-03-15",
+    "status": "no_ground_troops",
+    "troop_count_in_theatre": "~45,000 (3 carrier strike groups + support)",
+    "key_developments": [
+      "USS Tripoli amphibious assault ship + 2,500 Marines ordered to region (Mar 15)",
+      "Three carrier strike groups deployed: USS Abraham Lincoln, USS Gerald R. Ford, USS George H.W. Bush",
+      "Trump called on 5 nations to send warships to Hormuz — no commitments yet",
+      "Pentagon has not announced any ground force deployments to the theatre",
+      "No draft or conscription legislation introduced"
+    ],
+    "kharg_island": {
+      "status": "monitoring",
+      "naval_activity": "No reported US naval operations near Kharg Island",
+      "notes": "Kharg Island handles ~90% of Iran's oil exports. Jiang predicted US seizure in multiple lectures. Oil currently flows from shore-based terminals, making island seizure of limited strategic value unless aimed at total export denial. No indicators of planned operation as of Mar 15."
+    },
+    "marine_movements": [
+      "USS Tripoli (LHA-7) + 2,500 Marines ordered to Middle East (Mar 15) — amphibious assault ship, not ground deployment",
+      "Marines currently aboard for naval operations, not beach assault staging",
+      "No MEU (Marine Expeditionary Unit) ground deployment orders reported"
+    ],
+    "draft_indicators": "None. No legislation introduced. No Selective Service activation. No public discussion at Pentagon or White House level.",
+    "assessment": "US-Iran conflict remains entirely air/missile-based. Marine amphibious assets are moving into theatre but for naval operations, not ground invasion staging. Jiang's prediction of 500K-2M ground troops and a national draft has no supporting indicators. The current campaign architecture (B-2 bombers, carrier-based strikes, Tomahawks) suggests the US is deliberately avoiding ground commitment."
+  },
   "daily_entries": [
     {
       "date": "2026-03-15",

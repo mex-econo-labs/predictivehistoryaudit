@@ -31,6 +31,94 @@
     </div>
   </div>
 
+  <!-- GROUND INVASION TRACKER -->
+  {% if ground_invasion %}
+  <div class="card fade-up" style="margin-top: var(--space-lg); border-left: 3px solid var(--accent);">
+    <div class="card-header">
+      <span class="card-title">Ground Invasion Tracker</span>
+      <span class="card-count">Jiang's central prediction — tracked daily</span>
+    </div>
+    <div style="padding: var(--space-md) 0;">
+      <div class="stats-bar" style="margin: 0 0 var(--space-md) 0;">
+        <div class="stat-cell">
+          <div class="stat-value mono" style="font-size: 1.1rem;">
+            {% if ground_invasion.status == 'no_ground_troops' %}
+              <span style="color: var(--score-4);">NO GROUND TROOPS</span>
+            {% elif ground_invasion.status == 'staging' %}
+              <span style="color: var(--score-2);">STAGING</span>
+            {% elif ground_invasion.status == 'limited_operations' %}
+              <span style="color: var(--score-1);">LIMITED OPS</span>
+            {% elif ground_invasion.status == 'invasion' %}
+              <span style="color: var(--score-1);">INVASION</span>
+            {% else %}
+              <span>{{ ground_invasion.status|upper }}</span>
+            {% endif %}
+          </div>
+          <div class="stat-label">Current Status</div>
+        </div>
+        <div class="stat-cell">
+          <div class="stat-value mono" style="font-size: 1.1rem;">{{ ground_invasion.troop_count_in_theatre or '—' }}</div>
+          <div class="stat-label">US Troops in Theatre</div>
+        </div>
+        <div class="stat-cell">
+          <div class="stat-value mono" style="font-size: 1.1rem;">{{ ground_invasion.last_updated }}</div>
+          <div class="stat-label">Last Updated</div>
+        </div>
+      </div>
+
+      {% if ground_invasion.assessment %}
+      <div style="padding: var(--space-sm) var(--space-md); background: var(--surface-raised); border-radius: 6px; margin-bottom: var(--space-md);">
+        <span class="mono" style="font-size: 0.65rem; color: var(--accent); font-weight: 600; letter-spacing: 0.08em; text-transform: uppercase;">Assessment</span>
+        <div style="font-size: 0.88rem; color: var(--text-primary); line-height: 1.6; margin-top: 4px;">{{ ground_invasion.assessment }}</div>
+      </div>
+      {% endif %}
+
+      <div style="font-size: 0.75rem; color: var(--text-muted); margin-bottom: var(--space-sm); font-style: italic;">
+        Jiang predicts a US ground invasion of Iran in 40+ lectures across the corpus — calling it "structurally inevitable," requiring 500K-2M troops and a national draft. As of the current date, the US-Iran conflict has been conducted entirely via air and missile strikes with no ground forces deployed. This tracker monitors indicators that could signal movement toward or away from that prediction.
+      </div>
+
+      {% if ground_invasion.kharg_island %}
+      <div style="padding: var(--space-sm) 0; border-top: 1px solid var(--border-subtle);">
+        <span style="font-family: var(--font-ui); font-size: 0.8rem; font-weight: 600; color: var(--text-primary);">Kharg Island</span>
+        <span class="status-badge" style="margin-left: var(--space-sm);">{{ ground_invasion.kharg_island.status or 'monitoring' }}</span>
+        {% if ground_invasion.kharg_island.notes %}
+        <p style="font-size: 0.82rem; color: var(--text-secondary); line-height: 1.5; margin-top: 4px;">{{ ground_invasion.kharg_island.notes }}</p>
+        {% endif %}
+      </div>
+      {% endif %}
+
+      {% if ground_invasion.marine_movements %}
+      <div style="padding: var(--space-sm) 0; border-top: 1px solid var(--border-subtle);">
+        <span style="font-family: var(--font-ui); font-size: 0.8rem; font-weight: 600; color: var(--text-primary);">Marine / Amphibious Movements</span>
+        <ul style="margin-top: var(--space-xs); padding-left: var(--space-lg);">
+          {% for item in ground_invasion.marine_movements %}
+          <li style="font-size: 0.82rem; color: var(--text-secondary); line-height: 1.5; margin-bottom: var(--space-xs);">{{ item }}</li>
+          {% endfor %}
+        </ul>
+      </div>
+      {% endif %}
+
+      {% if ground_invasion.key_developments %}
+      <div style="padding: var(--space-sm) 0; border-top: 1px solid var(--border-subtle);">
+        <span style="font-family: var(--font-ui); font-size: 0.8rem; font-weight: 600; color: var(--text-primary);">Recent Indicators</span>
+        <ul style="margin-top: var(--space-xs); padding-left: var(--space-lg);">
+          {% for item in ground_invasion.key_developments %}
+          <li style="font-size: 0.82rem; color: var(--text-secondary); line-height: 1.5; margin-bottom: var(--space-xs);">{{ item }}</li>
+          {% endfor %}
+        </ul>
+      </div>
+      {% endif %}
+
+      {% if ground_invasion.draft_indicators %}
+      <div style="padding: var(--space-sm) 0; border-top: 1px solid var(--border-subtle);">
+        <span style="font-family: var(--font-ui); font-size: 0.8rem; font-weight: 600; color: var(--text-primary);">Draft / Conscription Signals</span>
+        <p style="font-size: 0.82rem; color: var(--text-secondary); line-height: 1.5; margin-top: 4px;">{{ ground_invasion.draft_indicators }}</p>
+      </div>
+      {% endif %}
+    </div>
+  </div>
+  {% endif %}
+
   <!-- DAILY SITUATION LOG -->
   <div class="card fade-up" style="margin-top: var(--space-lg);">
     <div class="card-header">
