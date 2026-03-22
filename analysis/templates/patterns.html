@@ -111,6 +111,52 @@
     </div>
   </div>
 
+  <!-- PREDICTION TIMELINE -->
+  {% if prediction_timeline %}
+  <div class="card fade-up" style="margin-top: var(--space-lg);">
+    <div class="card-header">
+      <span class="card-title">Prediction Timeline</span>
+      <span class="card-count">Status distribution by upload date</span>
+    </div>
+    <div style="max-width: 900px; margin: 0 auto;">
+      <canvas id="predTimeline" height="350"></canvas>
+    </div>
+  </div>
+  {% endif %}
+
+  <!-- CIVILIZATIONAL FRAMING DIVERGENCE -->
+  {% if civ_divergence %}
+  <div class="card fade-up" style="margin-top: var(--space-lg);">
+    <div class="card-header">
+      <span class="card-title">Civilizational Framing Divergence</span>
+      <span class="card-count">The triple standard, visualized</span>
+    </div>
+    <div class="civ-divergence-grid">
+      <div class="civ-panel civ-china">
+        <h4 class="civ-panel-label">China</h4>
+        <p class="civ-panel-text">{{ civ_divergence.china }}</p>
+        {% for q in civ_divergence.china_quotes %}
+        <div class="civ-panel-quote">"{{ q }}"</div>
+        {% endfor %}
+      </div>
+      <div class="civ-panel civ-russia">
+        <h4 class="civ-panel-label">Russia</h4>
+        <p class="civ-panel-text">{{ civ_divergence.russia }}</p>
+        {% for q in civ_divergence.russia_quotes %}
+        <div class="civ-panel-quote">"{{ q }}"</div>
+        {% endfor %}
+      </div>
+      <div class="civ-panel civ-uswest">
+        <h4 class="civ-panel-label">US / The West</h4>
+        <p class="civ-panel-text">{{ civ_divergence.us_west }}</p>
+        {% for q in civ_divergence.us_west_quotes %}
+        <div class="civ-panel-quote">"{{ q }}"</div>
+        {% endfor %}
+      </div>
+    </div>
+  </div>
+  {% endif %}
+
   <!-- VIEWS vs QUALITY -->
   <div class="card fade-up" style="margin-top: var(--space-lg);">
     <div class="card-header">
@@ -175,6 +221,78 @@
     {% endfor %}
   </div>
 
+  <!-- SCORE DISTRIBUTION HISTOGRAMS -->
+  {% if score_distributions %}
+  <div class="card fade-up" style="margin-top: var(--space-lg);">
+    <div class="card-header">
+      <span class="card-title">Score Distributions</span>
+      <span class="card-count">How scores cluster across the corpus</span>
+    </div>
+    <div class="histogram-grid">
+      {% for key in score_keys %}
+      <div class="histogram-cell">
+        <div class="histogram-label">{{ score_labels[key] }}</div>
+        <div class="histogram-bars">
+          {% for count in score_distributions[key] %}
+          <div class="histogram-bar-wrap">
+            <div class="histogram-bar score-{{ loop.index }}" style="height: {{ (count / lectures|length * 100)|round }}%;"></div>
+            <div class="histogram-val mono muted">{{ count }}</div>
+            <div class="histogram-score mono">{{ loop.index }}</div>
+          </div>
+          {% endfor %}
+        </div>
+      </div>
+      {% endfor %}
+    </div>
+  </div>
+  {% endif %}
+
+  <!-- SOURCE ANALYSIS -->
+  {% if source_stats %}
+  <div class="card fade-up" style="margin-top: var(--space-lg);">
+    <div class="card-header">
+      <span class="card-title">Source Analysis</span>
+      <span class="card-count">{{ source_stats.total_named }} named sources across corpus</span>
+    </div>
+    <div class="stats-bar" style="margin: var(--space-md) 0;">
+      <div class="stat-cell">
+        <div class="stat-value mono" style="color: var(--status-confirmed);">{{ source_stats.accurate }}</div>
+        <div class="stat-label">Accurate</div>
+      </div>
+      <div class="stat-cell">
+        <div class="stat-value mono" style="color: var(--status-disconfirmed);">{{ source_stats.inaccurate }}</div>
+        <div class="stat-label">Inaccurate</div>
+      </div>
+      <div class="stat-cell">
+        <div class="stat-value mono">{{ source_stats.unverified }}</div>
+        <div class="stat-label">Unverified</div>
+      </div>
+      <div class="stat-cell">
+        <div class="stat-value mono" style="color: var(--status-partial);">{{ source_stats.total_vague }}</div>
+        <div class="stat-label">Vague Appeals</div>
+      </div>
+      <div class="stat-cell">
+        <div class="stat-value mono" style="color: var(--status-unfalsifiable);">{{ source_stats.total_omissions }}</div>
+        <div class="stat-label">Notable Omissions</div>
+      </div>
+    </div>
+    <p style="font-size: 0.85rem; color: var(--text-secondary); margin-top: var(--space-md);">
+      Of verifiable sources, <strong>{{ source_stats.accuracy_pct }}%</strong> are represented accurately. Source types:
+    </p>
+    <div style="margin-top: var(--space-md);">
+      {% for stype, count in source_stats.types %}
+      <div class="rhetoric-bar-row">
+        <div class="rhetoric-bar-label">{{ stype }}</div>
+        <div class="rhetoric-bar-track">
+          <div style="width: {{ (count / source_stats.types[0][1] * 100)|round }}%; height: 100%; background: var(--accent); border-radius: 3px;"></div>
+        </div>
+        <div class="rhetoric-bar-count mono muted">{{ count }}</div>
+      </div>
+      {% endfor %}
+    </div>
+  </div>
+  {% endif %}
+
   <!-- CIVILIZATIONAL TREATMENT SUMMARY -->
   <div class="card fade-up" style="margin-top: var(--space-lg);">
     <div class="card-header">
@@ -202,6 +320,63 @@
 
 <script>
 document.addEventListener('DOMContentLoaded', function() {
+  // --- Prediction Timeline ---
+  const tlCtx = document.getElementById('predTimeline');
+  if (tlCtx) {
+    const tlLabels = [{% for date in prediction_timeline %}'{{ date }}',{% endfor %}];
+    const statusColors = {
+      confirmed: { bg: 'rgba(166,255,216,0.7)', label: 'Confirmed' },
+      disconfirmed: { bg: 'rgba(255,204,204,0.7)', label: 'Disconfirmed' },
+      partially_confirmed: { bg: 'rgba(255,244,166,0.7)', label: 'Partial' },
+      untested: { bg: 'rgba(229,224,216,0.5)', label: 'Untested' },
+      unfalsifiable: { bg: 'rgba(226,216,248,0.5)', label: 'Unfalsifiable' },
+    };
+    const datasets = [];
+    for (const [status, meta] of Object.entries(statusColors)) {
+      datasets.push({
+        label: meta.label,
+        data: [{% for date, counts in prediction_timeline.items() %}{{ counts.get(status, 0) if status in ['confirmed','disconfirmed','partially_confirmed','untested','unfalsifiable'] else 0 }},{% endfor %}],
+        backgroundColor: meta.bg,
+      });
+    }
+    // Manually inject per-status data since Jinja can't do dynamic key access cleanly
+    datasets[0].data = [{% for date, counts in prediction_timeline.items() %}{{ counts.confirmed }},{% endfor %}];
+    datasets[1].data = [{% for date, counts in prediction_timeline.items() %}{{ counts.disconfirmed }},{% endfor %}];
+    datasets[2].data = [{% for date, counts in prediction_timeline.items() %}{{ counts.partially_confirmed }},{% endfor %}];
+    datasets[3].data = [{% for date, counts in prediction_timeline.items() %}{{ counts.untested }},{% endfor %}];
+    datasets[4].data = [{% for date, counts in prediction_timeline.items() %}{{ counts.unfalsifiable }},{% endfor %}];
+
+    new Chart(tlCtx, {
+      type: 'bar',
+      data: { labels: tlLabels, datasets: datasets },
+      options: {
+        responsive: true,
+        scales: {
+          x: {
+            stacked: true,
+            ticks: { color: '#e5e0d8', font: { size: 10 }, maxRotation: 45 },
+            grid: { color: 'rgba(255,255,255,0.06)' }
+          },
+          y: {
+            stacked: true,
+            title: { display: true, text: 'Predictions', color: '#e5e0d8', font: { family: "'DM Sans', sans-serif", size: 13 } },
+            ticks: { color: '#e5e0d8', stepSize: 1 },
+            grid: { color: 'rgba(255,255,255,0.06)' }
+          }
+        },
+        plugins: {
+          legend: { labels: { color: '#e5e0d8', font: { family: "'DM Sans', sans-serif", size: 11 } } },
+          tooltip: {
+            backgroundColor: '#171b22', borderColor: '#252a33', borderWidth: 1,
+            titleFont: { family: "'DM Sans', sans-serif", size: 12 },
+            bodyFont: { family: "'JetBrains Mono', monospace", size: 11 },
+          }
+        }
+      }
+    });
+  }
+
+  // --- Views vs Quality Scatter ---
   const ctx = document.getElementById('viewsScatter');
   if (!ctx) return;
 

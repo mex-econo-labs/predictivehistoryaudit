@@ -43,6 +43,32 @@
     </div>
   </div>
 
+  <!-- Executive Summary -->
+  <div class="card fade-up" style="margin-bottom: var(--space-lg);">
+    <div class="card-header">
+      <span class="card-title">Executive Summary</span>
+      <span class="card-count">{{ lectures|length }}-lecture corpus</span>
+    </div>
+    <div class="exec-summary-grid">
+      <div class="exec-item">
+        <div class="exec-label">Prediction Accuracy</div>
+        <div class="exec-body">Of {{ exec_summary.total_predictions }} predictions tracked, {{ exec_summary.tested }} have been tested against events. <strong>{{ exec_summary.confirmed }}</strong> confirmed, <strong>{{ exec_summary.disconfirmed }}</strong> disconfirmed{% if exec_summary.tested > 0 %} — a <strong>{{ exec_summary.accuracy_pct }}%</strong> hit rate on tested predictions{% endif %}.</div>
+      </div>
+      <div class="exec-item">
+        <div class="exec-label">Weakest Axis</div>
+        <div class="exec-body">{{ exec_summary.worst_axis }} averages <strong>{{ "%.1f"|format(exec_summary.worst_axis_score) }}/5</strong> across the corpus. {{ exec_summary.pct_div_1 }}% of lectures score 1/5 on Perspective Diversity — the single most consistent pattern.</div>
+      </div>
+      <div class="exec-item">
+        <div class="exec-label">Strongest Axis</div>
+        <div class="exec-body">{{ exec_summary.best_axis }} averages <strong>{{ "%.1f"|format(exec_summary.best_axis_score) }}/5</strong> — Jiang's content is not random noise; the factual scaffolding is generally solid even where framing is not.</div>
+      </div>
+      <div class="exec-item">
+        <div class="exec-label">Core Finding</div>
+        <div class="exec-body">The corpus reveals a consistent triple standard: China framed favorably, Russia admiringly, and the US/West as declining or corrupt. This pattern holds across all {{ lectures|length }} lectures with negligible exception.</div>
+      </div>
+    </div>
+  </div>
+
   <div class="filter-bar">
     <button class="filter-tab active" data-series="all">All Series</button>
     {% for s in all_series %}

@@ -1,0 +1,71 @@
+{% extends "base.html" %}
+{% block title %}Ironic Mirrors — Predictive History Audit{% endblock %}
+{% block og_title %}Ironic Mirrors — Predictive History Audit{% endblock %}
+{% block og_description %}{{ mirror_count }} instances where Jiang's criticisms of the West apply equally or more to China — documented with timestamps and sources.{% endblock %}
+{% block og_url %}https://predictivehistoryaudit.pages.dev/mirrors.html{% endblock %}
+{% block tw_title %}Ironic Mirrors — Predictive History Audit{% endblock %}
+{% block tw_description %}{{ mirror_count }} instances where Jiang's criticisms of the West apply equally or more to China.{% endblock %}
+
+{% block content %}
+<section class="page-hero">
+  <div class="container">
+    <h1 class="fade-up">Ironic Mirrors</h1>
+    <p class="lead fade-up">Instances where Jiang's criticisms of the West apply equally — or more — to China. Each entry pairs a direct quote with the factual counterpoint the lecture omits. {{ mirror_count }} mirrors documented across the corpus.</p>
+  </div>
+</section>
+
+<div class="container" style="padding-top: var(--space-xl); padding-bottom: var(--space-2xl);">
+
+  <!-- Series filter -->
+  <div class="filter-bar" id="mirror-filter-bar">
+    <button class="filter-tab active" data-mirror-series="all">All Series ({{ mirror_count }})</button>
+    {% set series_list = mirrors|map(attribute='series')|unique|sort %}
+    {% for s in series_list %}
+    <button class="filter-tab" data-mirror-series="{{ s }}">{{ s }}</button>
+    {% endfor %}
+  </div>
+
+  <div id="mirrors-list">
+    {% for m in mirrors %}
+    <div class="mirror-entry fade-up" data-series="{{ m.series }}">
+      <div class="mirror-quote-section">
+        <div class="quote-text">{{ m.quote }}</div>
+        <div class="mirror-meta">
+          <a href="lectures/{{ m.lecture_slug }}.html" style="color: var(--accent);">{{ m.lecture_title }}</a>
+          {% if m.upload_date %}&middot; {{ m.upload_date }}{% endif %}
+          {% if m.timestamp %}
+          &middot; <a href="https://www.youtube.com/watch?v={{ m.video_id }}&t={{ m.timestamp|ts_to_seconds }}" class="quote-timestamp" target="_blank" rel="noopener">{{ m.timestamp }}</a>
+          {% endif %}
+        </div>
+        {% if m.significance %}
+        <div class="mirror-significance">{{ m.significance }}</div>
+        {% endif %}
+      </div>
+      <div class="ironic-mirror">{{ m.ironic_mirror }}</div>
+    </div>
+    {% endfor %}
+  </div>
+
+</div>
+
+<script>
+document.addEventListener('DOMContentLoaded', function() {
+  const bar = document.getElementById('mirror-filter-bar');
+  if (!bar) return;
+
+  const tabs = bar.querySelectorAll('.filter-tab');
+  const entries = document.querySelectorAll('.mirror-entry[data-series]');
+
+  tabs.forEach(tab => {
+    tab.addEventListener('click', () => {
+      tabs.forEach(t => t.classList.remove('active'));
+      tab.classList.add('active');
+      const series = tab.dataset.mirrorSeries;
+      entries.forEach(e => {
+        e.style.display = (series === 'all' || e.dataset.series === series) ? '' : 'none';
+      });
+    });
+  });
+});
+</script>
+{% endblock %}

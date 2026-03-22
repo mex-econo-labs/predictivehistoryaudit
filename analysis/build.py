@@ -151,6 +151,109 @@ def load_analyses(base_dir: str) -> list:
     return analyses
 
 
+def compute_executive_summary(analyses: list, prediction_stats: Counter, claim_stats: Counter) -> dict:
+    """Compute dashboard executive summary statistics."""
+    total_preds = sum(prediction_stats.values())
+    confirmed = prediction_stats.get('confirmed', 0)
+    disconfirmed = prediction_stats.get('disconfirmed', 0)
+    tested = confirmed + disconfirmed + prediction_stats.get('partially_confirmed', 0)
+
+    # Worst scoring axis across corpus
+    axis_means = {}
+    for key in SCORE_KEYS:
+        axis_means[key] = sum(d['scores'][key]['score'] for d in analyses) / len(analyses)
+    worst_axis = min(axis_means, key=axis_means.get)
+    best_axis = max(axis_means, key=axis_means.get)
+
+    # Percentage scoring 1 on perspective_diversity
+    pct_div_1 = round(100 * sum(1 for d in analyses if d['scores']['perspective_diversity']['score'] == 1) / len(analyses))
+
+    return {
+        'total_predictions': total_preds,
+        'tested': tested,
+        'confirmed': confirmed,
+        'disconfirmed': disconfirmed,
+        'accuracy_pct': round(100 * confirmed / tested) if tested > 0 else 0,
+        'worst_axis': SCORE_LABELS[worst_axis],
+        'worst_axis_score': axis_means[worst_axis],
+        'best_axis': SCORE_LABELS[best_axis],
+        'best_axis_score': axis_means[best_axis],
+        'pct_div_1': pct_div_1,
+        'axis_means': {SCORE_LABELS[k]: round(v, 1) for k, v in axis_means.items()},
+    }
+
+
+def collect_ironic_mirrors(analyses: list) -> list:
+    """Collect all ironic mirrors from notable quotes across the corpus."""
+    mirrors = []
+    for d in analyses:
+        for q in d.get('notable_quotes', []):
+            if q.get('ironic_mirror'):
+                mirrors.append({
+                    'quote': q['quote'],
+                    'ironic_mirror': q['ironic_mirror'],
+                    'timestamp': q.get('timestamp', ''),
+                    'significance': q.get('significance', ''),
+                    'screencap': q.get('screencap'),
+                    'lecture_slug': d['slug'],
+                    'lecture_title': f"{d['meta']['series']} #{d['meta'].get('episode', '?')}: {d['display_title']}",
+                    'video_id': d['meta'].get('video_id', ''),
+                    'series': d['meta']['series'],
+                    'upload_date': d['meta'].get('upload_date', ''),
+                })
+    return mirrors
+
+
+def compute_source_stats(analyses: list) -> dict:
+    """Compute corpus-wide source analysis statistics."""
+    total_named = 0
+    total_vague = 0
+    total_omissions = 0
+    accurate_count = 0
+    inaccurate_count = 0
+    unverified_count = 0
+    source_types = Counter()
+
+    for d in analyses:
+        sources = d.get('sources', {})
+        named = sources.get('named_sources', [])
+        total_named += len(named)
+        total_vague += len(sources.get('vague_appeals', []))
+        total_omissions += len(sources.get('notable_omissions', []))
+
+        for src in named:
+            source_types[src.get('type', 'unknown')] += 1
+            acc = src.get('accurate_representation')
+            if acc is True:
+                accurate_count += 1
+            elif acc is False:
+                inaccurate_count += 1
+            else:
+                unverified_count += 1
+
+    return {
+        'total_named': total_named,
+        'total_vague': total_vague,
+        'total_omissions': total_omissions,
+        'accurate': accurate_count,
+        'inaccurate': inaccurate_count,
+        'unverified': unverified_count,
+        'accuracy_pct': round(100 * accurate_count / (accurate_count + inaccurate_count)) if (accurate_count + inaccurate_count) > 0 else 0,
+        'types': source_types.most_common(),
+    }
+
+
+def compute_score_distributions(analyses: list) -> dict:
+    """Compute score frequency distributions for histograms."""
+    distributions = {}
+    for key in SCORE_KEYS:
+        counts = Counter()
+        for d in analyses:
+            counts[d['scores'][key]['score']] += 1
+        distributions[key] = [counts.get(i, 0) for i in range(1, 6)]
+    return distributions
+
+
 def build(base_dir: str, output_dir: str):
     """Build the static site."""
 
@@ -276,6 +379,38 @@ def build(base_dir: str, output_dir: str):
                     'text': text,
                 })
 
+    # --- Compute enhanced data ---
+    exec_summary = compute_executive_summary(analyses, prediction_stats, claim_stats)
+    ironic_mirrors = collect_ironic_mirrors(analyses)
+    source_stats = compute_source_stats(analyses)
+    score_distributions = compute_score_distributions(analyses)
+
+    # Prediction timeline data (grouped by upload_date)
+    prediction_timeline = defaultdict(lambda: {'confirmed': 0, 'disconfirmed': 0, 'partially_confirmed': 0, 'untested': 0, 'unfalsifiable': 0})
+    for p in all_predictions:
+        date = p.get('upload_date', '')
+        if date:
+            status = p.get('status', 'untested')
+            prediction_timeline[date][status] += 1
+    prediction_timeline = dict(sorted(prediction_timeline.items()))
+
+    # Civilizational framing divergence data from channel-editorial
+    civ_divergence = None
+    editorial_path = os.path.join(base_dir, 'channel-editorial.json')
+    if os.path.exists(editorial_path):
+        with open(editorial_path) as f:
+            editorial = json.load(f)
+        tsc = editorial.get('triple_standard_characterizations', {})
+        if tsc:
+            civ_divergence = {
+                'china': tsc.get('china', ''),
+                'us_west': tsc.get('us_west', ''),
+                'russia': tsc.get('russia', ''),
+                'china_quotes': tsc.get('china_quotes', []),
+                'us_west_quotes': tsc.get('us_west_quotes', []),
+                'russia_quotes': tsc.get('russia_quotes', []),
+            }
+
     # --- Render pages ---
     common = {
         'score_keys': SCORE_KEYS,
@@ -296,6 +431,7 @@ def build(base_dir: str, output_dir: str):
         total_predictions=total_predictions,
         total_sources=total_sources,
         total_rhetoric=total_rhetoric,
+        exec_summary=exec_summary,
         **common,
     )
     with open(os.path.join(output_dir, 'index.html'), 'w') as f:
@@ -321,11 +457,27 @@ def build(base_dir: str, output_dir: str):
         claim_stats=claim_stats,
         rhetoric_freq=rhetoric_freq,
         civ_mentions=civ_mentions,
+        prediction_timeline=prediction_timeline,
+        civ_divergence=civ_divergence,
+        source_stats=source_stats,
+        score_distributions=score_distributions,
         **common,
     )
     with open(os.path.join(output_dir, 'patterns.html'), 'w') as f:
         f.write(html)
     print("  Built: patterns.html")
+
+    # Ironic Mirrors
+    tmpl = env.get_template('mirrors.html')
+    html = tmpl.render(
+        page='mirrors',
+        root='',
+        mirrors=ironic_mirrors,
+        mirror_count=len(ironic_mirrors),
+    )
+    with open(os.path.join(output_dir, 'mirrors.html'), 'w') as f:
+        f.write(html)
+    print(f"  Built: mirrors.html ({len(ironic_mirrors)} mirrors)")
 
     # Briefing
     briefing_path = os.path.join(base_dir, 'briefing-data.json')
@@ -404,7 +556,7 @@ def build(base_dir: str, output_dir: str):
             f.write(html)
         print(f"  Built: lectures/{d['slug']}.html")
 
-    print(f"\nDone. {len(analyses) + 3} pages built to {output_dir}/")
+    print(f"\nDone. {len(analyses) + 5} pages built to {output_dir}/")
 
 
 if __name__ == '__main__':

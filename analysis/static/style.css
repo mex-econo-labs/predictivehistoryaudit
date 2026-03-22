@@ -1328,6 +1328,190 @@ img { max-width: 100%; display: block; }
 
 .briefing-entry:last-child { border-bottom: none; }
 
+/* --- Executive Summary --- */
+.exec-summary-grid {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: var(--space-md);
+}
+
+.exec-item {
+  padding: var(--space-md);
+  background: var(--bg-secondary);
+  border: 1px solid var(--border-subtle);
+  border-radius: 3px;
+}
+
+.exec-label {
+  font-family: var(--font-data);
+  font-size: 0.65rem;
+  font-weight: 600;
+  letter-spacing: 0.1em;
+  text-transform: uppercase;
+  color: var(--accent-dim);
+  margin-bottom: var(--space-xs);
+}
+
+.exec-body {
+  font-size: 0.85rem;
+  color: var(--text-secondary);
+  line-height: 1.55;
+}
+
+.exec-body strong {
+  color: var(--text-primary);
+}
+
+/* --- Civilizational Divergence Panels --- */
+.civ-divergence-grid {
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr;
+  gap: var(--space-md);
+}
+
+.civ-panel {
+  padding: var(--space-md);
+  border-radius: 3px;
+  border: 1px solid var(--border);
+}
+
+.civ-china {
+  background: rgba(166, 255, 216, 0.04);
+  border-color: rgba(166, 255, 216, 0.15);
+}
+
+.civ-russia {
+  background: rgba(180, 225, 255, 0.04);
+  border-color: rgba(180, 225, 255, 0.15);
+}
+
+.civ-uswest {
+  background: rgba(255, 204, 204, 0.04);
+  border-color: rgba(255, 204, 204, 0.15);
+}
+
+.civ-panel-label {
+  font-family: var(--font-data);
+  font-size: 0.65rem;
+  font-weight: 600;
+  letter-spacing: 0.12em;
+  text-transform: uppercase;
+  margin-bottom: var(--space-sm);
+}
+
+.civ-china .civ-panel-label { color: var(--score-5); }
+.civ-russia .civ-panel-label { color: #b4e1ff; }
+.civ-uswest .civ-panel-label { color: var(--score-1); }
+
+.civ-panel-text {
+  font-size: 0.82rem;
+  color: var(--text-secondary);
+  line-height: 1.55;
+  margin-bottom: var(--space-sm);
+}
+
+.civ-panel-quote {
+  font-size: 0.78rem;
+  font-style: italic;
+  color: var(--text-muted);
+  line-height: 1.5;
+  padding: var(--space-xs) 0;
+  border-top: 1px solid var(--border-subtle);
+}
+
+/* --- Score Distribution Histograms --- */
+.histogram-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(140px, 1fr));
+  gap: var(--space-lg);
+}
+
+.histogram-cell {
+  text-align: center;
+}
+
+.histogram-label {
+  font-family: var(--font-ui);
+  font-size: 0.7rem;
+  font-weight: 600;
+  color: var(--text-muted);
+  text-transform: uppercase;
+  letter-spacing: 0.06em;
+  margin-bottom: var(--space-sm);
+}
+
+.histogram-bars {
+  display: flex;
+  align-items: flex-end;
+  justify-content: center;
+  gap: 4px;
+  height: 80px;
+}
+
+.histogram-bar-wrap {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: 22px;
+  height: 100%;
+  justify-content: flex-end;
+}
+
+.histogram-bar {
+  width: 100%;
+  border-radius: 2px 2px 0 0;
+  min-height: 2px;
+  transition: height 0.3s;
+}
+
+.histogram-bar.score-1 { background: var(--score-1); }
+.histogram-bar.score-2 { background: var(--score-2); }
+.histogram-bar.score-3 { background: var(--score-3); }
+.histogram-bar.score-4 { background: var(--score-4); }
+.histogram-bar.score-5 { background: var(--score-5); }
+
+.histogram-val {
+  font-size: 0.6rem;
+  margin-top: 2px;
+}
+
+.histogram-score {
+  font-size: 0.6rem;
+  color: var(--text-muted);
+}
+
+/* --- Mirror Page --- */
+.mirror-entry {
+  padding: var(--space-lg) 0;
+  border-bottom: 1px solid var(--border-subtle);
+}
+
+.mirror-entry:last-child { border-bottom: none; }
+
+.mirror-quote-section {
+  margin-bottom: var(--space-sm);
+}
+
+.mirror-meta {
+  font-family: var(--font-data);
+  font-size: 0.7rem;
+  color: var(--text-muted);
+  margin-top: var(--space-xs);
+}
+
+.mirror-significance {
+  font-size: 0.82rem;
+  color: var(--text-secondary);
+  margin-top: var(--space-xs);
+  line-height: 1.5;
+}
+
+@media (max-width: 768px) {
+  .exec-summary-grid { grid-template-columns: 1fr; }
+  .civ-divergence-grid { grid-template-columns: 1fr; }
+  .histogram-grid { grid-template-columns: repeat(auto-fill, minmax(120px, 1fr)); }
+}
+
 /* --- Animations --- */
 @keyframes fadeUp {
   from { opacity: 0; transform: translateY(12px); }
