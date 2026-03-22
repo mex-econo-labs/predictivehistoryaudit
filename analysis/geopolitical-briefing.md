@@ -1,4 +1,4 @@
-# Geopolitical Briefing: State of the World as of March 14, 2026
+# Geopolitical Briefing: State of the World as of March 22, 2026
 
 Compiled for evaluation of mid-2024 predictions. All information sourced from publicly available reporting through March 2026.
 
@@ -18,10 +18,43 @@ Compiled for evaluation of mid-2024 predictions. All information sourced from pu
 - On **February 28, 2026**, the US and Israel launched nearly **900 strikes in 12 hours** targeting Iranian missiles, air defenses, military infrastructure, and leadership.
 - The opening salvo **assassinated Supreme Leader Ayatollah Ali Khamenei** and several family members in Tehran. His daughter Boshra, her daughter, his son-in-law, and daughter-in-law were also killed.
 - A missile struck a girls' school adjacent to a naval base in Minab, near Bandar Abbas, killing ~170 people.
-- As of mid-March 2026: **at least 1,444 killed and 18,551 injured** by US-Israeli attacks, per Iran's Health Ministry. Tehran claims nearly 10,000 civilian sites have been bombed.
+- As of March 22, 2026: **at least 1,444 killed (including 204 children) and 18,551 injured** by US-Israeli attacks, per Iran's Health Ministry. Tehran claims nearly 10,000 civilian sites have been bombed.
 - Iran has responded with **500+ ballistic/naval missiles and ~2,000 drones** since Feb 28, striking US military presence and civilian infrastructure across **9 countries** including Bahrain, Kuwait, Qatar, Saudi Arabia, Oman, and the UAE.
-- At least **15 Israelis killed and 2,000+ wounded** in Iranian retaliatory attacks.
+- At least **18 Israelis killed and 3,730+ wounded** in Iranian retaliatory attacks. An Iranian missile struck Arad on March 21, wounding 74 — the highest single-attack casualty count of the war.
+- **13 US service members killed** (7 by enemy fire, 6 in Iraq plane crash Mar 13) and **~200 wounded** (~180 returned to duty).
 - A US Senate **war powers vote failed**, allowing Trump to continue Iran strikes without new authorization.
+
+### Kharg Island Raid (March 13, 2026)
+- On **March 13**, the USAF conducted a **large-scale precision strike on Kharg Island**, Iran's key oil export hub (handles ~90% of exports).
+- Struck **90+ military targets**: runway, naval base, air defenses, mine storage facilities, missile storage bunkers.
+- Trump announced the raid, calling it "one of the most powerful bombing raids in the History of the Middle East."
+- **Oil infrastructure deliberately spared**. Trump warned he would "immediately reconsider" if Iran continued Hormuz blockade.
+- **March 20**: Axios reported Trump considering **occupation or blockade** of Kharg Island, with three sources saying ground troops on the island are "under serious consideration."
+
+### Israeli Decapitation Campaign (March 17-18, 2026)
+- **March 17**: Israel assassinated **Ali Larijani**, Secretary of Iran's Supreme National Security Council, described as the "most powerful man in Iran" and de facto leader. His son Morteza and aide Alireza Bayat also killed. Separately, **Basij militia commander Gholamreza Soleimani** killed in another strike the same night.
+- **March 18**: Israel killed **Intelligence Minister Esmail Khatib** in Tehran — the third top official killed in 48 hours.
+- Total senior Iranian officials killed since Feb 28: Supreme Leader Khamenei, SNSC Secretary Larijani, Basij Commander Soleimani, Intelligence Minister Khatib.
+- Al Jazeera analysis: Israel killed Larijani to "torpedo" any chance of US-Iran negotiations.
+
+### South Pars Gas Field Attack (March 18, 2026)
+- **March 18**: Israeli jets struck **South Pars gas field processing facilities at Asaluyeh**, Iran's largest natural gas field.
+- Damaged storage tanks, gas installations, and refineries. **~12% of Iran's total gas production** capacity affected.
+- Israel claimed coordination with the US; Trump said the US "knew nothing."
+- Iran retaliated by striking **Qatar's Ras Laffan Industrial City**, causing "extensive damage" (QatarEnergy). Additional strikes on Kuwait and Saudi refineries on March 19.
+- Triggered an **energy-infrastructure warfare spiral** that threatens the entire Gulf's energy output.
+
+### Trump's 48-Hour Ultimatum (March 21-22, 2026)
+- Trump posted on Truth Social: **"If Iran doesn't FULLY OPEN, WITHOUT THREAT, the Strait of Hormuz, within 48 HOURS from this exact point in time, the United States of America will hit and obliterate their various POWER PLANTS, STARTING WITH THE BIGGEST ONE FIRST!"**
+- Iran's military counter-threatened: **"all energy, information technology and desalination infrastructure belonging to the US and the regime in the region will be targeted"** if Iran's energy infrastructure is attacked.
+- The ultimatum represents a dangerous escalation, with both sides pre-committing to strikes on critical civilian infrastructure.
+
+### Ground Operation Planning (March 20, 2026)
+- **CBS News** and **Times of Israel** reported the Pentagon has drawn up **detailed plans for ground deployment of troops into Iran**.
+- **Military.com** reported an additional **2,500 Marines** ordered to the Middle East.
+- **Axios** reported that **Kharg Island occupation** by ground troops is "under serious consideration."
+- Trump told reporters: **"not putting troops anywhere"** but added **"If I were, I certainly wouldn't tell you."**
+- This represents a significant shift from the air-only campaign of weeks 1-2, though still far from a large-scale mainland invasion.
 
 ### Strait of Hormuz Crisis
 - Iran has effectively **blockaded the Strait of Hormuz** since March 2. IRGC stated "not a litre of oil" will pass.
@@ -34,7 +67,12 @@ Compiled for evaluation of mid-2024 predictions. All information sourced from pu
 - War risk insurance premiums surged from 0.125% to **1% of ship value** per transit. Major insurers (Gard, Skuld, NorthStandard, London P&I Club) **cancelled war risk cover effective March 5**.
 - Oil supertanker rates hit **all-time highs**.
 - US Navy deployed **three carrier strike groups** (USS Abraham Lincoln, USS Gerald R. Ford, USS George H.W. Bush) but the blockade remains "strategically porous" — military can force passages but commercial shipping deterred.
+- **USS Tripoli ARG + 31st MEU** (2,200 Marines with F-35Bs) transited Malacca Strait March 18, arriving Middle East end of March. Departed Okinawa Mar 11.
+- An additional **2,500 Marines** ordered to the region (Military.com, Mar 20).
 - UN Security Council passed **Resolution 2817** calling on Iran to halt attacks on Gulf shipping.
+- **22 countries signed joint statement** (Mar 19) condemning Iran's Hormuz closure: UK, France, Germany, Italy, Netherlands, Japan, Canada, South Korea, New Zealand, Denmark, Latvia, Slovenia, Estonia, Norway, Sweden, Finland, Czechia, Romania, Bahrain, Lithuania, Australia, UAE. They signaled "readiness to contribute" to reopening efforts.
+- **Iran refused to discuss reopening Hormuz** while under attack (Bloomberg, Mar 20).
+- Iran's selective passage policy continues: ships from India, Turkey, and other "friendly" nations allowed; US/Western-allied ships barred.
 
 ### Attacks on Commercial Shipping
 - **March 11, 2026**: IRGC struck Thailand-flagged bulk carrier **MV Mayuree Naree** (30,000 DWT, owned by Precious Shipping Pcl) with two projectiles while transiting Hormuz en route from UAE to India. 3 crew missing, 20 rescued by Royal Navy of Oman. IRGC claimed ship ignored "warnings."
@@ -48,11 +86,11 @@ Iran struck military and civilian targets across at least 9 countries plus Israe
 
 | Country | Key Targets | Casualties |
 |---------|------------|------------|
-| **Israel** | Ballistic missiles on Beit Shemesh (Mar 1), widespread | 15+ killed, 2,000+ wounded |
+| **Israel** | Ballistic missiles on Beit Shemesh (Mar 1), Arad (Mar 21 — 74 wounded), widespread | 18+ killed, 3,730+ wounded |
 | **Bahrain** | Bapco refinery, Manama residential near US 5th Fleet HQ | 32+ injured; Bapco declared force majeure |
 | **Kuwait** | Ali al-Salem Air Base, Kuwait International Airport | 1 killed, 32 injured; force majeure Mar 7; -500K bbl/day |
-| **Qatar** | Gas facilities, radar station, Doha neighborhoods | 16 injured; **QatarEnergy halted all gas production Mar 2** and declared force majeure Mar 4 (world's largest LNG exporter) |
-| **UAE** | ADNOC Ruwais refinery (922K bbl/day — shut down), Dubai International Airport, Dubai Palm Islands | 6 killed, 131 injured; 189 ballistic missiles + 941 drones + 3 cruise missiles by Mar 4 |
+| **Qatar** | Gas facilities, radar station, Doha neighborhoods, **Ras Laffan Industrial City** (Mar 19 — "extensive damage") | 16 injured; **QatarEnergy halted all gas production Mar 2** and declared force majeure Mar 4 (world's largest LNG exporter); Ras Laffan hit in retaliation for South Pars strike |
+| **UAE** | ADNOC Ruwais refinery (922K bbl/day — shut down), Dubai International Airport, Dubai Palm Islands, gas facilities closed (Mar 19) | 8 killed, 157 injured; **314 ballistic missiles + 1,672 drones + 15 cruise missiles** by Mar 17 |
 | **Saudi Arabia** | Ras Tanura refinery (halted), Shaybah oilfield (intercepted), al-Kharj residential | 2 killed, 12 injured; reduced production 2-2.5M bbl/day |
 | **Oman** | Various targets (spared initial wave due to mediator role) | 5 injured |
 | **Iraq** | Erbil airport & US consulate (70+ missiles/drones in 3 days), Victory Base near Baghdad | 27 killed (incl. 21 pro-Iran fighters, civilians) |
@@ -60,7 +98,7 @@ Iran struck military and civilian targets across at least 9 countries plus Israe
 | **Cyprus (UK base)** | RAF Akrotiri — Hezbollah-launched Shahed drone hit runway (Mar 1), more drones Mar 4 intercepted | Minor damage |
 | **Azerbaijan** | Nakhchivan exclave — airport damaged (Mar 5) | 2 civilians injured; Azerbaijan withdrew diplomats |
 
-**US military casualties**: 11 confirmed fatalities from Iranian attacks across the region. Six US crew members died in an Iraq plane crash during ongoing strikes (Mar 13).
+**US military casualties**: **13 confirmed fatalities** — 7 killed by enemy fire (including 6 in Kuwait drone strike Mar 1), 6 in Iraq plane crash (Mar 13). **~200 wounded**, with 180+ returned to duty.
 
 ### Iranian Missiles Targeting Turkey (March 4-13, 2026)
 - Three Iranian ballistic missiles entered Turkish airspace, all intercepted by NATO air and missile defense assets in the Eastern Mediterranean.
@@ -83,14 +121,15 @@ Iran struck military and civilian targets across at least 9 countries plus Israe
 - Analysts warn prices could reach $130/barrel if blockade persists
 
 **Most Affected Countries (Energy Dependence on Hormuz):**
-- **Japan**: ~75% of oil imports transit Hormuz. Risk score 6.4 (highest). ~4.4M tons LNG reserve (2-4 weeks).
-- **South Korea**: ~60% of crude via Hormuz, 14% of LNG from Qatar/UAE. ~3.5M tons LNG reserve.
-- **India**: 53% of LNG imports transit Hormuz. Risk score 4.9.
-- **China**: One of four Asian economies accounting for 75% of oil flows through the chokepoint.
-- **Pakistan**: 99% of LNG imports from Qatar/UAE via Hormuz. Facing acute gas shortages.
+- **Japan**: ~90% of crude from Middle East, mostly via Hormuz. Nikkei 225 down **8.6%**. Releasing strategic petroleum reserves jointly with South Korea.
+- **South Korea**: ~70% of crude from Middle East, 95%+ routed through Hormuz. Kospi down **12%**. Releasing strategic petroleum reserves.
+- **India**: 60% of LPG imported, ~90% via Hormuz. Oil ministry ordered refineries to maximize LPG production (+25% domestic output). FM Jaishankar in direct talks with Iran on passage.
+- **China**: One of four Asian economies accounting for 75% of oil flows through the chokepoint. Iran's selective blockade creates "private oil lane" for China (Fortune, Mar 20).
+- **Pakistan**: 99% of LNG from Qatar/UAE via Hormuz. **Four-day work week, school closures, work-from-home policies** imposed. Fuel queues nationwide. Requested Saudi Arabia reroute oil via Yanbu on Red Sea.
 - **Bangladesh**: 72% of LNG imports from Qatar/UAE. Shortfall of 1,300 million cubic feet/day of gas.
 - **Taiwan**: High energy import reliance; vulnerable to price shocks.
-- **Europe**: Energy security threatened; aviation and tourism sectors declined.
+- **Europe**: Energy security threatened; aviation and tourism sectors declined. Natural gas prices nearly doubled after Qatar halt.
+- **Goldman Sachs** warns triple-digit oil prices may persist for years (CNN, Mar 20).
 
 ---
 
@@ -110,6 +149,9 @@ Iran struck military and civilian targets across at least 9 countries plus Israe
 - **February 17-18, 2025**: IDF withdrew from most of southern Lebanon, but retained 5 strategic positions past the withdrawal deadline.
 - Over 10,000 Israeli violations of Lebanese airspace and 1,400 military activities recorded inside Lebanese territory between November 2024 and February 2026 (UNIFIL records).
 - **March 2, 2026**: Airstrikes resumed between Hezbollah and Israel following the 2026 Iran war and Khamenei's assassination.
+- **March 16, 2026**: Israel launched **"limited and targeted ground operations"** in southern Lebanon. IDF 91st Division deployed to Kfar Kila, Houla, Kfar Shouba, Yaroun, and Khiam. A second division also deployed.
+- **As of March 22**: At least **1,001 people killed** (including 118 children) and **1 million+ displaced** since Mar 2. Israeli airstrike on Beirut hotel killed 4 IRGC Quds Force commanders. Strike on health center killed 12 medical workers.
+- Lebanon's foreign minister summoned Iran's chargé d'affaires after Hezbollah-Iran joint missile/drone strike violated Lebanese sovereignty.
 
 ### Israel-Iran Direct Confrontation
 - April 2024: Iran launched first-ever direct strike on Israel (Operation True Promise).
@@ -192,12 +234,13 @@ Iran struck military and civilian targets across at least 9 countries plus Israe
 ### Territory
 - Russia occupies approximately **20% of Ukraine's territory** (~45,778 sq mi), including Crimea and parts of Donbas.
 - Frontline movement is slow and contested. In Feb 10-March 10, 2026, Russia **lost** 57 sq mi of territory (vs. gains of 182 sq mi in the prior 4 weeks).
+- Ukraine has **cleared 400 km² (150 sq mi)** since the beginning of counteroffensive operations. February 2026 became the first month since 2024 when Ukraine regained more territory than it lost.
 - Russia is focused on the logistical hub of **Kostiantynivka** (entered December 2025), pushing toward Kramatorsk and Sloviansk -- the last major Ukrainian-held cities in Donetsk.
 
 ### Ukraine Has NOT "Lost"
 - The war continues as a grinding attritional conflict. Ukraine maintains significant territory and fighting capability.
 - Ukraine has become a **drone superpower**, with its drone technology being noted in context of the Iran war.
-- **128 combat engagements** recorded on March 12, 2026 alone.
+- **161 combat engagements** recorded on March 21, 2026 alone — up from 128 on March 12.
 
 ### Manpower
 - Average Ukrainian soldier age: **~43 years old**.
@@ -214,6 +257,7 @@ Iran struck military and civilian targets across at least 9 countries plus Israe
 - **Russia rejects** any NATO troop deployment to Ukraine as part of a peace deal.
 - Trump has ruled out deploying American forces to Ukraine.
 - Key deadlock: territory. Russia demands control of all of Donbas and denial of NATO membership for Ukraine.
+- **March 2026**: US-brokered peace talks on **"situational pause"** due to the Iran war. Abu Dhabi round (originally planned Mar 5-9) postponed indefinitely. Kremlin confirmed the pause; Zelensky said new talks expected soon. The Iran war has diverted US attention and driven energy prices up, indirectly benefiting Russia's war economy.
 
 ---
 
@@ -264,7 +308,9 @@ Iran struck military and civilian targets across at least 9 countries plus Israe
 
 ### Current Status
 - **February 28, 2026**: Following the 2026 Iran war, Houthis threatened to escalate and resume Red Sea attacks.
-- As of March 4, 2026: hostilities had **not yet resumed**, reportedly due to internal debate within the group.
+- As of **March 22, 2026**: hostilities have **still not resumed** — nearly four weeks into the Iran war, Houthis remain on the sidelines despite threatening otherwise.
+- Analysts cite: weapons stockpile running low after 2024-25 Red Sea campaign; strategic patience; coordination with Tehran; prior deal with Washington; desire not to lose goodwill with Riyadh.
+- Unlike Hezbollah and Iraqi Shiite militias, Houthis have not joined the fight. This is described as a "calculated choice fully coordinated with the Iranians" (The National, Mar 17).
 
 ---
 
@@ -297,6 +343,17 @@ Iran struck military and civilian targets across at least 9 countries plus Israe
 - **October 30, 2025**: Trump-Xi meeting resulted in a **one-year extension** of reduced tariff rates.
 - Status entering 2026: **Fragile truce**, not rapprochement. Basic communication channels reestablished after Busan leaders' summit, but fundamental issues unresolved. US midterms could bring veto-proof congressional action on investment/semiconductor restrictions.
 
+### Paris Trade Talks (March 15-16, 2026)
+- US (Bessent, Greer) and Chinese (He Lifeng) trade chiefs met in Paris to prepare for Trump-Xi summit.
+- Bessent called talks **"very good"**; Chinese side described them as "candid, in-depth, constructive."
+- Agreed to **"continue to maintain the stability of tariffs."**
+- Discussed proposed **US-China "Board of Trade" and "Board of Investment"** mechanisms.
+- China offered additional agricultural purchases (poultry, beef, soybeans — 25M metric tons/year for 3 years).
+- Progress on **critical minerals**, including US access to yttrium (vital for jet engine turbines).
+- **Trump-Xi summit scheduled March 31 – April 2** in Beijing.
+- New **Section 301 investigations** announced against China, Vietnam, Taiwan, Mexico, Japan, EU (March 2026).
+- China's 2026 defense budget: **~$278 billion** (7% increase).
+
 ---
 
 ## 13. Germany-Russia Relations
@@ -325,6 +382,8 @@ Iran struck military and civilian targets across at least 9 countries plus Israe
 - Growing anxiety in Seoul that North Korea may act more aggressively, emboldened by combat experience in Ukraine and the Russia mutual defense clause.
 - Kim Jong Un inspected a new **8,700-tonne nuclear-powered submarine** in December 2025.
 - No direct North Korean military action against South Korea as of March 2026.
+- **March 14**: DPRK fired **10+ short-range ballistic missiles** (KN-25 600mm MLRS, ~350km range) into the East Sea during Freedom Shield exercises. Kim Jong Un presided over drill with 12 launchers and two artillery companies. Third missile test in March per Japan.
+- DPRK exploiting US focus on Iran to test boundaries; Kim Yo Jong warned of "unimaginably terrible consequences."
 
 ---
 
@@ -358,7 +417,7 @@ Iran struck military and civilian targets across at least 9 countries plus Israe
 - Appeared before US District Judge Alvin Hellerstein in Manhattan federal court.
 - Faced **four federal charges**: narco-terrorism conspiracy, cocaine importation conspiracy, and weapons offenses.
 - Pleaded not guilty. Declared himself a "prisoner of war" who was "kidnapped." Detained at MDC-Brooklyn.
-- Next court date: **March 17, 2026**.
+- Next court date delayed to **March 26, 2026**. Prosecutors rejected defense motion to dismiss charges (defense argued funding restrictions violated 5th/6th Amendments). Judge Hellerstein scheduled to rule on the motion.
 
 ### Delcy Rodriguez as Acting President
 - Sworn in **January 5, 2026** by her brother Jorge Rodriguez (National Assembly president). First woman to serve as Venezuela's head of state.
@@ -426,38 +485,47 @@ Iran struck military and civilian targets across at least 9 countries plus Israe
 
 ## Summary of Key Developments for Prediction Evaluation
 
-| Topic | Status as of March 14, 2026 |
+| Topic | Status as of March 22, 2026 |
 |-------|------------------------|
-| US military strike on Iran | YES -- June 2025 (Operation Midnight Hammer) and Feb 2026 (ongoing war) |
+| US military strike on Iran | YES -- June 2025 (Operation Midnight Hammer) and Feb 2026 (ongoing war, now in 4th week) |
 | Israel-Iran direct conflict | YES -- Twelve-Day War (June 2025) and 2026 Iran war |
 | Khamenei killed | YES -- Assassinated Feb 28, 2026; son Mojtaba succeeded him |
+| Israeli decapitation campaign | Larijani (Mar 17), Soleimani (Mar 17), Khatib (Mar 18) — 3 top officials in 48 hrs |
 | Iran nuclear breakout | Near-zero breakout time pre-strikes; warhead development authorized Oct 2025 |
-| Strait of Hormuz closed | YES -- Effective blockade since Mar 2, 2026; Brent $103; 99% traffic reduction |
-| Hormuz blockade casualties | 9+ countries struck; 11 US KIA; Gulf infrastructure devastated |
+| Strait of Hormuz closed | YES -- Effective blockade; Brent $112.19; Iran refuses to discuss reopening while under attack |
+| Hormuz blockade casualties | 9+ countries struck; 13 US KIA; Gulf infrastructure devastated; 22-country coalition statement |
+| Kharg Island | US bombed 90+ military targets (Mar 13); Trump considering island occupation (Axios, Mar 20) |
+| South Pars gas field | Israel struck processing facilities (Mar 18); ~12% of Iran's gas production damaged |
+| Energy-infrastructure spiral | South Pars → Ras Laffan → Kuwait/Saudi refineries — tit-for-tat energy targeting |
+| Trump 48-hour ultimatum | Threatened Iran's power plants if Hormuz not reopened (Mar 21); Iran counter-threatened |
+| Ground operation planning | Pentagon drew up detailed plans (Mar 20); Kharg Island occupation "under serious consideration" |
 | Turkey hit by Iran missiles | 3 ballistic missiles entered airspace (Mar 4, 9, 13) -- all intercepted by NATO |
 | Commercial shipping attacked | Thai ship MV Mayuree Naree struck Mar 11 (3 missing); 6+ ships attacked Mar 11-12 |
-| Gulf state damage | UAE: ADNOC refinery shut; Qatar: all gas production halted; Kuwait/Bahrain: force majeure |
-| Oil price impact | Brent peaked $126, sustained above $100; largest supply disruption in history |
-| Ukraine war outcome | Ongoing grinding war; Russia holds ~20%; no decisive victory either side |
+| Gulf state damage | UAE: 314 BMs + 1,672 drones; Qatar: Ras Laffan + gas halt; Kuwait/Bahrain: force majeure |
+| Oil price impact | Brent $112.19; Goldman Sachs says triple-digit may persist for years |
+| Lebanon ground operations | Israel launched ground ops in southern Lebanon Mar 16; 1,001+ killed since Mar 2 |
+| Houthi Red Sea attacks | Still NOT resumed despite threats; weapons stockpile low; strategic pause |
+| Ukraine war outcome | Ongoing grinding war; Russia holds ~20%; Ukraine cleared 400 km² in counteroffensive |
+| Ukraine-Russia peace talks | On "situational pause" due to Iran war; Abu Dhabi round postponed indefinitely |
 | Ukraine average soldier age | ~43 years old |
 | NATO troops to Ukraine | UK/France committed in principle for peacekeeping; Russia rejects |
 | 232:1 shipbuilding ratio | Confirmed by ONI (China 23.25M tons vs. US <100K tons) |
 | 155mm production | 40,000/month (target: 100,000/month by mid-2026) |
 | Saudi-Iran rapprochement | Holding despite wars; Saudi refused airspace for strikes on Iran |
-| Houthi Red Sea attacks | US failed to suppress; ceasefire May 2025; threat of resumption in 2026 |
+| US-China trade | Paris talks "very good"; Trump-Xi summit Mar 31 - Apr 2; Section 301 probes launched |
 | UK conscription | Ruled out by government |
 | European conscription | Denmark (expanded), Croatia (restored), Germany (voluntary/possible mandatory) |
-| US-China rapprochement | No -- trade war then fragile truce, not rapprochement |
+| US-China rapprochement | No -- fragile truce; Paris talks productive but fundamental issues unresolved |
 | Germany-Russia rapprochement | No -- relations remain frozen; economic decoupling continues |
-| North Korea threat to South Korea | Elevated concern but no direct action |
+| North Korea threat to South Korea | 10+ missiles fired Mar 14; elevated concern but no direct action |
 | Russia-DPRK alliance | Deepened significantly; mutual defense treaty; massive arms/troop transfers |
 | Russia as nuclear guarantor | Did NOT prevent strikes on Iran; treaty lacks mutual defense clause |
 | Trump third term | Constitutional amendment proposed but no real progress; Trump walked back rhetoric |
-| Venezuela — Maduro captured | Jan 3, 2026 (Operation Absolute Resolve); arraigned Jan 5; trial pending |
+| Venezuela — Maduro trial | Hearing set Mar 26; prosecutors rejected defense dismissal motion |
 | Venezuela — Rodriguez govt | Acting president since Jan 5; oil reform, amnesty law; US recognized Mar 11 |
-| Cuba crisis | GDP -23% since 2019; 90% fuel cutoff; secret US-Cuba talks confirmed Mar 13 |
+| Cuba crisis | GDP -23% since 2019; 90% fuel cutoff; secret US-Cuba talks ongoing |
 | Colombia | Economic emergency Dec 2025; peace process collapsed; US drug decertification |
 
 ---
 
-*Compiled March 14, 2026. Sources include reporting from Al Jazeera, BBC, Reuters, NPR, CNN, NBC News, Washington Post, CNBC, Britannica, Wikipedia, Congressional Research Service, CSIS, Atlantic Council, Chatham House, Carnegie Endowment, Arms Control Association, House of Commons Library, and other publicly available sources.*
+*Updated March 22, 2026. Sources include reporting from Al Jazeera, BBC, Reuters, NPR, CNN, CBS News, NBC News, Washington Post, CNBC, Bloomberg, Fortune, Axios, Military.com, USNI News, Stars and Stripes, Times of Israel, GOV.UK, Goldman Sachs, IEA, Britannica, Wikipedia, Congressional Research Service, CSIS, Atlantic Council, Chatham House, Carnegie Endowment, Arms Control Association, House of Commons Library, HRW, and other publicly available sources.*

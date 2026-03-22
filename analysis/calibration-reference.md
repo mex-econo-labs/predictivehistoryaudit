@@ -1,4 +1,4 @@
-# Prediction Calibration Reference — March 2026
+# Prediction Calibration Reference — March 22, 2026
 
 Use this document when analyzing Predictive History lectures to accurately assess prediction statuses.
 
@@ -27,6 +27,16 @@ Use this document when analyzing Predictive History lectures to accurately asses
 | Venezuela — Rodriguez recognized | Mar 11, 2026 | US formally recognized Delcy Rodriguez as sole head of state |
 | Cuba energy crisis | Jan-Mar 2026 | 90% fuel import cutoff after Venezuela op; GDP -7.2% forecast for 2026 |
 | US-Cuba secret talks | Mar 13, 2026 | Diaz-Canel confirmed; Rubio leading; Trump says deal "could be done easily" |
+| Kharg Island struck by US | Mar 13, 2026 | US bombed 90+ military targets on Kharg Island; oil infrastructure deliberately spared; Trump considering occupation (Axios, Mar 20) |
+| Israeli decapitation campaign | Mar 17-18, 2026 | Israel assassinated Ali Larijani (SNSC secretary), Basij commander Soleimani (Mar 17), Intelligence Minister Khatib (Mar 18) — 3 top officials in 48 hours |
+| South Pars gas field struck | Mar 18, 2026 | Israel struck processing facilities at Asaluyeh; ~12% of Iran's gas production damaged; Iran retaliated by hitting Qatar's Ras Laffan |
+| Israel ground ops in Lebanon | Mar 16, 2026 | IDF 91st Division launched "limited and targeted ground operations" in southern Lebanon; second division deployed |
+| 22-country Hormuz coalition statement | Mar 19, 2026 | UK, France, Germany, Italy, Japan, Canada, South Korea, Australia, UAE, Bahrain + 12 others condemned Iran's Hormuz closure |
+| Oil sustained above $110/bbl | Mar 22, 2026 | Brent at $112.19; Goldman Sachs warns triple-digit oil may persist for years |
+| Energy-infrastructure warfare spiral | Mar 18-19, 2026 | Israel hit South Pars → Iran hit Ras Laffan → Iran hit Kuwait/Saudi refineries → tit-for-tat energy targeting |
+| US ground operation planning confirmed | Mar 20, 2026 | Pentagon drew up detailed ground op plans (CBS); Kharg Island occupation "under serious consideration" (Axios); additional 2,500 Marines ordered |
+| Houthis NOT resuming Red Sea attacks | Mar 2026 | Despite threats, Houthis have paused — weapons stockpile low; strategic patience; Tehran coordination |
+| Ukraine-Russia peace talks paused | Mar 2026 | US-brokered talks on "situational pause" due to Iran war; Abu Dhabi round postponed indefinitely |
 
 ## Quick Reference: Disconfirmed Claims
 
@@ -42,18 +52,29 @@ Use this document when analyzing Predictive History lectures to accurately asses
 ## Key Contextual Facts for Analysis
 
 ### US-Iran War
-- NOT a ground invasion — air/missile campaign only
+- Air/missile campaign now in 4th week — NO ground troops deployed yet, but ground operation plans confirmed (Mar 20)
+- Kharg Island occupation "under serious consideration" per Axios (Mar 20) — would be limited amphibious op, not mainland invasion
 - Iran struck back across 9 countries (Bahrain, Kuwait, Qatar, Saudi Arabia, Oman, UAE, etc.)
 - Iran's nuclear program set back ~2 years (June 2025); warhead development authorized Oct 2025
-- No ground troops trapped as Jiang predicted; the "Iran trap" scenario hasn't materialized in the form described
+- Israel conducting systematic decapitation campaign: Khamenei (Feb 28), Larijani (Mar 17), Soleimani (Mar 17), Khatib (Mar 18)
+- Israel struck South Pars gas field (Mar 18), triggering energy-infrastructure retaliation spiral
+- Israel launched ground operations in southern Lebanon (Mar 16) — first ground combat of the 2026 war, but against Hezbollah, not Iran
+- Trump issued 48-hour ultimatum to Iran on Hormuz (Mar 21): threatens to destroy power plants
+- 13 US KIA, ~200 wounded; 1,444+ killed in Iran; 1,001+ killed in Lebanon; 18 killed in Israel
+- The "Iran trap" scenario (500K-2M US troops, national draft) has NOT materialized — but ground planning represents a shift from weeks 1-2
 
 ### Hormuz Blockade & Regional Fallout
-- Blockade is devastating Gulf states: UAE's ADNOC refinery (922K bbl/day) shut; Qatar halted ALL gas production (world's largest LNG exporter); Kuwait and Bahrain declared force majeure
-- Iran struck 9+ countries including Iraq (27 killed), Jordan (14 injured), Cyprus (RAF Akrotiri hit), Azerbaijan (airport damaged)
-- Three Iranian ballistic missiles entered Turkish airspace (Mar 4, 9, 13) — NATO intercepted all; Turkey warned Iran "next time, we respond in kind" but did NOT invoke Article 5
-- Commercial shipping under attack: Thai ship MV Mayuree Naree struck Mar 11 (3 crew missing); 6+ ships attacked in 2 days
-- Oil peaked at $126/bbl; all major maritime insurers cancelled war risk cover; ~750 ships trapped
-- Japan (75% of oil via Hormuz), South Korea (60%), India (53% of LNG), Pakistan (99% of LNG) severely affected
+- Blockade continues; Iran refuses to discuss reopening while under attack (Bloomberg, Mar 20)
+- 22 countries signed joint statement condemning closure and signaling readiness to contribute to reopening (Mar 19)
+- Energy-infrastructure warfare spiral: Israel struck South Pars (Mar 18) → Iran hit Qatar's Ras Laffan, Kuwait/Saudi refineries (Mar 19)
+- UAE as of Mar 17: 314 ballistic missiles, 15 cruise missiles, 1,672 drones fired at UAE; 8 killed, 157 injured
+- Qatar: Ras Laffan hit with "extensive damage" (Mar 19) on top of gas production halt (Mar 2)
+- Oil at $112.19/bbl (Mar 22); Goldman Sachs warns triple-digit prices may persist for years
+- Pakistan: four-day work week, school closures, fuel conservation measures
+- Japan: Nikkei down 8.6%; South Korea: Kospi down 12%
+- India: ordered refineries to maximize LPG production (+25% output)
+- Houthis have NOT resumed Red Sea attacks despite threats — weapons stockpile low, strategic patience
+- Trump 48-hour ultimatum (Mar 21): threatens Iran's power plants if Hormuz not reopened
 
 ### Venezuela, Cuba, Colombia
 - **Venezuela**: US captured Maduro Jan 3, 2026 (Operation Absolute Resolve); Delcy Rodriguez acting president; oil reform and amnesty laws; US recognized Rodriguez as sole leader Mar 11; diplomatic relations restored Mar 5
@@ -62,9 +83,12 @@ Use this document when analyzing Predictive History lectures to accurately asses
 
 ### Russia-Ukraine War (March 2026)
 - War continues as grinding attritional conflict — Ukraine has NOT "lost"
-- Russia occupies ~20% of territory; 128 combat engagements on a single day (March 12, 2026)
+- Russia occupies ~20% of territory; 161 combat engagements on March 21 alone
+- Ukraine cleared 400 km² since counteroffensive began; Feb 2026 first net territorial gain since 2024
+- US-brokered peace talks on "situational pause" due to Iran war — Abu Dhabi round postponed indefinitely
 - UK/France committed peacekeeping troops (declaration of intent); Russia rejects
 - 200,000 soldiers AWOL; 2 million men avoiding draft; 1 million conscripted since Feb 2022
+- Iran war has diverted international attention and driven energy prices up, indirectly benefiting Russia
 
 ### China Economy
 - Real GDP growth ~2.5-3% (Rhodium estimate vs official ~5%)

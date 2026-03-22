@@ -1,5 +1,5 @@
 {
-  "briefing_date": "2026-03-15",
+  "briefing_date": "2026-03-22",
   "last_scoring_date": "2026-03-14",
   "next_scoring_date": "2026-04-14",
   "theatres": [
@@ -7,7 +7,7 @@
       "name": "Iran / Strait of Hormuz",
       "status": "disconfirmed",
       "status_label": "active war",
-      "summary": "Day 15 of US-Israel air campaign. Israel has conducted ~7,600 strikes on Iran and ~1,100 on Lebanon since Feb 28. Iran's selective blockade of Hormuz continues — IRGC says strait 'not militarily closed, merely under control,' allowing passage for India and Turkey while barring US/Western-allied ships. Trump called on China, France, Japan, South Korea, and UK to send warships to reopen Hormuz. Saudi Arabia intercepted 6 Iranian ballistic missiles and 3 drones on Mar 14. Brent crude at $103.14. USS Tripoli + 2,500 Marines en route.",
+      "summary": "Day 22 of US-Israel air campaign. War entering fourth week with no end in sight. Israel assassinated three top Iranian officials in 48 hours (Larijani, Soleimani, Khatib — Mar 17-18). Israel struck South Pars gas field (Mar 18), damaging ~12% of Iran's gas production; Iran retaliated by hitting Qatar's Ras Laffan. US bombed Kharg Island military targets Mar 13, sparing oil infrastructure. Trump now considering Kharg Island occupation (Axios, Mar 20). Trump issued 48-hour ultimatum (Mar 21): reopen Hormuz or US will 'obliterate' Iran's power plants. Iran counter-threatened Gulf energy/desalination infrastructure. 22 countries signed joint statement condemning Hormuz closure (Mar 19). Brent crude at $112.19. USS Tripoli + 31st MEU transited Malacca Strait (Mar 18), arriving end of March. Israel launched ground operations in southern Lebanon (Mar 16). Houthis have NOT resumed Red Sea attacks despite threats.",
       "countries": [
         "Iran",
         "Israel",
@@ -29,8 +29,8 @@
     {
       "name": "Russia-Ukraine War",
       "status": "untested",
-      "status_label": "grinding war",
-      "summary": "Russia holds ~20% of Ukraine. February 2026 was first month since 2024 when Ukraine regained more territory than it lost. Russia lost 57 sq mi (Feb 10–Mar 10) vs 182 sq mi gained in prior 4 weeks. Fighting concentrated around Kostiantynivka. UK/France committed peacekeeping troops in principle; Russia rejects. Peace talks stalled.",
+      "status_label": "grinding war — talks paused",
+      "summary": "Russia holds ~20% of Ukraine. 161 combat engagements recorded on Mar 21 alone. Ukraine has cleared 400 km² since counteroffensive began; February 2026 first net territorial gain since 2024. US-brokered peace talks on 'situational pause' due to Iran war — Abu Dhabi round (Mar 5-9) postponed indefinitely. Kremlin confirms pause; Zelensky says new talks expected soon. Iran war has diverted international attention and driven energy prices up, indirectly benefiting Russia's war economy.",
       "countries": [
         "Russia",
         "Ukraine"
@@ -40,7 +40,7 @@
       "name": "Latin America — Venezuela / Cuba / Colombia",
       "status": "partially_confirmed",
       "status_label": "in flux",
-      "summary": "Maduro trial delayed to March 26 (from Mar 17). Rodriguez acting president — oil reform, amnesty. US recognized Rodriguez Mar 11. Cuba in energy crisis (90% fuel cutoff); Diaz-Canel says no oil shipments in three months, widespread power cuts. Secret US-Cuba talks confirmed Mar 13. Colombia in economic emergency; peace process collapsed.",
+      "summary": "Maduro trial hearing set for March 26 — prosecutors rejected defense motion to dismiss charges. Rodriguez acting president — oil reform, amnesty. US recognized Rodriguez Mar 11. Cuba in energy crisis (90% fuel cutoff). Secret US-Cuba talks ongoing. Colombia in economic emergency; peace process collapsed.",
       "countries": [
         "Venezuela",
         "Cuba",
@@ -51,7 +51,7 @@
       "name": "US-China Trade",
       "status": "untested",
       "status_label": "fragile truce",
-      "summary": "Trade chiefs Bessent, Greer, and He Lifeng meeting in Paris mid-March to prepare for Trump-Xi summit. Agenda includes Boeing purchases, soybeans, Taiwan, fentanyl tariffs. US-Taiwan Agreement on Reciprocal Trade signed Feb 12 ($84.8B in purchases); China condemned it. Tariffs at 10% under one-year extension. Relationship adversarial but communicating.",
+      "summary": "Paris trade talks concluded Mar 15-16; Bessent called them 'very good.' Agreed to maintain tariff stability. Discussed proposed US-China 'Board of Trade' and 'Board of Investment.' China offered additional agricultural purchases (poultry, beef, soybeans). Progress on critical minerals including yttrium. Trump-Xi summit scheduled Mar 31 - Apr 2 in Beijing. New Section 301 investigations announced against China, Vietnam, Taiwan, Mexico, Japan, EU. China's 2026 defense budget up 7% to ~$278B.",
       "countries": [
         "United States",
         "China",
@@ -62,7 +62,7 @@
       "name": "East Asia — DPRK / Korean Peninsula",
       "status": "untested",
       "status_label": "elevated risk",
-      "summary": "North Korea fired 10+ ballistic missiles into East Sea on Mar 14 (~350km range) during Freedom Shield US-South Korea exercises (Mar 9-19). First launch since Jan 27. Kim Yo Jong warned of 'unimaginably terrible consequences.' Seoul condemned as UNSC violation. Russia-DPRK alliance deepened; 12,000 DPRK troops in Russia.",
+      "summary": "North Korea fired 10+ ballistic missiles into East Sea on Mar 14 (~350km range) during Freedom Shield exercises (Mar 9-19). KN-25 600mm multiple rocket launcher system test. Kim Yo Jong warned of 'unimaginably terrible consequences.' Third missile test in March per Japan. No further launches since Mar 14. Russia-DPRK alliance deepened; 12,000 DPRK troops in Russia.",
       "countries": [
         "North Korea",
         "South Korea",
@@ -73,38 +73,59 @@
   "metrics": [
     {
       "name": "Brent Crude ($/bbl)",
-      "value": "$103.14",
-      "change": "+47%",
+      "value": "$112.19",
+      "change": "+60% from pre-war",
       "change_color": "var(--score-1)",
-      "as_of": "2026-03-14"
+      "as_of": "2026-03-22"
     },
     {
       "name": "Hormuz Tanker Traffic",
-      "value": "selective",
+      "value": "selective blockade",
       "change": "-99% (Western); limited passage (India/Turkey)",
       "change_color": "var(--score-1)",
-      "as_of": "2026-03-15"
+      "as_of": "2026-03-22"
     },
     {
       "name": "US Military KIA (Iran theatre)",
-      "value": "17",
-      "change": "+6 (Iraq plane crash Mar 13)",
+      "value": "13",
+      "change": "7 killed by enemy fire, 6 in Iraq plane crash",
       "change_color": "var(--score-1)",
-      "as_of": "2026-03-14"
+      "as_of": "2026-03-22"
+    },
+    {
+      "name": "US Military Wounded",
+      "value": "~200",
+      "change": "180+ returned to duty",
+      "change_color": "var(--score-1)",
+      "as_of": "2026-03-22"
     },
     {
       "name": "Iran Civilian Casualties",
-      "value": "1,444+",
-      "change": "ongoing",
+      "value": "1,444+ killed / 18,551+ injured",
+      "change": "incl. 204 children",
       "change_color": "var(--score-1)",
-      "as_of": "2026-03-15"
+      "as_of": "2026-03-22"
+    },
+    {
+      "name": "Israel Casualties (from Iran)",
+      "value": "18 killed / 3,730+ wounded",
+      "change": "+3 killed, +1,730 wounded since Mar 15",
+      "change_color": "var(--score-1)",
+      "as_of": "2026-03-22"
     },
     {
       "name": "Lebanon Casualties (since Mar 2)",
-      "value": "773 killed / 1,933 wounded",
-      "change": "800,000+ displaced",
+      "value": "1,001 killed (incl. 118 children) / 1M+ displaced",
+      "change": "+228 killed since Mar 15; Israel ground ops began Mar 16",
       "change_color": "var(--score-1)",
-      "as_of": "2026-03-14"
+      "as_of": "2026-03-22"
+    },
+    {
+      "name": "UAE Casualties",
+      "value": "8 killed / 157 injured",
+      "change": "314 BMs + 15 CMs + 1,672 drones fired at UAE as of Mar 17",
+      "change_color": "var(--score-1)",
+      "as_of": "2026-03-17"
     },
     {
       "name": "Ships Trapped in Gulf",
@@ -115,17 +136,17 @@
     },
     {
       "name": "Qatar Gas Production",
-      "value": "0 (halted)",
-      "change": "-100%",
+      "value": "0 (halted); Ras Laffan damaged",
+      "change": "Iran hit Ras Laffan Mar 19 in retaliation for South Pars strike",
       "change_color": "var(--score-1)",
-      "as_of": "2026-03-02"
+      "as_of": "2026-03-19"
     },
     {
       "name": "Ukraine Territory Occupied",
       "value": "~20%",
-      "change": "Ukraine regaining (Feb first net gain since 2024)",
+      "change": "Ukraine cleared 400 km² in counteroffensive; 161 engagements/day",
       "change_color": "var(--text-muted)",
-      "as_of": "2026-03-15"
+      "as_of": "2026-03-21"
     },
     {
       "name": "Cuba Fuel Imports",
@@ -133,33 +154,216 @@
       "change": "no shipments in 3 months per Diaz-Canel",
       "change_color": "var(--score-1)",
       "as_of": "2026-03-13"
+    },
+    {
+      "name": "Iranian Officials Assassinated",
+      "value": "4 senior leaders killed",
+      "change": "Khamenei (Feb 28), Larijani (Mar 17), Soleimani (Mar 17), Khatib (Mar 18)",
+      "change_color": "var(--score-1)",
+      "as_of": "2026-03-18"
     }
   ],
   "ground_invasion_tracker": {
-    "last_updated": "2026-03-15",
-    "status": "no_ground_troops",
-    "troop_count_in_theatre": "~45,000 (3 carrier strike groups + support)",
+    "last_updated": "2026-03-22",
+    "status": "staging",
+    "troop_count_in_theatre": "~47,000+ (3 carrier strike groups + Tripoli ARG/31st MEU en route + support)",
     "key_developments": [
-      "USS Tripoli amphibious assault ship + 2,500 Marines ordered to region (Mar 15)",
-      "Three carrier strike groups deployed: USS Abraham Lincoln, USS Gerald R. Ford, USS George H.W. Bush",
-      "Trump called on 5 nations to send warships to Hormuz — no commitments yet",
-      "Pentagon has not announced any ground force deployments to the theatre",
-      "No draft or conscription legislation introduced"
+      "CRITICAL: Axios reports Trump considering occupation or blockade of Kharg Island (Mar 20)",
+      "CRITICAL: Pentagon has drawn up detailed plans for ground operations in Iran (Times of Israel, CBS, Mar 20)",
+      "Additional 2,500 Marines ordered to Middle East (Military.com, Mar 20)",
+      "USS Tripoli ARG + 31st MEU (2,200 Marines) transited Malacca Strait Mar 18, arriving end of March",
+      "Trump: 'not putting troops anywhere' but added 'If I were, I certainly wouldn't tell you'",
+      "Israel launched ground operations in southern Lebanon on Mar 16 (not Iran, but sets regional precedent)",
+      "22 countries signaled 'readiness to contribute' to Hormuz reopening (Mar 19 joint statement)",
+      "Trump issued 48-hour ultimatum to Iran on Hormuz (Mar 21) — escalation ladder tightening",
+      "No draft or conscription legislation introduced in US"
     ],
     "kharg_island": {
-      "status": "monitoring",
-      "naval_activity": "No reported US naval operations near Kharg Island",
-      "notes": "Kharg Island handles ~90% of Iran's oil exports. Jiang predicted US seizure in multiple lectures. Oil currently flows from shore-based terminals, making island seizure of limited strategic value unless aimed at total export denial. No indicators of planned operation as of Mar 15."
+      "status": "active_target",
+      "naval_activity": "US bombed 90+ military targets on Kharg Island Mar 13 (runway, naval base, air defenses, mine storage). Oil infrastructure deliberately spared. Trump considering occupation or blockade per Axios (Mar 20).",
+      "notes": "Kharg Island handles ~90% of Iran's oil exports. Jiang predicted US seizure in multiple lectures. US has now struck the island militarily and is actively considering ground occupation — this is the closest any Jiang prediction about ground operations has come to materializing. However, island seizure ≠ mainland invasion. A Kharg operation would be a limited naval/amphibious action, not the 500K-2M troop ground war Jiang described."
     },
     "marine_movements": [
-      "USS Tripoli (LHA-7) + 2,500 Marines ordered to Middle East (Mar 15) — amphibious assault ship, not ground deployment",
-      "Marines currently aboard for naval operations, not beach assault staging",
-      "No MEU (Marine Expeditionary Unit) ground deployment orders reported"
+      "USS Tripoli (LHA-7) + USS New Orleans + 31st MEU (2,200 Marines) transited Malacca Strait Mar 18, arriving Middle East end of March",
+      "Additional 2,500 Marines ordered to region (Military.com, Mar 20)",
+      "Total Marine force heading to theatre: ~4,700",
+      "31st MEU includes F-35B Lightning II, MV-22B Ospreys, MH-60S Seahawks",
+      "Defense experts warn of Indo-Pacific gap as Marines deploy from Japan to Middle East (Stars and Stripes, Mar 19)",
+      "CENTCOM requested additional forces for 'more options for military operations against Iran'"
     ],
     "draft_indicators": "None. No legislation introduced. No Selective Service activation. No public discussion at Pentagon or White House level.",
-    "assessment": "US-Iran conflict remains entirely air/missile-based. Marine amphibious assets are moving into theatre but for naval operations, not ground invasion staging. Jiang's prediction of 500K-2M ground troops and a national draft has no supporting indicators. The current campaign architecture (B-2 bombers, carrier-based strikes, Tomahawks) suggests the US is deliberately avoiding ground commitment."
+    "assessment": "Significant escalation in ground invasion indicators since Mar 15. The Pentagon has drawn up detailed ground operation plans, Trump is considering Kharg Island occupation, and ~4,700 additional Marines are deploying to the theatre. Status upgraded from 'no_ground_troops' to 'staging.' However, this remains far from Jiang's prediction of 500K-2M troops and a national draft. The most likely ground scenario is a limited amphibious operation against Kharg Island to force Hormuz reopening, not a mainland invasion of Iran. Trump's 48-hour ultimatum on power plants suggests the preferred approach remains air power escalation rather than ground commitment."
   },
   "daily_entries": [
+    {
+      "date": "2026-03-22",
+      "tags": [
+        "Iran",
+        "US",
+        "Hormuz",
+        "Ultimatum"
+      ],
+      "summary": "Trump issues 48-hour ultimatum: reopen Strait of Hormuz or US will 'hit and obliterate' Iran's power plants 'starting with the biggest one first.' Iran counter-threatens to target 'all energy, information technology and desalination infrastructure belonging to the US and the regime in the region.' 22 countries (UK, France, Germany, Italy, Netherlands, Japan, Canada, South Korea, Australia, UAE, Bahrain, and 11 others) signed joint statement condemning Hormuz closure and signaling readiness to contribute to reopening efforts.",
+      "details": [
+        "Trump posted ultimatum on Truth Social Saturday night",
+        "Iran's military response: if energy infrastructure targeted, Gulf energy/desalination/IT infrastructure will be hit",
+        "Mar 19 joint statement from 22 countries condemned attacks on commercial vessels and called on Iran to comply with UNSC Resolution 2817",
+        "Statement does not commit specific forces — signals readiness only",
+        "Brent crude at $112.19/bbl — Goldman Sachs says triple-digit oil may persist for years",
+        "Iran has refused to discuss reopening Hormuz while under attack (Bloomberg, Mar 20)"
+      ],
+      "prediction_impact": "The 48-hour ultimatum represents a dangerous escalation ladder. If Iran does not comply and Trump strikes power plants, Iran has pre-committed to retaliating against Gulf energy infrastructure — a spiral that could devastate the global energy supply far beyond what even Jiang predicted.",
+      "source": "Al Jazeera, CNN, CBS News, Fortune, Bloomberg, NBC News, GOV.UK"
+    },
+    {
+      "date": "2026-03-22",
+      "tags": [
+        "Ground Invasion Tracker"
+      ],
+      "summary": "Ground invasion indicators significantly elevated. Pentagon has drawn up detailed plans for ground operations in Iran (CBS, Times of Israel). Trump considering Kharg Island occupation or blockade (Axios, Mar 20). Additional 2,500 Marines ordered to region. USS Tripoli ARG + 31st MEU transited Malacca Strait Mar 18. Trump says he's 'not putting troops anywhere' but adds 'if I were, I certainly wouldn't tell you.'",
+      "details": [
+        "Three sources told Axios that Kharg Island occupation by ground troops is 'under serious consideration'",
+        "Pentagon plans include deployment of troops into Iran per CBS sources",
+        "USS Tripoli + USS New Orleans + 31st MEU (2,200 Marines with F-35Bs) arriving end of March",
+        "Total ~4,700 additional Marines deploying to theatre",
+        "Defense experts warn of Indo-Pacific security gap as Marines deploy from Japan (Stars and Stripes)",
+        "Israel launched ground operations in southern Lebanon on Mar 16 — sets regional precedent for ground action",
+        "Still no draft legislation, no Selective Service activation, no large-scale Army deployments"
+      ],
+      "prediction_impact": "Kharg Island occupation would partially validate Jiang's prediction of US ground involvement, though it would be a limited amphibious operation (~5,000 troops) rather than the 500K-2M mainland invasion he described. The fact that ground planning is now confirmed represents a significant shift from the air-only campaign of weeks 1-2.",
+      "source": "Axios, Military.com, CBS News, Times of Israel, Stars and Stripes, USNI News, India TV News"
+    },
+    {
+      "date": "2026-03-22",
+      "tags": [
+        "Oil",
+        "Energy",
+        "Global Economy"
+      ],
+      "summary": "Brent crude at $112.19/bbl, up from $103.14 on Mar 14. Goldman Sachs warns triple-digit oil prices may persist for years. South Pars gas field strike (Mar 18) and Iran's Ras Laffan retaliation (Mar 19) have created energy-infrastructure war spiral. Pakistan implementing four-day work week, school closures, and fuel conservation measures. Japan and South Korea releasing joint strategic petroleum reserves.",
+      "details": [
+        "Oil gyrating between $100-120/bbl since war began; currently $112.19",
+        "Goldman Sachs says prices may stay in triple digits for years (CNN, Mar 20)",
+        "Pakistan: fuel queues, four-day work week, school closures, work-from-home mandates",
+        "Japan: 90% of oil via Middle East, most through Hormuz; Nikkei down 8.6%",
+        "South Korea: 70% of crude from Middle East; Kospi down 12%",
+        "India: ordered refineries to maximize LPG production, output up 25%",
+        "IEA 400M barrel strategic reserve release ongoing but markets doubt lasting impact"
+      ],
+      "prediction_impact": "Global economic impact of Hormuz blockade continuing to intensify. Jiang's thesis that Hormuz closure would be devastating to global economy is comprehensively confirmed. Energy-infrastructure targeting spiral (South Pars → Ras Laffan) escalating beyond what was predicted.",
+      "source": "CNN, Goldman Sachs, Fortune, oilpriceapi.com, IEA, CSMonitor, CFR"
+    },
+    {
+      "date": "2026-03-21",
+      "tags": [
+        "Iran",
+        "Israel",
+        "War",
+        "NPR"
+      ],
+      "summary": "Iran war enters fourth week with no clear end in sight. NPR reports war has killed 1,444+ in Iran (including 204 children), 18 in Israel, 13 US service members. At least 74 wounded in Iranian missile strike on Arad, Israel — highest single-attack casualty count of the war. Total Israeli wounded exceeds 3,730.",
+      "details": [
+        "161 combat engagements recorded in Ukraine on same day — war continues on two fronts",
+        "Arad strike: 7 in serious condition, 74 total wounded at two impact sites",
+        "US wounded: ~200 total, 180+ returned to duty",
+        "War shows no signs of diplomatic resolution"
+      ],
+      "prediction_impact": null,
+      "source": "NPR, Al Jazeera, CBS News, CNN"
+    },
+    {
+      "date": "2026-03-20",
+      "tags": [
+        "Iran",
+        "Kharg Island",
+        "Ground Operations"
+      ],
+      "summary": "Axios reports Trump mulling Kharg Island occupation to force Iran to reopen Hormuz. Military.com reports additional 2,500 Marines ordered to region. Bloomberg reports Iran unwilling to discuss Hormuz reopening while under attack.",
+      "details": [
+        "Three sources told Axios Kharg occupation 'under serious consideration'",
+        "Fortune reports war has created 'private oil lane' for China and other countries playing ball with Iran",
+        "Iran continues selective passage for India, Turkey, and other 'friendly' nations",
+        "Trump told reporters: 'not putting troops anywhere' but would not 'tell you' if he were"
+      ],
+      "prediction_impact": "Kharg Island occupation planning is the closest development to Jiang's ground invasion prediction. However, island seizure with Marines is fundamentally different from the massive mainland invasion Jiang described.",
+      "source": "Axios, Military.com, Bloomberg, Fortune"
+    },
+    {
+      "date": "2026-03-19",
+      "tags": [
+        "Hormuz",
+        "Coalition",
+        "Diplomacy"
+      ],
+      "summary": "22 countries sign joint statement on Strait of Hormuz condemning Iran's closure and signaling readiness to contribute to reopening. Iran retaliates for South Pars strike by hitting Qatar's Ras Laffan and oil refineries in Kuwait and Saudi Arabia. Gas facilities in UAE also attacked.",
+      "details": [
+        "Signatories: UK, France, Germany, Italy, Netherlands, Japan, Canada, South Korea, New Zealand, Denmark, Latvia, Slovenia, Estonia, Norway, Sweden, Finland, Czechia, Romania, Bahrain, Lithuania, Australia, UAE",
+        "Statement calls on Iran to comply with UNSC Resolution 2817",
+        "Iran's Ras Laffan attack caused 'extensive damage' per QatarEnergy",
+        "Additional Iranian attacks on oil refineries in Kuwait and Saudi Arabia Mar 19",
+        "State Department approved arms sales to Gulf countries"
+      ],
+      "prediction_impact": "The 22-country coalition forming around Hormuz reopening confirms the global strategic importance Jiang assigned to the strait. However, the coalition is diplomatic, not yet military — no country has committed warships beyond existing deployments.",
+      "source": "GOV.UK, BusinessToday, The Hill, Al Jazeera, Euronews"
+    },
+    {
+      "date": "2026-03-18",
+      "tags": [
+        "Iran",
+        "Israel",
+        "South Pars",
+        "Energy War"
+      ],
+      "summary": "Israel struck South Pars gas field processing facilities at Asaluyeh, damaging ~12% of Iran's gas production. Israel also assassinated Intelligence Minister Esmail Khatib in Tehran — third top official killed in 48 hours. USS Tripoli ARG transited Malacca Strait en route to Middle East.",
+      "details": [
+        "South Pars strike: Israel hit petrochemical facilities, storage tanks, gas installations at Asaluyeh",
+        "Israel claimed coordination with US; Trump said US 'knew nothing'",
+        "Iran retaliated by striking Qatar's Ras Laffan Industrial City, causing 'extensive damage'",
+        "Khatib assassination follows Larijani (Mar 17) and Basij commander Soleimani (Mar 17)",
+        "WTI advanced 3.3% to $98.60; European gas benchmark jumped 6%",
+        "USS Tripoli + USS New Orleans + 31st MEU entered Indian Ocean via Malacca Strait"
+      ],
+      "prediction_impact": "South Pars strike marks escalation to energy-infrastructure warfare. Iran's retaliatory strike on Ras Laffan shows the spiral Jiang warned about — attacks on energy infrastructure beget more attacks on energy infrastructure. Three senior assassinations in 48 hours represents decapitation campaign unprecedented in modern warfare.",
+      "source": "Bloomberg, CNN, NBC News, Al Jazeera, Axios, USNI News, NPR"
+    },
+    {
+      "date": "2026-03-17",
+      "tags": [
+        "Iran",
+        "Israel",
+        "Assassinations"
+      ],
+      "summary": "Israel assassinated Ali Larijani, Secretary of Iran's Supreme National Security Council (described as 'most powerful man in Iran' / de facto leader), along with his son Morteza and aide Alireza Bayat. Separately, Israel killed Basij militia commander Gholamreza Soleimani the same day. Two of the most significant Iranian officials killed since Khamenei.",
+      "details": [
+        "Netanyahu: 'We eliminated Ali Larijani, the boss of the Revolutionary Guards'",
+        "Larijani appointed SNSC secretary by Pezeshkian in August 2025",
+        "Al Jazeera analysis: Israel killed Larijani to 'torpedo' chance of US-Iran talks",
+        "Basij commander Soleimani killed in separate strike same night",
+        "Iran vowed 'Israel will pay' for the killings",
+        "HRW report (Mar 17) documented 'unlawful strikes across Gulf endangering civilians'"
+      ],
+      "prediction_impact": "Decapitation strategy goes far beyond what Jiang predicted. Israel is systematically eliminating Iran's leadership chain — Khamenei (Feb 28), Larijani (Mar 17), Soleimani (Mar 17), Khatib (Mar 18). This suggests the war aims include regime collapse, not just denuclearization.",
+      "source": "Al Jazeera, Washington Post, Bloomberg, NBC News, Times of Israel, HRW"
+    },
+    {
+      "date": "2026-03-16",
+      "tags": [
+        "Lebanon",
+        "Israel",
+        "Ground Operations"
+      ],
+      "summary": "Israel launched 'limited and targeted ground operations' in southern Lebanon against Hezbollah. IDF 91st Division deployed to towns including Kfar Kila, Houla, Kfar Shouba, Yaroun, and Khiam. Second IDF division deployed. Lebanon death toll rises to 1,001+ killed since Mar 2, with 1M+ displaced.",
+      "details": [
+        "IDF stated operations aimed at establishing 'forward defense area'",
+        "Defense Minister Katz: operations continue until Hezbollah no longer threatens northern communities",
+        "UNIFIL reported Israeli soldiers entered several towns and villages",
+        "Israeli airstrike on Beirut hotel killed four IRGC Quds Force commanders",
+        "Israeli strike on health center killed 12 medical workers",
+        "Hezbollah-Iran joint missile and drone strike on Israel; Lebanon's FM summoned Iran's chargé d'affaires"
+      ],
+      "prediction_impact": "Israeli ground operations in Lebanon represent the first ground combat of the 2026 war. This is ground action against Hezbollah in Lebanon, not against Iran in Iran — an important distinction for evaluating Jiang's ground invasion prediction.",
+      "source": "Al Jazeera, FDD, Axios, Washington Post, Bloomberg"
+    },
     {
       "date": "2026-03-15",
       "tags": [
