@@ -7,8 +7,9 @@
 
 set -euo pipefail
 
-ANALYSIS_DIR="/home/steve/predictive_history/analysis"
-TRANSCRIPT_DIR="/home/steve/predictive_history/transcripts"
+SCRIPT_DIR="$(cd "$(dirname "$0")" && pwd)"
+ANALYSIS_DIR="$SCRIPT_DIR"
+TRANSCRIPT_DIR="$(dirname "$SCRIPT_DIR")/transcripts"
 LOGFILE="${ANALYSIS_DIR}/batch-analyze.log"
 DRY_RUN=false
 SERIES_FILTER=""
@@ -30,11 +31,11 @@ log() {
 # Python helper that does all the metadata parsing and outputs tab-separated fields
 # Also handles skip logic (duplicates, re-uploads, already-analyzed)
 generate_worklist() {
-    python3 - "$SERIES_FILTER" <<'PYEOF'
+    ANALYSIS_DIR="$ANALYSIS_DIR" TRANSCRIPT_DIR="$TRANSCRIPT_DIR" python3 - "$SERIES_FILTER" <<'PYEOF'
 import json, glob, os, re, sys
 
-analysis_dir = "/home/steve/predictive_history/analysis"
-transcript_dir = "/home/steve/predictive_history/transcripts"
+analysis_dir = os.environ['ANALYSIS_DIR']
+transcript_dir = os.environ['TRANSCRIPT_DIR']
 series_filter = sys.argv[1] if len(sys.argv) > 1 else ""
 
 # Get already-analyzed video IDs

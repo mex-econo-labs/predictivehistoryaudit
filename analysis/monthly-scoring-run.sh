@@ -8,7 +8,7 @@
 
 set -euo pipefail
 
-ANALYSIS_DIR="/home/steve/predictive_history/analysis"
+ANALYSIS_DIR="$(cd "$(dirname "$0")" && pwd)"
 BRIEFING_FILE="${ANALYSIS_DIR}/briefing-data.json"
 LOGFILE="${ANALYSIS_DIR}/monthly-scoring.log"
 TODAY=$(date +%Y-%m-%d)
