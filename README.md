@@ -191,6 +191,22 @@ All scores use a 1-5 scale where **5 is best**:
 
 ## License
 
-This repository contains analysis of publicly available YouTube content. Transcripts are auto-generated subtitles downloaded via YouTube's public API. Screencaps are extracted under fair use for purposes of commentary and criticism.
+The original tooling, analysis output, schema, and documentation in this repository are released under the [MIT License](LICENSE).
 
-The analysis tooling and output are provided as-is for research and educational purposes.
+### Fair Use Statement
+
+This project includes two categories of third-party material used under the fair use doctrine (17 U.S.C. Section 107):
+
+**Transcripts.** The `transcripts/` directory contains auto-generated subtitle files downloaded from publicly available YouTube videos via YouTube's public API. These machine-generated transcripts are used solely as input for transformative scholarly analysis. They are not a substitute for the original video content — they contain no audio, video, production value, or visual presentation, and are not intended to replace or compete with the original works. The transcripts serve as raw material for a fundamentally different purpose: structured critical analysis and prediction tracking.
+
+**Screencaps.** The `analysis/caps/` directory contains individual still frames extracted from YouTube videos at specific timestamps referenced in the analysis. Each image is a single low-resolution frame used to illustrate a specific analytical point (a quoted claim, a cited source, a rhetorical technique). The use is minimal, non-sequential, and does not reproduce any meaningful portion of the original video content.
+
+**Four-factor analysis:**
+
+1. **Purpose and character of the use.** This project is transformative — it subjects the original content to structured critical analysis, fact-checking, prediction scoring, rhetorical identification, and source auditing. The analyses add substantial new meaning, context, and scholarly value that does not exist in the original works. The project is non-commercial and serves research and educational purposes.
+
+2. **Nature of the copyrighted work.** The original works are published, publicly available commentary on geopolitics and history. They are factual in nature (making claims about real-world events) rather than creative fiction, which weighs in favor of fair use.
+
+3. **Amount and substantiality of the portion used.** Transcripts are machine-generated text lacking the production elements (delivery, visuals, editing) that constitute the creative core of the videos. Screencaps are individual frames from videos that are typically 30-120 minutes long. Neither use reproduces the heart of the original works.
+
+4. **Effect on the market for the original work.** This project does not substitute for viewing the original videos. The analyses are complementary — they are most useful to someone who has watched or intends to watch the lectures. The project does not monetize the content or compete with the original channel for viewership or revenue.
