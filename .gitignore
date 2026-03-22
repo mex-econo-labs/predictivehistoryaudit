@@ -3,3 +3,4 @@ analysis/__pycache__/
 analysis/*.log
 *.pyc
 .DS_Store
+cron.conf
