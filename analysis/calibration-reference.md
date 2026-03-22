@@ -1,4 +1,4 @@
-# Prediction Calibration Reference — March 22, 2026
+# Prediction Calibration Reference — March 23, 2026
 
 Use this document when analyzing Predictive History lectures to accurately assess prediction statuses.
 
@@ -36,7 +36,13 @@ Use this document when analyzing Predictive History lectures to accurately asses
 | Energy-infrastructure warfare spiral | Mar 18-19, 2026 | Israel hit South Pars → Iran hit Ras Laffan → Iran hit Kuwait/Saudi refineries → tit-for-tat energy targeting |
 | US ground operation planning confirmed | Mar 20, 2026 | Pentagon drew up detailed ground op plans (CBS); Kharg Island occupation "under serious consideration" (Axios); additional 2,500 Marines ordered |
 | Houthis NOT resuming Red Sea attacks | Mar 2026 | Despite threats, Houthis have paused — weapons stockpile low; strategic patience; Tehran coordination |
-| Ukraine-Russia peace talks paused | Mar 2026 | US-brokered talks on "situational pause" due to Iran war; Abu Dhabi round postponed indefinitely |
+| Ukraine-Russia peace talks paused | Mar 2026 | Trilateral talks on "situational pause" due to Iran war; Abu Dhabi round postponed; bilateral US-Ukraine talks resumed in Miami Mar 21-22 |
+| Natanz nuclear facility struck again | Mar 22, 2026 | US struck Natanz with bunker busters for second time; no radiation leak; IAEA monitoring |
+| Iran strikes near Dimona nuclear site | Mar 21-22, 2026 | 180+ wounded in Dimona/Arad; first successful penetration of Israeli air defenses near nuclear site; IAEA says no damage to research center |
+| Iran demonstrates 4,000km+ missile range | Mar 21, 2026 | 2 IRBMs fired at Diego Garcia (4,000km from Iran); both failed to hit; reveals previously unknown capability — double prior assessed range |
+| UK allows US use of British bases for Iran | Mar 21, 2026 | UK agreed to let US forces use British military bases for strikes on Iranian targets in Strait of Hormuz |
+| Trump-Xi summit postponed indefinitely | Mar 2026 | Was scheduled Mar 31-Apr 2 Beijing; delayed due to Iran war; admin says no summit until war ends |
+| CENTCOM: ~50,000 US troops in Middle East | Mar 2026 | Official figure confirmed; includes 3 carrier strike groups + support |
 
 ## Quick Reference: Disconfirmed Claims
 
@@ -52,29 +58,37 @@ Use this document when analyzing Predictive History lectures to accurately asses
 ## Key Contextual Facts for Analysis
 
 ### US-Iran War
-- Air/missile campaign now in 4th week — NO ground troops deployed yet, but ground operation plans confirmed (Mar 20)
+- Air/missile campaign now in Day 24 — NO ground troops deployed yet, but ground operation plans confirmed (Mar 20) and Marines arriving imminently
+- Nuclear-facility tit-for-tat: US struck Natanz again (Mar 22); Iran hit Dimona/Arad (Mar 21-22) wounding 180+ — first air defense failure near Israeli nuclear site
+- Iran demonstrated 4,000km+ missile capability by firing at Diego Garcia (Mar 21) — double previously known range
 - Kharg Island occupation "under serious consideration" per Axios (Mar 20) — would be limited amphibious op, not mainland invasion
-- Iran struck back across 9 countries (Bahrain, Kuwait, Qatar, Saudi Arabia, Oman, UAE, etc.)
-- Iran's nuclear program set back ~2 years (June 2025); warhead development authorized Oct 2025
+- Trump's 48-hour ultimatum on Hormuz (issued Mar 21) expires Mar 23; Iran "unswayed" per NBC; IRGC says Hormuz will be "completely closed" if power plants hit
+- CENTCOM confirms ~50,000 US troops in Middle East; USS Tripoli ARG arriving Mar 23-27
+- Iran struck back across 9+ countries; also attempted to hit Diego Garcia (4,000km away)
 - Israel conducting systematic decapitation campaign: Khamenei (Feb 28), Larijani (Mar 17), Soleimani (Mar 17), Khatib (Mar 18)
 - Israel struck South Pars gas field (Mar 18), triggering energy-infrastructure retaliation spiral
-- Israel launched ground operations in southern Lebanon (Mar 16) — first ground combat of the 2026 war, but against Hezbollah, not Iran
-- Trump issued 48-hour ultimatum to Iran on Hormuz (Mar 21): threatens to destroy power plants
-- 13 US KIA, ~200 wounded; 1,444+ killed in Iran; 1,001+ killed in Lebanon; 18 killed in Israel
-- The "Iran trap" scenario (500K-2M US troops, national draft) has NOT materialized — but ground planning represents a shift from weeks 1-2
+- Israel ground operations in southern Lebanon ongoing since Mar 16; 2 IDF soldiers killed
+- Casualty figures diverge: Iran Health Ministry says 1,444+ killed; NGO HRANA documents 3,114 killed (1,354 civilian, 1,138 military, 622 unclassified)
+- 13 US KIA, ~200 wounded; 1,000+ killed in Lebanon/2,584 injured; 18 killed in Israel/3,910+ wounded
+- UK agreed to allow US use of British bases for Hormuz strikes (Mar 21)
+- Trump-Xi summit postponed indefinitely due to Iran war (was Mar 31-Apr 2)
+- Trump gave contradictory signals: said considering "winding down" but then issued power plant ultimatum same day
+- The "Iran trap" scenario (500K-2M US troops, national draft) has NOT materialized — but ground planning + 50,000 troops + Marines arriving represents escalation
 
 ### Hormuz Blockade & Regional Fallout
-- Blockade continues; Iran refuses to discuss reopening while under attack (Bloomberg, Mar 20)
-- 22 countries signed joint statement condemning closure and signaling readiness to contribute to reopening (Mar 19)
+- Blockade continues; Trump's 48-hour ultimatum (Mar 21) expires today Mar 23; Iran "unswayed" (NBC)
+- Iran IRGC: if power plants hit, Hormuz will be "completely closed" and won't reopen until plants rebuilt
+- 22 countries signed joint statement condemning closure (Mar 19); UK agreed to let US use British bases (Mar 21)
+- Nuclear-facility targeting: US hit Natanz (Mar 22) → Iran hit Dimona/Arad (180+ wounded, Mar 21-22)
 - Energy-infrastructure warfare spiral: Israel struck South Pars (Mar 18) → Iran hit Qatar's Ras Laffan, Kuwait/Saudi refineries (Mar 19)
-- UAE as of Mar 17: 314 ballistic missiles, 15 cruise missiles, 1,672 drones fired at UAE; 8 killed, 157 injured
+- UAE as of Mar 17: 314 ballistic missiles, 15 cruise missiles, 1,672 drones fired at UAE; 8 killed, 157+ injured
 - Qatar: Ras Laffan hit with "extensive damage" (Mar 19) on top of gas production halt (Mar 2)
 - Oil at $112.19/bbl (Mar 22); Goldman Sachs warns triple-digit prices may persist for years
 - Pakistan: four-day work week, school closures, fuel conservation measures
 - Japan: Nikkei down 8.6%; South Korea: Kospi down 12%
 - India: ordered refineries to maximize LPG production (+25% output)
 - Houthis have NOT resumed Red Sea attacks despite threats — weapons stockpile low, strategic patience
-- Trump 48-hour ultimatum (Mar 21): threatens Iran's power plants if Hormuz not reopened
+- Iran demonstrated 4,000km+ missile range by firing at Diego Garcia (Mar 21) — European capitals theoretically in range
 
 ### Venezuela, Cuba, Colombia
 - **Venezuela**: US captured Maduro Jan 3, 2026 (Operation Absolute Resolve); Delcy Rodriguez acting president; oil reform and amnesty laws; US recognized Rodriguez as sole leader Mar 11; diplomatic relations restored Mar 5
@@ -85,7 +99,10 @@ Use this document when analyzing Predictive History lectures to accurately asses
 - War continues as grinding attritional conflict — Ukraine has NOT "lost"
 - Russia occupies ~20% of territory; 161 combat engagements on March 21 alone
 - Ukraine cleared 400 km² since counteroffensive began; Feb 2026 first net territorial gain since 2024
-- US-brokered peace talks on "situational pause" due to Iran war — Abu Dhabi round postponed indefinitely
+- US-Ukraine bilateral talks in Miami Mar 21-22 (Witkoff, Kushner, Umerov, Budanov) — "constructive"; Russia NOT present
+- Trilateral Abu Dhabi talks still postponed; bilateral approach signals strategy shift
+- Russia advancing on Kostiantynivka, pushing toward Kramatorsk/Sloviansk; advances near Kharkiv
+- 8,000+ Russian killed/seriously wounded in past week per Zelensky
 - UK/France committed peacekeeping troops (declaration of intent); Russia rejects
 - 200,000 soldiers AWOL; 2 million men avoiding draft; 1 million conscripted since Feb 2022
 - Iran war has diverted international attention and driven energy prices up, indirectly benefiting Russia

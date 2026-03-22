@@ -1,5 +1,5 @@
 {
-  "briefing_date": "2026-03-22",
+  "briefing_date": "2026-03-23",
   "last_scoring_date": "2026-03-14",
   "next_scoring_date": "2026-04-14",
   "theatres": [
@@ -7,7 +7,7 @@
       "name": "Iran / Strait of Hormuz",
       "status": "disconfirmed",
       "status_label": "active war",
-      "summary": "Day 22 of US-Israel air campaign. War entering fourth week with no end in sight. Israel assassinated three top Iranian officials in 48 hours (Larijani, Soleimani, Khatib — Mar 17-18). Israel struck South Pars gas field (Mar 18), damaging ~12% of Iran's gas production; Iran retaliated by hitting Qatar's Ras Laffan. US bombed Kharg Island military targets Mar 13, sparing oil infrastructure. Trump now considering Kharg Island occupation (Axios, Mar 20). Trump issued 48-hour ultimatum (Mar 21): reopen Hormuz or US will 'obliterate' Iran's power plants. Iran counter-threatened Gulf energy/desalination infrastructure. 22 countries signed joint statement condemning Hormuz closure (Mar 19). Brent crude at $112.19. USS Tripoli + 31st MEU transited Malacca Strait (Mar 18), arriving end of March. Israel launched ground operations in southern Lebanon (Mar 16). Houthis have NOT resumed Red Sea attacks despite threats.",
+      "summary": "Day 24 of US-Israel air campaign. War entering fourth week with nuclear-facility tit-for-tat escalation. US struck Natanz nuclear enrichment complex again with bunker busters (Mar 22); Iran retaliated with missiles on Dimona and Arad, wounding 180+ near Israel's nuclear research center — first successful penetration of Israeli air defenses in that area. Iran fired 2 intermediate-range ballistic missiles at Diego Garcia (4,000km), revealing previously unknown long-range capability; both failed to hit base. Trump's 48-hour Hormuz ultimatum (issued Mar 21) expires today; Iran says Hormuz will be 'completely closed' if power plants hit. Israel struck Tehran again Mar 23. Trump-Xi summit postponed indefinitely (was Mar 31-Apr 2); admin says no summit until Iran war ends. USS Tripoli ARG + 31st MEU expected to arrive in theatre Mar 23-27. CENTCOM: ~50,000 US troops now in Middle East. UK agreed to allow US use of British bases for Hormuz strikes. Trump said he's considering 'winding down' but then issued ultimatum. Houthis still NOT resuming Red Sea attacks. HRANA documented 3,114 deaths in Iran (higher than Health Ministry's 1,444).",
       "countries": [
         "Iran",
         "Israel",
@@ -30,7 +30,7 @@
       "name": "Russia-Ukraine War",
       "status": "untested",
       "status_label": "grinding war — talks paused",
-      "summary": "Russia holds ~20% of Ukraine. 161 combat engagements recorded on Mar 21 alone. Ukraine has cleared 400 km² since counteroffensive began; February 2026 first net territorial gain since 2024. US-brokered peace talks on 'situational pause' due to Iran war — Abu Dhabi round (Mar 5-9) postponed indefinitely. Kremlin confirms pause; Zelensky says new talks expected soon. Iran war has diverted international attention and driven energy prices up, indirectly benefiting Russia's war economy.",
+      "summary": "Russia holds ~20% of Ukraine. 161 combat engagements recorded on Mar 21 alone. Ukraine has cleared 400 km² since counteroffensive began; February 2026 first net territorial gain since 2024. Peace talks partially resumed: US-Ukraine bilateral talks held in Miami Mar 21-22 (Witkoff, Kushner, Umerov, Budanov, Kyslytsia, Arakhamia) — described as 'constructive' but Russia was NOT present. Abu Dhabi trilateral talks still postponed. Russia advancing on Kostiantynivka and pushing toward Kramatorsk/Sloviansk. Iran war continues to divert international attention and boost Russian war economy via energy prices.",
       "countries": [
         "Russia",
         "Ukraine"
@@ -51,7 +51,7 @@
       "name": "US-China Trade",
       "status": "untested",
       "status_label": "fragile truce",
-      "summary": "Paris trade talks concluded Mar 15-16; Bessent called them 'very good.' Agreed to maintain tariff stability. Discussed proposed US-China 'Board of Trade' and 'Board of Investment.' China offered additional agricultural purchases (poultry, beef, soybeans). Progress on critical minerals including yttrium. Trump-Xi summit scheduled Mar 31 - Apr 2 in Beijing. New Section 301 investigations announced against China, Vietnam, Taiwan, Mexico, Japan, EU. China's 2026 defense budget up 7% to ~$278B.",
+      "summary": "Trump-Xi summit POSTPONED INDEFINITELY — was scheduled Mar 31-Apr 2 in Beijing. Trump said he wants to stay in Washington for Iran war; admin says no summit until war ends. Trump initially said 'reset' to mid-May, but Political Wire reports summit on hold until war ends. Paris trade talks (Mar 15-16) were 'very good' per Bessent. US intelligence assesses China NOT planning Taiwan invasion in 2027 but is closely studying Iran war for lessons. China's military studying US-Israeli operations against Iran per Bloomberg. Taiwan faces Mar 15 deadline to sign three US arms packages. Section 301 investigations ongoing. China's 2026 defense budget up 7% to ~$278B.",
       "countries": [
         "United States",
         "China",
@@ -74,9 +74,9 @@
     {
       "name": "Brent Crude ($/bbl)",
       "value": "$112.19",
-      "change": "+60% from pre-war",
+      "change": "+60% from pre-war; +45% since Feb 28",
       "change_color": "var(--score-1)",
-      "as_of": "2026-03-22"
+      "as_of": "2026-03-23"
     },
     {
       "name": "Hormuz Tanker Traffic",
@@ -101,24 +101,24 @@
     },
     {
       "name": "Iran Civilian Casualties",
-      "value": "1,444+ killed / 18,551+ injured",
-      "change": "incl. 204 children",
+      "value": "1,444+ killed (Health Min.) / 3,114 killed (HRANA) / 12,000+ injured",
+      "change": "HRANA documents 1,354 civilians, 1,138 military, 622 unclassified; Health Min. figure likely undercount",
       "change_color": "var(--score-1)",
-      "as_of": "2026-03-22"
+      "as_of": "2026-03-23"
     },
     {
       "name": "Israel Casualties (from Iran)",
-      "value": "18 killed / 3,730+ wounded",
-      "change": "+3 killed, +1,730 wounded since Mar 15",
+      "value": "18 killed / 3,910+ wounded",
+      "change": "+180 wounded in Dimona/Arad strikes (Mar 21-22); air defense failure acknowledged",
       "change_color": "var(--score-1)",
-      "as_of": "2026-03-22"
+      "as_of": "2026-03-23"
     },
     {
       "name": "Lebanon Casualties (since Mar 2)",
-      "value": "1,001 killed (incl. 118 children) / 1M+ displaced",
-      "change": "+228 killed since Mar 15; Israel ground ops began Mar 16",
+      "value": "1,000+ killed / 2,584 injured / 1M+ displaced",
+      "change": "Israel ground ops ongoing since Mar 16; 2 IDF soldiers confirmed killed",
       "change_color": "var(--score-1)",
-      "as_of": "2026-03-22"
+      "as_of": "2026-03-23"
     },
     {
       "name": "UAE Casualties",
@@ -164,37 +164,144 @@
     }
   ],
   "ground_invasion_tracker": {
-    "last_updated": "2026-03-22",
+    "last_updated": "2026-03-23",
     "status": "staging",
-    "troop_count_in_theatre": "~47,000+ (3 carrier strike groups + Tripoli ARG/31st MEU en route + support)",
+    "troop_count_in_theatre": "~50,000 (CENTCOM confirmed figure; includes 3 carrier strike groups, Tripoli ARG/31st MEU arriving imminently)",
     "key_developments": [
+      "CENTCOM confirms ~50,000 US troops now in Middle East (USNI News, Mar 23)",
+      "USS Tripoli ARG + 31st MEU expected to arrive in theatre Mar 23-27 — imminent",
+      "Tripoli ESG includes USS Tripoli, guided-missile cruiser USS Robert Smalls, guided-missile destroyer USS Rafael Peralta",
       "CRITICAL: Axios reports Trump considering occupation or blockade of Kharg Island (Mar 20)",
       "CRITICAL: Pentagon has drawn up detailed plans for ground operations in Iran (Times of Israel, CBS, Mar 20)",
       "Additional 2,500 Marines ordered to Middle East (Military.com, Mar 20)",
-      "USS Tripoli ARG + 31st MEU (2,200 Marines) transited Malacca Strait Mar 18, arriving end of March",
+      "UK agreed to allow US use of British military bases for Hormuz strikes (Mar 21)",
+      "Trump says considering 'winding down' (Mar 21) but then issued 48-hour ultimatum (also Mar 21) — contradictory signals",
       "Trump: 'not putting troops anywhere' but added 'If I were, I certainly wouldn't tell you'",
-      "Israel launched ground operations in southern Lebanon on Mar 16 (not Iran, but sets regional precedent)",
+      "Israel ground operations in southern Lebanon ongoing since Mar 16 — 2 IDF soldiers confirmed killed",
       "22 countries signaled 'readiness to contribute' to Hormuz reopening (Mar 19 joint statement)",
-      "Trump issued 48-hour ultimatum to Iran on Hormuz (Mar 21) — escalation ladder tightening",
+      "48-hour ultimatum deadline expires today Mar 23 — if Iran does not comply, escalation to power plant strikes likely",
       "No draft or conscription legislation introduced in US"
     ],
     "kharg_island": {
       "status": "active_target",
-      "naval_activity": "US bombed 90+ military targets on Kharg Island Mar 13 (runway, naval base, air defenses, mine storage). Oil infrastructure deliberately spared. Trump considering occupation or blockade per Axios (Mar 20).",
-      "notes": "Kharg Island handles ~90% of Iran's oil exports. Jiang predicted US seizure in multiple lectures. US has now struck the island militarily and is actively considering ground occupation — this is the closest any Jiang prediction about ground operations has come to materializing. However, island seizure ≠ mainland invasion. A Kharg operation would be a limited naval/amphibious action, not the 500K-2M troop ground war Jiang described."
+      "naval_activity": "US bombed 90+ military targets on Kharg Island Mar 13 (runway, naval base, air defenses, mine storage). Oil infrastructure deliberately spared. Trump considering occupation or blockade per Axios (Mar 20). USS Tripoli ARG arriving imminently with 2,200 Marines — could be the force used for island seizure.",
+      "notes": "Kharg Island handles ~90% of Iran's oil exports. Jiang predicted US seizure in multiple lectures. US has now struck the island militarily and is actively considering ground occupation — this is the closest any Jiang prediction about ground operations has come to materializing. However, island seizure ≠ mainland invasion. A Kharg operation would be a limited naval/amphibious action, not the 500K-2M troop ground war Jiang described. The 48-hour ultimatum expiring today could trigger the decision point on Kharg occupation."
     },
     "marine_movements": [
-      "USS Tripoli (LHA-7) + USS New Orleans + 31st MEU (2,200 Marines) transited Malacca Strait Mar 18, arriving Middle East end of March",
+      "USS Tripoli (LHA-7) + USS Robert Smalls (CG) + USS Rafael Peralta (DDG) + 31st MEU (2,200 Marines) — expected to arrive Mar 23-27",
       "Additional 2,500 Marines ordered to region (Military.com, Mar 20)",
       "Total Marine force heading to theatre: ~4,700",
       "31st MEU includes F-35B Lightning II, MV-22B Ospreys, MH-60S Seahawks",
       "Defense experts warn of Indo-Pacific gap as Marines deploy from Japan to Middle East (Stars and Stripes, Mar 19)",
-      "CENTCOM requested additional forces for 'more options for military operations against Iran'"
+      "CENTCOM requested additional forces for 'more options for military operations against Iran'",
+      "82nd Airborne also mentioned in Pentagon planning per Defence Security Asia"
     ],
     "draft_indicators": "None. No legislation introduced. No Selective Service activation. No public discussion at Pentagon or White House level.",
-    "assessment": "Significant escalation in ground invasion indicators since Mar 15. The Pentagon has drawn up detailed ground operation plans, Trump is considering Kharg Island occupation, and ~4,700 additional Marines are deploying to the theatre. Status upgraded from 'no_ground_troops' to 'staging.' However, this remains far from Jiang's prediction of 500K-2M troops and a national draft. The most likely ground scenario is a limited amphibious operation against Kharg Island to force Hormuz reopening, not a mainland invasion of Iran. Trump's 48-hour ultimatum on power plants suggests the preferred approach remains air power escalation rather than ground commitment."
+    "assessment": "Status remains 'staging' but approaching a critical decision point. The 48-hour ultimatum expires today (Mar 23); if Trump follows through on power plant strikes and Iran retaliates by fully closing Hormuz and hitting Gulf infrastructure, the pressure for ground operations — particularly Kharg Island seizure — intensifies sharply. CENTCOM now confirms ~50,000 troops in theatre. USS Tripoli arriving imminently with Marines configured for amphibious assault. However, Trump's contradictory signals ('winding down' vs. ultimatum) suggest internal debate. Still far from Jiang's 500K-2M troops/draft scenario — but the escalation ladder is tightening with each day the ultimatum goes unanswered."
   },
   "daily_entries": [
+    {
+      "date": "2026-03-23",
+      "tags": [
+        "Iran",
+        "Israel",
+        "Nuclear",
+        "Dimona",
+        "Natanz"
+      ],
+      "summary": "Nuclear-facility tit-for-tat escalation marks new phase of war. US struck Iran's Natanz nuclear enrichment complex again with bunker busters (Mar 22); Iran retaliated with missiles on Dimona and Arad near Israel's Negev Nuclear Research Center, wounding 180+ — first successful penetration of Israeli air defenses in that area. Israeli military acknowledged interceptors 'failed to hit the threats.' IAEA says no radiation damage at either site. Israel struck Tehran again on Mar 23 with explosions in east of city. Iran intercepted a US-Israeli armed drone over Tehran.",
+      "details": [
+        "US struck Natanz with bunker busters on Mar 22; IDF denied Israeli involvement",
+        "Iran framed Dimona/Arad strikes as 'response' to Natanz attack — nuclear tit-for-tat",
+        "116 wounded in Arad (7 serious), 64 wounded in Dimona (1 serious) — 180 total",
+        "Israeli firefighters: 'interceptors were launched that failed to hit the threats, resulting in two direct hits by ballistic missiles with warheads weighing hundreds of kilograms'",
+        "IAEA: no abnormal radiation levels detected at either Dimona or Natanz",
+        "Iran's Tasnim news agency: armed drone intercepted over Tehran airspace",
+        "Israel launched new strikes on east Tehran on Mar 23"
+      ],
+      "prediction_impact": "The nuclear-facility tit-for-tat represents a dangerous escalation — both sides are now targeting each other's nuclear infrastructure. Israeli air defense failure at Dimona is significant; if Iranian missiles can penetrate defenses near Israel's most sensitive nuclear site, the calculus for continued escalation changes.",
+      "source": "Al Jazeera, CBS News, NPR, BusinessToday, Euronews, Military.com, The Week, IAEA"
+    },
+    {
+      "date": "2026-03-23",
+      "tags": [
+        "Iran",
+        "Diego Garcia",
+        "Missiles",
+        "UK"
+      ],
+      "summary": "Iran fired 2 intermediate-range ballistic missiles at Diego Garcia, the joint US-UK military base in the Indian Ocean ~4,000km from Iran. One malfunctioned in flight, one was intercepted. No damage to base. UK confirmed the attack and condemned it as 'reckless.' This reveals Iran possesses 4,000km+ missile capability — previously assessed at 2,000km maximum. UK agreed to allow US to use British military bases for Hormuz strikes.",
+      "details": [
+        "Diego Garcia is ~2,500 miles (4,000km) from Iran — double previously known Iranian missile range",
+        "Base can host B-2 stealth bombers; strategic staging area for US operations",
+        "UK MoD condemned 'reckless attacks'; confirmed both missiles failed to reach target",
+        "Analysts: 'These missiles mean Iran has 4,000km-plus ballistic missiles — not revealed before'",
+        "UK decision to allow US use of British bases for Hormuz operations came same day",
+        "Diego Garcia strike means European capitals are theoretically within Iranian missile range"
+      ],
+      "prediction_impact": "Iran's demonstrated 4,000km missile range is a major intelligence surprise. If Iran can strike Diego Garcia, it can reach parts of southern Europe. This fundamentally changes the threat calculus for European nations and could accelerate European defense spending — supporting Jiang's broader thesis about European rearmament.",
+      "source": "Bloomberg, Al Jazeera, CNN, CNBC, Euronews, ITV News, Military.com, Fox News"
+    },
+    {
+      "date": "2026-03-23",
+      "tags": [
+        "Ground Invasion Tracker"
+      ],
+      "summary": "Trump's 48-hour ultimatum on Hormuz expires today (Mar 23). Iran 'unswayed' per NBC — no compliance expected. Iran's IRGC says if power plants hit, Hormuz will be 'completely closed' and won't reopen until plants are rebuilt. USS Tripoli ARG + 31st MEU expected to arrive in theatre Mar 23-27. CENTCOM confirms ~50,000 US troops now in Middle East. Trump gave contradictory signals: said considering 'winding down' (Mar 21) but then issued ultimatum same day. 82nd Airborne mentioned in Pentagon ground operation plans.",
+      "details": [
+        "48-hour ultimatum issued Saturday night Mar 21 — deadline approximately Monday Mar 23",
+        "NBC: Iran 'unswayed by Trump's 48-hour deadline and threats to obliterate energy infrastructure'",
+        "Iran IRGC: 'Strait of Hormuz will be completely closed, and it will not be reopened until our destroyed power plants are rebuilt'",
+        "CENTCOM: ~50,000 US troops in Middle East theatre",
+        "USS Tripoli ESG arriving imminently — composition: Tripoli (LHA-7), Robert Smalls (CG), Rafael Peralta (DDG), 31st MEU",
+        "Defence Security Asia: Pentagon plans include 82nd Airborne in addition to Marine units",
+        "Trump on 'winding down': told reporters considering it, but ultimatum contradicts",
+        "Admin telling foreign officials: Trump-Xi summit won't happen until Iran war ends"
+      ],
+      "prediction_impact": "The ultimatum deadline expiring without Iranian compliance creates a binary decision point: Trump either follows through (striking power plants, triggering full Hormuz closure and Gulf infrastructure retaliation) or backs down (damaging credibility). Either outcome is escalatory. The arrival of the Tripoli ARG with amphibious-capable Marines coincides with this decision point — Kharg Island seizure remains the most likely ground operation if escalation continues.",
+      "source": "NBC News, USNI News, Axios, Military.com, CBS News, Defence Security Asia, Political Wire"
+    },
+    {
+      "date": "2026-03-23",
+      "tags": [
+        "Russia",
+        "Ukraine",
+        "Peace Talks",
+        "Miami"
+      ],
+      "summary": "US-Ukraine bilateral peace talks held in Miami Mar 21-22. Witkoff and Kushner met Ukrainian delegation including Defense Minister Umerov, NSC Secretary Budanov, First Deputy Head Kyslytsia, and parliamentary leader Arakhamia. Witkoff called talks 'constructive' and said they 'focused on narrowing and resolving remaining items.' Notably, Russia was NOT present — this was bilateral only. Last trilateral talks were Geneva Feb 17-18. On the frontline, Russia advancing on Kostiantynivka and toward Kramatorsk/Sloviansk.",
+      "details": [
+        "Miami talks Mar 21-22 — US-Ukraine bilateral only, no Russian delegation",
+        "Witkoff: focused on 'narrowing and resolving remaining items to move closer to a comprehensive peace agreement'",
+        "Over 8,000 Russian killed/seriously wounded in the past week per Zelensky",
+        "Russia advancing toward Hryhorivka and Prymorske near Konka river",
+        "Russian advances in central Sotnytskyi Kozachok, northwest of Kharkiv",
+        "Russian advances northeast of Orikhovo-Vasylivka near E40 highway",
+        "Russia still focused on logistical hub of Kostiantynivka (entered Dec 2025)"
+      ],
+      "prediction_impact": "Peace talks resuming bilaterally (US-Ukraine only) suggests a shift in approach — building Ukrainian consensus before bringing Russia back. However, without Russia at the table, no breakthrough is possible. The continued Russian territorial advances show the war grinds on regardless of diplomatic activity.",
+      "source": "Kyiv Independent, Al Jazeera, EMPR Media, PBS, ABC News"
+    },
+    {
+      "date": "2026-03-23",
+      "tags": [
+        "US",
+        "China",
+        "Summit",
+        "Taiwan"
+      ],
+      "summary": "Trump-Xi summit postponed indefinitely. Originally scheduled Mar 31-Apr 2 in Beijing; Trump said delay 'a month or so' due to Iran war, later said 'reset' to mid-May. Admin now telling foreign officials summit won't happen until Iran war ends. US intelligence assesses China NOT planning Taiwan invasion in 2027. China's military closely studying US-Israeli operations against Iran for lessons applicable to Taiwan scenario per Bloomberg.",
+      "details": [
+        "Trump told Financial Times China should help break Iran's Hormuz blockade",
+        "Political Wire: admin says summit 'on hold until war ends'",
+        "Bloomberg: China studying Iran war for Taiwan lessons",
+        "US intelligence: China seeks to control Taiwan without force; no 2027 invasion planned",
+        "Taiwan faced Mar 15 deadline to sign three US arms packages or lose deals",
+        "China's 2026 defense budget: ~$278B (+7%)"
+      ],
+      "prediction_impact": "China using Iran war as a live intelligence-gathering opportunity on US military capabilities is exactly the kind of strategic learning Jiang would highlight. The summit delay further demonstrates how the Iran war is consuming US diplomatic bandwidth across all theatres.",
+      "source": "Washington Post, Bloomberg, CNBC, NBC News, Political Wire, Military Times, Al Jazeera, SCMP"
+    },
     {
       "date": "2026-03-22",
       "tags": [
