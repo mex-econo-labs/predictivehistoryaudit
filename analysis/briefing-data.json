@@ -1,5 +1,5 @@
 {
-  "briefing_date": "2026-03-23",
+  "briefing_date": "2026-03-25",
   "last_scoring_date": "2026-03-14",
   "next_scoring_date": "2026-04-14",
   "theatres": [
@@ -7,7 +7,7 @@
       "name": "Iran / Strait of Hormuz",
       "status": "disconfirmed",
       "status_label": "active war",
-      "summary": "Day 24 of US-Israel air campaign. War entering fourth week with nuclear-facility tit-for-tat escalation. US struck Natanz nuclear enrichment complex again with bunker busters (Mar 22); Iran retaliated with missiles on Dimona and Arad, wounding 180+ near Israel's nuclear research center — first successful penetration of Israeli air defenses in that area. Iran fired 2 intermediate-range ballistic missiles at Diego Garcia (4,000km), revealing previously unknown long-range capability; both failed to hit base. Trump's 48-hour Hormuz ultimatum (issued Mar 21) expires today; Iran says Hormuz will be 'completely closed' if power plants hit. Israel struck Tehran again Mar 23. Trump-Xi summit postponed indefinitely (was Mar 31-Apr 2); admin says no summit until Iran war ends. USS Tripoli ARG + 31st MEU expected to arrive in theatre Mar 23-27. CENTCOM: ~50,000 US troops now in Middle East. UK agreed to allow US use of British bases for Hormuz strikes. Trump said he's considering 'winding down' but then issued ultimatum. Houthis still NOT resuming Red Sea attacks. HRANA documented 3,114 deaths in Iran (higher than Health Ministry's 1,444).",
+      "summary": "Day 26 of US-Israel campaign. MAJOR SHIFT: Trump postponed power plant strikes for 5 days (Mar 23), backing off 48-hour ultimatum, citing 'very good and productive conversations' with Iran. Trump declared 'We've won this' (Mar 24) and claims Iran offered an oil/gas 'prize' related to Hormuz — Iran DENIES any talks are happening, calls Trump 'deceitful.' Vance and Rubio reportedly leading negotiations. Pakistan offered to host US-Iran talks in Islamabad; Israeli official told NPR planning underway for talks later this week. Meanwhile strikes continue: Israel launched 'unprecedented' wide-scale strikes across Tehran (Mar 23-24); Iran fired missiles at Tel Aviv (Mar 25) — David's Sling malfunction allowed hits, 4+ casualties, buildings damaged. Iran threatened to mine 'entire Persian Gulf' if power plants attacked. Iranian Red Crescent: 82,000+ civilian structures damaged/destroyed. Updated casualties: Iran Health Ministry 1,500+ killed; HRANA 3,230 killed (1,406 civilian, 210 children). USS Tripoli ARG arriving in theatre now; USS Boxer ARG + 11th MEU (2,500 Marines) departed San Diego Mar 18-19, heading to region. Total Marine force en route: ~4,700. CENTCOM: ~50,000 US troops in Middle East. Lebanon escalating: 1,072+ killed, 2,966 injured, 1.2M displaced; Smotrich called for annexation of southern Lebanon to Litani River; Katz says Israel will hold territory, block returns. Houthis still NOT resuming Red Sea attacks. China told Iran 'talking is always better than fighting.'",
       "countries": [
         "Iran",
         "Israel",
@@ -30,7 +30,7 @@
       "name": "Russia-Ukraine War",
       "status": "untested",
       "status_label": "grinding war — talks paused",
-      "summary": "Russia holds ~20% of Ukraine. 161 combat engagements recorded on Mar 21 alone. Ukraine has cleared 400 km² since counteroffensive began; February 2026 first net territorial gain since 2024. Peace talks partially resumed: US-Ukraine bilateral talks held in Miami Mar 21-22 (Witkoff, Kushner, Umerov, Budanov, Kyslytsia, Arakhamia) — described as 'constructive' but Russia was NOT present. Abu Dhabi trilateral talks still postponed. Russia advancing on Kostiantynivka and pushing toward Kramatorsk/Sloviansk. Iran war continues to divert international attention and boost Russian war economy via energy prices.",
+      "summary": "Russia holds ~20% of Ukraine. 168 combat engagements recorded on Mar 24 (up from 161 on Mar 21). Greatest pressure on Pokrovsk sector; increased activity in Kostiantynivka and Huliaipole sectors. Russia lost 890 soldiers in 24 hours per Ukraine. 17 attacks near Kostiantynivka area alone. Ukraine has cleared 400 km² since counteroffensive began; February 2026 first net territorial gain since 2024. Peace talks partially resumed: US-Ukraine bilateral talks held in Miami Mar 21-22 — described as 'constructive' but Russia NOT present. Abu Dhabi trilateral talks still postponed. Russia continues push toward Kramatorsk/Sloviansk. Iran war continues to divert international attention and boost Russian war economy via energy prices. Record 67% of Russians now support peace negotiations.",
       "countries": [
         "Russia",
         "Ukraine"
@@ -40,7 +40,7 @@
       "name": "Latin America — Venezuela / Cuba / Colombia",
       "status": "partially_confirmed",
       "status_label": "in flux",
-      "summary": "Maduro trial hearing set for March 26 — prosecutors rejected defense motion to dismiss charges. Rodriguez acting president — oil reform, amnesty. US recognized Rodriguez Mar 11. Cuba in energy crisis (90% fuel cutoff). Secret US-Cuba talks ongoing. Colombia in economic emergency; peace process collapsed.",
+      "summary": "Maduro court hearing TOMORROW Mar 26 — Judge Hellerstein to rule on defense motion to dismiss (prosecutors rejected it). US blocking funding of Maduro/Flores legal defense. Rodriguez acting president — oil reform, amnesty. US recognized Rodriguez Mar 11; diplomatic relations restored Mar 5. Cuba in energy crisis (90% fuel cutoff). Secret US-Cuba talks ongoing. Colombia in economic emergency; peace process collapsed.",
       "countries": [
         "Venezuela",
         "Cuba",
@@ -73,10 +73,10 @@
   "metrics": [
     {
       "name": "Brent Crude ($/bbl)",
-      "value": "$112.19",
-      "change": "+60% from pre-war; +45% since Feb 28",
+      "value": "$102.47",
+      "change": "DOWN from $112.19 on Mar 22 after Trump postponed power plant strikes and claimed talks; still +46% from pre-war",
       "change_color": "var(--score-1)",
-      "as_of": "2026-03-23"
+      "as_of": "2026-03-25"
     },
     {
       "name": "Hormuz Tanker Traffic",
@@ -101,24 +101,24 @@
     },
     {
       "name": "Iran Civilian Casualties",
-      "value": "1,444+ killed (Health Min.) / 3,114 killed (HRANA) / 12,000+ injured",
-      "change": "HRANA documents 1,354 civilians, 1,138 military, 622 unclassified; Health Min. figure likely undercount",
+      "value": "1,500+ killed (Health Min.) / 3,230 killed (HRANA) / 12,000+ injured / 82,000+ structures damaged",
+      "change": "HRANA: 1,406 civilians (incl. 210 children), rest military/unclassified; Red Crescent: 82,000+ civilian structures damaged/destroyed; Health Min. figure likely significant undercount due to internet blackout",
       "change_color": "var(--score-1)",
-      "as_of": "2026-03-23"
+      "as_of": "2026-03-25"
     },
     {
       "name": "Israel Casualties (from Iran)",
-      "value": "18 killed / 3,910+ wounded",
-      "change": "+180 wounded in Dimona/Arad strikes (Mar 21-22); air defense failure acknowledged",
+      "value": "22+ killed / 3,950+ wounded",
+      "change": "Iranian missiles hit Tel Aviv Mar 25 (4+ casualties, buildings damaged); David's Sling malfunction; 7 waves of missiles since midnight",
       "change_color": "var(--score-1)",
-      "as_of": "2026-03-23"
+      "as_of": "2026-03-25"
     },
     {
       "name": "Lebanon Casualties (since Mar 2)",
-      "value": "1,000+ killed / 2,584 injured / 1M+ displaced",
-      "change": "Israel ground ops ongoing since Mar 16; 2 IDF soldiers confirmed killed",
+      "value": "1,072+ killed / 2,966 injured / 1.2M+ displaced",
+      "change": "Israel expanding ground ops; destroying Litani bridges; Smotrich calls for annexation; Katz says Israel will hold territory and block returns; 118 children among dead",
       "change_color": "var(--score-1)",
-      "as_of": "2026-03-23"
+      "as_of": "2026-03-25"
     },
     {
       "name": "UAE Casualties",
@@ -144,9 +144,9 @@
     {
       "name": "Ukraine Territory Occupied",
       "value": "~20%",
-      "change": "Ukraine cleared 400 km² in counteroffensive; 161 engagements/day",
+      "change": "168 engagements on Mar 24; greatest pressure on Pokrovsk; Russia lost 890 troops in 24 hours per Ukraine",
       "change_color": "var(--text-muted)",
-      "as_of": "2026-03-21"
+      "as_of": "2026-03-24"
     },
     {
       "name": "Cuba Fuel Imports",
@@ -164,42 +164,161 @@
     }
   ],
   "ground_invasion_tracker": {
-    "last_updated": "2026-03-23",
+    "last_updated": "2026-03-25",
     "status": "staging",
-    "troop_count_in_theatre": "~50,000 (CENTCOM confirmed figure; includes 3 carrier strike groups, Tripoli ARG/31st MEU arriving imminently)",
+    "troop_count_in_theatre": "~50,000+ (CENTCOM confirmed figure; includes 3 carrier strike groups; Tripoli ARG arriving now; Boxer ARG en route from San Diego)",
     "key_developments": [
-      "CENTCOM confirms ~50,000 US troops now in Middle East (USNI News, Mar 23)",
-      "USS Tripoli ARG + 31st MEU expected to arrive in theatre Mar 23-27 — imminent",
-      "Tripoli ESG includes USS Tripoli, guided-missile cruiser USS Robert Smalls, guided-missile destroyer USS Rafael Peralta",
-      "CRITICAL: Axios reports Trump considering occupation or blockade of Kharg Island (Mar 20)",
-      "CRITICAL: Pentagon has drawn up detailed plans for ground operations in Iran (Times of Israel, CBS, Mar 20)",
-      "Additional 2,500 Marines ordered to Middle East (Military.com, Mar 20)",
-      "UK agreed to allow US use of British military bases for Hormuz strikes (Mar 21)",
-      "Trump says considering 'winding down' (Mar 21) but then issued 48-hour ultimatum (also Mar 21) — contradictory signals",
-      "Trump: 'not putting troops anywhere' but added 'If I were, I certainly wouldn't tell you'",
-      "Israel ground operations in southern Lebanon ongoing since Mar 16 — 2 IDF soldiers confirmed killed",
-      "22 countries signaled 'readiness to contribute' to Hormuz reopening (Mar 19 joint statement)",
-      "48-hour ultimatum deadline expires today Mar 23 — if Iran does not comply, escalation to power plant strikes likely",
-      "No draft or conscription legislation introduced in US"
+      "Trump POSTPONED power plant strikes for 5 days (Mar 23) — backed off 48-hour ultimatum",
+      "Trump declared 'We've won this' (Mar 24); claims Iran offered oil/gas 'prize' related to Hormuz — Iran DENIES any talks",
+      "Vance and Rubio reportedly leading talks; Iran says 'fake news' and 'big lie'",
+      "Pakistan offered to host US-Iran talks in Islamabad (Mar 24); Israeli official says planning underway for talks later this week",
+      "Iran threatened to mine 'entire Persian Gulf' if power plants attacked — this threat may have contributed to Trump's postponement",
+      "USS Tripoli ARG + 31st MEU (2,200 Marines) arriving in theatre NOW (Mar 23-27 window)",
+      "USS Boxer ARG + 11th MEU (2,500 Marines) departed San Diego Mar 18-19, three weeks ahead of schedule — en route",
+      "Total Marine force heading to theatre: ~4,700 across two ARGs",
+      "Sen. Cotton referenced bloodiest USMC battle while urging Kharg Island attack (Military.com, Mar 23)",
+      "Pentagon ground operation plans still active; Kharg Island occupation remains 'under serious consideration' per Axios",
+      "Israel expanding ground operations in Lebanon; Smotrich calls for annexation to Litani River; Katz says Israel will hold territory",
+      "Trump's 5-day postponement runs until ~Mar 28 — creates new deadline pressure point",
+      "No draft or conscription legislation introduced in US",
+      "CENTCOM: ~50,000 troops confirmed; number likely rising as Tripoli/Boxer arrive"
     ],
     "kharg_island": {
       "status": "active_target",
-      "naval_activity": "US bombed 90+ military targets on Kharg Island Mar 13 (runway, naval base, air defenses, mine storage). Oil infrastructure deliberately spared. Trump considering occupation or blockade per Axios (Mar 20). USS Tripoli ARG arriving imminently with 2,200 Marines — could be the force used for island seizure.",
-      "notes": "Kharg Island handles ~90% of Iran's oil exports. Jiang predicted US seizure in multiple lectures. US has now struck the island militarily and is actively considering ground occupation — this is the closest any Jiang prediction about ground operations has come to materializing. However, island seizure ≠ mainland invasion. A Kharg operation would be a limited naval/amphibious action, not the 500K-2M troop ground war Jiang described. The 48-hour ultimatum expiring today could trigger the decision point on Kharg occupation."
+      "naval_activity": "US bombed 90+ military targets on Kharg Island Mar 13 (runway, naval base, air defenses, mine storage). Oil infrastructure deliberately spared. Trump considering occupation or blockade per Axios (Mar 20). USS Tripoli ARG now arriving with 2,200 Marines. USS Boxer ARG with 2,500 more Marines en route from San Diego. Sen. Cotton referenced Iwo Jima while urging Kharg attack. However, Trump's 5-day power plant postponement and talk of negotiations may signal de-escalation that delays ground ops decision.",
+      "notes": "Kharg Island handles ~90% of Iran's oil exports. Trump's postponement of power plant strikes (Mar 23) and declaration of 'victory' (Mar 24) may reduce immediate pressure for island seizure. However, if talks fail by ~Mar 28, escalation resumes. Iran's threat to mine the entire Persian Gulf adds a new dimension — mining would make Kharg seizure more operationally complex but also more strategically necessary. Two Marine ARGs (Tripoli + Boxer) converging on the region gives the US the amphibious capacity for the operation if ordered."
     },
     "marine_movements": [
-      "USS Tripoli (LHA-7) + USS Robert Smalls (CG) + USS Rafael Peralta (DDG) + 31st MEU (2,200 Marines) — expected to arrive Mar 23-27",
-      "Additional 2,500 Marines ordered to region (Military.com, Mar 20)",
-      "Total Marine force heading to theatre: ~4,700",
-      "31st MEU includes F-35B Lightning II, MV-22B Ospreys, MH-60S Seahawks",
+      "USS Tripoli (LHA-7) + USS Robert Smalls (CG) + USS Rafael Peralta (DDG) + 31st MEU (2,200 Marines) — ARRIVING in theatre now (Mar 23-27)",
+      "USS Boxer (LHD-4) + USS Portland (LPD-27) + USS Comstock (LSD-45) + 11th MEU (2,500 Marines) — departed San Diego Mar 18-19, three weeks ahead of schedule, en route",
+      "Total Marine force heading to theatre: ~4,700 across two ARGs",
+      "Both MEUs include F-35B Lightning II, MV-22B Ospreys, attack/transport helicopters, landing craft",
       "Defense experts warn of Indo-Pacific gap as Marines deploy from Japan to Middle East (Stars and Stripes, Mar 19)",
       "CENTCOM requested additional forces for 'more options for military operations against Iran'",
-      "82nd Airborne also mentioned in Pentagon planning per Defence Security Asia"
+      "82nd Airborne also mentioned in Pentagon planning per Defence Security Asia",
+      "Time (Mar 24): article details what Marines 'could be used for' — island seizure, maritime interdiction, littoral warfare"
     ],
     "draft_indicators": "None. No legislation introduced. No Selective Service activation. No public discussion at Pentagon or White House level.",
-    "assessment": "Status remains 'staging' but approaching a critical decision point. The 48-hour ultimatum expires today (Mar 23); if Trump follows through on power plant strikes and Iran retaliates by fully closing Hormuz and hitting Gulf infrastructure, the pressure for ground operations — particularly Kharg Island seizure — intensifies sharply. CENTCOM now confirms ~50,000 troops in theatre. USS Tripoli arriving imminently with Marines configured for amphibious assault. However, Trump's contradictory signals ('winding down' vs. ultimatum) suggest internal debate. Still far from Jiang's 500K-2M troops/draft scenario — but the escalation ladder is tightening with each day the ultimatum goes unanswered."
+    "assessment": "Status remains 'staging' but the dynamic shifted significantly Mar 23-24. Trump backed off the 48-hour ultimatum, postponed power plant strikes for 5 days, and declared 'victory' — all de-escalatory signals. Iran's threat to mine the entire Persian Gulf may have contributed to this pause. Pakistan is positioning as mediator. However, Iran denies any talks, strikes continue on both sides (Israel hit Tehran 'unprecedented' scale; Iran hit Tel Aviv Mar 25), and the 5-day postponement creates a NEW deadline around Mar 28. Two Marine ARGs (Tripoli arriving now, Boxer en route) give the US unprecedented amphibious capacity in theatre. If talks fail by Mar 28, the ground operation question returns with even more force — and more Marines in position. Still far from Jiang's 500K-2M troops/draft scenario."
   },
   "daily_entries": [
+    {
+      "date": "2026-03-25",
+      "tags": [
+        "Iran",
+        "Israel",
+        "Tel Aviv",
+        "Missiles",
+        "Diplomacy"
+      ],
+      "summary": "Day 26 of war. Iran fired missiles at Tel Aviv, hitting buildings and causing 4+ casualties; David's Sling interceptor malfunctioned, allowing ballistic missile penetration. Seven waves of Iranian missiles fired since midnight, with sirens in Dimona. Trump declared 'We've won this' (Mar 24) and claims Iran offered oil/gas 'prize' related to Hormuz — Iran categorically denies any talks, calling it 'fake news' and 'big lie.' IRGC stated 'special plans are arranged tonight for Tel Aviv and regional allies.' Israel continued 'unprecedented' wide-scale strikes across Tehran (Mar 23-24). Iranian Red Crescent: 82,000+ civilian structures damaged or destroyed. Updated death tolls: Iran Health Ministry 1,500+; HRANA 3,230 (1,406 civilians, 210 children). Iran's internet blackout hampers independent casualty monitoring.",
+      "details": [
+        "Iranian missiles hit Tel Aviv Mar 25 — buildings damaged, vehicles burning, 4+ casualties reported",
+        "David's Sling aerial interceptor malfunctioned, allowing two ballistic missiles through (one with ~220 lb warhead)",
+        "Iran fired seven waves of missiles since midnight; sirens in Dimona again",
+        "Trump in Oval Office (Mar 24): 'We've won this. This war has been won'",
+        "Trump claims Iran gave 'a very big present' — 'oil and gas related' and 'related to the flow, to the Strait'",
+        "Trump says Vance and Rubio 'dealing with the right people' in Iran",
+        "Iran's IRGC and parliament: Trump's claims are 'fake news' and a 'big lie'",
+        "Iranian officials say they received proposals through intermediaries and are 'reviewing them' — but deny direct talks",
+        "IRGC source: 'Special plans are arranged tonight for Tel Aviv and some regional allies'",
+        "Israel launched 'wide-scale wave of strikes' on Tehran infrastructure — explosions described as 'unprecedented' in scale",
+        "Iranian Red Crescent: 82,000+ civilian structures damaged or destroyed as of Mar 24",
+        "France24/SCMP: Iran's internet blackout makes true casualty figures 'unknown'",
+        "China's top diplomat told Iranian counterpart: 'talking is always better than to keep fighting'"
+      ],
+      "prediction_impact": "Trump's declaration of 'victory' while Iran denies any talks creates a highly unstable diplomatic situation. If Trump is fabricating or exaggerating to create a face-saving off-ramp, it could work — or it could collapse when Iran does not reciprocate. The continued Israeli air defense failures (now David's Sling in addition to earlier interceptor failures at Dimona) validate Iran's military capability thesis. The 82,000 structures figure shows devastation approaching what HRANA has been documenting.",
+      "source": "NPR, CNN, Al Jazeera, PBS, NBC News, Time, Iran International, France24, SCMP"
+    },
+    {
+      "date": "2026-03-25",
+      "tags": [
+        "Ground Invasion Tracker"
+      ],
+      "summary": "Ground invasion dynamics shifted with Trump's ultimatum postponement. Trump backed off 48-hour power plant deadline (Mar 23), postponing strikes for 5 days 'subject to success of ongoing meetings.' Iran's threat to mine 'entire Persian Gulf' may have contributed to pause. USS Tripoli ARG arriving in theatre now; USS Boxer ARG + 11th MEU (2,500 Marines) departed San Diego Mar 18-19, three weeks ahead of schedule. Sen. Cotton referenced bloodiest USMC battle while urging Kharg Island attack. Total ~4,700 Marines converging on region across two ARGs. Pakistan offered to host US-Iran talks in Islamabad; Israeli official says planning underway.",
+      "details": [
+        "Trump postponed power plant strikes for 5 days (Mar 23) — new deadline ~Mar 28",
+        "Iran's defense council: mining 'all access routes and communication lines in the Persian Gulf' if coasts/islands attacked",
+        "USS Tripoli ARG arriving in theatre now (Mar 23-27 window)",
+        "USS Boxer ARG (LHD-4, USS Portland, USS Comstock) + 11th MEU departed San Diego Mar 18-19",
+        "11th MEU: ~2,500 Marines with F-35Bs, attack helicopters, landing craft",
+        "Boxer deployment three weeks ahead of schedule — urgency clear",
+        "Sen. Cotton referenced Iwo Jima while urging Kharg Island attack (Military.com, Mar 23)",
+        "Time (Mar 24): detailed article on 'what Marines could be used for' — island seizure, interdiction, littoral warfare",
+        "Pakistan PM Sharif: 'ready and honoured to host talks for comprehensive settlement'",
+        "Israeli official told NPR: planning underway for talks in Pakistan later this week",
+        "Pentagon ground plans still active despite diplomatic signals; two ARGs give unprecedented amphibious capacity",
+        "No draft legislation, no Selective Service activation, no large-scale Army deployments"
+      ],
+      "prediction_impact": "The 5-day postponement creates a critical window: if Pakistan-hosted talks produce results, ground operations may be deferred. If talks fail by ~Mar 28, two Marine ARGs (Tripoli + Boxer) will be in position for Kharg Island or other amphibious operations. Iran's mining threat adds a new dimension — mining the Gulf would make a ground response more likely, not less. The convergence of diplomatic and military escalation ladders makes the next 3-5 days decisive for ground operation prospects.",
+      "source": "Time, Military.com, USNI News, Stars and Stripes, Al Jazeera, Bloomberg, NBC News, NPR, CNBC"
+    },
+    {
+      "date": "2026-03-25",
+      "tags": [
+        "Iran",
+        "Hormuz",
+        "Diplomacy",
+        "Pakistan"
+      ],
+      "summary": "Trump postponed power plant strikes for 5 days (Mar 23), backing off 48-hour ultimatum, citing 'productive conversations.' Iran threatened to mine 'entire Persian Gulf' if coasts or islands attacked. Pakistan PM Sharif offered to host US-Iran talks in Islamabad. China told Iran 'talking is always better than fighting.' Oil dropped sharply to $102.47/bbl from $112.19 on news of potential talks. However, Iran denies all talks while strikes continue on both sides.",
+      "details": [
+        "Trump posted on Truth Social: postponing 'any and all' strikes on power plants/energy infrastructure for 5 days",
+        "Iran's defense council: 'deployment of various naval mines — including moored and drifting mines — across all access routes'",
+        "Iran: 'the entire Persian Gulf would effectively face a prolonged situation similar to the Strait of Hormuz'",
+        "Pakistan PM: country 'ready and honoured' to host talks; army chief Asim Munir in calls with Trump",
+        "Israeli official confirms planning for Pakistan talks later this week (NPR)",
+        "Oil plummeted from $112.19 to $102.47 on talk of negotiations — still +46% from pre-war",
+        "Wall Street stocks rose on the news; markets cautiously optimistic",
+        "Iran denies any talks are happening; IRGC calls Trump 'deceitful'",
+        "Chinese Foreign Minister to Iranian counterpart: 'talking is always better than to keep fighting'",
+        "Strikes continue despite diplomatic signals — Israel hit Tehran, Iran hit Tel Aviv, Gulf states reporting interceptions"
+      ],
+      "prediction_impact": "The potential for diplomatic resolution — even if nascent — was not part of Jiang's 'Iran trap' thesis, which predicted inexorable escalation toward ground invasion. Trump seeking an off-ramp through declaring 'victory' and pursuing talks (even if Iran denies them) suggests the administration is aware of the escalation trap. Oil dropping $10/bbl on mere rumor of talks shows how sensitive markets are to resolution prospects.",
+      "source": "PBS, NBC News, Al Jazeera, CBS News, Time, Bloomberg, CNBC, NPR, Fortune"
+    },
+    {
+      "date": "2026-03-25",
+      "tags": [
+        "Lebanon",
+        "Israel",
+        "Annexation"
+      ],
+      "summary": "Israel expanding ground operations in Lebanon with increasingly maximalist rhetoric. Finance Minister Smotrich called for annexation of southern Lebanon to the Litani River (Mar 23). Defense Minister Katz said Israel will hold territory and block residents' return 'until security is guaranteed.' IDF destroying Litani River bridges. Army chief says Israel will 'advance targeted ground operations.' Lebanon death toll: 1,072+ killed (118 children), 2,966 injured, 1.2M displaced — one in five Lebanese.",
+      "details": [
+        "Smotrich: 'the new Israeli border must be the Litani River' — most explicit annexation call by senior official",
+        "Katz: hundreds of thousands of Lebanese 'will not be allowed to return until security is guaranteed'",
+        "IDF destroyed at least 4 Litani River bridges between Mar 13-22",
+        "Army chief preparing to 'advance targeted ground operations' — offensive 'still in early stages'",
+        "Hezbollah launched 5 attacks early Mar 25: troop gatherings, barracks, radar, artillery positions",
+        "Israel killed 3 in Beirut airstrike Mar 24; intensifying attacks across the country",
+        "HRW (Mar 23): 'Israeli officials signal stepped-up atrocities in Lebanon'",
+        "UN: 1.2M displaced — about one in five people across Lebanon"
+      ],
+      "prediction_impact": "Israeli annexation rhetoric for southern Lebanon goes beyond what Jiang discussed regarding the Iran war. The expansion of the conflict into a full-scale Lebanon ground operation with annexation ambitions represents a parallel ground war front that was not part of the 'Iran trap' thesis but adds to the broader regional conflagration.",
+      "source": "Al Jazeera, Axios, HRW, Haaretz, Democracy Now, The Defense Post"
+    },
+    {
+      "date": "2026-03-25",
+      "tags": [
+        "Russia",
+        "Ukraine",
+        "Frontline"
+      ],
+      "summary": "168 combat engagements recorded on Mar 24, up from 161 on Mar 21. Greatest Russian pressure on Pokrovsk sector; increased activity in Kostiantynivka and Huliaipole sectors. Russia lost 890 soldiers in 24 hours per Ukraine. 17 attacks near Kostiantynivka area alone. Record 67% of Russians now support peace negotiations. Zelenskyy says Ukraine waiting on US and Russia to set next trilateral round.",
+      "details": [
+        "168 combat engagements on Mar 24 — continuing upward trend from 128 (Mar 12) to 161 (Mar 21)",
+        "Pokrovsk sector: Ukrainian defenders stopped 34 assault actions",
+        "Kostiantynivka: 17 attacks near Pleshchiivka, Illinivka, Kleban-Byk, Sofiivka, Ivanopillia",
+        "Russia lost 890 soldiers in 24 hours per Ukrainian General Staff",
+        "Russian advances in Huliaipole sector showing increased activity",
+        "67% of Russians support peace negotiations — record high",
+        "Zelenskyy ready for next trilateral round but waiting on Washington and Moscow",
+        "Abu Dhabi trilateral talks still postponed due to Iran war"
+      ],
+      "prediction_impact": "The Ukraine war grinds on with increasing Russian losses but continued pressure on Ukrainian positions. The record high in Russian public support for peace negotiations (67%) is a notable shift. However, the Iran war continues to consume US diplomatic bandwidth, delaying any progress.",
+      "source": "EMPR Media, Euronews, Al Jazeera, PBS, Ukrinform"
+    },
     {
       "date": "2026-03-23",
       "tags": [
