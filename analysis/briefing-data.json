@@ -1,5 +1,5 @@
 {
-  "briefing_date": "2026-03-27",
+  "briefing_date": "2026-03-28",
   "last_scoring_date": "2026-03-14",
   "next_scoring_date": "2026-04-14",
   "theatres": [
@@ -7,7 +7,7 @@
       "name": "Iran / Strait of Hormuz",
       "status": "disconfirmed",
       "status_label": "active war",
-      "summary": "Day 28 of US-Israel campaign. MAJOR DEVELOPMENTS: (1) Israel killed IRGC Navy Commander Alireza Tangsiri in Bandar Abbas — the man 'directly responsible' for the Hormuz blockade — plus IRGC Navy intelligence chief Behnam Rezaei and other top naval leadership. 5th senior Iranian official assassinated since Feb 28. (2) Trump EXTENDED energy strike deadline by 10 days to April 6, claiming Iran requested it and 'gave me ships' as goodwill. (3) Iran formally responded to 15-point plan through intermediaries (Tasnim); awaiting US reply. FM Araghchi: 'policy is continuation of resistance.' (4) Iran formally announced 5 nations allowed through Hormuz: China, Russia, India, Iraq, Pakistan; US/Israel/allies still blocked. (5) Israel temporarily removed FM Araghchi and Parliament Speaker Qalibaf from hit list at Pakistan's request — WSJ reports 4-5 day window to preserve negotiating partners. (6) Pakistan confirmed mediating 'indirect talks'; Witkoff confirmed presenting 15 points through Pakistan. Oil surged back to ~$105-106/bbl (up from $96-97). Iran fired two rounds of missiles at central Israel; Israel struck Isfahan. Updated casualties: Iran 1,750+ killed (217 children); Lebanon 1,116 killed (121 children), 3,229 injured. UAE has now intercepted 372 BMs + 15 CMs + 1,826 drones since Feb 28. 82nd Airborne deploying; USS Tripoli at Diego Garcia en route to theatre; USS Boxer still in Pacific.",
+      "summary": "Day 29 of US-Israel campaign. MAJOR DEVELOPMENTS: (1) Israel struck 2 nuclear facilities — Arak heavy water complex (Shahid Khondab) and Ardakan yellowcake production plant in Yazd — plus 2 IRGC-linked steel plants (Khuzestan Steel near Ahvaz, Mobarakeh Steel in Isfahan); steel strikes expected to cause billions in damage and 'paralyze' Iran's steel industry. (2) Israel Defense Minister Katz vowed to 'intensify and expand' strikes. (3) IRGC Aerospace commander Brig. Gen. Mousavi warned workers at US/Israeli-linked sites to evacuate — threatened retaliation 'beyond eye for eye.' (4) Witkoff said he expects meetings with Iran 'this week,' stated 'ships are passing — a very good sign.' Possible Islamabad meeting being arranged (Witkoff/Kushner/Vance for US; Araghchi/Qalibaf for Iran). (5) Israel deployed Division 162 to southern Lebanon to expand 'buffer zone' — now THREE divisions operating. (6) USS Tripoli ARG expected to enter CENTCOM area Mar 27-28. (7) Oil at ~$107.81/bbl (up from $105-106). Updated casualties: Iran ~1,937 killed (Al Jazeera tracker); WashPost: ~1,500 civilians; 1 killed + 16 injured at Mobarakeh Steel. Israel: cluster munitions killed 1 in Tel Aviv. US: 13 KIA unchanged.",
       "countries": [
         "Iran",
         "Israel",
@@ -30,7 +30,7 @@
       "name": "Russia-Ukraine War",
       "status": "untested",
       "status_label": "grinding war — talks paused",
-      "summary": "Russia holds ~20% of Ukraine. 158 combat engagements recorded on Mar 26 (down from 176 on Mar 25). Greatest pressure on Pokrovsk sector; increased activity in Kostiantynivka, Huliaipole, Zaporizhzhia, and Sumy sectors. Russia lost 4 sq mi during week of Mar 17-24 — shift from earlier momentum (gained 50 sq mi in prior 4-week period). ISW observing increase in Russian mechanized assaults since Mar 17, possibly preparing spring-summer offensive against Fortress Belt in Donetsk Oblast. Russia carried out 70 airstrikes and launched 9,414 kamikaze drones; 4,184 shelling attacks on positions. Ukraine cleared 400 km² since counteroffensive began; Feb 2026 first net territorial gain since 2024. US-Ukraine bilateral talks held in Miami Mar 21-22 — 'constructive' but Russia NOT present. Abu Dhabi trilateral talks still postponed. Iran war continues to divert attention and boost Russian war economy via energy prices. Record 67% of Russians now support peace negotiations.",
+      "summary": "Russia holds ~20% of Ukraine. 150 combat engagements recorded on Mar 27 (down from 158 on Mar 26). Russia claimed capture of Bobylivka in Sumy Oblast, crossing the Russia-Ukraine border. Russian forces carried out 68 airstrikes, dropping 227 guided aerial bombs. In Sumy region, 1 civilian killed and 2 wounded. Greatest pressure continues on Pokrovsk sector; increased activity in Kostiantynivka, Huliaipole, Zaporizhzhia, and Sumy sectors. Russia lost 4 sq mi during week of Mar 17-24 — shift from earlier momentum. ISW: mechanized assaults increasing since Mar 17, spring-summer offensive preparations. Ukraine cleared 400 km² since counteroffensive began; Feb 2026 first net territorial gain since 2024. US-Ukraine bilateral talks held in Miami Mar 21-22 — 'constructive' but Russia NOT present. Abu Dhabi trilateral talks still postponed. Iran war continues to divert attention and boost Russian war economy via energy prices. Record 67% of Russians support peace negotiations.",
       "countries": [
         "Russia",
         "Ukraine"
@@ -62,7 +62,7 @@
       "name": "East Asia — DPRK / Korean Peninsula",
       "status": "untested",
       "status_label": "elevated risk",
-      "summary": "Lukashenko completed first-ever visit to North Korea Mar 25-26; signed friendship treaty with Kim Jong Un. Kim Jong Un used Iran war to justify DPRK nuclear weapons: 'the present situation clearly proves' North Korea was right to reject US denuclearization pressure. Kim declared nuclear status 'irreversible' and South Korea 'most hostile opponent' in parliamentary speech. 15th Supreme People's Assembly convened Mar 22; Kim reelected as president of State Affairs Commission. Satellite imagery confirms first 5,000-ton destroyer (Choe Hyon) berthed at Nampo; third destroyer under construction, to be completed by Oct 2026. No further missile launches since Mar 14. Russia-DPRK alliance deepened; 12,000 DPRK troops in Russia.",
+      "summary": "No major new developments Mar 28. Lukashenko completed first-ever visit to North Korea Mar 25-26; signed friendship treaty with Kim Jong Un. Kim Jong Un used Iran war to justify DPRK nuclear weapons: 'the present situation clearly proves' North Korea was right to reject US denuclearization pressure. Kim declared nuclear status 'irreversible' and South Korea 'most hostile opponent' in parliamentary speech. 15th Supreme People's Assembly convened Mar 22; Kim reelected as president of State Affairs Commission. Satellite imagery confirms first 5,000-ton destroyer (Choe Hyon) berthed at Nampo; third destroyer under construction, to be completed by Oct 2026. No further missile launches since Mar 14. Russia-DPRK alliance deepened; 12,000 DPRK troops in Russia.",
       "countries": [
         "North Korea",
         "South Korea",
@@ -73,10 +73,10 @@
   "metrics": [
     {
       "name": "Brent Crude ($/bbl)",
-      "value": "~$105-106",
-      "change": "UP ~4% from $96-97 (Mar 26); surged on Tangsiri assassination and continued strikes; Brent at $105.85-$106.18; still highly volatile on conflicting diplomacy; +50% from pre-war",
+      "value": "~$107.81",
+      "change": "UP ~2% from $105-106 (Mar 27); continued upward pressure from Israeli strikes on steel plants/nuclear sites and IRGC escalation threats; +54% from pre-war ~$70; Fortune: $107.81 at 9am ET Mar 27",
       "change_color": "var(--score-1)",
-      "as_of": "2026-03-27"
+      "as_of": "2026-03-28"
     },
     {
       "name": "Hormuz Tanker Traffic",
@@ -101,17 +101,17 @@
     },
     {
       "name": "Iran Casualties",
-      "value": "1,750+ killed (217 children, 1,167 military per HRANA/Hengaw) / 12,000+ injured / 82,000+ structures damaged",
-      "change": "UP from 1,500+ (Health Min.)/3,230 (HRANA); Hengaw reports 5,900 killed in 21 days including 595 civilians; figures diverge widely due to internet blackout; Red Crescent: 82,000+ civilian structures damaged/destroyed",
+      "value": "~1,937 killed (Al Jazeera tracker) / ~1,500 civilians (WashPost) / 82,000+ structures damaged",
+      "change": "UP from 1,750+; Al Jazeera tracker: 1,937; WashPost (Mar 27): ~1,500 civilians killed; Hengaw: 5,300 killed in 18 days (511 civilians, 4,789 military); 1 killed + 16 injured at Mobarakeh Steel (Mar 27); figures continue to diverge due to internet blackout",
       "change_color": "var(--score-1)",
-      "as_of": "2026-03-27"
+      "as_of": "2026-03-28"
     },
     {
       "name": "Israel Casualties (from Iran)",
-      "value": "22+ killed / 3,950+ wounded",
-      "change": "Iran fired two more rounds of missiles at central Israel on Mar 27; continued strikes since Tel Aviv hit Mar 25; IDF soldier killed in Lebanon ground ops",
+      "value": "23+ killed / 3,950+ wounded",
+      "change": "1 man (60s) killed in Tel Aviv by cluster munitions strike (Mar 28); Iran fired new missile barrages intercepted over central/southern Israel; continued strikes",
       "change_color": "var(--score-1)",
-      "as_of": "2026-03-27"
+      "as_of": "2026-03-28"
     },
     {
       "name": "Lebanon Casualties (since Mar 2)",
@@ -144,9 +144,9 @@
     {
       "name": "Ukraine Territory Occupied",
       "value": "~20%",
-      "change": "158 engagements on Mar 26 (down from 176); Russia lost 4 sq mi during week of Mar 17-24; ISW: increasing mechanized assaults, spring offensive preparations; 70 airstrikes + 9,414 kamikaze drones in latest period",
+      "change": "150 engagements on Mar 27 (down from 158); Russia claimed Bobylivka in Sumy Oblast (border crossing); 68 airstrikes, 227 guided aerial bombs; 1 civilian killed in Sumy; combat engagements trending down from peak of 176 (Mar 25)",
       "change_color": "var(--text-muted)",
-      "as_of": "2026-03-27"
+      "as_of": "2026-03-28"
     },
     {
       "name": "Cuba Fuel Imports",
@@ -164,46 +164,141 @@
     }
   ],
   "ground_invasion_tracker": {
-    "last_updated": "2026-03-27",
+    "last_updated": "2026-03-28",
     "status": "staging",
-    "troop_count_in_theatre": "~50,000+ and RISING (CENTCOM confirmed figure; 82nd Airborne Division 1,000-3,000 paratroopers deploying; Tripoli ARG at Diego Garcia en route to theatre; Boxer ARG in Pacific en route; total ground-capable force approaching 6,000-8,000)",
+    "troop_count_in_theatre": "~50,000+ and RISING (CENTCOM confirmed; 82nd Airborne 1,000-3,000 deploying; USS Tripoli ARG entering CENTCOM area ~Mar 27-28; USS Boxer ARG in Pacific; total ground-capable force approaching 6,000-8,000)",
     "key_developments": [
-      "CRITICAL: Trump EXTENDED energy strike deadline by 10 days to April 6 — reduces immediate pressure for ground escalation but deployment continues",
-      "Israel killed IRGC Navy Commander Tangsiri (Mar 26-27) — the man directly responsible for Hormuz blockade; also killed IRGC Navy intelligence chief Rezaei — decapitates Iran's naval command structure",
-      "Iran formally responded to 15-point plan through intermediaries (Tasnim, Mar 26); awaiting US reply — first substantive back-channel engagement",
-      "Israel temporarily removed FM Araghchi and Parliament Speaker Qalibaf from hit list at Pakistan's request — WSJ: 4-5 day window to preserve negotiating partners",
-      "Pakistan confirmed mediating 'indirect talks'; Witkoff confirmed presenting 15 points through Pakistan; Egypt and Turkey also involved",
-      "82nd Airborne Division (1,000-3,000 paratroopers) deploying — first Army ground combat unit in theatre",
-      "USS Tripoli ARG at Diego Garcia, expected in CENTCOM area late March/early April",
-      "USS Boxer ARG + 11th MEU (2,500 Marines) in Pacific transit — not expected in combat zone until mid-April",
-      "Iran fortifying Kharg Island with MANPADs, anti-armor mines, additional troops — layered defenses against amphibious assault",
-      "Apr 6 deadline replaces Mar 28 — extends diplomatic window but ground force buildup continues unabated",
+      "USS Tripoli ARG expected to enter CENTCOM area Mar 27-28 (WSJ) — first MEU arriving in combat theatre",
+      "Witkoff said meetings to negotiate with Iran expected 'this week' — possible Islamabad meeting being arranged",
+      "Israel escalating: struck 2 nuclear facilities (Arak heavy water, Ardakan yellowcake) + 2 IRGC steel plants; vowed to 'intensify and expand'",
+      "IRGC Aerospace commander warned workers at US/Israeli-linked sites to evacuate — threatens retaliation 'beyond eye for eye'",
+      "Israel deployed Division 162 to Lebanon — now THREE divisions operating; 'buffer zone' expansion continues",
+      "Apr 6 deadline remains — 9 days away; diplomatic and military tracks running in parallel",
+      "82nd Airborne Division (1,000-3,000 paratroopers) continuing deployment — first Army ground combat unit in theatre",
+      "USS Boxer ARG + 11th MEU (2,500 Marines) in Pacific transit — not expected until mid-April",
+      "Iran continues fortifying Kharg Island with MANPADs, anti-armor mines, additional troops",
       "No draft or conscription legislation introduced in US",
-      "CENTCOM: ~50,000+ troops confirmed and rising as new units deploy",
-      "Killing of Tangsiri removes the architect of Hormuz blockade but does NOT change blockade itself — successor will continue policy"
+      "CENTCOM: ~50,000+ troops confirmed and rising",
+      "Qalibaf denied any 'negotiations' — called US claims manipulation; diplomatic picture remains contradictory"
     ],
     "kharg_island": {
       "status": "active_target_defended",
-      "naval_activity": "US bombed 90+ military targets on Kharg Island Mar 13 (runway, naval base, air defenses, mine storage). Oil infrastructure deliberately spared. CNN (Mar 25): Iran ACTIVELY FORTIFYING island — troops, MANPADs, air defenses, anti-armor mines, 'laying traps.' IRGC Navy Commander Tangsiri (architect of Hormuz blockade) killed by Israel Mar 26-27 — removes key operational commander but successor will continue. USS Tripoli ARG at Diego Garcia, expected in CENTCOM area late March/early April. USS Boxer ARG in Pacific, not expected until mid-April. 82nd Airborne deploying to region.",
-      "notes": "Kharg Island handles ~90% of Iran's oil exports. Trump EXTENDED deadline to April 6 — reduces immediate escalation pressure but deployment continues. Iran is actively preparing layered defenses making any assault significantly more dangerous and costly. US officials warn of 'significant risks' and 'large number of US casualties.' The killing of Tangsiri decapitates Iran's naval command but does not weaken island defenses — ground forces are IRGC, not navy. Combined ground force approaching 6,000-8,000 (Marines + 82nd Airborne). The Apr 6 deadline gives more time for both diplomacy AND force buildup — USS Boxer ARG arrival timeline (~mid-April) now closer to the new deadline."
+      "naval_activity": "USS Tripoli ARG expected to enter CENTCOM area Mar 27-28 per WSJ — first amphibious force arriving in combat theatre. USS Boxer ARG in Pacific transit, not expected until mid-April. 82nd Airborne deploying. Iran continues fortifying: troops, MANPADs, air defenses, anti-armor mines. IRGC Navy Commander Tangsiri killed Mar 26-27 — successor will continue blockade. US bombed 90+ military targets on Kharg Mar 13; oil infrastructure spared.",
+      "notes": "Kharg Island handles ~90% of Iran's oil exports. Apr 6 deadline is 9 days away. USS Tripoli arrival gives first actual amphibious capability in theatre. Iran's layered defenses make assault significantly dangerous — US officials warn of 'large number of US casualties.' Israel's escalation (nuclear sites + steel plants + 'intensify and expand' pledge) could accelerate pressure for ground action if air campaign fails to produce diplomatic results. Witkoff's optimism about 'this week' meetings could delay ground ops if talks materialize. Combined ground force approaching 6,000-8,000 (Marines + 82nd Airborne). The picture is: diplomatic window narrowing while military capability arriving."
     },
     "marine_movements": [
-      "USS Tripoli (LHA-7) + USS Robert Smalls (CG) + USS Rafael Peralta (DDG) + 31st MEU (2,200 Marines) — at Diego Garcia as of Mar 23; expected in CENTCOM area late March/early April",
+      "USS Tripoli (LHA-7) + USS New Orleans (LPD) + USS Robert Smalls (CG) + USS Rafael Peralta (DDG) + 31st MEU (2,200 Marines) — expected to enter CENTCOM area Mar 27-28 per WSJ; first amphibious force arriving in combat theatre",
       "USS Boxer (LHD-4) + USS Portland (LPD-27) + USS Comstock (LSD-45) + 11th MEU (2,500 Marines) — departed San Diego Mar 18-19; ~13,800 miles transit; NOT expected in combat zone until mid-April at earliest",
       "82nd Airborne Division — 1,000-3,000 paratroopers ordered to Middle East (Mar 24-25); includes division commander Maj. Gen. Brandon Tegtmeier and 1st BCT Immediate Response Force; first ARMY ground combat unit deployed to theatre",
       "Total ground-capable force approaching 6,000-8,000 (4,700 Marines across two ARGs + 1,000-3,000 82nd Airborne paratroopers)",
       "Both MEUs include F-35B Lightning II, MV-22B Ospreys, attack/transport helicopters, landing craft",
       "82nd Airborne IRF can mobilize worldwide within 18 hours — rapid-deployment capability",
-      "NOTE: USS Boxer timeline (~mid-April arrival) now aligns closer to new Apr 6 deadline — full amphibious capability may not be in place until AFTER deadline",
+      "NOTE: USS Tripoli entering CENTCOM area gives PARTIAL amphibious capability; full capability (both ARGs) not until USS Boxer arrives ~mid-April, AFTER Apr 6 deadline",
       "Defense experts warn of Indo-Pacific gap as Marines deploy from Japan to Middle East (Stars and Stripes, Mar 19)",
       "CENTCOM requested additional forces for 'more options for military operations against Iran'",
       "Time (Mar 24): article details what Marines 'could be used for' — island seizure, maritime interdiction, littoral warfare",
       "WashPost (Mar 24): Army paratroopers ordered to Middle East 'as US weighs next move in Iran conflict'"
     ],
     "draft_indicators": "None. No legislation introduced. No Selective Service activation. No public discussion at Pentagon or White House level. 82nd Airborne deployment (first Army ground unit) marks qualitative escalation beyond Marine-only force, but still well within normal force posture adjustments.",
-    "assessment": "Status remains 'staging' but picture is MIXED: diplomatic and military tracks running in parallel. Trump's 10-day extension to April 6 REDUCES immediate escalation pressure and buys time for Pakistan-mediated indirect talks. Iran's formal response through intermediaries (Tasnim, Mar 26) represents first substantive back-channel engagement. Israel's removal of Araghchi and Qalibaf from hit list preserves negotiating partners. HOWEVER: Israel killed IRGC Navy Commander Tangsiri (architect of Hormuz blockade) — decapitating Iran's naval command while supposedly pursuing diplomacy. 82nd Airborne still deploying. USS Tripoli approaching theatre; USS Boxer arriving ~mid-April. Iran fortifying Kharg Island. The Apr 6 deadline becomes the new critical decision point. Ground force buildup (6,000-8,000) continues regardless of diplomatic signals. Still far from Jiang's 500K-2M troops/draft scenario. Assessment: trajectory has shifted from 'imminent escalation' to 'contested diplomacy with continued force buildup' — but either track could dominate depending on Apr 6 developments."
+    "assessment": "Status remains 'staging' — two contradictory dynamics intensifying simultaneously. MILITARY TRACK: Israel escalated significantly on Mar 27-28 — struck 2 nuclear facilities (Arak, Ardakan) and 2 IRGC steel plants, vowed to 'intensify and expand.' IRGC warned of retaliation 'beyond eye for eye.' USS Tripoli ARG entering CENTCOM area gives first actual amphibious capability. Division 162 deployed to Lebanon (3 divisions now). DIPLOMATIC TRACK: Witkoff expressed optimism — expects meetings 'this week,' noted 'ships are passing.' Possible Islamabad summit being arranged. Apr 6 deadline is 9 days away. Qalibaf denied any 'negotiations.' The contradiction deepens: Israel hitting nuclear sites and steel plants while Witkoff talks of imminent meetings. Ground force buildup (6,000-8,000) continues regardless. Still far from Jiang's 500K-2M troops/draft scenario. Assessment: the next 48-72 hours may be decisive — if Islamabad meetings materialize, ground ops could be deferred; if Israel's escalation provokes Iranian retaliation beyond current levels, the military track could overtake diplomacy."
   },
   "daily_entries": [
+    {
+      "date": "2026-03-28",
+      "tags": [
+        "Iran",
+        "Israel",
+        "Nuclear",
+        "Steel",
+        "Escalation"
+      ],
+      "summary": "Day 29 of war. Israel struck 2 nuclear facilities — Arak heavy water complex (Shahid Khondab) and Ardakan yellowcake production plant in Yazd — and bombed 2 IRGC-linked steel plants (Khuzestan Steel near Ahvaz, Mobarakeh Steel in Isfahan). Mobarakeh is the largest steel company in MENA, responsible for ~1% of Iran's GDP and >50% of national steel production — strike expected to 'paralyze' Iran's steel industry and cause billions in damage. Defense Minister Katz vowed to 'intensify and expand' strikes. IRGC Aerospace commander Brig. Gen. Mousavi warned workers at US/Israeli-linked sites to evacuate, threatening retaliation 'beyond eye for eye.' Iran's Atomic Energy Organization confirmed strikes on Arak and Ardakan but said no casualties or radiation release at nuclear sites. Casualties: 1 killed + 16 injured at Mobarakeh Steel; 16 minor injuries at Khuzestan Steel. In Israel, cluster munitions killed 1 man (60s) in Tel Aviv. Witkoff said he expects meetings with Iran 'this week' and noted 'ships are passing — very good sign.' Possible Islamabad meeting being arranged. Oil at ~$107.81/bbl. Updated Iran death toll: ~1,937 (Al Jazeera tracker).",
+      "details": [
+        "Israel struck Arak Heavy Water Complex (Shahid Khondab) — described as 'key plutonium production site for nuclear weapons' (IDF)",
+        "Israel struck Ardakan yellowcake production plant in Yazd Province — uranium extraction facility",
+        "Israel bombed Khuzestan Steel near Ahvaz — IRGC-linked; 16 minor injuries, all discharged",
+        "Israel bombed Mobarakeh Steel in Isfahan — largest steel company in MENA; 1 killed, 16 injured; partially IRGC-owned",
+        "Mobarakeh Steel: ~1% of Iran's GDP, >50% of national steel production — strike expected to cause billions in damage",
+        "Israel Defense Minister Katz: attacks 'will intensify and expand'",
+        "IRGC Aerospace commander Brig. Gen. Mousavi: retaliation will go 'beyond eye for eye'; workers at US/Israeli-linked sites must evacuate",
+        "Iran Atomic Energy Organization: no casualties or radiation release at Arak or Ardakan",
+        "Cluster munitions killed 1 man (60s) in Tel Aviv; others injured in central Israel",
+        "Iran fired new missile barrages — intercepted over central and southern Israel",
+        "Witkoff: expects meetings 'this week'; 'ships are passing — very good sign'",
+        "Possible Islamabad meeting being arranged — Witkoff/Kushner/possibly Vance for US; Araghchi/Qalibaf for Iran",
+        "Qalibaf denied any 'negotiations' — called US claims effort to 'manipulate markets'",
+        "Oil at $107.81/bbl (Fortune, Mar 27 9am ET) — up from $105-106",
+        "Updated Iran death toll: ~1,937 killed (Al Jazeera tracker); WashPost: ~1,500 civilians",
+        "US acknowledges war may extend past initial 4-6 week timeline (Times of Israel, Mar 27)"
+      ],
+      "prediction_impact": "Israel's escalation to industrial/economic targets (steel plants = ~1% of GDP) and additional nuclear facilities represents a significant widening of the target set — moving beyond purely military objectives to systematic economic destruction. The IRGC's evacuation warning and 'beyond eye for eye' rhetoric suggests Iran may retaliate against US-linked industrial sites in Gulf states — a potential escalation that could further destabilize regional energy infrastructure. Witkoff's optimism about 'this week' meetings exists in tension with Israel's vowed escalation. The US acknowledgment that war may exceed 4-6 weeks signals the air campaign alone is insufficient to achieve objectives.",
+      "source": "Times of Israel, Al Jazeera, WION, Al Arabiya, PressTV, Time, PBS, CNN, Fortune, WashPost, Euronews, Israel Hayom, CGTN, Kurdistan24, JPost"
+    },
+    {
+      "date": "2026-03-28",
+      "tags": [
+        "Ground Invasion Tracker"
+      ],
+      "summary": "USS Tripoli ARG expected to enter CENTCOM area Mar 27-28 per WSJ — first amphibious assault force arriving in combat theatre. This gives the US partial amphibious capability (2,200 Marines from 31st MEU). USS Boxer ARG still in Pacific transit (~mid-April). 82nd Airborne continuing deployment. Israel deployed Division 162 to Lebanon — now THREE divisions operating in southern Lebanon. Israel's escalation to nuclear/industrial targets and IRGC's retaliation threats could create pressure for ground action if air campaign judged insufficient. Witkoff's optimism about 'this week' meetings could delay ground ops if talks materialize. Apr 6 deadline is 9 days away.",
+      "details": [
+        "USS Tripoli ARG expected to enter CENTCOM area Mar 27-28 per WSJ — first MEU arriving in combat theatre",
+        "USS Tripoli composition: LHA-7 + USS New Orleans (LPD) + USS Robert Smalls (CG) + USS Rafael Peralta (DDG) + 31st MEU (2,200 Marines)",
+        "USS Boxer ARG still in Pacific — ~mid-April arrival; full amphibious capability not until then",
+        "82nd Airborne (1,000-3,000 paratroopers) continuing deployment",
+        "Combined ground force approaching 6,000-8,000 (Marines + 82nd Airborne)",
+        "Israel deployed Division 162 to southern Lebanon — THREE divisions now operating; expanding 'buffer zone'",
+        "Israel struck nuclear + industrial targets — possible signal that air campaign moving to economic coercion phase",
+        "IRGC warned of retaliation 'beyond eye for eye' on US/Israeli-linked sites — escalation risk",
+        "US acknowledges war may extend past 4-6 week timeline — undermines quick-resolution thesis",
+        "Witkoff: meetings 'this week'; possible Islamabad summit could delay ground ops",
+        "No draft legislation, no Selective Service activation",
+        "Apr 6 deadline: 9 days away; USS Tripoli in theatre gives partial capability; full capability ~mid-April"
+      ],
+      "prediction_impact": "The arrival of USS Tripoli in CENTCOM marks the transition from 'staging' to 'partial capability in place.' For the first time, the US has an amphibious assault force in the theatre. However, full capability (both ARGs) requires USS Boxer (~mid-April). The diplomatic track (Witkoff optimism, possible Islamabad meeting) creates a counterweight. The US acknowledgment that war may exceed 4-6 weeks is significant — it suggests the administration is preparing for extended operations, which aligns more with the 'trap' thesis than a quick resolution.",
+      "source": "WSJ, USNI News, The War Zone, Time, CNN, Al Jazeera, Times of Israel, Army Recognition"
+    },
+    {
+      "date": "2026-03-28",
+      "tags": [
+        "Lebanon",
+        "Israel",
+        "Division 162",
+        "Buffer Zone"
+      ],
+      "summary": "Israel deployed Division 162 to southern Lebanon to expand 'buffer zone,' joining two other divisions already operating. Now THREE IDF divisions in Lebanon — described by Lebanon as 'an invasion.' Division 162 operating in western sector with aim of expanding security zone. Defense Minister Katz reiterated IDF will control territory up to Litani River. Euronews headline: 'This is an invasion.' Chatham House analysis warns any Israeli occupation of southern Lebanon will work to Hezbollah's advantage.",
+      "details": [
+        "Israel deployed Division 162 to southern Lebanon — THREE divisions now operating (91st + 162nd + one other)",
+        "Division 162 operating in western sector to expand 'buffer zone'",
+        "Lebanon describes Israeli operations as 'an invasion' (Euronews, Mar 27)",
+        "Defense Minister Katz: IDF will control 'security zone' up to Litani River",
+        "Chatham House (Mar 28): Israeli occupation of southern Lebanon 'will work to Hezbollah's advantage'",
+        "Casualties continue rising — at least 1,116 killed, 3,229 injured, 1.2M displaced since Mar 2",
+        "IDF destroying infrastructure; Litani bridges already demolished"
+      ],
+      "prediction_impact": null,
+      "source": "Al Jazeera, Euronews, Times of Israel, Chatham House"
+    },
+    {
+      "date": "2026-03-28",
+      "tags": [
+        "Russia",
+        "Ukraine",
+        "Frontline",
+        "Sumy"
+      ],
+      "summary": "150 combat engagements recorded on Mar 27, down from 158 on Mar 26 — continuing downward trend from peak of 176 (Mar 25). Russia claimed capture of Bobylivka in Sumy Oblast, crossing the Russia-Ukraine border. Russia carried out 68 airstrikes, dropping 227 guided aerial bombs. In Sumy region, 1 civilian killed and 2 wounded. Combat engagements declining for 3rd consecutive day (176 → 158 → 150) — may signal operational pause before spring offensive or reflect resource reallocation.",
+      "details": [
+        "150 combat engagements on Mar 27 — DOWN from 158 on Mar 26 (3rd consecutive decline from 176 peak)",
+        "Russia claimed capture of Bobylivka in Sumy Oblast — crossed Russia-Ukraine border",
+        "Russia carried out 68 airstrikes, dropped 227 guided aerial bombs",
+        "1 civilian killed, 2 wounded in Sumy region from Russian strikes",
+        "Combat engagement downtrend (176 → 158 → 150) may signal pre-offensive pause or resource constraints",
+        "Abu Dhabi trilateral talks still postponed",
+        "Iran war continues consuming diplomatic bandwidth"
+      ],
+      "prediction_impact": "Russia's claimed capture of Bobylivka in Sumy Oblast — crossing the international border — is significant if confirmed. It represents a new territorial thrust beyond the Donbas front. The 3-day decline in combat engagements (176 → 158 → 150) from the peak could indicate preparations for a larger spring offensive rather than a genuine de-escalation.",
+      "source": "EMPR Media, Ukrinform, Pravda, Wikipedia timeline"
+    },
     {
       "date": "2026-03-27",
       "tags": [

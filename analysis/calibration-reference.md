@@ -1,4 +1,4 @@
-# Prediction Calibration Reference — March 27, 2026
+# Prediction Calibration Reference — March 28, 2026
 
 Use this document when analyzing Predictive History lectures to accurately assess prediction statuses.
 
@@ -70,6 +70,13 @@ Use this document when analyzing Predictive History lectures to accurately asses
 | Maduro hearing — judge defers ruling | Mar 26, 2026 | Judge Hellerstein did NOT dismiss charges; did NOT rule on defense funding; promised decision 'soon'; emphasized 6th Amendment right |
 | Lebanon casualties surpass 1,116 killed | Mar 27, 2026 | 3,229 injured; 121 children among dead; IDF soldier killed in ground ops; IDF struck paramedic center in Hebbariye |
 | Oil drops below $100/bbl | Mar 26, 2026 | Brent to ~$96-97 range (from $102.47); volatile on conflicting diplomacy signals |
+| Israel struck Arak heavy water + Ardakan yellowcake | Mar 27-28, 2026 | Shahid Khondab Heavy Water Complex in Arak and Ardakan yellowcake plant in Yazd struck; no radiation release per Iran Atomic Energy Organization |
+| Israel bombed 2 IRGC-linked steel plants | Mar 27, 2026 | Khuzestan Steel (Ahvaz) and Mobarakeh Steel (Isfahan); Mobarakeh is largest in MENA (~1% GDP, >50% steel production); 1 killed, 16+ injured; billions in damage |
+| Israel vowed to 'intensify and expand' strikes | Mar 27-28, 2026 | Defense Minister Katz announced escalation of campaign; IRGC warned 'beyond eye for eye' retaliation |
+| Division 162 deployed to Lebanon | Mar 27-28, 2026 | THREE IDF divisions now operating in southern Lebanon; Lebanon called it 'an invasion'; expanding buffer zone toward Litani |
+| USS Tripoli ARG entering CENTCOM area | Mar 27-28, 2026 | WSJ: expected to cross into CENTCOM; first amphibious force arriving in combat theatre |
+| Iran death toll reaches ~1,937 | Mar 28, 2026 | Al Jazeera tracker; WashPost: ~1,500 civilians killed; Hengaw: 5,300 in 18 days; figures continue diverging |
+| Russia claimed Bobylivka in Sumy Oblast | Mar 27-28, 2026 | Russian forces claimed crossing Russia-Ukraine border; capture of town in Sumy region |
 
 ## Quick Reference: Disconfirmed Claims
 
@@ -85,37 +92,34 @@ Use this document when analyzing Predictive History lectures to accurately asses
 ## Key Contextual Facts for Analysis
 
 ### US-Iran War
-- Air/missile campaign now in Day 28 — NO ground troops deployed IN Iran yet, but ground forces deploying TO the region
-- MAJOR SHIFT: Trump EXTENDED energy strike deadline by 10 days to April 6 — reduces immediate escalation pressure; cited 'Iranian Government request' and Iran 'gave me ships'
-- Iran formally RESPONDED to 15-point plan through intermediaries (Tasnim, Mar 26) — first substantive back-channel engagement; awaiting US reply
-- FM Araghchi: 'policy is continuation of resistance,' 'we do not intend to negotiate' — but sending messages through mediators
-- Pakistan confirmed mediating 'indirect talks'; Witkoff confirmed presenting 15 points through Pakistan; Egypt and Turkey also involved
-- Israel killed IRGC Navy Commander Alireza Tangsiri (architect of Hormuz blockade) + intelligence chief Rezaei in Bandar Abbas (Mar 26-27) — 5th senior official assassinated
-- Israel TEMPORARILY removed FM Araghchi and Parliament Speaker Qalibaf from hit list at Pakistan's request (WSJ: 4-5 day window) — preserving negotiating partners
-- Iran formally announced 5 nations allowed through Hormuz: China, Russia, India, Iraq, Pakistan; US/Israel/allies blocked
+- Air/missile campaign now in Day 29 — NO ground troops deployed IN Iran yet, but ground forces deploying TO the region
+- MAJOR: Israel struck 2 nuclear facilities (Arak heavy water, Ardakan yellowcake) + 2 IRGC-linked steel plants (Khuzestan, Mobarakeh) on Mar 27-28 — vowed to 'intensify and expand'
+- Mobarakeh Steel is largest in MENA (~1% Iran GDP, >50% steel production) — strike expected to 'paralyze' steel industry
+- IRGC Aerospace commander Brig. Gen. Mousavi warned of retaliation 'beyond eye for eye' — workers at US/Israeli-linked sites must evacuate
+- Witkoff said he expects meetings with Iran 'this week'; 'ships are passing — very good sign'; possible Islamabad summit being arranged
+- Qalibaf denied any 'negotiations' — called US claims manipulation; diplomatic picture remains contradictory
+- Trump EXTENDED energy strike deadline to April 6 (9 days away); Pakistan, Egypt, Turkey mediating
+- USS Tripoli ARG expected to enter CENTCOM area Mar 27-28 (WSJ) — first amphibious force arriving in theatre
+- USS Boxer ARG in Pacific, NOT expected until mid-April
 - 82nd Airborne Division (1,000-3,000 paratroopers) deploying — first Army ground combat unit in theatre
-- USS Tripoli ARG at Diego Garcia, expected in CENTCOM area late March/early April; USS Boxer ARG in Pacific, NOT expected until mid-April
 - Combined ground-capable force approaching 6,000-8,000 (Marines + 82nd Airborne)
-- Oil surged back to ~$105-106/bbl (from $96-97); 2,000 vessels and 20,000 seafarers stranded in Hormuz
-- Updated casualties: Iran 1,750+ killed (217 children; Hengaw reports 5,900 in 21 days); 82,000+ structures damaged
-- 13 US KIA, ~200 wounded; 1,116+ killed in Lebanon/3,229 injured/1.2M displaced; 22+ killed in Israel/3,950+ wounded
-- UAE has intercepted 372 BMs + 15 CMs + 1,826 drones total since Feb 28
-- US has hit two-thirds of Iran's missile and drone production facilities
+- Oil at ~$107.81/bbl (Fortune, Mar 27); 2,000 vessels and 20,000 seafarers stranded in Hormuz
+- Updated casualties: Iran ~1,937 killed (Al Jazeera); WashPost: ~1,500 civilians; 82,000+ structures damaged
+- 13 US KIA, ~200 wounded; 1,116+ killed in Lebanon/3,229 injured/1.2M displaced; 23+ killed in Israel/3,950+ wounded
+- US acknowledges war may extend past initial 4-6 week timeline (Times of Israel, Mar 27)
 - Israel decapitation campaign: Khamenei (Feb 28), Larijani (Mar 17), Soleimani (Mar 17), Khatib (Mar 18), Tangsiri (Mar 26-27)
-- Kim Jong Un explicitly invoked Iran war to justify DPRK nuclear weapons — proliferation implications materializing
-- The "Iran trap" scenario is now in a CONTESTED phase: diplomatic track gaining substance (mediators active, Iran responding) while military buildup continues
-- Apr 6 deadline is the new critical decision point — USS Boxer arrival (~mid-April) aligns closer to new deadline
+- Israel deployed Division 162 to Lebanon — THREE divisions now operating; expanding buffer zone; Lebanon calls it 'an invasion'
+- The "Iran trap" scenario remains CONTESTED: military escalation (nuclear + industrial targets) intensifying alongside diplomatic track (Witkoff optimism)
+- Apr 6 deadline is the critical decision point — USS Tripoli arriving gives partial amphibious capability; full capability ~mid-April
 
 ### Hormuz Blockade & Regional Fallout
-- Blockade continues but picture shifting: Trump extended deadline to Apr 6; Iran formally allowed 5 nations through (China, Russia, India, Iraq, Pakistan)
-- Israel killed IRGC Navy Commander Tangsiri (architect of blockade) Mar 26-27 — removes operational commander but blockade policy continues under successor
+- Blockade continues; Iran operating 'toll booth' vetting system for ship passage (Al Jazeera); 5 nations formally allowed (China, Russia, India, Iraq, Pakistan)
+- Oil at ~$107.81/bbl (Mar 28) — up from $105-106; +54% from pre-war ~$70
 - 2,000 vessels and 20,000 seafarers stranded in Hormuz — severe humanitarian challenges
-- Oil surged back to ~$105-106/bbl (Mar 27) from $96-97 (Mar 26) — volatile; +50% from pre-war
-- Iran formally responded to 15-point plan through intermediaries (Tasnim); diplomatic track gaining substance via Pakistan, Egypt, Turkey
-- Iran threatened to mine "entire Persian Gulf" if coasts/islands attacked — moored and drifting mines across all access routes
+- IRGC warned of retaliation 'beyond eye for eye' after steel plant strikes — threatens US-linked facilities across Gulf
+- Energy-infrastructure warfare spiral widening: now includes nuclear (Arak, Ardakan) + industrial (steel plants) + energy infrastructure
 - 22 countries signed joint statement condemning closure (Mar 19); UK agreed to let US use British bases (Mar 21)
-- Energy-infrastructure warfare spiral continues: South Pars → Ras Laffan → Kuwait/Saudi refineries → Kuwait airport → Isfahan (Mar 27)
-- UAE as of Mar 27: 372 ballistic missiles, 15 cruise missiles, 1,826 drones intercepted; 8 killed, 157+ injured
+- UAE: 372 ballistic missiles, 15 cruise missiles, 1,826 drones intercepted; 8 killed, 157+ injured
 - Qatar: Ras Laffan hit with "extensive damage" (Mar 19) on top of gas production halt (Mar 2)
 - US has hit two-thirds of Iran's missile and drone production facilities
 - Pakistan: confirmed mediating indirect talks; four-day work week, school closures, fuel conservation continue
@@ -123,7 +127,7 @@ Use this document when analyzing Predictive History lectures to accurately asses
 - India: most vulnerable major economy; ordered refineries to maximize LPG production (+25%); one of 5 nations with Hormuz passage
 - Houthis have NOT resumed Red Sea attacks despite threats — weapons stockpile low, strategic patience
 - Iran demonstrated 4,000km+ missile range (Diego Garcia, Mar 21) — European capitals theoretically in range
-- Apr 6 deadline is the new critical pressure point — diplomatic and military tracks running in parallel
+- Apr 6 deadline is the critical pressure point — diplomatic and military tracks running in parallel
 
 ### Venezuela, Cuba, Colombia
 - **Venezuela**: Maduro hearing held Mar 26 — Judge Hellerstein did NOT dismiss charges; did NOT rule on defense funding; promised decision 'soon'; emphasized 6th Amendment right to counsel is 'paramount'; said if government refuses future order, could then entertain dismissal. No next hearing date set. Rodriguez acting president; US recognized as sole leader Mar 11
@@ -132,10 +136,11 @@ Use this document when analyzing Predictive History lectures to accurately asses
 
 ### Russia-Ukraine War (March 2026)
 - War continues as grinding attritional conflict — Ukraine has NOT "lost"
-- Russia occupies ~20% of territory; 158 combat engagements on Mar 26 (down from 176 on Mar 25) — first decline in upward trend
+- Russia occupies ~20% of territory; 150 combat engagements on Mar 27 (down from 158 on Mar 26) — 3rd consecutive decline from 176 peak
+- Russia claimed capture of Bobylivka in Sumy Oblast — crossing the Russia-Ukraine border; new territorial thrust beyond Donbas
+- Russia carried out 68 airstrikes, dropped 227 guided aerial bombs; 1 civilian killed in Sumy
 - Russia lost 4 sq mi during week of Mar 17-24 (shift from 50 sq mi gained in prior 4 weeks)
-- ISW: increasing Russian mechanized assaults since Mar 17 in Lyman, Kostiantynivka, Pokrovsk — possible spring offensive preparation against Fortress Belt in Donetsk Oblast
-- Russia carried out 70 airstrikes, launched 9,414 kamikaze drones, 4,184 shelling attacks
+- ISW: increasing Russian mechanized assaults since Mar 17 — spring offensive preparation against Fortress Belt in Donetsk Oblast
 - Ukraine cleared 400 km² since counteroffensive began; Feb 2026 first net territorial gain since 2024
 - US-Ukraine bilateral talks in Miami Mar 21-22 (Witkoff, Kushner, Umerov, Budanov) — "constructive"; Russia NOT present
 - Trilateral Abu Dhabi talks still postponed; bilateral approach signals strategy shift

@@ -1,4 +1,4 @@
-# Geopolitical Briefing: State of the World as of March 27, 2026
+# Geopolitical Briefing: State of the World as of March 28, 2026
 
 Compiled for evaluation of mid-2024 predictions. All information sourced from publicly available reporting through March 2026.
 
@@ -18,7 +18,7 @@ Compiled for evaluation of mid-2024 predictions. All information sourced from pu
 - On **February 28, 2026**, the US and Israel launched nearly **900 strikes in 12 hours** targeting Iranian missiles, air defenses, military infrastructure, and leadership.
 - The opening salvo **assassinated Supreme Leader Ayatollah Ali Khamenei** and several family members in Tehran. His daughter Boshra, her daughter, his son-in-law, and daughter-in-law were also killed.
 - A missile struck a girls' school adjacent to a naval base in Minab, near Bandar Abbas, killing ~170 people.
-- As of March 27, 2026: **more than 1,750 killed** with **217 children** and **at least 1,167 military** per multiple monitoring sources. **Hengaw** reported **5,900 killed in 21 days** including 595 civilians — figures diverge widely due to Iran's internet blackout. **HRANA** had documented 3,230 deaths (1,406 civilians including 210 children) as of Mar 24. The **Iranian Red Crescent Society** reported **82,000+ civilian structures** damaged or destroyed (Mar 24). US has hit **two-thirds of Iran's missile and drone production facilities**. Iran's internet blackout has made independent casualty verification extremely difficult (France24, SCMP).
+- As of March 28, 2026: **~1,937 killed** per Al Jazeera live tracker. **Washington Post** (Mar 27): **~1,500 civilians killed**. **Hengaw**: **5,300 killed in 18 days** (511 civilians, 4,789 military). **HRANA** had documented 3,230 deaths (1,406 civilians including 210 children) as of Mar 24. The **Iranian Red Crescent Society** reported **82,000+ civilian structures** damaged or destroyed (Mar 24). US has hit **two-thirds of Iran's missile and drone production facilities**. Iran's internet blackout has made independent casualty verification extremely difficult (France24, SCMP). US acknowledges war may extend past initial **4-6 week timeline** (Times of Israel, Mar 27).
 - Iran has responded with **500+ ballistic/naval missiles and ~2,000 drones** since Feb 28, striking US military presence and civilian infrastructure across **9 countries** including Bahrain, Kuwait, Qatar, Saudi Arabia, Oman, and the UAE.
 - At least **22+ Israelis killed and 3,950+ wounded** in Iranian retaliatory attacks. Iranian missiles struck Dimona and Arad on March 21-22, wounding **180** in the most significant penetration of Israeli air defenses near nuclear infrastructure. On March 25, Iranian missiles struck **Tel Aviv** after a **David's Sling malfunction** allowed ballistic missiles through — 4+ casualties, buildings damaged. Israel experienced **seven waves of Iranian missiles** since midnight March 25.
 - **13 US service members killed** (7 by enemy fire, 6 in Iraq plane crash Mar 13) and **~200 wounded** (~180 returned to duty).
@@ -34,9 +34,10 @@ Compiled for evaluation of mid-2024 predictions. All information sourced from pu
 ### Israeli Decapitation Campaign (March 17-18, 2026)
 - **March 17**: Israel assassinated **Ali Larijani**, Secretary of Iran's Supreme National Security Council, described as the "most powerful man in Iran" and de facto leader. His son Morteza and aide Alireza Bayat also killed. Separately, **Basij militia commander Gholamreza Soleimani** killed in another strike the same night.
 - **March 18**: Israel killed **Intelligence Minister Esmail Khatib** in Tehran — the third top official killed in 48 hours.
-- Total senior Iranian officials killed since Feb 28: Supreme Leader Khamenei, SNSC Secretary Larijani, Basij Commander Soleimani, Intelligence Minister Khatib, **IRGC Navy Commander Tangsiri** (Mar 26-27).
+- Total senior Iranian officials killed since Feb 28: Supreme Leader Khamenei, SNSC Secretary Larijani, Basij Commander Soleimani, Intelligence Minister Khatib, **IRGC Navy Commander Tangsiri** (Mar 26-27). Plus industrial/economic targeting: Mobarakeh Steel + Khuzestan Steel (Mar 27-28).
 - Al Jazeera analysis: Israel killed Larijani to "torpedo" any chance of US-Iran negotiations.
 - Conversely, Israel **temporarily removed** FM Araghchi and Parliament Speaker Qalibaf from hit list at Pakistan's request (WSJ, Mar 26) — 4-5 day window to preserve negotiating partners.
+- Qalibaf denied any "negotiations" had taken place — called US claims an effort to "manipulate markets."
 
 ### South Pars Gas Field Attack (March 18, 2026)
 - **March 18**: Israeli jets struck **South Pars gas field processing facilities at Asaluyeh**, Iran's largest natural gas field.
@@ -86,6 +87,17 @@ Compiled for evaluation of mid-2024 predictions. All information sourced from pu
 - Tangsiri is the **5th senior Iranian official** assassinated since Feb 28: Khamenei, Larijani, Soleimani, Khatib, Tangsiri.
 - The FDD described the strike as eliminating the man "responsible for closing Strait of Hormuz."
 - *Sources: FDD, Al Jazeera, Washington Post, JPost, Times of Israel, Euronews, Eurasia Review, Al Arabiya, Townhall*
+
+### Israel Strikes Nuclear Facilities and Steel Plants (March 27-28, 2026)
+- **March 27-28**: Israel struck **two nuclear facilities** and **two IRGC-linked steel plants**:
+  - **Shahid Khondab Heavy Water Complex** near Arak — described by IDF as a "key plutonium production site for nuclear weapons." Iran's Atomic Energy Organization confirmed the strike but said no casualties or radiation release.
+  - **Ardakan yellowcake production plant** in Yazd Province — uranium extraction facility. No casualties or structural damage per Iran.
+  - **Khuzestan Steel** near Ahvaz — IRGC-linked; **16 minor injuries**, all discharged.
+  - **Mobarakeh Steel** in Isfahan — the **largest steel company in the Middle East and North Africa**, responsible for **~1% of Iran's GDP** and **>50% of the country's steel production**. Partially IRGC-owned. **1 killed, 16 injured**. Israeli security source said strikes expected to cause **billions of dollars in damage** and "paralyze" Iran's steel industry.
+- Israel Defense Minister **Israel Katz** said Israel will **"intensify and expand"** its military campaign against Iran.
+- The strikes mark a significant **widening of the target set** — moving beyond purely military objectives to **systematic economic destruction**.
+- IRGC Aerospace commander **Brig. Gen. Seyyed Majid Mousavi** warned workers at US/Israeli-linked industrial sites across the region to **evacuate immediately**, threatening retaliation **"beyond eye for eye"**: "You tested us once before; the world saw again that you yourselves started playing with fire."
+- *Sources: Times of Israel, Al Jazeera, WION, Al Arabiya, PressTV, Time, PBS, Israel Hayom, CGTN, Kurdistan24, JPost, Euronews*
 
 ### Trump Extends Energy Strike Deadline to April 6 (March 26, 2026)
 - Trump posted on **Truth Social**: **"As per Iranian Government request, please let this statement serve to represent that I am pausing the period of Energy Plant destruction by 10 Days to Monday, April 6, 2026, at 8 P.M., Eastern Time."**
@@ -187,8 +199,10 @@ Compiled for evaluation of mid-2024 predictions. All information sourced from pu
 - Trump's **5-day postponement** (Mar 23) and declaration of "victory" (Mar 24) may signal de-escalation, but **if talks fail by ~Mar 28**, two Marine ARGs will be in position for operations.
 - **March 24-25**: **82nd Airborne Division** ordered to deploy 1,000-3,000 paratroopers to Middle East — **first Army ground combat unit** in the theatre. Includes division commander and Immediate Response Force (can mobilize in 18 hours). Combined ground force: **~6,000-8,000 troops** (Marines + Army).
 - **CNN (Mar 25)**: Iran **actively fortifying Kharg Island** — troops, MANPADs, air defenses, anti-armor mines. US officials warn of "significant risks" and "large number of US casualties."
-- This represents a significant evolution: air-only campaign → ground planning → Marines arriving → diplomatic off-ramp attempted → diplomacy failing → Army ground troops deploying → deadline extended to Apr 6 → diplomatic and military tracks running in parallel.
-- **March 26-27**: USS Tripoli ARG confirmed at **Diego Garcia**, expected in CENTCOM area late March/early April. USS Boxer ARG in **Pacific transit**, not expected in combat zone until **mid-April** at earliest (~13,800 miles from San Diego). Boxer timeline now closer to new Apr 6 deadline.
+- This represents a significant evolution: air-only campaign → ground planning → Marines arriving → diplomatic off-ramp attempted → diplomacy failing → Army ground troops deploying → deadline extended to Apr 6 → diplomatic and military tracks running in parallel → Israel escalating to industrial/economic targets (Mar 27-28).
+- **March 27-28**: USS Tripoli ARG **expected to enter CENTCOM area** per WSJ — first amphibious force arriving in combat theatre. Composition: USS Tripoli (LHA-7), USS New Orleans (LPD), USS Robert Smalls (CG), USS Rafael Peralta (DDG), ~2,200 Marines from 31st MEU. USS Boxer ARG in **Pacific transit**, not expected in combat zone until **mid-April** at earliest.
+- **March 27-28**: **Witkoff** said he expects meetings with Iran **"this week"** and noted **"ships are passing — that's a very, very good sign."** Possible Islamabad summit being arranged with Araghchi/Qalibaf for Iran and Witkoff/Kushner/possibly Vance for US.
+- US **acknowledges war may extend past initial 4-6 week timeline** (Times of Israel, Mar 27) — signals air campaign alone is insufficient.
 - FDD's Long War Journal analysis (Mar 2026): **"Why seizing Iran's Kharg Island could be a trap of America's own making"** — mirrors Jiang's thesis.
 - *Sources: Axios, Military.com, CBS News, Times of Israel, USNI News, Stars and Stripes, Time, CNN, Washington Post, Army Recognition, FDD Long War Journal, The War Zone, CNBC*
 
@@ -197,13 +211,13 @@ Compiled for evaluation of mid-2024 predictions. All information sourced from pu
 - Tanker traffic dropped ~70% initially, then to **~99% below normal** — effectively zero transit.
 - **~2,000 vessels and 20,000 seafarers stranded** in the waterway (up from ~750 by Mar 12); **150+ ships anchored** outside refusing to enter.
 - The Strait normally carries **~20 million barrels/day** (~20% of global seaborne oil trade).
-- **Brent crude surged past $100/barrel** (from ~$70 pre-war), peaking at **$126/barrel**. As of March 27: **~$105-106/bbl** (surged ~4% from $96-97 on Mar 26 following Tangsiri assassination and continued strikes). Oil prices up ~50% since war began. Highly volatile on conflicting diplomacy/military signals. IRGC projects $200/barrel.
+- **Brent crude surged past $100/barrel** (from ~$70 pre-war), peaking at **$126/barrel**. As of March 28: **~$107.81/bbl** (Fortune, 9am ET Mar 27; up from $105-106). Oil prices up **~54% since war began**. Highly volatile on conflicting diplomacy/military signals. IRGC projects $200/barrel.
 - IEA authorized release of **400 million barrels** from strategic stockpiles — the largest such release in history.
 - Gulf states cut production by **at least 10 million bbl/day** combined as onshore storage filled.
 - War risk insurance premiums surged from 0.125% to **1% of ship value** per transit. Major insurers (Gard, Skuld, NorthStandard, London P&I Club) **cancelled war risk cover effective March 5**.
 - Oil supertanker rates hit **all-time highs**.
 - US Navy deployed **three carrier strike groups** (USS Abraham Lincoln, USS Gerald R. Ford, USS George H.W. Bush) but the blockade remains "strategically porous" — military can force passages but commercial shipping deterred.
-- **USS Tripoli ARG + 31st MEU** (2,200 Marines with F-35Bs) transited Malacca Strait March 18. Full ESG composition: USS Tripoli (LHA-7), guided-missile cruiser USS Robert Smalls, guided-missile destroyer USS Rafael Peralta. Expected to arrive in theatre **March 23-27**. CENTCOM confirmed **~50,000 US troops** now in the Middle East.
+- **USS Tripoli ARG + 31st MEU** (2,200 Marines with F-35Bs) transited Malacca Strait March 18. Full ESG composition: USS Tripoli (LHA-7), USS New Orleans (LPD), guided-missile cruiser USS Robert Smalls, guided-missile destroyer USS Rafael Peralta. Was at Diego Garcia by Mar 23; **expected to enter CENTCOM area Mar 27-28** per WSJ — first amphibious force arriving in combat theatre. CENTCOM confirmed **~50,000 US troops** now in the Middle East.
 - **USS Boxer ARG** (Wasp-class LHD-4, USS Portland LPD-27, USS Comstock LSD-45) + **11th MEU** (~2,500 Marines with F-35Bs) **departed San Diego March 18-19** — three weeks ahead of schedule, en route to Middle East.
 - Total Marine force converging on theatre: **~4,700 across two ARGs** (31st MEU on Tripoli + 11th MEU on Boxer).
 - UN Security Council passed **Resolution 2817** calling on Iran to halt attacks on Gulf shipping.
@@ -235,7 +249,7 @@ Iran struck military and civilian targets across at least 9 countries plus Israe
 | **Cyprus (UK base)** | RAF Akrotiri — Hezbollah-launched Shahed drone hit runway (Mar 1), more drones Mar 4 intercepted | Minor damage |
 | **Azerbaijan** | Nakhchivan exclave — airport damaged (Mar 5) | 2 civilians injured; Azerbaijan withdrew diplomats |
 
-**US military casualties**: **13 confirmed fatalities** — 7 killed by enemy fire (including 6 in Kuwait drone strike Mar 1), 6 in Iraq plane crash (Mar 13). **~200 wounded**, with 180+ returned to duty. **~50,000 US troops** now confirmed in the Middle East theatre (CENTCOM). **UAE** has intercepted **372 ballistic missiles, 15 cruise missiles, and 1,826 drones** since Feb 28 (up from 314 BMs/1,672 drones as of Mar 17); 15 BMs and 11 drones intercepted on Mar 26 alone.
+**US military casualties**: **13 confirmed fatalities** — 7 killed by enemy fire (including 6 in Kuwait drone strike Mar 1), 6 in Iraq plane crash (Mar 13). **~200 wounded**, with 180+ returned to duty. **~50,000 US troops** now confirmed in the Middle East theatre (CENTCOM). **UAE** has intercepted **372 ballistic missiles, 15 cruise missiles, and 1,826 drones** since Feb 28 (up from 314 BMs/1,672 drones as of Mar 17); 15 BMs and 11 drones intercepted on Mar 26 alone. Overall death toll: **~1,937 in Iran** (Al Jazeera tracker), **23+ in Israel**, **13 US**, **25+ in Gulf states** (preliminary figures, Mar 28).
 
 ### Iranian Missiles Targeting Turkey (March 4-13, 2026)
 - Three Iranian ballistic missiles entered Turkish airspace, all intercepted by NATO air and missile defense assets in the Eastern Mediterranean.
@@ -287,7 +301,8 @@ Iran struck military and civilian targets across at least 9 countries plus Israe
 - Over 10,000 Israeli violations of Lebanese airspace and 1,400 military activities recorded inside Lebanese territory between November 2024 and February 2026 (UNIFIL records).
 - **March 2, 2026**: Airstrikes resumed between Hezbollah and Israel following the 2026 Iran war and Khamenei's assassination.
 - **March 16, 2026**: Israel launched **"limited and targeted ground operations"** in southern Lebanon. IDF 91st Division deployed to Kfar Kila, Houla, Kfar Shouba, Yaroun, and Khiam. A second division also deployed.
-- **As of March 27**: At least **1,116 people killed** (including 121 children) and **3,229 injured** and **1.2 million displaced** (about one in five Lebanese) since Mar 2. IDF soldier killed in Lebanon ground operations Mar 27. IDF airstrike on paramedic center in Hebbariye killed 7 (Mar 27; Hezbollah denied they were militants). Israeli airstrike on Beirut hotel killed 4 IRGC Quds Force commanders. Strike on health center killed 12 medical workers. Israel killed 3 in Beirut airstrike Mar 24.
+- **As of March 28**: At least **1,116 people killed** (including 121 children) and **3,229 injured** and **1.2 million displaced** (about one in five Lebanese) since Mar 2. IDF soldier killed in Lebanon ground operations Mar 27. IDF airstrike on paramedic center in Hebbariye killed 7 (Mar 27; Hezbollah denied they were militants). Israeli airstrike on Beirut hotel killed 4 IRGC Quds Force commanders. Strike on health center killed 12 medical workers. Israel killed 3 in Beirut airstrike Mar 24.
+- **March 27-28**: Israel deployed **Division 162** to southern Lebanon to expand "buffer zone," joining two other divisions. Now **THREE IDF divisions** operating in southern Lebanon. Division 162 operating in western sector. Euronews headline: **"This is an invasion."** Chatham House analysis warns any Israeli occupation of southern Lebanon **"will work to Hezbollah's advantage."**
 - **March 23**: Finance Minister **Bezalel Smotrich** called for **annexation of southern Lebanon** to the Litani River — the most explicit territorial claim by a senior Israeli official. Said the bombardment "needs to end with a different reality entirely" including a "change of Israel's borders."
 - **March 24**: Defense Minister **Israel Katz** said Israel will **maintain control of southern Lebanon** up to the Litani River and hundreds of thousands of Lebanese **"will not be allowed to return until security is guaranteed."**
 - Israeli army chief announced plans to **"advance targeted ground operations"** — describing the offensive as "still in its early stages."
@@ -383,7 +398,7 @@ Iran struck military and civilian targets across at least 9 countries plus Israe
 ### Ukraine Has NOT "Lost"
 - The war continues as a grinding attritional conflict. Ukraine maintains significant territory and fighting capability.
 - Ukraine has become a **drone superpower**, with its drone technology being noted in context of the Iran war.
-- **158 combat engagements** recorded on March 26, 2026 — down from 176 on March 25 (first decline in upward trend since Mar 12). Greatest pressure on Pokrovsk sector; increased activity across Kostiantynivka, Huliaipole, Zaporizhzhia, and Sumy sectors. Russia lost **4 square miles** during the week of Mar 17-24 — shift from earlier momentum (gained 50 sq mi in prior 4-week period). **ISW** observing increase in Russian mechanized assaults since Mar 17 across Lyman, Kostiantynivka, and Pokrovsk directions — possibly preparing **spring-summer offensive against the Fortress Belt** in Donetsk Oblast. Russia carried out **70 airstrikes** and launched **9,414 kamikaze drones** with **4,184 shelling attacks** on positions. Ukraine struck Russian **combat icebreaker Purga** (Project 23550, intended for FSB Border Service) in Leningrad region overnight Mar 25.
+- **150 combat engagements** recorded on March 27, 2026 — down from 158 on March 26, continuing a 3-day decline from the peak of 176 (Mar 25). Russia claimed capture of **Bobylivka in Sumy Oblast**, crossing the Russia-Ukraine border — a new territorial thrust beyond Donbas. Russia carried out **68 airstrikes**, dropping **227 guided aerial bombs**. **1 civilian killed, 2 wounded** in Sumy region. Greatest pressure continues on Pokrovsk sector; increased activity across Kostiantynivka, Huliaipole, Zaporizhzhia, and Sumy sectors. Russia lost **4 square miles** during the week of Mar 17-24 — shift from earlier momentum (gained 50 sq mi in prior 4-week period). **ISW** observing increase in Russian mechanized assaults since Mar 17 across Lyman, Kostiantynivka, and Pokrovsk directions — possibly preparing **spring-summer offensive against the Fortress Belt** in Donetsk Oblast. Ukraine struck Russian **combat icebreaker Purga** (Project 23550, intended for FSB Border Service) in Leningrad region overnight Mar 25.
 
 ### Manpower
 - Average Ukrainian soldier age: **~43 years old**.
@@ -642,38 +657,38 @@ Iran struck military and civilian targets across at least 9 countries plus Israe
 
 ## Summary of Key Developments for Prediction Evaluation
 
-| Topic | Status as of March 27, 2026 |
+| Topic | Status as of March 28, 2026 |
 |-------|------------------------|
-| US military strike on Iran | YES -- June 2025 (Operation Midnight Hammer) and Feb 2026 (ongoing war, Day 28); US hit 2/3 of Iran's missile/drone production |
-| Israel-Iran direct conflict | YES -- Twelve-Day War (June 2025) and 2026 Iran war; nuclear-facility tit-for-tat; Tel Aviv hit Mar 25; Isfahan hit Mar 27 |
+| US military strike on Iran | YES -- June 2025 (Operation Midnight Hammer) and Feb 2026 (ongoing war, Day 29); US hit 2/3 of Iran's missile/drone production |
+| Israel-Iran direct conflict | YES -- Twelve-Day War (June 2025) and 2026 Iran war; nuclear sites (Arak, Ardakan) + steel plants hit Mar 27-28; Tel Aviv hit Mar 25 |
 | Khamenei killed | YES -- Assassinated Feb 28, 2026; son Mojtaba succeeded him |
 | Israeli decapitation campaign | Khamenei (Feb 28), Larijani (Mar 17), Soleimani (Mar 17), Khatib (Mar 18), Tangsiri (Mar 26-27) — 5 top officials; Araghchi/Qalibaf temporarily removed from hit list |
 | Iran nuclear breakout | Near-zero breakout time pre-strikes; warhead development authorized Oct 2025; Natanz struck again Mar 22 |
 | Strait of Hormuz closed | YES -- Blockade continues; Iran formally allowed 5 nations (China, Russia, India, Iraq, Pakistan); US/Israel/allies blocked; 2,000 vessels stranded |
 | Hormuz blockade casualties | 9+ countries struck; 13 US KIA; Gulf infrastructure devastated; Tangsiri (blockade architect) killed Mar 26-27 |
-| Kharg Island | US bombed 90+ targets (Mar 13); Iran FORTIFYING with troops/MANPADs/mines; 82nd Airborne deploying; USS Tripoli at Diego Garcia |
+| Kharg Island | US bombed 90+ targets (Mar 13); Iran FORTIFYING with troops/MANPADs/mines; 82nd Airborne deploying; USS Tripoli entering CENTCOM area |
 | South Pars gas field | Israel struck processing facilities (Mar 18); ~12% of Iran's gas production damaged |
-| Energy/nuclear infrastructure spiral | Natanz → Dimona + South Pars → Ras Laffan → Tel Aviv → Tehran → Kuwait airport → Isfahan (Mar 27) |
-| Trump peace plan — contested diplomacy | Iran rejected plan as "maximalist" BUT formally responded through intermediaries (Tasnim); Trump extended deadline to Apr 6; Pakistan mediating |
-| Ground operation planning | 82nd Airborne (1,000-3,000) deploying; USS Tripoli at Diego Garcia; USS Boxer in Pacific (~mid-April); total ~6,000-8,000; Iran fortifying Kharg |
+| Energy/nuclear infrastructure spiral | Now includes nuclear (Arak, Ardakan) + industrial (steel plants) + energy; IRGC threatens 'beyond eye for eye' retaliation |
+| Trump peace plan — contested diplomacy | Iran rejected plan as "maximalist" BUT Witkoff expects meetings 'this week'; possible Islamabad summit; Apr 6 deadline; Qalibaf denies talks |
+| Ground operation planning | 82nd Airborne (1,000-3,000) deploying; USS Tripoli entering CENTCOM; USS Boxer in Pacific (~mid-April); total ~6,000-8,000; Iran fortifying Kharg |
 | Diego Garcia missile attack | Iran fired 2 IRBMs at US-UK base 4,000km away (Mar 21) — reveals doubled missile range capability |
 | Turkey hit by Iran missiles | 3 ballistic missiles entered airspace (Mar 4, 9, 13) -- all intercepted by NATO |
 | Commercial shipping attacked | Thai ship MV Mayuree Naree struck Mar 11 (3 missing); 6+ ships attacked Mar 11-12 |
 | Gulf state damage | UAE: 372 BMs + 15 CMs + 1,826 drones intercepted; Qatar: Ras Laffan + gas halt; Kuwait airport fire Mar 25 |
-| Oil price impact | Brent ~$105-106 (up from $96-97; surged on Tangsiri killing); highly volatile; +50% from pre-war |
-| Lebanon ground operations | Expanding; 1,116+ killed, 3,229 injured, 1.2M displaced; IDF soldier killed Mar 27; Smotrich calls for annexation |
+| Oil price impact | Brent ~$107.81 (up from $105-106); highly volatile; +54% from pre-war |
+| Lebanon ground operations | Expanding; THREE divisions now; Division 162 deployed; 1,116+ killed, 3,229 injured, 1.2M displaced; Lebanon: 'this is an invasion' |
 | Iran Gulf mining threat | Iran threatens moored/drifting mines across entire Persian Gulf if coasts/islands attacked |
 | Israeli air defense failures | David's Sling malfunction Mar 25 (Tel Aviv); interceptor failures at Dimona Mar 21-22 |
 | 82,000+ structures destroyed in Iran | Iranian Red Crescent figure (Mar 24); internet blackout hampers verification |
 | Houthi Red Sea attacks | Still NOT resumed despite threats; weapons stockpile low; strategic pause |
-| Ukraine war outcome | Ongoing grinding war; Russia holds ~20%; 158 engagements/day (Mar 26); ISW: spring offensive preparations; Russia lost 4 sq mi in week |
+| Ukraine war outcome | Ongoing grinding war; Russia holds ~20%; 150 engagements (Mar 27, 3rd decline); Russia claimed Bobylivka in Sumy; ISW: spring offensive preparations |
 | Ukraine-Russia peace talks | US-Ukraine bilateral talks in Miami Mar 21-22 (no Russia); trilateral talks still paused; 67% Russians support talks |
 | Ukraine average soldier age | ~43 years old |
 | NATO troops to Ukraine | UK/France committed in principle for peacekeeping; Russia rejects |
 | 232:1 shipbuilding ratio | Confirmed by ONI (China 23.25M tons vs. US <100K tons) |
 | 155mm production | 40,000/month (target: 100,000/month by mid-2026) |
 | Saudi-Iran rapprochement | Holding despite wars; Saudi refused airspace for strikes on Iran |
-| US-China trade | Paris talks "very good"; Trump-Xi summit POSTPONED INDEFINITELY until Iran war ends; Taiwan AI exports surpass China to US for first time since 1992 |
+| US-China trade | Paris talks "very good"; Trump-Xi summit POSTPONED until Iran war ends; US-Taiwan trade deal signed Feb 12; Section 301 investigations launched |
 | China Taiwan assessment | US intel: China NOT planning 2027 invasion; China studying Iran war for Taiwan lessons |
 | UK conscription | Ruled out by government |
 | European conscription | Denmark (expanded), Croatia (restored), Germany (voluntary/possible mandatory) |
@@ -691,4 +706,4 @@ Iran struck military and civilian targets across at least 9 countries plus Israe
 
 ---
 
-*Updated March 27, 2026. Sources include reporting from Al Jazeera, BBC, Reuters, NPR, CNN, CBS News, NBC News, Washington Post, CNBC, Bloomberg, Fortune, Axios, Military.com, USNI News, Stars and Stripes, Times of Israel, GOV.UK, Goldman Sachs, IEA, Britannica, Wikipedia, Congressional Research Service, CSIS, Atlantic Council, Chatham House, Carnegie Endowment, Arms Control Association, House of Commons Library, HRW, Kyiv Independent, EMPR Media, Political Wire, Defence Security Asia, IAEA, ITV News, The Week, BusinessToday, Euronews, Military Times, SCMP, AEI, Time, France24, Iran International, Democracy Now, The Defense Post, Haaretz, Gulf International Forum, BE Horizon, UN News, FDD, WSJ, Tasnim, Arab News, The War Zone, ISW/Critical Threats, ACLED, Russia Matters, Stimson Center, Japan Times, amNewYork, Eurasia Review, and other publicly available sources.*
+*Updated March 28, 2026. Sources include reporting from Al Jazeera, BBC, Reuters, NPR, CNN, CBS News, NBC News, Washington Post, CNBC, Bloomberg, Fortune, Axios, Military.com, USNI News, Stars and Stripes, Times of Israel, GOV.UK, Goldman Sachs, IEA, Britannica, Wikipedia, Congressional Research Service, CSIS, Atlantic Council, Chatham House, Carnegie Endowment, Arms Control Association, House of Commons Library, HRW, Kyiv Independent, EMPR Media, Political Wire, Defence Security Asia, IAEA, ITV News, The Week, BusinessToday, Euronews, Military Times, SCMP, AEI, Time, France24, Iran International, Democracy Now, The Defense Post, Haaretz, Gulf International Forum, BE Horizon, UN News, FDD, WSJ, Tasnim, Arab News, The War Zone, ISW/Critical Threats, ACLED, Russia Matters, Stimson Center, Japan Times, amNewYork, Eurasia Review, WION, Al Arabiya, PressTV, Israel Hayom, CGTN, Kurdistan24, JPost, Pravda, and other publicly available sources.*
