@@ -14,6 +14,8 @@ import glob
 import os
 import re
 import shutil
+import subprocess
+import textwrap
 from collections import Counter, defaultdict
 from jinja2 import Environment, FileSystemLoader
 
@@ -119,6 +121,84 @@ def compute_avg(data: dict) -> float:
     """Compute average score across all axes."""
     vals = [data['scores'][k]['score'] for k in SCORE_KEYS]
     return sum(vals) / len(vals)
+
+
+def _xml_escape(text: str) -> str:
+    return text.replace('&', '&amp;').replace('<', '&lt;').replace('>', '&gt;').replace('"', '&quot;').replace("'", '&apos;')
+
+
+def _clean_card_title(data: dict) -> str:
+    title = data['meta']['title']
+    series = data['meta']['series']
+    ep = str(data['meta'].get('episode', ''))
+    for sep in ['\uff1a  ', ': ', ' ']:
+        prefix = f'{series} #{ep}{sep}'
+        if title.startswith(prefix):
+            return title[len(prefix):]
+    return title
+
+
+def _generate_social_card(data: dict, cards_dir: str) -> str:
+    """Generate a social card PNG for a lecture. Returns path or None."""
+    slug = data['slug']
+    avg = compute_avg(data)
+    title = _clean_card_title(data)
+    series = data['meta']['series']
+    ep = data['meta'].get('episode', '')
+    series_ep = f'{series} #{ep}' if ep else series
+
+    wrapped = textwrap.wrap(title, width=36)[:3]
+    title_lines = wrapped if wrapped else [title[:42]]
+
+    score_int = round(avg)
+    score_colors = {1: '#ffbbbb', 2: '#ffcc88', 3: '#fce28f', 4: '#c8e6a0', 5: '#94f4c6'}
+    score_color = score_colors.get(score_int, '#fce28f')
+    n_preds = len(data.get('thesis', {}).get('predictions', []))
+
+    title_y_start = 200
+    title_svg = ''
+    for i, line in enumerate(title_lines):
+        y = title_y_start + i * 52
+        title_svg += f'  <text x="80" y="{y}" font-family="Georgia, serif" font-size="44" font-weight="bold" fill="#f2f0ec">{_xml_escape(line)}</text>\n'
+
+    stats_y = title_y_start + len(title_lines) * 52 + 40
+
+    svg = f'''<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="600" viewBox="0 0 1200 600">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#0c0e11"/>
+      <stop offset="100%" stop-color="#151920"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="600" fill="url(#bg)"/>
+  <rect x="0" y="0" width="1200" height="4" fill="#fce28f"/>
+  <text x="80" y="100" font-family="Helvetica, Arial, sans-serif" font-size="18" font-weight="bold" fill="#a09882" letter-spacing="2">{_xml_escape(series_ep.upper())}</text>
+  <rect x="80" y="112" width="160" height="2" fill="#fce28f" opacity="0.4"/>
+{title_svg}
+  <rect x="700" y="60" width="420" height="140" rx="4" fill="#1a1f28" stroke="#2e3440" stroke-width="1"/>
+  <text x="730" y="100" font-family="Helvetica, Arial, sans-serif" font-size="14" font-weight="bold" fill="#a09882" letter-spacing="2">AUDIT SCORE</text>
+  <text x="730" y="168" font-family="monospace" font-size="72" font-weight="bold" fill="{score_color}">{'%.1f' % avg}</text>
+  <text x="905" y="168" font-family="Helvetica, Arial, sans-serif" font-size="28" fill="#6b6355">/ 5</text>
+  <text x="80" y="{stats_y}" font-family="monospace" font-size="18" fill="#fce28f">{n_preds} predictions</text>
+  <text x="320" y="{stats_y}" font-family="Helvetica, Arial, sans-serif" font-size="18" fill="#6b6355">tracked in this lecture</text>
+  <rect x="0" y="560" width="1200" height="40" fill="#0a0c0f"/>
+  <text x="80" y="586" font-family="Helvetica, Arial, sans-serif" font-size="14" fill="#6b6355">Predictive History Audit &#x2022; predictivehistoryaudit.pages.dev</text>
+</svg>'''
+
+    svg_path = os.path.join(cards_dir, f'{slug}.svg')
+    png_path = os.path.join(cards_dir, f'{slug}.png')
+    with open(svg_path, 'w') as f:
+        f.write(svg)
+
+    result = subprocess.run(
+        ['convert', svg_path, '-resize', '1200x600', png_path],
+        capture_output=True, text=True
+    )
+    os.remove(svg_path)
+    if result.returncode == 0:
+        return png_path
+    print(f"  Warning: failed to generate card for {slug}: {result.stderr}")
+    return None
 
 
 def sort_episode_key(ep):
@@ -291,8 +371,22 @@ def build(base_dir: str, output_dir: str):
         if os.path.isfile(f):
             shutil.copy2(f, os.path.join(output_dir, 'static', os.path.basename(f)))
 
-    # Copy social cards
+    # Generate missing social cards, then copy all to dist
     cards_src = os.path.join(base_dir, 'static', 'cards')
+    os.makedirs(cards_src, exist_ok=True)
+    existing_cards = {os.path.splitext(f)[0] for f in os.listdir(cards_src) if f.endswith('.png')}
+    generated = 0
+    for d in analyses:
+        slug = d['slug']
+        if slug in existing_cards:
+            continue
+        png_path = _generate_social_card(d, cards_src)
+        if png_path:
+            generated += 1
+            existing_cards.add(slug)
+    if generated:
+        print(f"Generated {generated} new social card(s)")
+
     if os.path.isdir(cards_src):
         cards_dst = os.path.join(output_dir, 'cards')
         os.makedirs(cards_dst, exist_ok=True)
