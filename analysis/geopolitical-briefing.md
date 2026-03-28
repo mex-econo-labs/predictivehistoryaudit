@@ -1,4 +1,4 @@
-# Geopolitical Briefing: State of the World as of March 28, 2026
+# Geopolitical Briefing: State of the World as of March 29, 2026
 
 Compiled for evaluation of mid-2024 predictions. All information sourced from publicly available reporting through March 2026.
 
@@ -145,6 +145,38 @@ Compiled for evaluation of mid-2024 predictions. All information sourced from pu
 - The brigade will serve as the "ready unit" in the Middle East, "prepared to be called upon if needed."
 - *Sources: CNN, Washington Post, Stars and Stripes, CBS News, WUNC, Army Recognition, OPB*
 
+### Houthis Enter the War (March 28, 2026)
+- **March 28**: Yemen's Houthi rebels fired **ballistic missiles at Israel** for the first time since the Feb 28 conflict began — marking their entry into the Iran war after nearly four weeks of "strategic patience."
+- Houthi military spokesperson **Brigadier-General Yahya Saree** announced the attack on Al Masirah satellite TV, saying strikes targeted **"sensitive Israeli military sites"** in southern Israel. **Air raid sirens** sounded in **Beersheba**.
+- Houthis launched a **second missile** hours after the first. Both were **intercepted**; no injuries or damage reported in Israel.
+- Saree stated strikes **"will continue until the declared objectives are achieved, as stated in the previous statement by the armed forces, and until the aggression against all fronts of the resistance ceases."**
+- **Washington Post** warned that the Houthi missile attack **stokes fears of renewed Red Sea shipping strikes** — which would compound the Hormuz crisis.
+- This reverses the prior assessment that Houthis would remain on the sidelines. Analysts now evaluating whether this signals **Tehran-coordinated activation** of another front or **independent Houthi action** as diplomatic talks stall.
+- *Sources: Al Jazeera, CNN, PBS, NBC News, CNBC, Axios, Washington Post, Military.com, FDD*
+
+### Iranian Attack on Prince Sultan Air Base (March 28, 2026)
+- Iran fired **6 ballistic missiles and 29 drones** at **Prince Sultan Air Base** in Saudi Arabia — a base shared by Saudi and US forces outside Riyadh.
+- At least **10-15 US troops injured**, including **5 seriously wounded**. At least **2 USAF refueling aircraft** and an **E-3 Sentry AWACS** command and control plane were damaged.
+- The attack brought the total number of **US wounded in the war past 300** — a significant increase from the ~200 reported as of March 22.
+- This was one of the most damaging single attacks on US forces since the war began, demonstrating Iran's continued ability to strike high-value American military assets.
+- *Sources: NPR, Washington Post, Stars and Stripes, Air & Space Forces, PBS, OPB, CNBC, Fox News*
+
+### Pentagon Weighing 10,000 Additional Troops (March 27-28, 2026)
+- **Axios** and multiple outlets reported the Pentagon is considering sending **up to 10,000 additional ground troops** to the Middle East — including **infantry and armored vehicles**, in addition to the 82nd Airborne Division already deployed.
+- The force would reinforce the **50,000+ troops** already in place and provide the US with options for **ground operations to capture key Iranian assets** if diplomacy fails.
+- Secretary of State **Marco Rubio** told G7 counterparts in France that Washington was **"on or ahead of schedule"** and expected to conclude the operation **"in a matter of weeks, not months."** He said **no ground troops were needed** but the administration was deploying them for **"maximum optionality."**
+- **Atlantic Council expert**: current force "not sufficient for a major invasion nor to hold a single city. [It] says limited/targeted ops only."
+- **Axios**: war expected to last **2-4 more weeks**.
+- *Sources: Axios, Fox News, Stars and Stripes, JPost, Global Defense Corp, CNBC, France24, Irish Times, Common Dreams, Asia Times*
+
+### USS Tripoli ARG Confirmed in CENTCOM (March 27-28, 2026)
+- **The Hill**, **CBS News**, **Military Times**, and **Naval Today** confirmed that USS Tripoli (LHA-7) and the embarked **31st Marine Expeditionary Unit** arrived in the US Central Command area of responsibility on **March 27-28**.
+- The flagship delivered about **3,500 sailors and Marines**, along with "transport and strike fighter aircraft, as well as amphibious assault and tactical assets" — including **F-35B Lightning II** stealth fighters.
+- Also arriving: amphibious transport dock ships **USS New Orleans** and **USS San Diego**.
+- This gives the US its **first amphibious assault capability** in the Iran war theatre.
+- Combined with the USS Boxer ARG (still in Pacific transit), 82nd Airborne, and the potential 10,000 additional troops, the US ground-capable force could approach **17,000-18,500** — though still far below the force required for a major ground invasion of Iran.
+- *Sources: The Hill, CBS News, Military Times, Naval Today, SCMP*
+
 ### Iran Fortifying Kharg Island Defenses (March 25, 2026)
 - **CNN** reported that Iran has been **laying traps and moving additional military personnel and air defenses** to Kharg Island in preparation for a possible US ground operation.
 - Iran deployed **shoulder-fired surface-to-air guided missiles (MANPADs)** and **anti-armor mines** to the island in recent weeks, creating **layered defenses** against amphibious assault.
@@ -200,24 +232,26 @@ Compiled for evaluation of mid-2024 predictions. All information sourced from pu
 - **March 24-25**: **82nd Airborne Division** ordered to deploy 1,000-3,000 paratroopers to Middle East — **first Army ground combat unit** in the theatre. Includes division commander and Immediate Response Force (can mobilize in 18 hours). Combined ground force: **~6,000-8,000 troops** (Marines + Army).
 - **CNN (Mar 25)**: Iran **actively fortifying Kharg Island** — troops, MANPADs, air defenses, anti-armor mines. US officials warn of "significant risks" and "large number of US casualties."
 - This represents a significant evolution: air-only campaign → ground planning → Marines arriving → diplomatic off-ramp attempted → diplomacy failing → Army ground troops deploying → deadline extended to Apr 6 → diplomatic and military tracks running in parallel → Israel escalating to industrial/economic targets (Mar 27-28).
-- **March 27-28**: USS Tripoli ARG **expected to enter CENTCOM area** per WSJ — first amphibious force arriving in combat theatre. Composition: USS Tripoli (LHA-7), USS New Orleans (LPD), USS Robert Smalls (CG), USS Rafael Peralta (DDG), ~2,200 Marines from 31st MEU. USS Boxer ARG in **Pacific transit**, not expected in combat zone until **mid-April** at earliest.
-- **March 27-28**: **Witkoff** said he expects meetings with Iran **"this week"** and noted **"ships are passing — that's a very, very good sign."** Possible Islamabad summit being arranged with Araghchi/Qalibaf for Iran and Witkoff/Kushner/possibly Vance for US.
+- **March 27-28**: USS Tripoli ARG **confirmed arrived in CENTCOM area** (The Hill, CBS, Military Times) — first amphibious assault force in theatre. Composition: USS Tripoli (LHA-7), USS New Orleans (LPD), USS San Diego (LPD), ~3,500 from 31st MEU. USS Boxer ARG in **Pacific transit**, arrival approaching Apr 6 deadline.
+- **March 27-28**: **Pentagon weighing up to 10,000 additional ground troops** — infantry + armored vehicles (Axios, Stars and Stripes, JPost). Would more than double ground-capable force. **Atlantic Council expert**: current force "not sufficient for a major invasion nor to hold a single city — limited/targeted ops only."
+- **March 28**: **Rubio** told G7 in France: US **"on or ahead of schedule"**; war to end **"in a matter of weeks, not months."** Said **no ground troops needed** but deploying for **"maximum optionality."** **Axios**: war expected to last **2-4 more weeks**.
+- **March 28**: Iranian attack on **Prince Sultan Air Base** (Saudi Arabia) injured **10-15 US troops** (5 seriously) and damaged **2+ refueling aircraft + E-3 AWACS** — US wounded in war now **300+**.
 - US **acknowledges war may extend past initial 4-6 week timeline** (Times of Israel, Mar 27) — signals air campaign alone is insufficient.
 - FDD's Long War Journal analysis (Mar 2026): **"Why seizing Iran's Kharg Island could be a trap of America's own making"** — mirrors Jiang's thesis.
-- *Sources: Axios, Military.com, CBS News, Times of Israel, USNI News, Stars and Stripes, Time, CNN, Washington Post, Army Recognition, FDD Long War Journal, The War Zone, CNBC*
+- *Sources: Axios, Military.com, CBS News, Times of Israel, USNI News, Stars and Stripes, Time, CNN, Washington Post, Army Recognition, FDD Long War Journal, The War Zone, CNBC, The Hill, Naval Today, SCMP, Fox News, France24, NPR, Air & Space Forces*
 
 ### Strait of Hormuz Crisis
 - Iran has effectively **blockaded the Strait of Hormuz** since March 2. IRGC stated "not a litre of oil" will pass.
 - Tanker traffic dropped ~70% initially, then to **~99% below normal** — effectively zero transit.
 - **~2,000 vessels and 20,000 seafarers stranded** in the waterway (up from ~750 by Mar 12); **150+ ships anchored** outside refusing to enter.
 - The Strait normally carries **~20 million barrels/day** (~20% of global seaborne oil trade).
-- **Brent crude surged past $100/barrel** (from ~$70 pre-war), peaking at **$126/barrel**. As of March 28: **~$107.81/bbl** (Fortune, 9am ET Mar 27; up from $105-106). Oil prices up **~54% since war began**. Highly volatile on conflicting diplomacy/military signals. IRGC projects $200/barrel.
+- **Brent crude surged past $100/barrel** (from ~$70 pre-war), peaking at **$126/barrel**. As of March 29: **~$112.57/bbl** (closed Mar 28, +4.2%). Oil prices up **~61% since war began**. Goldman Sachs estimates **$14-18/bbl geopolitical risk premium**. Highly volatile on conflicting diplomacy/military signals. IRGC projects $200/barrel.
 - IEA authorized release of **400 million barrels** from strategic stockpiles — the largest such release in history.
 - Gulf states cut production by **at least 10 million bbl/day** combined as onshore storage filled.
 - War risk insurance premiums surged from 0.125% to **1% of ship value** per transit. Major insurers (Gard, Skuld, NorthStandard, London P&I Club) **cancelled war risk cover effective March 5**.
 - Oil supertanker rates hit **all-time highs**.
 - US Navy deployed **three carrier strike groups** (USS Abraham Lincoln, USS Gerald R. Ford, USS George H.W. Bush) but the blockade remains "strategically porous" — military can force passages but commercial shipping deterred.
-- **USS Tripoli ARG + 31st MEU** (2,200 Marines with F-35Bs) transited Malacca Strait March 18. Full ESG composition: USS Tripoli (LHA-7), USS New Orleans (LPD), guided-missile cruiser USS Robert Smalls, guided-missile destroyer USS Rafael Peralta. Was at Diego Garcia by Mar 23; **expected to enter CENTCOM area Mar 27-28** per WSJ — first amphibious force arriving in combat theatre. CENTCOM confirmed **~50,000 US troops** now in the Middle East.
+- **USS Tripoli ARG + 31st MEU** (~3,500 with F-35Bs) transited Malacca Strait March 18. Full composition: USS Tripoli (LHA-7), USS New Orleans (LPD), USS San Diego (LPD). Was at Diego Garcia by Mar 23; **confirmed arrived in CENTCOM area Mar 27-28** (The Hill, CBS, Military Times) — first amphibious assault force in theatre. CENTCOM confirmed **~53,500+ US troops** now in the Middle East (50,000 base + 3,500 Tripoli ARG). Pentagon weighing **10,000 additional troops** (infantry + armored vehicles).
 - **USS Boxer ARG** (Wasp-class LHD-4, USS Portland LPD-27, USS Comstock LSD-45) + **11th MEU** (~2,500 Marines with F-35Bs) **departed San Diego March 18-19** — three weeks ahead of schedule, en route to Middle East.
 - Total Marine force converging on theatre: **~4,700 across two ARGs** (31st MEU on Tripoli + 11th MEU on Boxer).
 - UN Security Council passed **Resolution 2817** calling on Iran to halt attacks on Gulf shipping.
@@ -249,7 +283,7 @@ Iran struck military and civilian targets across at least 9 countries plus Israe
 | **Cyprus (UK base)** | RAF Akrotiri — Hezbollah-launched Shahed drone hit runway (Mar 1), more drones Mar 4 intercepted | Minor damage |
 | **Azerbaijan** | Nakhchivan exclave — airport damaged (Mar 5) | 2 civilians injured; Azerbaijan withdrew diplomats |
 
-**US military casualties**: **13 confirmed fatalities** — 7 killed by enemy fire (including 6 in Kuwait drone strike Mar 1), 6 in Iraq plane crash (Mar 13). **~200 wounded**, with 180+ returned to duty. **~50,000 US troops** now confirmed in the Middle East theatre (CENTCOM). **UAE** has intercepted **372 ballistic missiles, 15 cruise missiles, and 1,826 drones** since Feb 28 (up from 314 BMs/1,672 drones as of Mar 17); 15 BMs and 11 drones intercepted on Mar 26 alone. Overall death toll: **~1,937 in Iran** (Al Jazeera tracker), **23+ in Israel**, **13 US**, **25+ in Gulf states** (preliminary figures, Mar 28).
+**US military casualties**: **13 confirmed fatalities** — 7 killed by enemy fire (including 6 in Kuwait drone strike Mar 1), 6 in Iraq plane crash (Mar 13). **300+ wounded** (up from ~200 on Mar 22), including 10-15 injured in Prince Sultan Air Base attack (Mar 28). **~53,500+ US troops** now in the Middle East theatre (CENTCOM 50,000 + USS Tripoli ARG 3,500); Pentagon weighing 10,000 additional. **UAE** has intercepted **372 ballistic missiles, 15 cruise missiles, and 1,826 drones** since Feb 28; 15 BMs and 11 drones intercepted on Mar 26 alone. Overall death toll: **~1,900-2,000+ in Iran** (Al Jazeera/Red Crescent), **23+ in Israel**, **13 US KIA**, **25+ in Gulf states** (preliminary figures, Mar 29).
 
 ### Iranian Missiles Targeting Turkey (March 4-13, 2026)
 - Three Iranian ballistic missiles entered Turkish airspace, all intercepted by NATO air and missile defense assets in the Eastern Mediterranean.
@@ -301,7 +335,7 @@ Iran struck military and civilian targets across at least 9 countries plus Israe
 - Over 10,000 Israeli violations of Lebanese airspace and 1,400 military activities recorded inside Lebanese territory between November 2024 and February 2026 (UNIFIL records).
 - **March 2, 2026**: Airstrikes resumed between Hezbollah and Israel following the 2026 Iran war and Khamenei's assassination.
 - **March 16, 2026**: Israel launched **"limited and targeted ground operations"** in southern Lebanon. IDF 91st Division deployed to Kfar Kila, Houla, Kfar Shouba, Yaroun, and Khiam. A second division also deployed.
-- **As of March 28**: At least **1,116 people killed** (including 121 children) and **3,229 injured** and **1.2 million displaced** (about one in five Lebanese) since Mar 2. IDF soldier killed in Lebanon ground operations Mar 27. IDF airstrike on paramedic center in Hebbariye killed 7 (Mar 27; Hezbollah denied they were militants). Israeli airstrike on Beirut hotel killed 4 IRGC Quds Force commanders. Strike on health center killed 12 medical workers. Israel killed 3 in Beirut airstrike Mar 24.
+- **As of March 29**: At least **1,189 people killed** (including **124+ children**) and **3,300+ injured** and **1.2 million displaced** (about one in five Lebanese) since Mar 2. **WHO** reported **9 paramedics killed and 7 wounded** in **5 separate attacks** in southern Lebanon on **Saturday, March 29** — one of the deadliest days for medical workers; **51 health workers killed in Lebanon in March**. IDF airstrike on paramedic center in Hebbariye killed 7 (Mar 27). Israeli airstrike on Beirut hotel killed 4 IRGC Quds Force commanders. Strike on health center killed 12 medical workers. Israel killed 3 in Beirut airstrike Mar 24.
 - **March 27-28**: Israel deployed **Division 162** to southern Lebanon to expand "buffer zone," joining two other divisions. Now **THREE IDF divisions** operating in southern Lebanon. Division 162 operating in western sector. Euronews headline: **"This is an invasion."** Chatham House analysis warns any Israeli occupation of southern Lebanon **"will work to Hezbollah's advantage."**
 - **March 23**: Finance Minister **Bezalel Smotrich** called for **annexation of southern Lebanon** to the Litani River — the most explicit territorial claim by a senior Israeli official. Said the bombardment "needs to end with a different reality entirely" including a "change of Israel's borders."
 - **March 24**: Defense Minister **Israel Katz** said Israel will **maintain control of southern Lebanon** up to the Litani River and hundreds of thousands of Lebanese **"will not be allowed to return until security is guaranteed."**
@@ -398,7 +432,7 @@ Iran struck military and civilian targets across at least 9 countries plus Israe
 ### Ukraine Has NOT "Lost"
 - The war continues as a grinding attritional conflict. Ukraine maintains significant territory and fighting capability.
 - Ukraine has become a **drone superpower**, with its drone technology being noted in context of the Iran war.
-- **150 combat engagements** recorded on March 27, 2026 — down from 158 on March 26, continuing a 3-day decline from the peak of 176 (Mar 25). Russia claimed capture of **Bobylivka in Sumy Oblast**, crossing the Russia-Ukraine border — a new territorial thrust beyond Donbas. Russia carried out **68 airstrikes**, dropping **227 guided aerial bombs**. **1 civilian killed, 2 wounded** in Sumy region. Greatest pressure continues on Pokrovsk sector; increased activity across Kostiantynivka, Huliaipole, Zaporizhzhia, and Sumy sectors. Russia lost **4 square miles** during the week of Mar 17-24 — shift from earlier momentum (gained 50 sq mi in prior 4-week period). **ISW** observing increase in Russian mechanized assaults since Mar 17 across Lyman, Kostiantynivka, and Pokrovsk directions — possibly preparing **spring-summer offensive against the Fortress Belt** in Donetsk Oblast. Ukraine struck Russian **combat icebreaker Purga** (Project 23550, intended for FSB Border Service) in Leningrad region overnight Mar 25.
+- Combat engagements continuing decline from peak of 176 (Mar 25). Russia captured **Brusovka in DPR** on March 28 — forming southern envelopment of **Stary Karavan** on the **Liman-Slavyansk railway branch and T-05-14 front-line supply route**. Russian forces preparing bridgeheads for operation to destroy **Slavyansk fortified hub** — the northern part of the Slavyansk-Kramatorsk-Druzhkovka-Konstantinovka agglomeration. **45 artillery and drone attacks** hit Dnipropetrovsk region on Mar 28; **Kryvyi Rih industrial facility** struck; drone attack injured man in **Kyiv's Brovary district**. Previously: Russia claimed **Bobylivka in Sumy Oblast** (Mar 27-28), crossing the Russia-Ukraine border. Russia lost **4 square miles** during the week of Mar 17-24 — shift from earlier momentum. **ISW** observing increase in Russian mechanized assaults since Mar 17 — possibly preparing **spring-summer offensive against the Fortress Belt** in Donetsk Oblast. Ukraine struck Russian **combat icebreaker Purga** (Project 23550) in Leningrad region overnight Mar 25.
 
 ### Manpower
 - Average Ukrainian soldier age: **~43 years old**.
@@ -467,11 +501,13 @@ Iran struck military and civilian targets across at least 9 countries plus Israe
 - **May 6, 2025**: Trump announced cessation of US strikes following a bilateral US-Houthi ceasefire.
 - Houthis halted attacks on international shipping and Israel after the **Gaza peace plan went into effect October 10, 2025**.
 
-### Current Status
+### Current Status — Houthis Enter the War (March 28, 2026)
 - **February 28, 2026**: Following the 2026 Iran war, Houthis threatened to escalate and resume Red Sea attacks.
-- As of **March 22, 2026**: hostilities have **still not resumed** — nearly four weeks into the Iran war, Houthis remain on the sidelines despite threatening otherwise.
-- Analysts cite: weapons stockpile running low after 2024-25 Red Sea campaign; strategic patience; coordination with Tehran; prior deal with Washington; desire not to lose goodwill with Riyadh.
-- Unlike Hezbollah and Iraqi Shiite militias, Houthis have not joined the fight. This is described as a "calculated choice fully coordinated with the Iranians" (The National, Mar 17).
+- For nearly four weeks, Houthis remained on the sidelines — analysts cited weapons stockpile running low, strategic patience, Tehran coordination, prior deal with Washington.
+- **March 28, 2026**: Houthis **broke their pause** and fired ballistic missiles at Israel — their **first strikes since the conflict began**. Targeted "sensitive Israeli military sites" in southern Israel; both intercepted. Houthi spokesperson Saree vowed continued strikes.
+- A second missile was launched hours after the first. **Washington Post** warned of **renewed Red Sea shipping disruption** fears.
+- The entry of the Houthis adds a **new front** to the conflict and could compound the Hormuz crisis if Red Sea attacks resume.
+- *Sources: Al Jazeera, CNN, PBS, NBC News, CNBC, Axios, Washington Post, Military.com*
 
 ---
 
@@ -511,13 +547,15 @@ Iran struck military and civilian targets across at least 9 countries plus Israe
 - Discussed proposed **US-China "Board of Trade" and "Board of Investment"** mechanisms.
 - China offered additional agricultural purchases (poultry, beef, soybeans — 25M metric tons/year for 3 years).
 - Progress on **critical minerals**, including US access to yttrium (vital for jet engine turbines).
-- **Trump-Xi summit POSTPONED INDEFINITELY**. Was scheduled March 31-April 2 in Beijing; Trump said delay "a month or so" due to Iran war (Mar 16-17); later said "reset" to mid-May. Admin now telling foreign officials summit **won't happen until Iran war ends** (Political Wire, Mar 22). Trump told Financial Times that China should help break Iran's Hormuz blockade.
+- **Trump-Xi summit rescheduled to May 14-15 in Beijing** (originally Mar 31-Apr 2; delayed by Iran war). Trump told Financial Times that China should help break Iran's Hormuz blockade.
+- **March 27**: China launched **2 reciprocal trade investigations** against the US — one examining US policies restricting Chinese goods and export controls on advanced technology; the other focused on **barriers to Chinese green energy exports**. Each probe has a **6-month deadline** with a possible 3-month extension, giving Beijing **legal groundwork for future countermeasures** ahead of the summit. Announced as response to Trump's Section 301 investigations. *(Bloomberg, Supply Chain Dive, Washington Times, CNBC)*
+- **February 12, 2026**: US and Taiwan signed the **Agreement on Reciprocal Trade (ART)** — eliminates or reduces tariffs on up to **99% of goods** and promotes bilateral investment, agricultural market access, digital trade, and IP protection. *(USTR, The Diplomat)*
 - New **Section 301 investigations** announced against China, Vietnam, Taiwan, Mexico, Japan, EU (March 2026).
 - China's 2026 defense budget: **~$278 billion** (7% increase).
 - **US intelligence assessment** (Mar 18-19): China does **NOT plan to invade Taiwan in 2027** and seeks to control the island without force (Military Times, Al Jazeera, SCMP).
 - However, China's military is **closely studying** the US-Israeli operation against Iran, learning lessons for a possible Taiwan conflict (Bloomberg, Mar 18).
-- Taiwan faced Mar 15 deadline to sign three US arms packages; Defense Minister Koo requested legislative authority.
-- *Sources: Bloomberg, Military Times, Al Jazeera, SCMP, AEI*
+- Trump expressed interest in meeting **Kim Jong Un** when visiting China for the May summit, but unlikely as US hasn't changed North Korea policy.
+- *Sources: Bloomberg, Military Times, Al Jazeera, SCMP, AEI, Supply Chain Dive, Washington Times, CNBC, USTR, The Diplomat, Taipei Times*
 
 ---
 
@@ -624,8 +662,8 @@ Iran struck military and civilian targets across at least 9 countries plus Israe
 - **January 29, 2026**: Trump declared Cuba's policies an "unusual and extraordinary threat" to US national security.
 - Trump has repeatedly suggested a **"friendly takeover"** of Cuba, stating after Iran's regime falls, "Cuba's going to fall, too."
 - **Secret negotiations underway**: On March 13, 2026, President Diaz-Canel confirmed talks with the US. Secretary of State **Rubio** has led at least **half a dozen meetings** with Cuban representatives. White House said Trump believes a deal "could be done easily." Cuba warned an agreement "will take time."
-- **March 2026 blackouts and protests**: Cuba suffered its **second nationwide blackout in a week** on March 22-23 — the **third major blackout this month**, affecting **10+ million people**. Daily protests have erupted across Cuba since March 6 — **Cubalex documented 156+ protests and 47+ arrests** by March 17. Government released **51 political prisoners** in a "goodwill" gesture following diplomatic engagement with the **Holy See**. **Nuestra América Flotilla** arrived from 33 countries and 120 organizations carrying humanitarian goods (food, medicine, solar panels) from Mexico.
-- *Sources: Democracy Now, Al Jazeera, NPR, CNN, Havana Times, The New Humanitarian, Time*
+- **March 2026 blackouts and protests**: Cuba suffered **three nationwide blackouts in March** (Mar 16, 21, 22-23), affecting **10+ million people**. Country has gone **three months without deliveries** of diesel, fuel oil, gasoline, aviation fuel, or LPG. Daily protests since March 6 — **Cubalex documented 156+ protests and 47+ arrests** by March 17. Government released **51 political prisoners** in a "goodwill" gesture following diplomatic engagement with the **Holy See**. **Nuestra América Flotilla** arrived from 33 countries. **Two Russian shadow fleet tankers** expected to deliver oil and diesel in late March — enough for "a couple of weeks." Ecuador expelled Cuban ambassador and staff, declaring them persona non grata (Mar 4).
+- *Sources: Democracy Now, Al Jazeera, NPR, CNN, Havana Times, The New Humanitarian, Time, Wikipedia (2026 Cuban crisis)*
 
 ---
 
@@ -657,39 +695,39 @@ Iran struck military and civilian targets across at least 9 countries plus Israe
 
 ## Summary of Key Developments for Prediction Evaluation
 
-| Topic | Status as of March 28, 2026 |
+| Topic | Status as of March 29, 2026 |
 |-------|------------------------|
-| US military strike on Iran | YES -- June 2025 (Operation Midnight Hammer) and Feb 2026 (ongoing war, Day 29); US hit 2/3 of Iran's missile/drone production |
+| US military strike on Iran | YES -- June 2025 (Operation Midnight Hammer) and Feb 2026 (ongoing war, Day 30); US hit 2/3 of Iran's missile/drone production |
 | Israel-Iran direct conflict | YES -- Twelve-Day War (June 2025) and 2026 Iran war; nuclear sites (Arak, Ardakan) + steel plants hit Mar 27-28; Tel Aviv hit Mar 25 |
 | Khamenei killed | YES -- Assassinated Feb 28, 2026; son Mojtaba succeeded him |
 | Israeli decapitation campaign | Khamenei (Feb 28), Larijani (Mar 17), Soleimani (Mar 17), Khatib (Mar 18), Tangsiri (Mar 26-27) — 5 top officials; Araghchi/Qalibaf temporarily removed from hit list |
 | Iran nuclear breakout | Near-zero breakout time pre-strikes; warhead development authorized Oct 2025; Natanz struck again Mar 22 |
 | Strait of Hormuz closed | YES -- Blockade continues; Iran formally allowed 5 nations (China, Russia, India, Iraq, Pakistan); US/Israel/allies blocked; 2,000 vessels stranded |
 | Hormuz blockade casualties | 9+ countries struck; 13 US KIA; Gulf infrastructure devastated; Tangsiri (blockade architect) killed Mar 26-27 |
-| Kharg Island | US bombed 90+ targets (Mar 13); Iran FORTIFYING with troops/MANPADs/mines; 82nd Airborne deploying; USS Tripoli entering CENTCOM area |
+| Kharg Island | US bombed 90+ targets (Mar 13); Iran FORTIFYING; USS Tripoli ARG confirmed in CENTCOM; Pentagon weighing 10K more troops; 82nd Airborne deploying |
 | South Pars gas field | Israel struck processing facilities (Mar 18); ~12% of Iran's gas production damaged |
 | Energy/nuclear infrastructure spiral | Now includes nuclear (Arak, Ardakan) + industrial (steel plants) + energy; IRGC threatens 'beyond eye for eye' retaliation |
 | Trump peace plan — contested diplomacy | Iran rejected plan as "maximalist" BUT Witkoff expects meetings 'this week'; possible Islamabad summit; Apr 6 deadline; Qalibaf denies talks |
-| Ground operation planning | 82nd Airborne (1,000-3,000) deploying; USS Tripoli entering CENTCOM; USS Boxer in Pacific (~mid-April); total ~6,000-8,000; Iran fortifying Kharg |
+| Ground operation planning | USS Tripoli ARG arrived; 82nd Airborne deploying; Pentagon weighing 10K more; Rubio: 'weeks not months'; US wounded 300+; total ~7,000-8,500 (potentially 17K-18.5K) |
 | Diego Garcia missile attack | Iran fired 2 IRBMs at US-UK base 4,000km away (Mar 21) — reveals doubled missile range capability |
 | Turkey hit by Iran missiles | 3 ballistic missiles entered airspace (Mar 4, 9, 13) -- all intercepted by NATO |
 | Commercial shipping attacked | Thai ship MV Mayuree Naree struck Mar 11 (3 missing); 6+ ships attacked Mar 11-12 |
 | Gulf state damage | UAE: 372 BMs + 15 CMs + 1,826 drones intercepted; Qatar: Ras Laffan + gas halt; Kuwait airport fire Mar 25 |
-| Oil price impact | Brent ~$107.81 (up from $105-106); highly volatile; +54% from pre-war |
-| Lebanon ground operations | Expanding; THREE divisions now; Division 162 deployed; 1,116+ killed, 3,229 injured, 1.2M displaced; Lebanon: 'this is an invasion' |
+| Oil price impact | Brent ~$112.57 (+4.2% on Mar 28); Goldman Sachs: $14-18/bbl risk premium; +61% from pre-war |
+| Lebanon ground operations | Expanding; THREE divisions; 1,189+ killed, 3,300+ injured, 1.2M displaced; WHO: 9 paramedics killed Mar 29; 51 health workers killed in March |
 | Iran Gulf mining threat | Iran threatens moored/drifting mines across entire Persian Gulf if coasts/islands attacked |
 | Israeli air defense failures | David's Sling malfunction Mar 25 (Tel Aviv); interceptor failures at Dimona Mar 21-22 |
 | 82,000+ structures destroyed in Iran | Iranian Red Crescent figure (Mar 24); internet blackout hampers verification |
-| Houthi Red Sea attacks | Still NOT resumed despite threats; weapons stockpile low; strategic pause |
-| Ukraine war outcome | Ongoing grinding war; Russia holds ~20%; 150 engagements (Mar 27, 3rd decline); Russia claimed Bobylivka in Sumy; ISW: spring offensive preparations |
+| Houthi Red Sea attacks | HOUTHIS ENTERED WAR Mar 28 — fired ballistic missiles at Israel; Red Sea disruption fears renewed; reverses prior 'strategic patience' |
+| Ukraine war outcome | Ongoing grinding war; Russia holds ~20%; Russia captured Brusovka (DPR, Mar 28) — enveloping Stary Karavan; Slavyansk operation prep; Bobylivka in Sumy |
 | Ukraine-Russia peace talks | US-Ukraine bilateral talks in Miami Mar 21-22 (no Russia); trilateral talks still paused; 67% Russians support talks |
 | Ukraine average soldier age | ~43 years old |
 | NATO troops to Ukraine | UK/France committed in principle for peacekeeping; Russia rejects |
 | 232:1 shipbuilding ratio | Confirmed by ONI (China 23.25M tons vs. US <100K tons) |
 | 155mm production | 40,000/month (target: 100,000/month by mid-2026) |
 | Saudi-Iran rapprochement | Holding despite wars; Saudi refused airspace for strikes on Iran |
-| US-China trade | Paris talks "very good"; Trump-Xi summit POSTPONED until Iran war ends; US-Taiwan trade deal signed Feb 12; Section 301 investigations launched |
-| China Taiwan assessment | US intel: China NOT planning 2027 invasion; China studying Iran war for Taiwan lessons |
+| US-China trade | Paris talks "very good"; Trump-Xi summit rescheduled May 14-15 Beijing; China launched 2 trade probes (Mar 27); US-Taiwan ART signed Feb 12 (99% tariffs); Section 301 ongoing |
+| China Taiwan assessment | US intel: China NOT planning 2027 invasion; China studying Iran war for Taiwan lessons; US-Taiwan trade integration deepening |
 | UK conscription | Ruled out by government |
 | European conscription | Denmark (expanded), Croatia (restored), Germany (voluntary/possible mandatory) |
 | US-China rapprochement | No -- fragile truce; summit postponed; fundamental issues unresolved |
@@ -706,4 +744,4 @@ Iran struck military and civilian targets across at least 9 countries plus Israe
 
 ---
 
-*Updated March 28, 2026. Sources include reporting from Al Jazeera, BBC, Reuters, NPR, CNN, CBS News, NBC News, Washington Post, CNBC, Bloomberg, Fortune, Axios, Military.com, USNI News, Stars and Stripes, Times of Israel, GOV.UK, Goldman Sachs, IEA, Britannica, Wikipedia, Congressional Research Service, CSIS, Atlantic Council, Chatham House, Carnegie Endowment, Arms Control Association, House of Commons Library, HRW, Kyiv Independent, EMPR Media, Political Wire, Defence Security Asia, IAEA, ITV News, The Week, BusinessToday, Euronews, Military Times, SCMP, AEI, Time, France24, Iran International, Democracy Now, The Defense Post, Haaretz, Gulf International Forum, BE Horizon, UN News, FDD, WSJ, Tasnim, Arab News, The War Zone, ISW/Critical Threats, ACLED, Russia Matters, Stimson Center, Japan Times, amNewYork, Eurasia Review, WION, Al Arabiya, PressTV, Israel Hayom, CGTN, Kurdistan24, JPost, Pravda, and other publicly available sources.*
+*Updated March 29, 2026. Sources include reporting from Al Jazeera, BBC, Reuters, NPR, CNN, CBS News, NBC News, Washington Post, CNBC, Bloomberg, Fortune, Axios, Military.com, USNI News, Stars and Stripes, Times of Israel, GOV.UK, Goldman Sachs, IEA, Britannica, Wikipedia, Congressional Research Service, CSIS, Atlantic Council, Chatham House, Carnegie Endowment, Arms Control Association, House of Commons Library, HRW, Kyiv Independent, EMPR Media, Political Wire, Defence Security Asia, IAEA, ITV News, The Week, BusinessToday, Euronews, Military Times, SCMP, AEI, Time, France24, Iran International, Democracy Now, The Defense Post, Haaretz, Gulf International Forum, BE Horizon, UN News, FDD, WSJ, Tasnim, Arab News, The War Zone, ISW/Critical Threats, ACLED, Russia Matters, Stimson Center, Japan Times, amNewYork, Eurasia Review, WION, Al Arabiya, PressTV, Israel Hayom, CGTN, Kurdistan24, JPost, Pravda, The Hill, Naval Today, Air & Space Forces, PBS, OPB, Supply Chain Dive, Washington Times, Taipei Times, USTR, The Diplomat, WHO, Global Defense Corp, and other publicly available sources.*
