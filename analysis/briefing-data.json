@@ -1,5 +1,5 @@
 {
-  "briefing_date": "2026-03-29",
+  "briefing_date": "2026-03-30",
   "last_scoring_date": "2026-03-14",
   "next_scoring_date": "2026-04-14",
   "theatres": [
@@ -7,7 +7,7 @@
       "name": "Iran / Strait of Hormuz",
       "status": "disconfirmed",
       "status_label": "active war",
-      "summary": "Day 30 — war reaches one-month mark. MAJOR DEVELOPMENTS: (1) HOUTHIS ENTER THE WAR — fired ballistic missiles at Israel for the first time since conflict began, targeting 'sensitive military sites' in southern Israel; air raid sirens in Beersheba; both missiles intercepted. Houthis vow to continue strikes. (2) USS Tripoli ARG + 31st MEU (~3,500 sailors and Marines) CONFIRMED ARRIVED in CENTCOM area of responsibility (Mar 27-28) — first amphibious assault force in theatre. (3) Iranian attack on Prince Sultan Air Base in Saudi Arabia injured 10-15 US troops (5 seriously); 2+ USAF refueling aircraft and an E-3 AWACS damaged; US wounded in war now 300+. (4) Pentagon weighing up to 10,000 additional ground troops for Middle East (Axios, Fox News). (5) Rubio told G7 in France: war to end in 'weeks, not months'; said no ground troops needed but deploying them for 'maximum optionality.' (6) Heavy bombardment continues across Tehran — strikes in northeastern, western, central, and eastern parts of city. (7) Oil surged to ~$112.57/bbl (+4.2% on Mar 28). (8) WHO: 9 paramedics killed in Lebanon on Saturday (Mar 29) — 51 health workers killed in March. (9) Iran death toll: ~1,900-2,000+ (Al Jazeera); US KIA 13; US wounded 300+; Lebanon: 1,189+ killed. (10) China launched 2 reciprocal trade investigations against US (Mar 27) ahead of May summit. Apr 6 energy strike deadline remains key decision point.",
+      "summary": "Day 31 — war enters second month. MAJOR DEVELOPMENTS: (1) PENTAGON READYING 'WEEKS OF GROUND OPERATIONS' — WashPost reports Pentagon preparing limited ground ops including Kharg Island raids and coastal sites near Hormuz; special ops + conventional infantry; Trump has not yet approved. (2) IRAN THREATENS 'RAIN FIRE' — Ghalibaf: 'waiting for arrival of American troops on the ground to set them on fire'; accuses US of secretly planning ground invasion while negotiating. (3) FOUR-NATION ISLAMABAD SUMMIT — Pakistan hosts Saudi, Turkey, Egypt FMs in 'most coordinated regional effort yet' to push US-Iran toward direct talks; focus on Hormuz proposals. (4) IRGC THREATENS US/ISRAELI UNIVERSITIES — demands US condemn university strikes by midday Monday or US campuses in Qatar/UAE become 'legitimate targets.' (5) US-Israel struck Tabriz petrochemical plant and Bandar Khamir port (5 killed); brief power blackouts in Tehran/Karaj from airstrikes. (6) Iranian missile hit ADAMA chemical plant in Ne'ot Hovav, Israel — hazmat fears (later cleared); 11 lightly hurt in Beersheba area. (7) UNIFIL PEACEKEEPER KILLED in southern Lebanon — origin of projectile unknown. (8) Netanyahu orders IDF to expand security zone deeper into Lebanon; 146th Division reaches Ras al-Bayada near Tyre (~8km north of border); FOUR divisions now operating. (9) Houthis weighing closure of Bab al-Mandeb Strait — 'double chokepoint' feared; Maersk/Hapag-Lloyd/CMA CGM paused Trans-Suez sailings. (10) Oil ~$112.57/bbl. Iran death toll: HRANA 3,461 (1,551 civilians, 236 children); Red Crescent 1,900+/20,000 injured. Apr 6 deadline 7 days away.",
       "countries": [
         "Iran",
         "Israel",
@@ -30,7 +30,7 @@
       "name": "Russia-Ukraine War",
       "status": "untested",
       "status_label": "grinding war — talks paused",
-      "summary": "Russia holds ~20% of Ukraine. Russian forces captured Brusovka in DPR on Mar 28 — forming southern envelopment of Stary Karavan on the Liman-Slavyansk railway. Preparing bridgeheads for operation against Slavyansk fortified hub. Combat engagements continuing decline from 176 peak (Mar 25). 45 artillery and drone attacks hit Dnipropetrovsk region on Mar 28 afternoon; Kryvyi Rih industrial facility hit; drone attack injured man in Kyiv's Brovary district. Russia lost 4 sq mi during week of Mar 17-24 — shift from earlier momentum. ISW: mechanized assaults increasing since Mar 17, spring-summer offensive preparations against Fortress Belt in Donetsk. US-Ukraine bilateral talks held in Miami Mar 21-22 — 'constructive' but Russia NOT present. Abu Dhabi trilateral talks still postponed. Iran war continues to divert attention and boost Russian war economy via energy prices. Record 67% of Russians support peace negotiations.",
+      "summary": "Russia holds ~20% of Ukraine. Ukraine's Unmanned Systems Forces destroyed 3 BM-30 Smerch/Tornado-S MLRS + transport-loader vehicle at Russian base in Crimea overnight Mar 29 — significant strike on long-range artillery (120km range). Also destroyed fuel tankers near Novosvitlivka in Luhansk. Russian forces captured Brusovka in DPR (Mar 28) forming southern envelopment of Stary Karavan on Liman-Slavyansk railway. Combat engagements continuing decline from 176 peak (Mar 25). Russia lost 4 sq mi during week of Mar 17-24 — shift from earlier momentum. ISW: mechanized assaults increasing since Mar 17, spring-summer offensive preparations against Fortress Belt in Donetsk. US-Ukraine bilateral talks held in Miami Mar 21-22 — 'constructive' but Russia NOT present. Abu Dhabi trilateral talks still postponed. Iran war continues to divert attention and boost Russian war economy via energy prices. Record 67% of Russians support peace negotiations.",
       "countries": [
         "Russia",
         "Ukraine"
@@ -74,9 +74,9 @@
     {
       "name": "Brent Crude ($/bbl)",
       "value": "~$112.57",
-      "change": "UP 4.2% on Mar 28 (from ~$107.81); Houthi entry into war + continued strikes + Saudi base attack driving prices up; Goldman Sachs estimates $14-18/bbl geopolitical risk premium; +61% from pre-war ~$70",
+      "change": "Holding at ~$112.57 (Mar 28 close, +4.2%); Houthi Bab al-Mandeb closure threat + Pentagon ground ops planning keeping prices elevated; Goldman Sachs: $14-18/bbl geopolitical risk premium; +61% from pre-war ~$70; 'double chokepoint' scenario (Hormuz + Bab al-Mandeb) could push higher",
       "change_color": "var(--score-1)",
-      "as_of": "2026-03-29"
+      "as_of": "2026-03-30"
     },
     {
       "name": "Hormuz Tanker Traffic",
@@ -101,10 +101,10 @@
     },
     {
       "name": "Iran Casualties",
-      "value": "~1,900-2,000+ killed (Al Jazeera) / ~1,500 civilians (WashPost) / 82,000+ structures damaged",
-      "change": "Al Jazeera tracker: ~1,900+ (Mar 29); Iranian Red Crescent: 1,900+ killed; WashPost: ~1,500 civilians; Hengaw: 5,300 in 18 days; heavy bombardment continues across Tehran (NE, W, central, eastern parts); figures continue diverging due to internet blackout",
+      "value": "HRANA: 3,461 killed (1,551 civilians, 236 children) / Red Crescent: 1,900+ killed, 20,000+ injured / 82,000+ structures damaged",
+      "change": "HRANA updated figure: 3,461 total (1,551 civilians, 236 children) as of Mar 29; Red Crescent: 1,900+ killed, 20,000+ injured; WashPost: ~1,500 civilians; Hengaw: 5,300 in 18 days; Bandar Khamir struck (5 killed); Tabriz petrochemical plant hit; brief power blackouts in Tehran/Karaj from airstrikes; Iran University of Science and Technology severely damaged Mar 28",
       "change_color": "var(--score-1)",
-      "as_of": "2026-03-29"
+      "as_of": "2026-03-30"
     },
     {
       "name": "Israel Casualties (from Iran)",
@@ -115,10 +115,10 @@
     },
     {
       "name": "Lebanon Casualties (since Mar 2)",
-      "value": "1,189+ killed / 3,300+ injured / 1.2M+ displaced",
-      "change": "UP from 1,116; WHO: 9 paramedics killed in 5 separate attacks in southern Lebanon on Saturday Mar 29 — one of deadliest days for medical workers this month; 51 health workers killed in March total; 124+ children among dead; THREE IDF divisions operating",
+      "value": "1,189+ killed / 3,300+ injured / 1.2M+ displaced / 1 UNIFIL peacekeeper killed",
+      "change": "UNIFIL peacekeeper killed + 1 critically injured by projectile in southern Lebanon (Mar 29); origin unknown. WHO: 9 paramedics killed Mar 29; 52 health workers killed in March. Netanyahu ordered IDF to expand security zone deeper into Lebanon; 146th Division reaches Ras al-Bayada near Tyre; FOUR IDF divisions now operating",
       "change_color": "var(--score-1)",
-      "as_of": "2026-03-29"
+      "as_of": "2026-03-30"
     },
     {
       "name": "UAE Casualties",
@@ -144,9 +144,9 @@
     {
       "name": "Ukraine Territory Occupied",
       "value": "~20%",
-      "change": "Russia captured Brusovka in DPR on Mar 28 — forming southern envelopment of Stary Karavan on Liman-Slavyansk railway; preparing bridgeheads for Slavyansk operation; 45 artillery/drone attacks on Dnipropetrovsk region; Kryvyi Rih industrial facility hit; drone attack in Kyiv's Brovary district",
+      "change": "Ukraine destroyed 3 Smerch/Tornado-S MLRS + transport-loader at Russian base in Crimea overnight Mar 29; fuel tankers burned in Luhansk; Russia captured Brusovka in DPR (Mar 28) forming Stary Karavan envelopment; Slavyansk operation prep continues; combat engagements declining from 176 peak",
       "change_color": "var(--text-muted)",
-      "as_of": "2026-03-29"
+      "as_of": "2026-03-30"
     },
     {
       "name": "Cuba Fuel Imports",
@@ -164,45 +164,168 @@
     }
   ],
   "ground_invasion_tracker": {
-    "last_updated": "2026-03-29",
+    "last_updated": "2026-03-30",
     "status": "staging",
-    "troop_count_in_theatre": "~53,500+ and RISING (CENTCOM confirmed 50,000+; USS Tripoli ARG delivered ~3,500 additional; 82nd Airborne 1,000-3,000 deploying; Pentagon weighing up to 10,000 MORE troops; USS Boxer ARG in Pacific; total ground-capable force ~7,000-8,500 with potential to reach 17,000-18,500 if 10K approved)",
+    "troop_count_in_theatre": "~53,500+ and RISING (CENTCOM confirmed 50,000+; USS Tripoli ARG delivered ~3,500; 82nd Airborne 1,000-3,000 deploying; Pentagon weighing up to 10,000 MORE troops; USS Boxer ARG in Pacific approaching; total ground-capable force ~7,000-8,500 with potential to reach 17,000-18,500 if 10K approved)",
     "key_developments": [
-      "USS Tripoli ARG + 31st MEU CONFIRMED ARRIVED in CENTCOM area (Mar 27-28) — ~3,500 sailors/Marines including F-35Bs, amphibious assault assets (The Hill, CBS, Military Times)",
-      "PENTAGON WEIGHING 10,000 ADDITIONAL TROOPS — infantry + armored vehicles, in addition to 82nd Airborne already deploying (Axios, Fox News, Stars and Stripes, JPost)",
-      "Iranian attack on Prince Sultan Air Base (Saudi Arabia) injured 10-15 US troops (5 seriously); 2+ USAF refueling aircraft + E-3 AWACS damaged; total US wounded now 300+ (NPR, WashPost, Stars and Stripes)",
-      "Rubio told G7 in France: war to end in 'weeks, not months'; no ground troops needed but deploying for 'maximum optionality' (CNBC, France24)",
-      "Houthis entered the war — fired ballistic missiles at Israel for first time; signals widening regional conflict",
-      "Apr 6 deadline remains — 8 days away; diplomatic and military tracks running in parallel",
-      "82nd Airborne Division (1,000-3,000 paratroopers) continuing deployment — first Army ground combat unit in theatre",
-      "USS Boxer ARG + 11th MEU (2,500 Marines) in Pacific transit — arrival now closer to Apr 6 deadline",
+      "WASHINGTON POST (Mar 29): Pentagon preparing for WEEKS OF LIMITED GROUND OPERATIONS — Kharg Island raids + coastal sites near Hormuz; special ops + conventional infantry; 'weeks not months' timeline; Trump has NOT yet approved (WashPost, Al Jazeera, Breitbart, India TV)",
+      "IRAN THREATENS 'RAIN FIRE' — Ghalibaf: 'waiting for arrival of American troops on the ground to set them on fire and punish their regional partners forever'; accuses US of 'secretly plotting ground attack while negotiating' (CNN, PBS, NPR, AP)",
+      "FOUR-NATION ISLAMABAD SUMMIT (Mar 29) — Pakistan, Saudi Arabia, Turkey, Egypt FMs meet; 'most coordinated regional effort yet'; focused on Hormuz proposals; Pakistan offers to host direct US-Iran talks (Al Jazeera, Bloomberg, NPR, France24)",
+      "USS Tripoli ARG + 31st MEU (~3,500) in CENTCOM since Mar 27-28 — first amphibious assault force in theatre",
+      "Pentagon weighing 10,000 additional troops — infantry + armored vehicles (Axios, Stars and Stripes)",
+      "82nd Airborne Division (1,000-3,000 paratroopers) continuing deployment",
+      "USS Boxer ARG + 11th MEU (2,500 Marines) in Pacific transit — approaching Apr 6 deadline window",
       "Iran continues fortifying Kharg Island with MANPADs, anti-armor mines, additional troops",
+      "Houthis weighing closure of Bab al-Mandeb — would create 'double chokepoint' if combined with Hormuz",
+      "Apr 6 deadline — 7 days away; diplomatic (Islamabad track) and military (ground ops planning) tracks converging",
       "No draft or conscription legislation introduced in US",
-      "If 10,000 additional troops approved, total theatre force would approach ~63,500 — still far from Jiang's 500K-2M but significantly above initial air-only posture",
-      "Atlantic Council expert: current force 'not sufficient for a major invasion nor to hold a single city — limited/targeted ops only'"
+      "Atlantic Council: current force for 'limited/targeted ops only' — not major invasion"
     ],
     "kharg_island": {
       "status": "active_target_defended",
-      "naval_activity": "USS Tripoli ARG CONFIRMED IN CENTCOM (Mar 27-28) — first amphibious force in theatre with ~3,500 troops including F-35Bs and amphibious assault capability. USS Boxer ARG in Pacific transit, arrival approaching Apr 6 deadline window. 82nd Airborne deploying. Pentagon weighing 10,000 more troops (infantry + armor). Iran continues fortifying: troops, MANPADs, air defenses, anti-armor mines. IRGC Navy Commander Tangsiri killed Mar 26-27. US bombed 90+ military targets on Kharg Mar 13; oil infrastructure spared.",
-      "notes": "Kharg Island handles ~90% of Iran's oil exports. Apr 6 deadline is 8 days away. USS Tripoli arrival gives first actual amphibious capability — but Atlantic Council expert says current force 'not sufficient for a major invasion nor to hold a single city.' The 10,000 additional troops (if approved) including infantry and armored vehicles would change this calculus significantly. Rubio's 'weeks not months' and 'no ground troops needed' messaging contradicts the ongoing buildup — possibly signaling ground ops are an insurance policy rather than the plan. However, the Prince Sultan Air Base attack (10-15 US wounded, aircraft damaged) demonstrates Iran can hurt US forces, creating political pressure for escalation. Houthi entry into war further complicates Hormuz resolution. Combined ground force currently ~7,000-8,500 (Marines + 82nd Airborne); could reach 17,000-18,500 if 10K approved."
+      "naval_activity": "USS Tripoli ARG in CENTCOM with ~3,500 troops + F-35Bs + amphibious assets. USS Boxer ARG approaching. 82nd Airborne deploying. Pentagon planning Kharg Island raids per WashPost (Mar 29) — special ops + conventional infantry for 'weeks of limited ground operations.' Iran continues fortifying: troops, MANPADs, air defenses, anti-armor mines. Ghalibaf warns Iran is 'waiting' for US ground troops. IRGC Navy Commander Tangsiri (blockade architect) killed Mar 26-27.",
+      "notes": "CRITICAL SHIFT: WashPost report (Mar 29) is the first detailed confirmation that the Pentagon has specific PLANS for ground operations on Kharg Island — not just 'considering' but actively war-gaming raids with timelines ('weeks, not months' or 'a couple of months'). This is qualitatively different from previous reporting. However, White House says Trump has NOT approved. The Islamabad diplomatic track (4-nation summit) and the military track are now explicitly running in parallel. Iran's response — Ghalibaf threatening to 'set on fire' US troops — signals Tehran takes the ground threat seriously. Apr 6 deadline is 7 days away. Combined ground force ~7,000-8,500 (could reach 17,000-18,500 if 10K approved). FDD: Kharg seizure 'could be a trap.'"
     },
     "marine_movements": [
-      "USS Tripoli (LHA-7) + USS New Orleans (LPD) + USS San Diego (LPD) + 31st MEU (~3,500 total) — CONFIRMED ARRIVED in CENTCOM area Mar 27-28 (The Hill, CBS News, Military Times, Naval Today, SCMP); includes F-35B Lightning II, transport/strike aircraft, amphibious assault assets",
-      "USS Boxer (LHD-4) + USS Portland (LPD-27) + USS Comstock (LSD-45) + 11th MEU (2,500 Marines) — departed San Diego Mar 18-19; arrival approaching Apr 6 deadline window",
-      "82nd Airborne Division — 1,000-3,000 paratroopers deploying (Mar 24-25); includes division commander Maj. Gen. Brandon Tegtmeier and 1st BCT Immediate Response Force",
-      "PENTAGON CONSIDERING 10,000 ADDITIONAL TROOPS — infantry + armored vehicles (Axios, Stars and Stripes, JPost, Global Defense Corp); would bring ground force to ~17,000-18,500",
-      "Total current ground-capable force ~7,000-8,500 (3,500 Marines from Tripoli ARG + ~2,500 from Boxer ARG en route + 1,000-3,000 82nd Airborne)",
-      "13 US KIA, 300+ wounded as of Mar 29 — up from ~200 wounded on Mar 22",
-      "Prince Sultan Air Base attack (Mar 28): 10-15 US troops injured, 5 seriously; 2+ refueling aircraft + E-3 AWACS damaged",
-      "Atlantic Council: current force 'not sufficient for a major invasion nor to hold a single city — limited/targeted ops only'",
-      "Rubio (G7, Mar 28): 'weeks not months'; no ground troops needed but deploying for 'maximum optionality'",
-      "Defense experts warn of Indo-Pacific gap as Marines deploy from Japan to Middle East",
-      "CENTCOM requested additional forces for 'more options for military operations against Iran'"
+      "USS Tripoli (LHA-7) + USS New Orleans (LPD) + USS San Diego (LPD) + 31st MEU (~3,500 total) — IN CENTCOM since Mar 27-28; first amphibious force in theatre",
+      "USS Boxer (LHD-4) + USS Portland (LPD-27) + USS Comstock (LSD-45) + 11th MEU (2,500 Marines) — departed San Diego Mar 18-19; approaching Apr 6 deadline window",
+      "82nd Airborne Division — 1,000-3,000 paratroopers deploying (Mar 24-25); includes division commander and 1st BCT Immediate Response Force",
+      "PENTAGON PLANNING KHARG RAIDS — WashPost (Mar 29): special ops + conventional infantry for 'weeks of limited ground operations' at Kharg Island and Hormuz coastal sites; Trump not yet approved",
+      "PENTAGON CONSIDERING 10,000 ADDITIONAL TROOPS — infantry + armored vehicles (Axios, Stars and Stripes); would bring ground force to ~17,000-18,500",
+      "Total current ground-capable force ~7,000-8,500 (3,500 Tripoli ARG + ~2,500 Boxer en route + 1,000-3,000 82nd Airborne)",
+      "13 US KIA, 300+ wounded as of Mar 30",
+      "Atlantic Council: current force for 'limited/targeted ops only'",
+      "Rubio (G7, Mar 28): 'weeks not months'; deploying for 'maximum optionality'",
+      "Defense experts warn of Indo-Pacific gap as Marines deploy from Japan to Middle East"
     ],
-    "draft_indicators": "None. No legislation introduced. No Selective Service activation. No public discussion at Pentagon or White House level. Rubio explicitly stated no ground troops needed. However, Pentagon weighing 10,000 additional troops including infantry and armored vehicles — a significant qualitative shift if approved.",
-    "assessment": "Status remains 'staging' but CAPABILITY IN THEATRE for the first time. USS Tripoli arrival gives the US its first amphibious assault capability in the war zone. The Pentagon's consideration of 10,000 additional troops (infantry + armor) is the most significant escalation signal yet — it would more than double the ground-capable force. However, Rubio's public messaging ('weeks not months,' no ground troops needed) and the ongoing diplomatic track create a counternarrative. The Prince Sultan Air Base attack — injuring 10-15 troops and damaging aircraft — could become a political catalyst either for escalation (retaliation) or de-escalation (political cost). Houthi entry into the war adds a new front and complicates Hormuz resolution. The Apr 6 deadline is now 8 days away. USS Boxer's mid-April arrival timeline and the 10,000-troop decision could converge near the deadline. Assessment: the situation is transitioning from 'staging' toward 'partial capability in place' — the US now has forces that COULD conduct limited operations (island seizure, maritime interdiction) but NOT a major ground invasion. The next week will determine whether the diplomatic or military track prevails."
+    "draft_indicators": "None. No legislation introduced. No Selective Service activation. No public discussion at Pentagon or White House level. Pentagon ground ops planning focused on limited raids (special ops + infantry), not mass mobilization.",
+    "assessment": "CRITICAL ESCALATION IN PLANNING: WashPost report (Mar 29) confirms Pentagon has detailed plans for weeks of limited ground operations on Kharg Island and Hormuz coastal sites — the most concrete ground ops reporting yet. This moves beyond 'weighing options' to active war-gaming with timelines. Simultaneously, the Islamabad 4-nation summit (Pakistan, Saudi, Turkey, Egypt) represents the most coordinated diplomatic effort yet. The diplomatic and military tracks are now explicitly parallel — Apr 6 is 7 days away and will likely determine which prevails. Iran's response (Ghalibaf: 'set them on fire') signals Tehran expects and is preparing for ground engagement. Houthi threat to close Bab al-Mandeb creates additional pressure — a 'double chokepoint' would dramatically escalate the crisis. Status remains 'staging' but the WashPost report shifts this toward 'imminent capability' — the forces in theatre (7,000-8,500) are sufficient for the limited raids described. The question is no longer 'can the US do this' but 'will Trump authorize it.' IRGC university threats and Iran's chemical plant strike on Israel (Ne'ot Hovav) show both sides escalating targeting. Next 7 days are decisive."
   },
   "daily_entries": [
+    {
+      "date": "2026-03-30",
+      "tags": [
+        "Iran",
+        "Ground Operations",
+        "Diplomacy",
+        "Escalation",
+        "Day 31"
+      ],
+      "summary": "Day 31 — war enters second month. PENTAGON READYING GROUND OPS: Washington Post reports Pentagon preparing for 'weeks of limited ground operations' in Iran including Kharg Island raids and coastal sites near Hormuz, using special ops and conventional infantry; Trump has NOT yet approved. Iran's Ghalibaf threatens to 'set on fire' US ground troops; accuses US of secretly planning invasion while negotiating. FOUR-NATION ISLAMABAD SUMMIT: Pakistan hosts Saudi Arabia, Turkey, Egypt FMs in 'most coordinated regional effort yet' to push US-Iran toward direct talks; focus on Hormuz proposals; Pakistan offers to host direct talks. IRGC threatens US/Israeli universities in region — demands US condemn university strikes by midday Monday or campuses in Qatar/UAE become 'legitimate targets' (Georgetown, NYU, Northwestern at risk). US-Israel struck Tabriz petrochemical plant and Bandar Khamir port (5 killed); brief power blackouts in Tehran/Karaj from airstrikes. Iranian missile hit ADAMA chemical plant in Ne'ot Hovav, Israel — hazmat fears (later cleared); 11 lightly hurt in Beersheba. UNIFIL peacekeeper killed in southern Lebanon. Netanyahu orders IDF to expand security zone deeper; 146th Division reaches Ras al-Bayada near Tyre (~8km/5mi north of border); FOUR divisions operating. Houthis weighing Bab al-Mandeb closure — Maersk/Hapag-Lloyd/CMA CGM paused Trans-Suez sailings. Oil ~$112.57/bbl. HRANA: 3,461 killed in Iran (1,551 civilians, 236 children). Apr 6 deadline 7 days away.",
+      "details": [
+        "WashPost (Mar 29): Pentagon preparing for WEEKS OF LIMITED GROUND OPERATIONS in Iran — Kharg Island raids + coastal sites near Hormuz; special ops + conventional infantry (WashPost, Al Jazeera, Breitbart, India TV, Manila Times, The Star)",
+        "One official: objectives would take 'weeks, not months'; another: 'a couple of months'",
+        "White House: 'does not mean the president has made a decision' — Trump has not approved",
+        "Iran's Ghalibaf: 'waiting for arrival of American troops on the ground to set them on fire and punish their regional partners forever' (CNN, PBS, NPR, AP)",
+        "Ghalibaf accuses US of 'secretly plotting ground attack while signaling negotiation in public'",
+        "FOUR-NATION ISLAMABAD SUMMIT: Pakistan, Saudi Arabia, Turkey, Egypt FMs meet in 'most coordinated regional effort yet' (Al Jazeera, Bloomberg, NPR, France24, US News)",
+        "Summit focused on Hormuz reopening proposals; Pakistan offers to host direct US-Iran talks in 'coming days'",
+        "China conveyed support for Pakistan's mediation efforts (Bloomberg)",
+        "IRGC threatens US/Israeli universities in Middle East — demands condemnation of Iranian university strikes by midday Monday; Georgetown, NYU, Northwestern campuses in Qatar/UAE at risk (Al Jazeera, CNN, Times of Israel)",
+        "Iran University of Science and Technology severely damaged by US-Israeli airstrikes Mar 28",
+        "US-Israel struck Tabriz petrochemical plant — Iranian state media confirms (Al Jazeera liveblog)",
+        "US-Israel struck Bandar Khamir port in southern Iran — at least 5 killed (Al Jazeera, CNN)",
+        "Brief power blackouts in Tehran and Karaj from Israeli airstrikes (Times of Israel)",
+        "Iranian missile struck ADAMA chemical plant in Ne'ot Hovav industrial zone, Israel — 1 injured; hazmat fears later cleared (JPost, Times of Israel)",
+        "11 lightly hurt in Beersheba area from Iranian missile attacks (Times of Israel)",
+        "UNIFIL peacekeeper killed + 1 critically injured by projectile in southern Lebanon — origin unknown; investigation underway (Al Jazeera, Times of Israel)",
+        "Netanyahu orders IDF to expand security zone deeper into Lebanon from Northern Command HQ in Safed (Times of Israel, Haaretz, JNS, Al Jazeera)",
+        "146th Division advanced to Ras al-Bayada headland south of Tyre — ~8km/5mi north of Israel's border; FOUR IDF divisions now operating",
+        "Houthis weighing closure of Bab al-Mandeb Strait — deputy info minister Mansour: 'among our options' (Al Jazeera, CGTN, France24, Sunday Guardian)",
+        "Maersk, Hapag-Lloyd, CMA CGM paused all Trans-Suez sailings citing 'deteriorating security situation'",
+        "'Double chokepoint' scenario: Hormuz + Bab al-Mandeb = ~30% of world's seaborne oil potentially disrupted",
+        "Oil holding at ~$112.57/bbl; elevated on ground ops + Houthi risks",
+        "HRANA updated death toll: 3,461 killed in Iran (1,551 civilians, 236 children); Red Crescent: 1,900+/20,000 injured",
+        "Saudi Arabia intercepted almost a dozen drones Mar 29 (Bloomberg)"
+      ],
+      "prediction_impact": "The WashPost ground ops report is the most significant escalation indicator since the war began — moving from 'considering' to 'Pentagon has detailed plans with timelines.' Combined with Iran's explicit 'rain fire' threats, both sides are publicly preparing for ground engagement even as the Islamabad diplomatic track intensifies. The IRGC university threat represents a new category of targeting (educational infrastructure) that could provoke severe international reaction. The Houthi Bab al-Mandeb threat is potentially more consequential than their missile strikes — a 'double chokepoint' closing ~30% of seaborne oil would dwarf the Hormuz crisis alone. The 4-nation Islamabad summit is the most coordinated peace effort yet, but faces the fundamental incompatibility identified in Iran's 5 counter-conditions. Apr 6 deadline (7 days) remains the inflection point.",
+      "source": "Washington Post, Al Jazeera, CNN, PBS, NPR, Bloomberg, France24, Times of Israel, Haaretz, JNS, JPost, US News, India TV, Breitbart, Manila Times, CGTN, Sunday Guardian, AP"
+    },
+    {
+      "date": "2026-03-30",
+      "tags": [
+        "Ground Invasion Tracker"
+      ],
+      "summary": "CRITICAL: Washington Post confirms Pentagon has detailed plans for 'weeks of limited ground operations' in Iran — Kharg Island raids + coastal sites near Hormuz; special ops + conventional infantry. This is qualitatively different from previous 'weighing options' reporting — active war-gaming with timelines. Trump has NOT approved. Iran's Ghalibaf explicitly threatens to 'set on fire' US ground troops; says Iran is 'waiting.' Islamabad 4-nation summit (Pakistan, Saudi, Turkey, Egypt) represents strongest diplomatic counterweight yet. Apr 6 deadline now 7 days away. Forces in theatre (~7,000-8,500) are sufficient for the limited raids described. USS Boxer approaching. The question shifts from 'can the US do this' to 'will Trump authorize.'",
+      "details": [
+        "WASHPOST GROUND OPS REPORT (Mar 29): Pentagon preparing weeks of limited ground ops — Kharg Island seizure + Hormuz coastal raids; special ops + conventional infantry",
+        "One official: 'weeks, not months'; another: 'a couple of months' — first concrete timeline for ground ops",
+        "White House: 'does not mean the president has made a decision' — Trump authorization pending",
+        "Iran's Ghalibaf: 'waiting for arrival of American troops on ground to set them on fire' — explicit threat",
+        "Ghalibaf: US 'secretly plots ground attack while signaling negotiation' — signals Iran takes threat seriously",
+        "Four-nation Islamabad summit strongest diplomatic effort yet — focus on Hormuz",
+        "Forces currently in theatre sufficient for limited raids described by WashPost",
+        "USS Tripoli ARG in CENTCOM (~3,500); 82nd Airborne deploying; USS Boxer approaching",
+        "Pentagon still weighing 10,000 additional troops (infantry + armor)",
+        "Houthi Bab al-Mandeb threat adds new dimension — ground ops near Hormuz could trigger 'double chokepoint'",
+        "No draft legislation or Selective Service activation",
+        "Apr 6 deadline: 7 days away — diplomatic and military tracks converging"
+      ],
+      "prediction_impact": "The WashPost ground ops report marks the transition from 'could the US do limited operations' to 'the Pentagon has specific plans for limited operations.' The described scope — Kharg Island raids + Hormuz coastal sites using special ops + conventional infantry for 'weeks' — matches the 'limited/targeted ops' framework identified by Atlantic Council, not a mass invasion. This is the most significant ground invasion indicator to date. However, three factors push against authorization: (1) the Islamabad 4-nation summit providing a diplomatic alternative, (2) Iran's explicit 'rain fire' threats raising the casualty calculus, and (3) the IRGC university threats risking severe international blowback. The diplomatic and military tracks are now in direct competition with 7 days until Apr 6.",
+      "source": "Washington Post, Al Jazeera, CNN, PBS, NPR, Bloomberg, France24, India TV, Breitbart, Manila Times, AP"
+    },
+    {
+      "date": "2026-03-30",
+      "tags": [
+        "Lebanon",
+        "Netanyahu",
+        "Expansion",
+        "UNIFIL"
+      ],
+      "summary": "Netanyahu ordered IDF to 'further expand the existing security zone' in southern Lebanon from Northern Command HQ in Safed. 146th Division advanced to Ras al-Bayada headland, south of Tyre — approximately 8km/5mi north of Israel's border. FOUR IDF divisions now operating in southern Lebanon (91st, 146th, 162nd + one other). UNIFIL peacekeeper killed and another critically injured by projectile in southern Lebanon — origin unknown, investigation underway. WHO: 52 health workers killed in Lebanon in March. Death toll: 1,189+ killed, 3,300+ injured, 1.2M+ displaced since Mar 2.",
+      "details": [
+        "Netanyahu ordered expansion from IDF Northern Command HQ in Safed (Times of Israel, Haaretz, JNS, Al Jazeera)",
+        "146th Division reached Ras al-Bayada headland south of Tyre (~8km north of border) — deepest advance in western sector",
+        "FOUR IDF divisions now in southern Lebanon — 91st, 146th, 162nd + one other",
+        "UNIFIL peacekeeper killed + 1 critically injured by projectile; origin unknown (Al Jazeera, Times of Israel)",
+        "WHO: 52 health workers killed in Lebanon in March (up from 51)",
+        "Netanyahu: expansion to 'fundamentally change the situation' and 'definitively thwart invasion threat'",
+        "Buffer zone expanding toward Litani River (~30km from border)"
+      ],
+      "prediction_impact": null,
+      "source": "Times of Israel, Haaretz, JNS, Al Jazeera, US News, JPost, The National, Irish Times"
+    },
+    {
+      "date": "2026-03-30",
+      "tags": [
+        "Houthis",
+        "Bab al-Mandeb",
+        "Shipping",
+        "Double Chokepoint"
+      ],
+      "summary": "Houthis weighing closure of Bab al-Mandeb Strait — deputy information minister Mohammed Mansour says it is 'among our options.' If enacted, would create 'double chokepoint' scenario: Hormuz + Bab al-Mandeb = ~30% of world's seaborne oil potentially blocked. Major shipping lines Maersk, Hapag-Lloyd, and CMA CGM have already paused all Trans-Suez sailings citing 'deteriorating security situation.' Bab al-Mandeb handles ~12% of global trade. Houthis say any closure would target ships linked to countries engaged in hostilities against 'axis of resistance.'",
+      "details": [
+        "Houthi deputy info minister Mansour: 'closing Bab al-Mandeb is among our options' (Al Jazeera, CGTN, France24)",
+        "Houthis say closure would be selective — targeting ships of hostile nations (similar to Iran's Hormuz model)",
+        "Maersk, Hapag-Lloyd, CMA CGM paused all Trans-Suez sailings (Sunday Guardian, Al Jazeera)",
+        "MARAD advisory issued for Red Sea/Bab al-Mandeb security (US Maritime Administration)",
+        "'Double chokepoint' scenario: Hormuz (~20% of seaborne oil) + Bab al-Mandeb (~12% of global trade) = catastrophic disruption",
+        "Bloomberg reported US warned ships on Bab al-Mandeb after Iranian shipping threat (Mar 26)",
+        "Houthis have NOT yet imposed blockade but are 'conducting battle in stages'"
+      ],
+      "prediction_impact": "The Bab al-Mandeb threat may be more consequential than the Houthis' missile strikes on Israel. A 'double chokepoint' closing both Hormuz and Bab al-Mandeb would affect ~30% of global seaborne oil and a massive share of Asia-Europe trade — potentially the most severe trade disruption since WWII. The fact that Maersk et al. have already paused Trans-Suez sailings shows the market is pricing in the risk. This compounds the energy crisis and could push oil past its $126 peak.",
+      "source": "Al Jazeera, CGTN, France24, Sunday Guardian, Bloomberg, MARAD, The National, Haaretz, Africanews, Daily Caller"
+    },
+    {
+      "date": "2026-03-30",
+      "tags": [
+        "Russia",
+        "Ukraine",
+        "Crimea",
+        "MLRS"
+      ],
+      "summary": "Ukraine's Unmanned Systems Forces destroyed 3 BM-30 Smerch/Tornado-S multiple launch rocket systems + transport-loader vehicle at Russian MLRS base in Sovkhozne, Crimea overnight Mar 29. Separately destroyed fuel tankers near Novosvitlivka in Luhansk. Magyar Birds drone unit commander reported strikes. Systems had 120km range — significant reduction in Russian long-range bombardment capability. Combat engagements continue declining from 176 peak (Mar 25).",
+      "details": [
+        "3 BM-30 Smerch/Tornado-S MLRS + transport-loader destroyed at Sovkhozne, Crimea (LiveUAMap, United24, Pravda, Ukrinform)",
+        "Destroyed by Unmanned Systems Forces drone strikes overnight Mar 29",
+        "Systems capable of firing up to 120km — significant long-range artillery loss",
+        "Fuel tankers destroyed near Novosvitlivka, Luhansk in coordinated SBU strike",
+        "Magyar Birds drone unit (Robert 'Magyar' Brovdi) reported the Crimea strikes",
+        "Combat engagements continue declining from 176 peak — possible pre-offensive pause"
+      ],
+      "prediction_impact": "Ukrainian drone strikes deep in Crimea continue to demonstrate expanding precision strike capability. The destruction of 3 MLRS systems reduces Russian long-range bombardment capacity in the southern sector. Ukraine's Unmanned Systems Forces are increasingly capable of conducting strategic strikes behind Russian lines.",
+      "source": "LiveUAMap, United24 Media, Ukrainska Pravda, Ukrinform, Censor.net, Defence Blog, NV Ukraine"
+    },
     {
       "date": "2026-03-29",
       "tags": [
