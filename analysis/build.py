@@ -190,10 +190,15 @@ def _generate_social_card(data: dict, cards_dir: str) -> str:
     with open(svg_path, 'w') as f:
         f.write(svg)
 
-    result = subprocess.run(
-        ['convert', svg_path, '-resize', '1200x600', png_path],
-        capture_output=True, text=True
-    )
+    try:
+        result = subprocess.run(
+            ['convert', svg_path, '-resize', '1200x600', png_path],
+            capture_output=True, text=True
+        )
+    except FileNotFoundError:
+        os.remove(svg_path)
+        print(f"  Warning: skipping card for {slug}: ImageMagick 'convert' not found (generate locally before deploying)")
+        return None
     os.remove(svg_path)
     if result.returncode == 0:
         return png_path
