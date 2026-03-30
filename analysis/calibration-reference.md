@@ -1,4 +1,4 @@
-# Prediction Calibration Reference — March 30, 2026
+# Prediction Calibration Reference — March 31, 2026
 
 Use this document when analyzing Predictive History lectures to accurately assess prediction statuses.
 
@@ -95,6 +95,13 @@ Use this document when analyzing Predictive History lectures to accurately asses
 | Iran death toll — HRANA: 3,461 killed | Mar 29, 2026 | HRANA: 3,461 total (1,551 civilians, 236 children); Red Crescent: 1,900+/20,000 injured |
 | Ukraine destroys 3 MLRS in Crimea | Mar 29, 2026 | Unmanned Systems Forces destroyed 3 Smerch/Tornado-S + transport-loader at Sovkhozne base; 120km-range systems |
 | US-Israel struck Tabriz petrochemical plant | Mar 29, 2026 | Iranian state media confirms; also struck Bandar Khamir port (5 killed) |
+| Trump: 'take the oil in Iran' | Mar 30, 2026 | FT interview: 'my preference would be to take the oil'; admitted troops would need to deploy to Kharg 'for a while'; threatened to destroy Kharg without deal |
+| Iran struck Kuwait desalination plant | Mar 30, 2026 | 1 Indian worker killed; service building damaged; Kuwait: 'sinful Iranian aggression'; desalination provides ~90% of Kuwait's drinking water |
+| Israel attacking government infrastructure 'throughout Tehran' | Mar 30-31, 2026 | IDF confirmed strikes on government infrastructure across Tehran; power blackouts (restored); ballistic missile sites, UAV engine facilities, IRGC complexes hit |
+| Oil hits $116.50 — record monthly gain | Mar 30, 2026 | Brent up 55% in March — largest monthly gain since contract inception 1988; WTI past $102 |
+| US KIA rises to 15 | Mar 31, 2026 | Up from 13; additional deaths confirmed per casualty trackers |
+| IRGC university threat — universities go remote | Mar 30-31, 2026 | IRGC deadline passed; American University of Beirut and AUIB (Iraq) moved to remote learning; no confirmed strikes on campuses |
+| Saudi intercepted 5 ballistic missiles | Mar 30, 2026 | Five Iranian BMs heading toward Eastern Province intercepted by Saudi Ministry of Defence |
 
 ## Quick Reference: Disconfirmed Claims
 
@@ -110,43 +117,42 @@ Use this document when analyzing Predictive History lectures to accurately asses
 ## Key Contextual Facts for Analysis
 
 ### US-Iran War
-- Air/missile campaign now in Day 31 — war enters second month; NO ground troops deployed IN Iran yet, but PENTAGON HAS DETAILED PLANS for limited ground ops
+- Air/missile campaign now in Day 32; NO ground troops deployed IN Iran yet, but PENTAGON HAS DETAILED PLANS and TRUMP EXPLICITLY STATED INTENT TO 'TAKE THE OIL'
+- TRUMP FT INTERVIEW (Mar 30): 'My favorite thing is to take the oil in Iran'; admitted troops would need to deploy to Kharg 'for a while'; compared to Venezuela oil seizure; threatened to 'DESTROY oil wells and Kharg Island' without deal (CNBC)
 - PENTAGON READYING 'WEEKS OF GROUND OPERATIONS' (WashPost, Mar 29): Kharg Island raids + coastal sites near Hormuz; special ops + conventional infantry; Trump has NOT yet approved
-- Iran's Ghalibaf: 'waiting for arrival of American troops on ground to set them on fire' — accuses US of secretly planning invasion while negotiating
-- FOUR-NATION ISLAMABAD SUMMIT (Mar 29): Pakistan, Saudi Arabia, Turkey, Egypt FMs meet in 'most coordinated regional effort yet'; focused on Hormuz proposals; Pakistan offers to host direct US-Iran talks
-- HOUTHIS ENTERED WAR (Mar 28) and now WEIGHING BAB AL-MANDEB CLOSURE — 'double chokepoint' feared; Maersk/Hapag-Lloyd/CMA CGM paused Trans-Suez sailings
-- IRGC THREATENS US/ISRAELI UNIVERSITIES in Qatar/UAE — demands US condemn strikes on Iranian universities by midday Monday or campuses become 'legitimate targets'
+- DIPLOMATIC TRACK ADVANCING: Pakistan FM Dar visiting China (Mar 31); officials say Rubio-Araghchi direct talks could happen 'within days' in Pakistan
+- IRAN STRUCK KUWAIT DESALINATION PLANT (Mar 30): 1 Indian worker killed; first attack on critical water infrastructure; desalination provides ~90% of Kuwait's drinking water
+- ISRAEL ATTACKING GOVERNMENT INFRASTRUCTURE 'THROUGHOUT TEHRAN' (Mar 30-31): power blackouts (restored); ballistic missile sites, UAV facilities, IRGC complexes hit
+- IRGC UNIVERSITY THREAT DEADLINE PASSED (Mar 30/31): American University of Beirut + AUIB Iraq moved to remote learning; no confirmed strikes on campuses yet
+- HOUTHIS ENTERED WAR (Mar 28) and WEIGHING BAB AL-MANDEB CLOSURE — not yet enacted but shipping 'sharply reduced'; Saudi rerouted 5M bbl/day to Red Sea terminals
 - USS Tripoli ARG + 31st MEU (~3,500) in CENTCOM since Mar 27-28 — first amphibious force in theatre
 - Pentagon weighing 10,000 additional troops — infantry + armored vehicles; would more than double ground-capable force
 - 82nd Airborne Division (1,000-3,000 paratroopers) deploying — first Army ground combat unit in theatre
 - USS Boxer ARG in Pacific, approaching Apr 6 deadline window
-- Combined ground-capable force ~7,000-8,500; could reach ~17,000-18,500 if 10K approved — sufficient for limited raids described by WashPost
-- US-Israel struck Tabriz petrochemical plant, Bandar Khamir (5 killed); brief power blackouts in Tehran/Karaj
-- Iranian missile hit ADAMA chemical plant in Ne'ot Hovav, Israel; 11 lightly hurt in Beersheba
-- Oil at ~$112.57/bbl; Goldman Sachs: $14-18/bbl geopolitical risk premium; +61% from pre-war ~$70
-- Updated casualties: HRANA: 3,461 killed in Iran (1,551 civilians, 236 children); Red Crescent: 1,900+/20,000 injured; 82,000+ structures damaged
-- 13 US KIA, 300+ wounded; 1,189+ killed in Lebanon/3,300+ injured/1.2M displaced/1 UNIFIL peacekeeper killed; 23+ killed in Israel/3,950+ wounded
-- WHO: 52 health workers killed in Lebanon in March; 9 paramedics killed Mar 29
-- Netanyahu ordered IDF to expand security zone deeper into Lebanon; 146th Division reaches Ras al-Bayada near Tyre; FOUR IDF divisions now operating
+- Combined ground-capable force ~7,000-8,500; could reach ~17,000-18,500 if 10K approved
+- Oil surged to ~$116.50/bbl — Brent up 55% in March (record since 1988); analysts warn $200/bbl if Hormuz stays shut past mid-April
+- Updated casualties: Al Jazeera tracker: 2,000+ killed in Iran; HRANA: 3,461 (1,551 civilians, 236 children); Red Crescent: 1,900+/20,000 injured; 82,000+ structures damaged
+- 15 US KIA (up from 13), 300+ wounded; 1,189+ killed in Lebanon/3,300+ injured/1.2M displaced/1 UNIFIL peacekeeper killed; 23+ killed in Israel/3,950+ wounded
+- Saudi intercepted 5 ballistic missiles heading toward Eastern Province (Mar 30)
+- Netanyahu ordered IDF to expand security zone deeper into Lebanon; FOUR IDF divisions now operating
 - Israel decapitation campaign: Khamenei (Feb 28), Larijani (Mar 17), Soleimani (Mar 17), Khatib (Mar 18), Tangsiri (Mar 26-27)
-- Trump energy strike deadline April 6 (7 days away); diplomatic (Islamabad) and military (ground ops) tracks converging
+- Trump energy strike deadline April 6 (6 days away); diplomatic (Pakistan-China) and military (ground ops) tracks in dual-track phase
 - Atlantic Council: current US force for 'limited/targeted ops only' — not major invasion
 
 ### Hormuz Blockade & Regional Fallout
 - Blockade continues; Iran operating 'toll booth' vetting system; 5 nations formally allowed (China, Russia, India, Iraq, Pakistan); Iran agreed 20 Pakistani-flagged ships (2/day)
-- HOUTHIS WEIGHING BAB AL-MANDEB CLOSURE — deputy info minister Mansour: 'among our options'; would create 'DOUBLE CHOKEPOINT' (~30% of seaborne oil); Maersk/Hapag-Lloyd/CMA CGM paused Trans-Suez sailings
-- Oil at ~$112.57/bbl; Goldman Sachs: $14-18/bbl geopolitical risk premium; +61% from pre-war ~$70
+- HOUTHIS WEIGHING BAB AL-MANDEB CLOSURE — not yet enacted but shipping 'sharply reduced'; Saudi rerouted ~5M bbl/day to Red Sea terminals (Yanbu) — half total production
+- Oil surged to ~$116.50/bbl — Brent up 55% in March (record since 1988); WTI past $102; analysts warn $200/bbl if Hormuz stays shut past mid-April
 - 2,000 vessels and 20,000 seafarers stranded in Hormuz
-- Four-nation Islamabad summit (Mar 29) focused on Hormuz proposals — most coordinated diplomatic effort yet
-- Energy-infrastructure warfare continues: Tabriz petrochemical plant struck Mar 29; universities now in target set
-- Saudi Arabia intercepted almost a dozen drones Mar 29
+- IRAN STRUCK KUWAIT DESALINATION PLANT (Mar 30): 1 Indian worker killed; first attack on critical water infrastructure; desalination provides ~90% of Kuwait's drinking water
+- Saudi Arabia intercepted 5 ballistic missiles heading toward Eastern Province (Mar 30); intercepted almost a dozen drones Mar 29
 - UAE: 372 ballistic missiles, 15 cruise missiles, 1,826 drones intercepted; 8 killed, 157+ injured
-- Qatar: Ras Laffan damaged (Mar 19) on top of gas production halt (Mar 2)
+- Qatar: Ras Laffan damaged (Mar 19) on top of gas production halt (Mar 2); condemned Kuwait desalination attack
 - US has hit two-thirds of Iran's missile and drone production facilities
-- Pakistan: hosting Islamabad summit; mediating indirect talks; four-day work week continues
+- Pakistan FM Dar visiting China (Mar 31) for mediation discussions; officials say Rubio-Araghchi talks possible 'within days'
 - Japan: 254 days SPR; Nikkei down 8.6%; South Korea: 208 days SPR, Kospi down 12%
 - India: most vulnerable major economy; ordered refineries to maximize LPG production (+25%); one of 5 nations with Hormuz passage
-- Apr 6 deadline is 7 days away — diplomatic (Islamabad track) and military (ground ops planning) tracks converging
+- Apr 6 deadline is 6 days away — diplomatic (Pakistan-China) and military (ground ops) tracks in dual-track phase
 
 ### Venezuela, Cuba, Colombia
 - **Venezuela**: Maduro hearing held Mar 26 — Judge Hellerstein did NOT dismiss charges; did NOT rule on defense funding; promised decision 'soon'; emphasized 6th Amendment right to counsel is 'paramount'; said if government refuses future order, could then entertain dismissal. No next hearing date set. Rodriguez acting president; US recognized as sole leader Mar 11
@@ -155,17 +161,18 @@ Use this document when analyzing Predictive History lectures to accurately asses
 
 ### Russia-Ukraine War (March 2026)
 - War continues as grinding attritional conflict — Ukraine has NOT "lost"
-- Russia occupies ~20% of territory; combat engagements declining from 176 peak (Mar 25)
-- Ukraine destroyed 3 BM-30 Smerch/Tornado-S MLRS + transport-loader at Russian base in Crimea overnight Mar 29; fuel tankers destroyed in Luhansk
-- Russia captured Brusovka in DPR (Mar 28) — forming Stary Karavan envelopment on Liman-Slavyansk railway; Slavyansk operation prep
-- Russia claimed Bobylivka in Sumy Oblast — crossing Russia-Ukraine border; new territorial thrust
-- Russia lost 4 sq mi during week of Mar 17-24 (shift from 50 sq mi gained in prior 4 weeks)
-- ISW: increasing Russian mechanized assaults since Mar 17 — spring offensive preparation against Fortress Belt in Donetsk Oblast
-- Ukraine cleared 400 km² since counteroffensive began; Feb 2026 first net territorial gain since 2024
+- Russia occupies ~20% of territory; combat engagements in 5th consecutive day of decline: 176 → 158 → 150 → 147 (Mar 30)
+- 147 engagements on Mar 30; Russia launched 9,355 kamikaze drones; 70 airstrikes dropping 237 guided aerial bombs; 3,912 shelling attacks
+- 870 Russian soldiers killed in past 24 hours per Ukrainian General Staff
+- Uptick in Russian activity toward Huliaypole (Zaporizhzhia region) — possible new axis of advance
+- 26 Russian attacks near Kostiantynivka area; advancing in Kharkiv/Sumy directions
+- Ukraine destroyed 3 BM-30 Smerch/Tornado-S MLRS + transport-loader at Russian base in Crimea overnight Mar 29
+- Russia captured Brusovka in DPR (Mar 28) — forming Stary Karavan envelopment; Slavyansk operation prep
+- Russia claimed Bobylivka in Sumy Oblast — crossing Russia-Ukraine border
+- ISW: increasing Russian mechanized assaults since Mar 17 — spring offensive preparation against Fortress Belt
 - US-Ukraine bilateral talks in Miami Mar 21-22 — "constructive"; Russia NOT present
 - Trilateral Abu Dhabi talks still postponed; bilateral approach signals strategy shift
 - Record 67% of Russians now support peace negotiations
-- UK/France committed peacekeeping troops (declaration of intent); Russia rejects
 - Iran war has diverted international attention and driven energy prices up, indirectly benefiting Russia
 
 ### China Economy
