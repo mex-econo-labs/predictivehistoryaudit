@@ -206,6 +206,91 @@ def _generate_social_card(data: dict, cards_dir: str) -> str:
     return None
 
 
+def _generate_site_social_card(base_dir: str, output_dir: str,
+                                analyses: list, total_predictions: int,
+                                exec_summary: dict):
+    """Regenerate the site-wide social card with current stats.
+
+    This card contains dynamic data (lecture count, calibration %, etc.)
+    so it must be regenerated every build, unlike per-lecture cards which
+    are static once created. Requires ImageMagick — skips gracefully if
+    not available (Cloudflare). The committed PNG serves as fallback.
+    """
+    n_lectures = len(analyses)
+    tested = exec_summary['tested']
+    confirmed = exec_summary['confirmed']
+    cal_pct = exec_summary['accuracy_pct']
+
+    # Load civilizational framing from channel-data if available
+    china_fav = us_crit = russia_fav = ''
+    cd_path = os.path.join(base_dir, 'channel-data.json')
+    if os.path.exists(cd_path):
+        with open(cd_path) as f:
+            cd = json.load(f)
+        ts = cd.get('triple_standard', {})
+        china_fav = f"China: {ts['china']['favorable_pct']}% favorable" if ts.get('china') else ''
+        us_crit = f"US/West: {ts['us_west']['critical_pct']}% critical" if ts.get('us_west') else ''
+        russia_fav = f"Russia: {ts['russia']['favorable_pct']}% favorable" if ts.get('russia') else ''
+
+    civ_block = ''
+    if china_fav:
+        civ_block = f'''  <rect x="620" y="220" width="500" height="180" rx="6" fill="#131820" stroke="#2e3440" stroke-width="1"/>
+  <text x="650" y="258" font-family="Helvetica, Arial, sans-serif" font-size="13" font-weight="bold" fill="#a09882" letter-spacing="3">CIVILIZATIONAL FRAMING</text>
+  <text x="650" y="300" font-family="monospace" font-size="20" fill="#94f4c6">{_xml_escape(china_fav)}</text>
+  <text x="650" y="336" font-family="monospace" font-size="20" fill="#ffbbbb">{_xml_escape(us_crit)}</text>
+  <text x="650" y="372" font-family="monospace" font-size="20" fill="#fce28f">{_xml_escape(russia_fav)}</text>'''
+
+    svg = f'''<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="600" viewBox="0 0 1200 600">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#0c0e11"/>
+      <stop offset="100%" stop-color="#151920"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="600" fill="url(#bg)"/>
+  <rect x="0" y="0" width="1200" height="4" fill="#fce28f"/>
+  <text x="80" y="100" font-family="Georgia, serif" font-size="42" font-weight="bold" fill="#f2f0ec">Predictive History Audit</text>
+  <text x="80" y="140" font-family="Helvetica, Arial, sans-serif" font-size="20" fill="#6b6355">Systematic Content Analysis of Jiang Xueqin (\u84cb\u5fd7)</text>
+  <text x="80" y="240" font-family="monospace" font-size="64" font-weight="bold" fill="#fce28f">{n_lectures}</text>
+  <text x="260" y="240" font-family="Helvetica, Arial, sans-serif" font-size="22" fill="#a09882">lectures analyzed</text>
+  <text x="80" y="330" font-family="monospace" font-size="64" font-weight="bold" fill="#fce28f">{cal_pct}%</text>
+  <text x="260" y="310" font-family="Helvetica, Arial, sans-serif" font-size="22" fill="#a09882">prediction calibration</text>
+  <text x="260" y="338" font-family="Helvetica, Arial, sans-serif" font-size="16" fill="#6b6355">({confirmed}/{tested} resolved)</text>
+  <text x="80" y="420" font-family="monospace" font-size="64" font-weight="bold" fill="#fce28f">{total_predictions}</text>
+  <text x="260" y="420" font-family="Helvetica, Arial, sans-serif" font-size="22" fill="#a09882">predictions &amp; claims tracked</text>
+{civ_block}
+  <rect x="0" y="560" width="1200" height="40" fill="#0a0c0f"/>
+  <text x="80" y="586" font-family="Helvetica, Arial, sans-serif" font-size="14" fill="#6b6355">Data, not diatribe \u2022 AI-assisted analysis by Claude Opus 4.6</text>
+</svg>'''
+
+    static_dir = os.path.join(base_dir, 'static')
+    svg_path = os.path.join(static_dir, 'social-card.svg')
+    png_path = os.path.join(static_dir, 'social-card.png')
+
+    with open(svg_path, 'w') as f:
+        f.write(svg)
+
+    try:
+        result = subprocess.run(
+            ['convert', svg_path, '-resize', '1200x600', png_path],
+            capture_output=True, text=True
+        )
+    except FileNotFoundError:
+        os.remove(svg_path)
+        print("  Site social card: skipped (no ImageMagick — using committed PNG)")
+        return
+    os.remove(svg_path)
+    if result.returncode != 0:
+        print(f"  Site social card: conversion failed: {result.stderr}")
+        return
+
+    # Also copy to dist
+    dist_static = os.path.join(output_dir, 'static')
+    os.makedirs(dist_static, exist_ok=True)
+    shutil.copy2(png_path, os.path.join(dist_static, 'social-card.png'))
+    print(f"  Site social card: regenerated ({n_lectures} lectures, {cal_pct}% calibration)")
+
+
 def sort_episode_key(ep):
     """Return a sortable numeric key for episodes."""
     if ep is None:
@@ -509,6 +594,10 @@ def build(base_dir: str, output_dir: str):
                 'us_west_quotes': tsc.get('us_west_quotes', []),
                 'russia_quotes': tsc.get('russia_quotes', []),
             }
+
+    # --- Generate site-wide social card (dynamic stats) ---
+    _generate_site_social_card(
+        base_dir, output_dir, analyses, total_predictions, exec_summary)
 
     # --- Render pages ---
     common = {

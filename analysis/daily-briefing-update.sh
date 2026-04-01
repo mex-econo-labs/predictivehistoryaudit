@@ -129,7 +129,7 @@ if claude -p \
         # Commit and push
         log "Committing and pushing..."
         cd "$PROJECT_DIR"
-        git add analysis/briefing-data.json analysis/calibration-reference.md analysis/geopolitical-briefing.md analysis/dist/ 2>/dev/null || true
+        git add analysis/briefing-data.json analysis/calibration-reference.md analysis/geopolitical-briefing.md analysis/static/social-card.png analysis/dist/ 2>/dev/null || true
         if git diff --cached --quiet 2>/dev/null; then
             log "No changes to commit"
         else
