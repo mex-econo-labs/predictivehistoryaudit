@@ -1,6 +1,6 @@
 # Geopolitical Briefing: State of the World as of April 1, 2026
 
-Compiled for evaluation of mid-2024 predictions. All information sourced from publicly available reporting through March 2026.
+Compiled for evaluation of mid-2024 predictions. All information sourced from publicly available reporting through April 1, 2026. Last updated: April 1, 2026 (monthly scoring run).
 
 ---
 
@@ -696,7 +696,8 @@ Iran struck military and civilian targets across at least 9 countries plus Israe
 - **May 12, 2025**: After talks, both sides agreed to reduce reciprocal tariffs to 10% for 90 days (fentanyl tariff of 20% remained).
 - **August 2025**: 90-day extension.
 - **October 30, 2025**: Trump-Xi meeting resulted in a **one-year extension** of reduced tariff rates.
-- Status entering 2026: **Fragile truce**, not rapprochement. Basic communication channels reestablished after Busan leaders' summit, but fundamental issues unresolved. US midterms could bring veto-proof congressional action on investment/semiconductor restrictions.
+- **February 20, 2026**: US Supreme Court struck down IEEPA tariffs in **6-3 ruling** (*Learning Resources Inc. v. Trump*). Chief Justice Roberts: IEEPA "does not authorize the President to impose tariffs." Trump shifted to **10% global tariff under Section 122** of Trade Act of 1974 (150-day authority). China tariffs reduced from **57% to 47%**. Tariffs had raised **$160B+** through Feb 20. Court did NOT address refund procedures.
+- Status entering April 2026: **Fragile truce with legal complications**. IEEPA tariff authority eliminated; Section 122 provides only 150-day window. Trade truce extended by a year. Basic communication channels reestablished but fundamental issues unresolved.
 
 ### Paris Trade Talks (March 15-16, 2026)
 - US (Bessent, Greer) and Chinese (He Lifeng) trade chiefs met in Paris to prepare for Trump-Xi summit.
@@ -821,7 +822,8 @@ Iran struck military and civilian targets across at least 9 countries plus Israe
 - Trump has repeatedly suggested a **"friendly takeover"** of Cuba, stating after Iran's regime falls, "Cuba's going to fall, too."
 - **Secret negotiations underway**: On March 13, 2026, President Diaz-Canel confirmed talks with the US. Secretary of State **Rubio** has led at least **half a dozen meetings** with Cuban representatives. White House said Trump believes a deal "could be done easily." Cuba warned an agreement "will take time."
 - **March 2026 blackouts and protests**: Cuba suffered **three nationwide blackouts in March** (Mar 16, 21, 22-23), affecting **10+ million people**. Country has gone **three months without deliveries** of diesel, fuel oil, gasoline, aviation fuel, or LPG. Daily protests since March 6 — **Cubalex documented 156+ protests and 47+ arrests** by March 17. Government released **51 political prisoners** in a "goodwill" gesture following diplomatic engagement with the **Holy See**. **Nuestra América Flotilla** arrived from 33 countries. **Two Russian shadow fleet tankers** expected to deliver oil and diesel in late March — enough for "a couple of weeks." Ecuador expelled Cuban ambassador and staff, declaring them persona non grata (Mar 4).
-- *Sources: Democracy Now, Al Jazeera, NPR, CNN, Havana Times, The New Humanitarian, Time, Wikipedia (2026 Cuban crisis)*
+- **March 30, 2026**: A **Russian oil tanker** arrived in Havana carrying **100,000 tonnes of crude oil** — the first significant delivery in months. Convertible to approximately **250,000 barrels of diesel**, enough to cover Cuban energy demands for about **12.5 days**. Relief is temporary — underscores continued dependency and fragility.
+- *Sources: Democracy Now, Al Jazeera, NPR, CNN, Havana Times, The New Humanitarian, Time, Wikipedia (2026 Cuban crisis), CiberCuba*
 
 ---
 
@@ -853,15 +855,15 @@ Iran struck military and civilian targets across at least 9 countries plus Israe
 
 ## Summary of Key Developments for Prediction Evaluation
 
-| Topic | Status as of March 31, 2026 |
+| Topic | Status as of April 1, 2026 |
 |-------|------------------------|
-| US military strike on Iran | YES -- June 2025 (Operation Midnight Hammer) and Feb 2026 (ongoing war, Day 32); US hit 2/3 of Iran's missile/drone production; Israel attacking government infrastructure 'throughout Tehran' Mar 30-31 |
+| US military strike on Iran | YES -- June 2025 (Operation Midnight Hammer) and Feb 2026 (ongoing war, Day 34); US hit 2/3 of Iran's missile/drone production; Israel attacking government infrastructure 'throughout Tehran' Mar 30-31; IRGC threatens 18 tech companies Apr 1 |
 | Israel-Iran direct conflict | YES -- Twelve-Day War (June 2025) and 2026 Iran war; nuclear/industrial/petrochemical targets; Tel Aviv hit; ADAMA chemical plant in Israel hit Mar 29 |
 | Khamenei killed | YES -- Assassinated Feb 28, 2026; son Mojtaba succeeded him |
-| Israeli decapitation campaign | Khamenei (Feb 28), Larijani (Mar 17), Soleimani (Mar 17), Khatib (Mar 18), Tangsiri (Mar 26-27) — 5 top officials; Araghchi/Qalibaf temporarily removed from hit list |
+| Israeli decapitation campaign | Khamenei (Feb 28), Larijani (Mar 17), Soleimani (Mar 17), Khatib (Mar 18), Tangsiri (Mar 26-27), Eshaghi (Mar 31) — 6 top officials; Araghchi/Qalibaf temporarily removed from hit list |
 | Iran nuclear breakout | Near-zero breakout time pre-strikes; warhead development authorized Oct 2025; Natanz struck again Mar 22 |
 | Strait of Hormuz closed | YES -- Blockade continues; Iran formally allowed 5 nations (China, Russia, India, Iraq, Pakistan); US/Israel/allies blocked; 2,000 vessels stranded |
-| Hormuz blockade casualties | 9+ countries struck; 13 US KIA; Gulf infrastructure devastated; Tangsiri (blockade architect) killed Mar 26-27 |
+| Hormuz blockade casualties | 9+ countries struck; 15 US KIA; 300+ wounded; Gulf infrastructure devastated; Tangsiri (blockade architect) killed Mar 26-27 |
 | Kharg Island | US bombed 90+ targets (Mar 13); Iran FORTIFYING; WashPost: Pentagon has DETAILED PLANS for Kharg raids (Mar 29); TRUMP: 'take the oil' + threatens to DESTROY Kharg (Mar 30); USS Tripoli in CENTCOM; 82nd Airborne deploying; Trump not yet approved formal ops |
 | South Pars gas field | Israel struck processing facilities (Mar 18); ~12% of Iran's gas production damaged |
 | Energy/nuclear infrastructure spiral | Now includes nuclear (Arak, Ardakan) + industrial (steel plants) + energy; IRGC threatens 'beyond eye for eye' retaliation |
@@ -871,8 +873,8 @@ Iran struck military and civilian targets across at least 9 countries plus Israe
 | Turkey hit by Iran missiles | 3 ballistic missiles entered airspace (Mar 4, 9, 13) -- all intercepted by NATO |
 | Commercial shipping attacked | Thai ship MV Mayuree Naree struck Mar 11 (3 missing); 6+ ships attacked Mar 11-12 |
 | Gulf state damage | UAE: 372 BMs + 15 CMs + 1,826 drones intercepted; Qatar: Ras Laffan + gas halt; Kuwait desalination plant struck Mar 30 (1 killed); Saudi: 5 BMs intercepted Mar 30 |
-| Oil price impact | Brent ~$116.50 (55% monthly gain — record since 1988); analysts warn $200/bbl if Hormuz stays shut past mid-April |
-| Lebanon ground operations | Expanding; FOUR divisions; Netanyahu orders deeper expansion Mar 29; 146th Div at Ras al-Bayada near Tyre; 1,189+ killed; UNIFIL peacekeeper killed; 52 health workers killed in March |
+| Oil price impact | Brent ~$118.35 (60% monthly gain — record since 1988); US gas $4/gallon; analysts warn $200/bbl if Hormuz stays shut past mid-April; world losing 4.5-5M bbl/day |
+| Lebanon ground operations | Expanding; FOUR divisions; Netanyahu orders deeper expansion Mar 29; 146th Div near Litani River; 1,200+ killed; 3 UNIFIL peacekeepers killed; 10 IDF soldiers killed; 52 health workers killed in March |
 | Iran Gulf mining threat | Iran threatens moored/drifting mines across entire Persian Gulf if coasts/islands attacked |
 | Israeli air defense failures | David's Sling malfunction Mar 25 (Tel Aviv); interceptor failures at Dimona Mar 21-22 |
 | 82,000+ structures destroyed in Iran | Iranian Red Crescent figure (Mar 24); internet blackout hampers verification |
@@ -884,7 +886,7 @@ Iran struck military and civilian targets across at least 9 countries plus Israe
 | 232:1 shipbuilding ratio | Confirmed by ONI (China 23.25M tons vs. US <100K tons) |
 | 155mm production | 40,000/month (target: 100,000/month by mid-2026) |
 | Saudi-Iran rapprochement | Holding despite wars; Saudi refused airspace for strikes on Iran |
-| US-China trade | Paris talks "very good"; Trump-Xi summit rescheduled May 14-15 Beijing; China launched 2 trade probes (Mar 27); US-Taiwan ART signed Feb 12 (99% tariffs); Section 301 ongoing |
+| US-China trade | SCOTUS struck down IEEPA tariffs Feb 20 (6-3); 10% global tariff via Section 122; China at 47%; Paris talks "very good"; Trump-Xi summit May 14-15 Beijing confirmed; China launched 2 trade probes (Mar 27); US-Taiwan ART signed Feb 12 |
 | China Taiwan assessment | US intel: China NOT planning 2027 invasion; China studying Iran war for Taiwan lessons; US-Taiwan trade integration deepening |
 | UK conscription | Ruled out by government |
 | European conscription | Denmark (expanded), Croatia (restored), Germany (voluntary/possible mandatory) |
@@ -896,10 +898,10 @@ Iran struck military and civilian targets across at least 9 countries plus Israe
 | Trump third term | Constitutional amendment proposed but no real progress; Trump walked back rhetoric |
 | Venezuela — Maduro trial | Mar 26 hearing: Hellerstein did NOT dismiss; did NOT rule on funding; promised decision "soon"; emphasized 6th Amendment |
 | Venezuela — Rodriguez govt | Acting president since Jan 5; oil reform, amnesty law; US recognized Mar 11 |
-| Cuba crisis | Second blackout in a week; 51 prisoners released; daily protests since Mar 6; 156+ protests/47+ arrests; humanitarian flotilla arrived |
+| Cuba crisis | Three blackouts in March; 51 prisoners released; daily protests since Mar 6; 156+ protests/47+ arrests; Russian tanker arrived Mar 30 (~12.5 days supply); secret US-Cuba talks ongoing |
 | Colombia | Economic emergency Dec 2025; peace process collapsed; US drug decertification |
 | Pakistan mediation | HOSTING FOUR-NATION SUMMIT (Mar 29) — Pakistan/Saudi/Turkey/Egypt FMs; 'most coordinated effort yet'; offers to host direct US-Iran talks; China supporting mediation |
 
 ---
 
-*Updated March 29, 2026. Sources include reporting from Al Jazeera, BBC, Reuters, NPR, CNN, CBS News, NBC News, Washington Post, CNBC, Bloomberg, Fortune, Axios, Military.com, USNI News, Stars and Stripes, Times of Israel, GOV.UK, Goldman Sachs, IEA, Britannica, Wikipedia, Congressional Research Service, CSIS, Atlantic Council, Chatham House, Carnegie Endowment, Arms Control Association, House of Commons Library, HRW, Kyiv Independent, EMPR Media, Political Wire, Defence Security Asia, IAEA, ITV News, The Week, BusinessToday, Euronews, Military Times, SCMP, AEI, Time, France24, Iran International, Democracy Now, The Defense Post, Haaretz, Gulf International Forum, BE Horizon, UN News, FDD, WSJ, Tasnim, Arab News, The War Zone, ISW/Critical Threats, ACLED, Russia Matters, Stimson Center, Japan Times, amNewYork, Eurasia Review, WION, Al Arabiya, PressTV, Israel Hayom, CGTN, Kurdistan24, JPost, Pravda, The Hill, Naval Today, Air & Space Forces, PBS, OPB, Supply Chain Dive, Washington Times, Taipei Times, USTR, The Diplomat, WHO, Global Defense Corp, and other publicly available sources.*
+*Updated April 1, 2026. Sources include reporting from Al Jazeera, BBC, Reuters, NPR, CNN, CBS News, NBC News, Washington Post, CNBC, Bloomberg, Fortune, Axios, Military.com, USNI News, Stars and Stripes, Times of Israel, GOV.UK, Goldman Sachs, IEA, Britannica, Wikipedia, Congressional Research Service, CSIS, Atlantic Council, Chatham House, Carnegie Endowment, Arms Control Association, House of Commons Library, HRW, Kyiv Independent, EMPR Media, Political Wire, Defence Security Asia, IAEA, ITV News, The Week, BusinessToday, Euronews, Military Times, SCMP, AEI, Time, France24, Iran International, Democracy Now, The Defense Post, Haaretz, Gulf International Forum, BE Horizon, UN News, FDD, WSJ, Tasnim, Arab News, The War Zone, ISW/Critical Threats, ACLED, Russia Matters, Stimson Center, Japan Times, amNewYork, Eurasia Review, WION, Al Arabiya, PressTV, Israel Hayom, CGTN, Kurdistan24, JPost, Pravda, The Hill, Naval Today, Air & Space Forces, PBS, OPB, Supply Chain Dive, Washington Times, Taipei Times, USTR, The Diplomat, WHO, Global Defense Corp, and other publicly available sources.*

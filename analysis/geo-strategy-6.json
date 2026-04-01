@@ -39,15 +39,15 @@
         "timestamp": "00:38:43",
         "falsifiable": true,
         "status": "partially_confirmed",
-        "status_note": "The US used air/missile strikes (a form of shock and awe) rather than ground invasion. Iran struck back across 9 countries and blockaded the Strait of Hormuz, demonstrating the limitations of air power alone. However, the strikes did set back Iran's nuclear program ~2 years, so the doctrine was not entirely ineffective.",
+        "status_note": "The US used air/missile strikes (a form of shock and awe) rather than ground invasion. Iran struck back across 9 countries, blockaded the Strait of Hormuz (oil at $118/bbl), demonstrated 4000km+ missile range, and Houthis entered the war Mar 28. The strikes set back Iran's nuclear program ~2 years, but the conflict has expanded rather than concluded by Day 34. WSJ reports Trump willing to end war without reopening Hormuz, suggesting shock and awe has not achieved strategic objectives.",
         "type": "prediction"
       },
       {
         "claim": "If America fights a major war, it will have serious problems due to overcommitment and lack of manufacturing capacity.",
         "timestamp": "00:53:04",
         "falsifiable": true,
-        "status": "partially_confirmed",
-        "status_note": "The Iran campaign triggered Strait of Hormuz blockade, Brent past $100/bbl, and Iran retaliated with 550+ ballistic missiles and 1000+ drones in June 2025. The US has not been able to decisively end the conflict.",
+        "status": "confirmed",
+        "status_note": "The Iran campaign triggered Strait of Hormuz blockade (since Mar 2, oil at $118/bbl, US gas $4/gal), Iran retaliated with 550+ ballistic missiles and 1000+ drones in June 2025, and the Feb 2026 campaign has expanded: Houthis entered war Mar 28, Saudi refused US coalition, Iran demonstrated 4000km+ missile range, 15 US KIA and 300+ wounded by Day 34. WSJ reports Trump willing to end war without reopening Hormuz. The US is demonstrably unable to achieve decisive results through air power alone.",
         "type": "prediction"
       },
       {

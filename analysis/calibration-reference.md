@@ -1,4 +1,4 @@
-# Prediction Calibration Reference — April 1, 2026
+# Prediction Calibration Reference — April 1, 2026 (Scored April 1, 2026)
 
 Use this document when analyzing Predictive History lectures to accurately assess prediction statuses.
 
@@ -104,6 +104,12 @@ Use this document when analyzing Predictive History lectures to accurately asses
 | Saudi intercepted 5 ballistic missiles | Mar 30, 2026 | Five Iranian BMs heading toward Eastern Province intercepted by Saudi Ministry of Defence |
 | Brig. Gen. Eshaghi killed — 6th senior official | Mar 31, 2026 | Head of budget/financial affairs at armed forces general staff; US-sanctioned over oil network to China; killed with family members |
 | IRGC threatens 18 US tech companies | Apr 1, 2026 | Apple, Microsoft, Google, Meta, Tesla, Boeing, Nvidia, Intel, HP, IBM, Dell, Palantir, JPMorgan, GE, Cisco, Oracle, Spire, G42 — starting 8 PM Tehran time Apr 1; response to Eshaghi killing |
+| Supreme Court struck down IEEPA tariffs | Feb 20, 2026 | 6-3 ruling in Learning Resources v. Trump; IEEPA does not authorize tariffs; Trump shifted to 10% global tariff under Section 122; China tariffs reduced from 57% to 47% |
+| Russian oil tanker arrives in Cuba | Mar 30, 2026 | 100,000 tonnes crude oil arrived in Havana; ~250,000 barrels diesel equivalent; covers ~12.5 days of Cuban energy demand |
+| North Korea parliamentary elections | Mar 15, 2026 | 15th Supreme People's Assembly; Kim Jong Un reelected head of State Affairs Commission; Pak Thae Song reappointed Premier |
+| Israel forces nearing Litani River | Late Mar 2026 | IDF reached tributary of Litani near Qantara; some positions just hundreds of meters from river; FOUR divisions operating |
+| Germany Bundestag approves €108B defense budget | 2026 | €82.7B regular + €25.5B special fund; 4th highest funded military globally; targets 260K troops and 3.5% GDP by 2029 |
+| Oil analysts warn $200/bbl if Hormuz stays shut past mid-April | Apr 2026 | SPR drawdowns + exemptions running out; world losing 4.5-5M bbl/day; will double by mid-April per analysts |
 | Iranian drone struck Al-Salmi tanker off Dubai | Mar 31, 2026 | Kuwait-flagged VLCC with 2M barrels oil; fire contained; 24 crew safe; oil spill warning; attack in UAE waters on commercially loaded vessel |
 | 3 UNIFIL peacekeepers killed in Lebanon | Mar 29-30, 2026 | 1 Indonesian peacekeeper killed Mar 29; 2 more killed Mar 30 in convoy explosion near Bani Hayyan; conflicting claims on responsibility |
 | 4 IDF soldiers killed in Lebanon | Mar 31, 2026 | Single engagement with Hezbollah; total IDF killed since Mar 2 now 10 |
@@ -118,7 +124,7 @@ Use this document when analyzing Predictive History lectures to accurately asses
 | Claim | Reality |
 |-------|---------|
 | "America will never shut out Chinese students" | Trump admin aggressively revoking visas (May 2025) |
-| "US-China rapprochement" | Trade war escalated to 145%/125% tariffs; fragile truce only |
+| "US-China rapprochement" | SCOTUS struck down IEEPA tariffs Feb 20; Trump imposed 10% global tariff under Section 122; China tariffs at 47%; truce extended but tensions remain; Trump-Xi summit May 14-15 |
 | "Germany-Russia rapprochement" | Relations frozen; economic decoupling; policy explicitly rejects rapprochement |
 | "Russia as nuclear guarantor preventing strikes on Iran" | Russia did NOT prevent strikes; treaty lacks mutual defense clause |
 | "Coalition includes Saudi Arabia" | Saudi refused airspace, condemned strikes on Iran |
@@ -127,7 +133,7 @@ Use this document when analyzing Predictive History lectures to accurately asses
 ## Key Contextual Facts for Analysis
 
 ### US-Iran War
-- Air/missile campaign now in Day 33; NO ground troops deployed IN Iran yet; GROUND OPS PROBABILITY DECLINING
+- Air/missile campaign now in Day 34 (Apr 1); NO ground troops deployed IN Iran yet; GROUND OPS PROBABILITY DECLINING
 - CRITICAL SHIFT — WSJ (Mar 31): Trump told aides he is WILLING TO END WAR WITHOUT REOPENING HORMUZ; assessed reopening mission would exceed 4-6 week timeline; will wind down after 'hobbling' Iran's navy/missiles then press allies diplomatically
 - TRUMP: war could end in '2-3 weeks'; told reporters Iran doesn't need to make a deal, just needs to be 'put into the stone ages' without nuclear capability
 - HEGSETH: 'upcoming days will be decisive'; US conducted ~200 dynamic strikes overnight; 'American firepower only increasing' (Pentagon briefing, Mar 31)
@@ -165,7 +171,7 @@ Use this document when analyzing Predictive History lectures to accurately asses
 
 ### Venezuela, Cuba, Colombia
 - **Venezuela**: Maduro hearing held Mar 26 — Judge Hellerstein did NOT dismiss charges; did NOT rule on defense funding; promised decision 'soon'; emphasized 6th Amendment right to counsel is 'paramount'; said if government refuses future order, could then entertain dismissal. No next hearing date set. Rodriguez acting president; US recognized as sole leader Mar 11
-- **Cuba**: Crisis deepening rapidly — three nationwide blackouts in March (Mar 16, 21, 22-23); 10M+ affected; government released 51 political prisoners following Holy See engagement; daily protests since Mar 6; fuel imports still down 90% (3 months without deliveries); two Russian shadow fleet tankers expected with oil/diesel delivery in late March — enough for 'a couple of weeks'; GDP forecast -7.2% for 2026; secret US-Cuba talks ongoing
+- **Cuba**: Crisis deepening rapidly — three nationwide blackouts in March (Mar 16, 21, 22-23); 10M+ affected; government released 51 political prisoners following Holy See engagement; daily protests since Mar 6; fuel imports still down 90% (3 months without deliveries); Russian oil tanker arrived Mar 30 with 100K tonnes crude (~12.5 days supply); GDP forecast -7.2% for 2026; secret US-Cuba talks ongoing
 - **Colombia**: Economic emergency Dec 2025; peace process collapsed; drug decertification by US; coca production at all-time records
 
 ### Russia-Ukraine War (March 2026)
@@ -184,16 +190,28 @@ Use this document when analyzing Predictive History lectures to accurately asses
 - Record 67% of Russians now support peace negotiations
 - Iran war has diverted international attention and driven energy prices up, indirectly benefiting Russia
 
+### US-China Trade
+- SCOTUS struck down IEEPA tariffs Feb 20, 2026 (6-3 decision); Trump shifted to 10% global tariff under Section 122 of Trade Act
+- China tariffs reduced from 57% to 47%; trade truce extended by a year
+- Trump-Xi summit confirmed May 14-15 in Beijing; reciprocal Xi visit to DC later in 2026
+- USITC investigating impact of revoking China's PNTR status
+- China launched 2 reciprocal trade investigations against US (Mar 27)
+- US-Taiwan Agreement on Reciprocal Trade (ART) signed Feb 12
+
 ### China Economy
 - Real GDP growth ~2.5-3% (Rhodium estimate vs official ~5%)
 - Fourth consecutive year of deflation; population declining 4 straight years
 - Newborn population 7.92M (2025) — lowest since 1949
 - Still world's #2 economy, largest manufacturer, dominant shipbuilder
+- 2026 defense budget up 7% to ~$278B
 
 ### North Korea
 - GDP grew 3.1% (2023) and 3.7% (2024) — war profiteering from Russia
 - Arms sales returned $20B+; 12,000 troops deployed to Russia
 - But remains one of world's poorest per capita; windfall unsustainable
+- Parliamentary elections Mar 15; Kim reelected head of state
+- Suppressing provocations ahead of Trump-Xi May summit
+- Kim invoked Iran war to declare nuclear status 'irreversible'
 
 ### Plaza Accord
 - Multilateral agreement (US, Japan, France, West Germany, UK) — not unilateral US diktat

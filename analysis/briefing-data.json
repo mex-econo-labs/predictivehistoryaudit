@@ -1,7 +1,7 @@
 {
   "briefing_date": "2026-04-01",
-  "last_scoring_date": "2026-03-14",
-  "next_scoring_date": "2026-04-14",
+  "last_scoring_date": "2026-04-01",
+  "next_scoring_date": "2026-05-01",
   "theatres": [
     {
       "name": "Iran / Strait of Hormuz",
@@ -165,7 +165,7 @@
   ],
   "ground_invasion_tracker": {
     "last_updated": "2026-04-01",
-    "status": "staging",
+    "status": "staging_but_declining",
     "troop_count_in_theatre": "~53,500+ (CENTCOM confirmed 50,000+; USS Tripoli ARG ~3,500 in theatre; 82nd Airborne 1,000-3,000 deploying; Pentagon weighing up to 10,000 MORE troops; USS Boxer ARG approaching). BUT: WSJ reports Trump willing to end war WITHOUT reopening Hormuz — could reduce ground ops urgency. Trump said war could end in '2-3 weeks.' Hegseth: 'upcoming days decisive.' Ground-capable force ~7,000-8,500 with potential to reach 17,000-18,500 if 10K approved.",
     "key_developments": [
       "CRITICAL SHIFT: WSJ (Mar 31) — Trump told aides he is WILLING TO END WAR WITHOUT REOPENING HORMUZ; assessed reopening mission would push conflict past 4-6 week timeline; will wind down after 'hobbling' Iran's navy/missiles then press allies diplomatically",
@@ -206,6 +206,24 @@
     "assessment": "GROUND OPS PROBABILITY DECLINING BUT NOT ZERO: The WSJ report that Trump is willing to end the war without reopening Hormuz is the single most significant strategic development since the conflict began for ground invasion analysis. If Trump can declare 'mission accomplished' on degrading Iran's military/nuclear capabilities and leave the Hormuz problem for diplomatic resolution, the primary rationale for Kharg Island seizure — forcing Hormuz open — evaporates. Trump's '2-3 weeks' timeline and statement that Iran doesn't need to make a deal further suggest an exit strategy that doesn't require ground operations. HOWEVER: Hegseth's 'decisive days' language and 200 dynamic strikes overnight indicate military pressure is INCREASING, not decreasing — this could be either final pressure before a deal/exit, or prelude to a decisive action. The IRGC's threat against 18 US tech companies is an escalatory signal but also suggests desperation. Forces in theatre (7,000-8,500) remain sufficient for limited raids if Trump reverses course. Apr 6 deadline is 5 days away but its significance may be diminished. Key question: Will Trump choose 'destroy' (Kharg), 'seize' (Kharg), or 'declare victory and leave'? Current evidence tilts toward the third option."
   },
   "daily_entries": [
+    {
+      "date": "2026-04-01",
+      "tags": [
+        "Scoring Run",
+        "Monthly Review",
+        "Prediction Updates"
+      ],
+      "summary": "MONTHLY SCORING RUN — April 1, 2026. Reviewed all ~100 analysis JSON files across civilization, secret-history, game-theory, geo-strategy, geo-strategy-update, and great-books series. Key new events since last scoring (Mar 14): (1) SCOTUS struck down IEEPA tariffs Feb 20 (6-3); Trump shifted to Section 122; (2) War escalated to Day 34 — Houthis entered war Mar 28, IRGC threatens 18 tech companies, 6 senior officials killed; (3) WSJ reports Trump willing to end war without reopening Hormuz — critical strategic shift; (4) Israel expanded to FOUR divisions in Lebanon near Litani; (5) Oil hit $118/bbl, US gas $4/gallon; (6) Russia captured additional territory in DPR/Sumy; (7) Cuba received Russian oil tanker Mar 30; (8) Trump-Xi summit confirmed May 14-15 Beijing; (9) Germany €108B defense budget approved. Updated status_notes across files to reflect Day 34 developments, SCOTUS tariff ruling, ground ops declining probability, and Houthi entry into war.",
+      "details": [
+        "Scoring run covered: 59 civilization episodes, 15 secret-history, 7 game-theory, ~12 geo-strategy, 6 great-books",
+        "Key status changes identified: updated status_notes on Iran war predictions (Day 34, no ground troops), Hormuz predictions, trade war predictions (SCOTUS ruling), Lebanon ground ops",
+        "New confirmed events added to calibration-reference.md: SCOTUS IEEPA ruling, Russian tanker Cuba, NK elections, Israel near Litani, Germany budget, oil $200 warning",
+        "Geopolitical briefing updated with SCOTUS ruling, Cuba tanker, summary table refreshed to Apr 1",
+        "Next scoring date: May 1, 2026"
+      ],
+      "prediction_impact": "This scoring run primarily updated status_notes to reflect the war's progression to Day 34 and the significant strategic shift (WSJ: Trump willing to end without Hormuz). The SCOTUS IEEPA ruling creates new context for trade war predictions. No major status category changes (e.g., untested→confirmed) beyond what was already captured in previous scoring runs.",
+      "source": "Internal scoring run; web searches on all theatres conducted Apr 1, 2026"
+    },
     {
       "date": "2026-04-01",
       "tags": [
