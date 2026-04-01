@@ -146,6 +146,7 @@ def _generate_social_card(data: dict, cards_dir: str) -> str:
     series = data['meta']['series']
     ep = data['meta'].get('episode', '')
     series_ep = f'{series} #{ep}' if ep else series
+    synopsis = data.get('synopsis', '')
 
     wrapped = textwrap.wrap(title, width=36)[:3]
     title_lines = wrapped if wrapped else [title[:42]]
@@ -153,7 +154,6 @@ def _generate_social_card(data: dict, cards_dir: str) -> str:
     score_int = round(avg)
     score_colors = {1: '#ffbbbb', 2: '#ffcc88', 3: '#fce28f', 4: '#c8e6a0', 5: '#94f4c6'}
     score_color = score_colors.get(score_int, '#fce28f')
-    n_preds = len(data.get('thesis', {}).get('predictions', []))
 
     title_y_start = 200
     title_svg = ''
@@ -161,7 +161,13 @@ def _generate_social_card(data: dict, cards_dir: str) -> str:
         y = title_y_start + i * 52
         title_svg += f'  <text x="80" y="{y}" font-family="Georgia, serif" font-size="44" font-weight="bold" fill="#f2f0ec">{_xml_escape(line)}</text>\n'
 
-    stats_y = title_y_start + len(title_lines) * 52 + 40
+    # Synopsis text below title, wrapped to fit
+    synopsis_y_start = title_y_start + len(title_lines) * 52 + 30
+    synopsis_lines = textwrap.wrap(synopsis, width=70)[:6]
+    synopsis_svg = ''
+    for i, line in enumerate(synopsis_lines):
+        y = synopsis_y_start + i * 24
+        synopsis_svg += f'  <text x="80" y="{y}" font-family="Helvetica, Arial, sans-serif" font-size="16" fill="#8a8478">{_xml_escape(line)}</text>\n'
 
     svg = f'''<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="600" viewBox="0 0 1200 600">
   <defs>
@@ -179,8 +185,7 @@ def _generate_social_card(data: dict, cards_dir: str) -> str:
   <text x="730" y="100" font-family="Helvetica, Arial, sans-serif" font-size="14" font-weight="bold" fill="#a09882" letter-spacing="2">AUDIT SCORE</text>
   <text x="730" y="168" font-family="monospace" font-size="72" font-weight="bold" fill="{score_color}">{'%.1f' % avg}</text>
   <text x="905" y="168" font-family="Helvetica, Arial, sans-serif" font-size="28" fill="#6b6355">/ 5</text>
-  <text x="80" y="{stats_y}" font-family="monospace" font-size="18" fill="#fce28f">{n_preds} predictions</text>
-  <text x="320" y="{stats_y}" font-family="Helvetica, Arial, sans-serif" font-size="18" fill="#6b6355">tracked in this lecture</text>
+{synopsis_svg}
   <rect x="0" y="560" width="1200" height="40" fill="#0a0c0f"/>
   <text x="80" y="586" font-family="Helvetica, Arial, sans-serif" font-size="14" fill="#6b6355">Predictive History Audit &#x2022; predictivehistoryaudit.pages.dev</text>
 </svg>'''
