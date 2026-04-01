@@ -1,4 +1,4 @@
-# Prediction Calibration Reference — April 1, 2026 (Scored April 1, 2026)
+# Prediction Calibration Reference — April 2, 2026 (Scored April 1, 2026)
 
 Use this document when analyzing Predictive History lectures to accurately assess prediction statuses.
 
@@ -104,6 +104,15 @@ Use this document when analyzing Predictive History lectures to accurately asses
 | Saudi intercepted 5 ballistic missiles | Mar 30, 2026 | Five Iranian BMs heading toward Eastern Province intercepted by Saudi Ministry of Defence |
 | Brig. Gen. Eshaghi killed — 6th senior official | Mar 31, 2026 | Head of budget/financial affairs at armed forces general staff; US-sanctioned over oil network to China; killed with family members |
 | IRGC threatens 18 US tech companies | Apr 1, 2026 | Apple, Microsoft, Google, Meta, Tesla, Boeing, Nvidia, Intel, HP, IBM, Dell, Palantir, JPMorgan, GE, Cisco, Oracle, Spire, G42 — starting 8 PM Tehran time Apr 1; response to Eshaghi killing |
+| Trump threatens NATO withdrawal | Apr 1, 2026 | Called NATO 'paper tiger'; told Reuters 'absolutely' considering pulling US out because allies didn't join Iran war; 2023 law requires 2/3 Senate approval; will criticize NATO in primetime address |
+| Trump claims Iran ceasefire offer | Apr 1, 2026 | Said Pezeshkian asked for ceasefire; Iran denied ('false and baseless'); Pezeshkian said Iran has 'will to end conflict' if conditions met; Axios: US-Iran discussing ceasefire-for-Hormuz deal through mediators |
+| UK hosts 35-nation Hormuz conference | Apr 2-3, 2026 | PM Starmer announced; FM Cooper to host; WITHOUT US participation; will assess diplomatic/political measures to reopen Hormuz; followed by military planners meeting |
+| Iran 'most significant strike' on Tel Aviv | Apr 1, 2026 | 10 missile launches during Passover; Israeli official described as 'most significant since first days of war'; damage to homes/cars/playground; no injuries from this salvo |
+| Oil drops to ~$105/bbl from $118 | Apr 1-2, 2026 | Sharp drop on ceasefire/exit hopes; Brent from $118.35 to ~$105; market pricing in war-exit probability |
+| Russia declares Luhansk 'liberated' | Apr 1, 2026 | Defense Ministry declared 'completion' of Luhansk Oblast liberation; Ukraine had controlled only 0.2%; symbolic declaration |
+| Nasirzadeh and Pakpour killed | Apr 1, 2026 | Iranian defense minister Aziz Nasirzadeh and IRGC commander Mohammad Pakpour killed by Israeli airstrikes — further degradation of Iranian command structure |
+| Mehdi Vafaei eliminated | Apr 1, 2026 | Head of engineering branch of Lebanon Corps, Quds Force; managed underground projects in Lebanon/Syria for 20 years; killed in Mahallat, Iran |
+| Cuba: communist party office torched | Apr 2026 | Protesters burned local communist party office in Moron (Ciego de Avila); 5 arrested; Costa Rica closing embassy and expelled Cuban diplomats |
 | Supreme Court struck down IEEPA tariffs | Feb 20, 2026 | 6-3 ruling in Learning Resources v. Trump; IEEPA does not authorize tariffs; Trump shifted to 10% global tariff under Section 122; China tariffs reduced from 57% to 47% |
 | Russian oil tanker arrives in Cuba | Mar 30, 2026 | 100,000 tonnes crude oil arrived in Havana; ~250,000 barrels diesel equivalent; covers ~12.5 days of Cuban energy demand |
 | North Korea parliamentary elections | Mar 15, 2026 | 15th Supreme People's Assembly; Kim Jong Un reelected head of State Affairs Commission; Pak Thae Song reappointed Premier |
@@ -133,58 +142,47 @@ Use this document when analyzing Predictive History lectures to accurately asses
 ## Key Contextual Facts for Analysis
 
 ### US-Iran War
-- Air/missile campaign now in Day 34 (Apr 1); NO ground troops deployed IN Iran yet; GROUND OPS PROBABILITY DECLINING
-- CRITICAL SHIFT — WSJ (Mar 31): Trump told aides he is WILLING TO END WAR WITHOUT REOPENING HORMUZ; assessed reopening mission would exceed 4-6 week timeline; will wind down after 'hobbling' Iran's navy/missiles then press allies diplomatically
-- TRUMP: war could end in '2-3 weeks'; told reporters Iran doesn't need to make a deal, just needs to be 'put into the stone ages' without nuclear capability
-- HEGSETH: 'upcoming days will be decisive'; US conducted ~200 dynamic strikes overnight; 'American firepower only increasing' (Pentagon briefing, Mar 31)
-- IRGC THREATENS 18 US TECH COMPANIES (Apple, Microsoft, Google, Nvidia, Tesla, Boeing, etc.) starting 8 PM Tehran time Apr 1 — response to killing of Brig. Gen. Eshaghi (6th senior official killed)
-- IRANIAN DRONE STRUCK AL-SALMI TANKER off Dubai (Mar 31): Kuwait-flagged VLCC with 2M barrels; fire contained; attack on commercially loaded vessel in UAE waters
-- Trump FT interview (Mar 30) still stands: 'take the oil' and troops at Kharg 'for a while'; but WSJ report suggests exit without ground ops now possible
-- Pentagon ground ops plans (WashPost, Mar 29) still technically active but rationale weakening if Hormuz reopening deprioritized
-- Diplomatic track: Rubio-Araghchi direct talks still possible 'within days' in Pakistan
-- 3 UNIFIL PEACEKEEPERS KILLED (UP from 1) — 2 more Indonesian peacekeepers Mar 30; France/Italy condemn 'grave crisis'
-- 4 IDF SOLDIERS KILLED in Lebanon (Mar 31) — total IDF dead since Mar 2: 10; Hezbollah making ground ops 'costly'
-- US gas hit $4/gallon first time since 2022; Brent closed ~$118.35 — up ~60% in March (record since 1988)
-- Oil surged past $118/bbl; analysts warn $200/bbl if Hormuz stays shut past mid-April; WSJ report suggests PROLONGED blockade possible even post-war
-- Updated casualties: Al Jazeera: 2,000+ killed in Iran; HRANA: 3,461 (1,551 civilians, 236 children); Red Crescent: 1,900+/20,000 injured; 82,000+ structures damaged
-- 15 US KIA, 300+ wounded; 1,200+ killed in Lebanon/3,300+ injured/1.2M displaced/3 UNIFIL peacekeepers killed/10 IDF soldiers killed; 23+ killed in Israel/3,950+ wounded
-- Israel decapitation campaign: Khamenei (Feb 28), Larijani (Mar 17), Soleimani (Mar 17), Khatib (Mar 18), Tangsiri (Mar 26-27), Eshaghi (Mar 31) — 6 senior officials
-- Trump energy strike deadline April 6 (5 days away); significance may be reduced if Trump prepared to exit without Hormuz
+- Air/missile campaign now in Day 34 (Apr 2); NO ground troops deployed IN Iran yet; GROUND OPS PROBABILITY AT LOWEST POINT SINCE CONFLICT BEGAN
+- TRUMP NATO WITHDRAWAL THREAT (Apr 1): Called NATO 'paper tiger'; 'absolutely' considering pulling US out — signals war fatigue, not escalation appetite
+- TRUMP CLAIMS IRAN CEASEFIRE OFFER (Apr 1): Said Pezeshkian asked for ceasefire; Iran denied ('false and baseless'); but Pezeshkian told European Council he has 'will to end conflict' if conditions met; Axios: US-Iran discussing ceasefire-for-Hormuz through mediators
+- TRUMP PRIMETIME ADDRESS (9PM ET Apr 1): Scheduled to lay out 2-3 week exit timeline; White House framing: 'decisive success'
+- UK 35-NATION HORMUZ CONFERENCE (Apr 2-3): PM Starmer hosting WITHOUT US; 35 countries to assess diplomatic/political measures to reopen Hormuz — allies taking ownership (vindicates WSJ Mar 31 reporting)
+- IRAN 'MOST SIGNIFICANT STRIKE' (Apr 1): 10 missile launches at Tel Aviv during Passover; 'most significant since first days of war' per Israeli officials; no injuries from this salvo
+- IRGC TECH COMPANY THREAT DEADLINE PASSED (8PM Tehran Apr 1): No confirmed strikes on any of 18 listed companies
+- NASIRZADEH AND PAKPOUR KILLED: Iranian defense minister and IRGC commander killed by Israeli airstrikes — further command degradation
+- Israel struck ~20 weapons production sites across Tehran, Mehrabad Airport, former US embassy (Basij); eliminated Mehdi Vafaei (Quds Force engineering chief)
+- OIL DROPS TO ~$105/bbl (from $118.35): Market pricing in ceasefire/exit probability
+- Israel decapitation campaign expanding: Khamenei, Larijani, Soleimani, Khatib, Tangsiri, Eshaghi, Nasirzadeh, Pakpour, Vafaei — 8+ senior officials/commanders killed
+- Updated casualties: Iran Health Ministry: 1,937+ killed, 24,800+ injured; HRANA: 3,461 (1,551 civilians, 236 children); 82,000+ structures damaged
+- 15 US KIA, 300+ wounded; 1,200+ killed in Lebanon/3,300+ injured/1.2M displaced/3 UNIFIL peacekeepers killed/10 IDF soldiers killed; 24+ killed in Israel/6,239+ wounded
+- Trump energy strike deadline April 6 (4 days away); significance declining as exit rhetoric intensifies
 - Combined ground force ~7,000-8,500 in theatre; 10K more under consideration; Atlantic Council: 'limited/targeted ops only'
 
 ### Hormuz Blockade & Regional Fallout
 - Blockade continues; Iran operating 'toll booth' vetting system; 5 nations formally allowed (China, Russia, India, Iraq, Pakistan); Iran agreed 20 Pakistani-flagged ships (2/day)
-- CRITICAL: WSJ (Mar 31) — Trump willing to end war WITHOUT reopening Hormuz; would leave reopening for diplomatic resolution post-war; could mean PROLONGED blockade
-- Trump told allies to 'go get your own oil' from Hormuz — signaling US may not take responsibility for reopening
-- IRANIAN DRONE STRUCK AL-SALMI TANKER off Dubai (Mar 31): Kuwait-flagged VLCC with 2M barrels; fire contained; attack on commercially loaded vessel in UAE waters
-- HOUTHIS ENTERED WAR (Mar 28) and WEIGHING BAB AL-MANDEB CLOSURE — not yet enacted but shipping 'sharply reduced'; Saudi rerouted ~5M bbl/day to Red Sea terminals (Yanbu)
-- Oil at ~$118.35/bbl (Mar 31 close) — Brent up ~60% in March (record since 1988); US gas hit $4/gallon first time since 2022; analysts warn $200/bbl if Hormuz stays shut past mid-April
+- UK 35-NATION HORMUZ CONFERENCE (Apr 2-3): PM Starmer hosting WITHOUT US; allies taking ownership of Hormuz reopening — consistent with WSJ (Mar 31) reporting that Trump will leave Hormuz to allies
+- Trump told allies to 'go get your own oil' from Hormuz — UK conference operationalizes this
+- OIL DROPS TO ~$105/bbl (from $118.35): Market pricing in ceasefire/exit probability; analysts still warn $150-200 if Hormuz stays shut; Krugman: 'not at all hard to tell a $150/bbl story'
+- HOUTHIS ENTERED WAR (Mar 28) and WEIGHING BAB AL-MANDEB CLOSURE — European Red Sea naval task force ready; Houthis not yet closed strait but shipping 'sharply reduced'; Saudi rerouted ~5M bbl/day to Yanbu
 - 1,900-2,500 vessels and 20,000 seafarers stranded (IMO estimate)
-- Saudi Arabia intercepted 5 ballistic missiles heading toward Eastern Province (Mar 30); intercepted almost a dozen drones Mar 29
 - UAE: 372 ballistic missiles, 15 cruise missiles, 1,826 drones intercepted; 8 killed, 157+ injured
-- Qatar: Ras Laffan damaged (Mar 19) on top of gas production halt (Mar 2); condemned Kuwait desalination attack
-- IEA head: 'greatest global energy security challenge in history'
-- Diplomatic track: Rubio-Araghchi direct talks possible 'within days' in Pakistan
-- Japan: 254 days SPR; Nikkei down 8.6%; South Korea: 208 days SPR, Kospi down 12%
-- India: most vulnerable major economy; ordered refineries to maximize LPG production (+25%); one of 5 nations with Hormuz passage
-- Apr 6 deadline is 5 days away — but significance reduced if Trump prepared to exit without Hormuz reopening
+- Qatar: Ras Laffan damaged (Mar 19); gas production halted since Mar 2
+- Japan: 254 days SPR; South Korea: 208 days SPR; India: one of 5 nations with Hormuz passage
+- Apr 6 deadline is 4 days away — but significance declining as exit rhetoric intensifies and diplomatic alternatives emerge
 
 ### Venezuela, Cuba, Colombia
-- **Venezuela**: Maduro hearing held Mar 26 — Judge Hellerstein did NOT dismiss charges; did NOT rule on defense funding; promised decision 'soon'; emphasized 6th Amendment right to counsel is 'paramount'; said if government refuses future order, could then entertain dismissal. No next hearing date set. Rodriguez acting president; US recognized as sole leader Mar 11
-- **Cuba**: Crisis deepening rapidly — three nationwide blackouts in March (Mar 16, 21, 22-23); 10M+ affected; government released 51 political prisoners following Holy See engagement; daily protests since Mar 6; fuel imports still down 90% (3 months without deliveries); Russian oil tanker arrived Mar 30 with 100K tonnes crude (~12.5 days supply); GDP forecast -7.2% for 2026; secret US-Cuba talks ongoing
+- **Venezuela**: Maduro — Judge Hellerstein rejected defense motion to dismiss charges (Mar 26); case in pretrial; legal experts say trial unlikely this year; did NOT rule on defense funding; emphasized 6th Amendment. Rodriguez acting president; US recognized as sole leader Mar 11
+- **Cuba**: Crisis ESCALATING — protesters torched communist party office in Moron (5 arrested); Costa Rica closing embassy and expelled Cuban diplomats; several Latin American nations ending Cuban medical cooperation under US pressure; three nationwide blackouts in March; 10M+ affected; 51 political prisoners released; daily protests since Mar 6 (156+/47+ arrests); Russian tanker arrived Mar 30 (~12.5 days supply) but insufficient; GDP forecast -7.2% for 2026; secret US-Cuba talks ongoing
 - **Colombia**: Economic emergency Dec 2025; peace process collapsed; drug decertification by US; coca production at all-time records
 
-### Russia-Ukraine War (March 2026)
+### Russia-Ukraine War (April 2026)
 - War continues as grinding attritional conflict — Ukraine has NOT "lost"
-- Russia occupies ~20% of territory; combat engagements in 5th consecutive day of decline: 176 → 158 → 150 → 147 (Mar 30)
-- 147 engagements on Mar 30; Russia launched 9,355 kamikaze drones; 70 airstrikes dropping 237 guided aerial bombs; 3,912 shelling attacks
-- 870 Russian soldiers killed in past 24 hours per Ukrainian General Staff
-- Uptick in Russian activity toward Huliaypole (Zaporizhzhia region) — possible new axis of advance
-- 26 Russian attacks near Kostiantynivka area; advancing in Kharkiv/Sumy directions
-- Ukraine destroyed 3 BM-30 Smerch/Tornado-S MLRS + transport-loader at Russian base in Crimea overnight Mar 29
+- Russia occupies ~20% of territory
+- Russia declared 'completion' of Luhansk Oblast liberation (Apr 1) — symbolic; Ukraine had controlled only 0.2%
+- Russia gained 17 sq mi in past week (Mar 24-31) — spring offensive momentum increasing; BUT lost 12 sq mi net for full month of March
+- ISW: increasing Russian mechanized assaults since Mar 17 — spring offensive preparation against Fortress Belt
 - Russia captured Brusovka in DPR (Mar 28) — forming Stary Karavan envelopment; Slavyansk operation prep
 - Russia claimed Bobylivka in Sumy Oblast — crossing Russia-Ukraine border
-- ISW: increasing Russian mechanized assaults since Mar 17 — spring offensive preparation against Fortress Belt
 - US-Ukraine bilateral talks in Miami Mar 21-22 — "constructive"; Russia NOT present
 - Trilateral Abu Dhabi talks still postponed; bilateral approach signals strategy shift
 - Record 67% of Russians now support peace negotiations
@@ -210,7 +208,9 @@ Use this document when analyzing Predictive History lectures to accurately asses
 - Arms sales returned $20B+; 12,000 troops deployed to Russia
 - But remains one of world's poorest per capita; windfall unsustainable
 - Parliamentary elections Mar 15; Kim reelected head of state
-- Suppressing provocations ahead of Trump-Xi May summit
+- Pyongyang International Marathon held Apr 2026 — first in 6 years with international participation
+- Kim looking to Trump-Xi May summit as pivotal window; may use unofficial channels to gauge Washington's appetite for renewed summit
+- Pursuing additional military reconnaissance satellites
 - Kim invoked Iran war to declare nuclear status 'irreversible'
 
 ### Plaza Accord
