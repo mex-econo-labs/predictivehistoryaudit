@@ -1,6 +1,6 @@
-# Geopolitical Briefing: State of the World as of April 2, 2026
+# Geopolitical Briefing: State of the World as of April 3, 2026
 
-Compiled for evaluation of mid-2024 predictions. All information sourced from publicly available reporting through April 2, 2026. Last updated: April 2, 2026.
+Compiled for evaluation of mid-2024 predictions. All information sourced from publicly available reporting through April 3, 2026. Last updated: April 3, 2026.
 
 ---
 
@@ -306,18 +306,76 @@ Compiled for evaluation of mid-2024 predictions. All information sourced from pu
 
 ### IRGC Tech Company Threat Deadline Passes (April 1, 2026)
 - The IRGC's deadline to begin strikes against **18 US tech companies** — **8 PM Tehran time on April 1** — passed.
-- As of April 2, **no confirmed strikes** on any of the listed companies (Apple, Microsoft, Google, Nvidia, Tesla, Boeing, etc.) have been reported.
+- As of April 3, **no confirmed strikes** on any of the listed companies (Apple, Microsoft, Google, Nvidia, Tesla, Boeing, etc.) have been reported.
 - Universities in the region (American University of Beirut, AUIB in Iraq) **remain on remote learning** as a precaution.
-- The lack of follow-through may indicate the threat was a **bluff** or an attempt at psychological warfare, or that execution is being delayed.
+- The threat is now assessed as a **bluff** — two full days past deadline with no follow-through.
 - *Sources: CNBC, Euronews, Time, Foreign Policy, Defence Security Asia*
 
-### Oil Drops Sharply on Ceasefire Hopes (April 1-2, 2026)
-- Brent crude **dropped to ~$105/barrel** from $118.35 on March 31 — a decline of over **$13/barrel** driven by ceasefire hopes and Trump's exit timeline rhetoric.
-- At 8:15 AM ET on April 1, oil was trading at **$104.86/barrel** (Fortune).
-- Markets are pricing in growing probability of a near-term end to the conflict, though the Hormuz blockade **remains in effect**.
-- Nobel laureate **Paul Krugman** told CBS News: **"It's not at all hard to tell a $150 per barrel story, and it's not crazy to go to $200"** — warning that optimism may be premature if the blockade persists.
+### Trump Primetime Address on Operation Epic Fury (April 1, 2026)
+- Trump delivered a roughly **19-minute primetime address** at 9 PM ET on April 1, providing an update on the Iran war dubbed **"Operation Epic Fury."**
+- Trump said the US will hit Iran **"extremely hard"** over the next **two to three weeks**, claiming American forces have delivered **"overwhelming victories"** — **"decimating its navy, shattering its air force, eliminating its key terrorist leaders, and systematically dismantling its ability to threaten America."**
+- He cited the **nuclear threat** as primary justification for the campaign; **did NOT offer a firm end date** or announce ground operations.
+- Trump stated: if there is no deal with Iran, **"we are going to hit each and every one of their electric generating plants very hard, and probably simultaneously,"** followed by their oil.
+- **Polls** cited by OSV News show **most Americans disapprove of the Iran war**.
+- Oil prices **jumped back above $100/barrel** after the address — WTI up **2.24% to $102.36**; Brent up **3.24% to $104.44**.
+- The White House released a fact sheet titled **"President Trump's Clear and Unchanging Objectives Drive Decisive Success Against Iranian Regime."**
+- *Sources: CNBC, CBS News, NPR, Washington Post, Al Jazeera, WhiteHouse.gov, OSV News*
+
+### UK Hosts 41-Nation Hormuz Conference (April 2, 2026)
+- UK Foreign Secretary **Yvette Cooper** chaired a virtual meeting of **41 countries** (up from 35 originally announced) to discuss reopening the Strait of Hormuz.
+- Cooper accused Iran of using the strait as leverage: **"We have seen Iran hijack an international shipping route to hold the global economy hostage."**
+- The **US did not attend** — consistent with Trump's position that allies should handle Hormuz themselves ("go get your own oil").
+- Key outcomes: **joint statement** pledging "clear and coordinated messages to Iran" to permit transit; looking at **economic and political measures including sanctions** if strait stays closed; agreement to work with **IMO** on seafarer relief; **military planners from coalition nations to meet next week** on long-term shipping security.
+- Conference data: **23 direct attacks on commercial vessels** since Feb 28; **11 crew deaths**; approximately **2,000 ships and 20,000 seafarers** remain stranded.
+- The effort mirrors NATO's Ukraine coalition-building and signals **European capacity to Washington** amid Trump's renewed NATO withdrawal threats.
+- *Sources: Military.com, Al Jazeera, Washington Post, FDD, The National, Euro Weekly News, Washington Times, Baltimore Sun*
+
+### Araghchi: Iran Prepared for "Six Months" of War (April 1, 2026)
+- FM **Abbas Araghchi** told **Al Jazeera** in an interview that Iran is prepared for **"at least six months"** of war.
+- When asked directly about this timeline, Araghchi replied: **"At least six months!"**
+- He declared Iran's trust in Washington stands at **"zero"** and stated: **"We will defend our country and our people as far as necessary and by any means required."**
+- Araghchi confirmed Iran is **not in direct negotiations** with Washington, despite Trump's claims.
+- The "six months" statement is strategically significant — it signals Iran is prepared for a protracted conflict, making quick ground operations at Kharg Island riskier for a US president seeking exit within weeks.
+- *Sources: Al Jazeera, India TV, Middle East Eye, Turkiye Today*
+
+### Israel Kills Hezbollah Southern Front Commander (April 1-2, 2026)
+- Israel's navy killed **Haj Youssef Ismail Hashem**, the commander of Hezbollah's southern front, in a strike on **Beirut**.
+- **7 people killed and 26 wounded** in the attack, according to Lebanon's Ministry of Public Health.
+- Hezbollah confirmed his death, calling him a **"beacon of the Islamic Resistance."** Hashem was meeting with senior commanders when killed.
+- His death is the **most senior Hezbollah killing** since the conflict began on March 2 — comparable to the November 2025 killing of chief of staff **Haytham Ali Tabtabai**.
+- *Sources: Al Jazeera, Reuters, US News, RFE/RL, Channels TV, Investing.com*
+
+### US-Israel Continue Strikes on Tehran and Regional Targets (April 2-3, 2026)
+- US-Israeli forces struck the **B1 bridge in Karaj** (city west of Tehran) — state TV reported a **double-tap**: the first strike caused two civilian casualties, followed by a second strike as emergency teams responded.
+- A **century-old medical research center** in Tehran was targeted.
+- Continued strikes on **steel plants** in Isfahan and Farokhshahr, and **pharmaceutical companies**.
+- **Iraq's Habbaniyah military base** in Anbar province struck — **7 fighters killed, 13 wounded** at a military healthcare clinic; extends targeting beyond Iran proper.
+- A **tanker was struck by a projectile off Qatar** — damage reported, no casualties.
+- **14 people wounded** in Iran's retaliatory strikes near Tel Aviv on April 2, including an **11-year-old girl**.
+- *Sources: Al Jazeera, Gulf News, CNN*
+
+### Migrant Workers as War Casualties (April 3, 2026)
+- The **Washington Post** reported that migrant workers in the Persian Gulf are suffering the **worst casualties** in the Iran war.
+- The majority of the **30+ deaths in Arab Gulf states** since February 28 have been **foreign workers** who could not afford to flee.
+- The Gulf hosts one of the world's largest migrant labor populations — millions from **India, Bangladesh, Pakistan, Nepal, the Philippines, and Sri Lanka**.
+- Many reside near strategic infrastructure, facing heightened risk from Iranian strikes on military bases, airports, refineries, and ports.
+- *Sources: Washington Post, NPR, IOM*
+
+### UN Warns of Wider War (April 2, 2026)
+- UN Secretary-General **António Guterres** warned that the Middle East conflict **"risks spiraling into a wider war"** with **"dramatic impacts around the globe."**
+- He called for an **immediate halt** to US-Israeli strikes on Iran and Iranian attacks on its neighbors.
+- China's Foreign Minister said US and Israeli attacks on Iran were a **violation of international law**.
+- The **World Bank** expressed concern about the conflict's impact on **inflation, jobs, and food security** globally.
+- *Sources: Al Jazeera, Gulf News*
+
+### Oil Volatile — Bouncing Between $100-$112 (April 1-3, 2026)
+- Brent crude **dropped to ~$105/barrel** from $118.35 on March 31 on ceasefire/exit hopes, then **bounced back to $111.69** by morning of April 2 after Trump's primetime address vowed 2-3 more weeks of strikes.
+- Trading range on April 3: **$99-$110/barrel** — extreme volatility reflecting conflicting signals.
+- **Urals crude** (Russian benchmark) surged to **$123.45/barrel** as of April 3 — Russian oil commanding significant premium as demand shifts to non-Hormuz suppliers.
+- Nobel laureate **Paul Krugman**: **"It's not at all hard to tell a $150 per barrel story, and it's not crazy to go to $200"** if blockade persists.
+- The UK 41-nation Hormuz conference adds diplomatic pressure but the **blockade remains physically unchanged**.
 - US gas remains at approximately **$4/gallon**.
-- *Sources: Trading Economics, Fortune, Investing.com, CBS News, CNBC*
+- *Sources: Trading Economics, Fortune, Investing.com, CBS News, CNBC, Gulf News*
 
 ### US Gas Hits $4 Per Gallon (March 31, 2026)
 - The national average for a gallon of regular gasoline reached **$4.02** according to AAA — the **highest since August 2022**.
@@ -452,6 +510,7 @@ Compiled for evaluation of mid-2024 predictions. All information sourced from pu
 - **March 30**: Trump told the **Financial Times**: **"My favorite thing is to take the oil in Iran."** Admitted troops would need to deploy to Kharg Island **"for a while."** Compared the operation to the Venezuela oil seizure. Separately told CNBC he would **"destroy Iran's oil wells, Kharg Island"** without a deal to "immediately" reopen Hormuz. Called US critics **"stupid people."** The **DESTRUCTION vs SEIZURE ambiguity** is new — Trump may opt to destroy Kharg infrastructure rather than occupy it. *(Financial Times, CNBC, Bloomberg, The Hill, Al Jazeera, Mediaite, GB News)*
 - **March 31**: **CRITICAL SHIFT** — **Wall Street Journal** reported Trump told aides he is **willing to end the war without reopening Hormuz**. Assessed reopening mission would push conflict beyond 4-6 week timeline. Strategy: wind down after "hobbling" Iran's navy/missiles, then press allies diplomatically. Trump told reporters war could end **"in two to three weeks"** and Iran **does not need to make a deal** — just needs to be "put into the stone ages" without nuclear capability. This **significantly reduces the probability of ground operations** at Kharg Island. *(WSJ, CNN, Haaretz, Al Jazeera, CBS News, Foreign Policy, Military.com, NBC News)*
 - **April 1-2**: **EXIT SIGNALS INTENSIFYING** — Trump threatened **NATO withdrawal** (called it "paper tiger"); claimed Iran ceasefire offer (Iran denied but signaled willingness); scheduled primetime address with 2-3 week exit timeline; **UK hosting 35-nation Hormuz conference WITHOUT US** (allies taking ownership of reopening). Oil dropped to **~$105/bbl** from $118. IRGC tech company threat deadline passed with **no confirmed strikes**. Israel killed **defense minister Nasirzadeh, IRGC commander Pakpour, Quds Force engineering chief Vafaei** — accelerating decapitation campaign even as war winds down. **Ground ops probability at lowest point since conflict began.** *(NBC, Time, CNBC, CNN, Al Jazeera, Axios, UPI, Politico, Trading Economics)*
+- **April 1-3**: **EXIT TRAJECTORY CONTINUES** — Trump's primetime address (Apr 1) vowed "extremely hard" strikes for 2-3 more weeks but **DID NOT announce ground operations** — consistent with air campaign conclusion framing. **UK 41-nation Hormuz conference** (Apr 2) with 41 countries (up from 35) further operationalizes allied ownership of Hormuz reopening. **Araghchi told Al Jazeera Iran prepared for "at least six months" of war** — makes quick ground seizure riskier. IRGC tech company threat **confirmed as bluff** (2 days past deadline, no strikes). Israel killed **Hezbollah southern front commander Hashem** in Beirut — 7 killed, 26 wounded. Oil volatile at $109-112 range. Apr 6 deadline now **3 days away** — Trump address neither softened nor emphasized it. *(CNBC, CBS, NPR, Military.com, Al Jazeera, FDD, India TV, Middle East Eye)*
 - *Sources: Axios, Military.com, CBS News, Times of Israel, USNI News, Stars and Stripes, Time, CNN, Washington Post, Army Recognition, FDD Long War Journal, The War Zone, CNBC, The Hill, Naval Today, SCMP, Fox News, France24, NPR, Air & Space Forces, Al Jazeera, PBS, India TV, Breitbart, Manila Times, AP, Financial Times, Bloomberg, Mediaite, GB News, WSJ, Haaretz, Foreign Policy*
 
 ### Strait of Hormuz Crisis
@@ -459,7 +518,7 @@ Compiled for evaluation of mid-2024 predictions. All information sourced from pu
 - Tanker traffic dropped ~70% initially, then to **~99% below normal** — effectively zero transit.
 - **~2,000 vessels and 20,000 seafarers stranded** in the waterway (up from ~750 by Mar 12); **150+ ships anchored** outside refusing to enter.
 - The Strait normally carries **~20 million barrels/day** (~20% of global seaborne oil trade).
-- **Brent crude surged past $100/barrel** (from ~$70 pre-war), peaking at **$126/barrel**. As of April 2: **~$105/bbl** — **sharp drop from $118.35** (Mar 31 close) on ceasefire/exit hopes. **Brent up ~60% in March — record monthly gain since contract inception in 1988** (CNBC). US gas at **~$4/gallon**. Goldman Sachs estimates **$14-18/bbl geopolitical risk premium**. **Paul Krugman** warns "$150 not hard to envision, $200 not crazy" if blockade persists. IEA head described situation as **"greatest global energy security challenge in history."** Saudi Arabia has **rerouted ~5 million bbl/day** to Red Sea terminals at **Yanbu**. **UK hosting 35-nation Hormuz conference** (Apr 2-3) WITHOUT US — allies taking ownership of reopening; followed by military planners session. Trump told allies to **"go get your own oil."** Iranian drone struck **Kuwait-flagged VLCC Al-Salmi** off Dubai (Mar 31) — 2M barrels, fire contained, oil spill warning.
+- **Brent crude surged past $100/barrel** (from ~$70 pre-war), peaking at **$126/barrel**. As of April 3: **~$109-112/bbl** — volatile, bouncing from $105 low on ceasefire hopes; **Urals crude at $123.45** (Russian premium). **Brent up ~60% in March — record monthly gain since contract inception in 1988** (CNBC). US gas at **~$4/gallon**. Goldman Sachs estimates **$14-18/bbl geopolitical risk premium**. **Paul Krugman** warns "$150 not hard to envision, $200 not crazy" if blockade persists. IEA head described situation as **"greatest global energy security challenge in history."** Saudi Arabia has **rerouted ~5 million bbl/day** to Red Sea terminals at **Yanbu**. **UK hosted 41-nation Hormuz conference** (Apr 2) WITHOUT US — 41 countries signed joint statement demanding Iran cease blockade; threatened sanctions; military planners meeting next week; **23 attacks on commercial vessels, 11 crew deaths** since Feb 28. Trump told allies to **"go get your own oil."** Iranian drone struck **Kuwait-flagged VLCC Al-Salmi** off Dubai (Mar 31) — 2M barrels, fire contained, oil spill warning. Tanker struck by projectile off Qatar (Apr 2).
 - IEA authorized release of **400 million barrels** from strategic stockpiles — the largest such release in history.
 - Gulf states cut production by **at least 10 million bbl/day** combined as onshore storage filled.
 - War risk insurance premiums surged from 0.125% to **1% of ship value** per transit. Major insurers (Gard, Skuld, NorthStandard, London P&I Club) **cancelled war risk cover effective March 5**.
@@ -650,7 +709,12 @@ Iran struck military and civilian targets across at least 9 countries plus Israe
 ### Ukraine Has NOT "Lost"
 - The war continues as a grinding attritional conflict. Ukraine maintains significant territory and fighting capability.
 - Ukraine has become a **drone superpower**, with its drone technology being noted in context of the Iran war.
-- Combat engagements in **5th consecutive day of decline**: 176 → 158 → 150 → 147 (Mar 30). On March 30: Russia launched **9,355 kamikaze drones**, carried out **70 airstrikes** dropping **237 guided aerial bombs**, and conducted **3,912 shelling attacks**. **870 Russian soldiers killed** in past 24 hours per Ukrainian General Staff. **26 attacks near Kostiantynivka** area. **Uptick in Russian combat activity toward Huliaypole** (Zaporizhzhia region) — possible new axis of advance. Russia also advancing in **Kharkiv and Sumy** directions. *(EMPR Media, Ukrainian General Staff)*.
+- **Lt. Gen. Alexander Otroshchenko** (commander of Northern Fleet's mixed aviation corps) killed in **An-26 crash in Crimea** on March 31-April 1 — **29 military personnel dead**; the **14th Russian general killed** since February 2022. May have been shot down by **Russia's own air defense** (Euromaidan Press). *(United24, Euromaidan Press, Kyiv Independent, Ukrainska Pravda)*
+- Ukraine struck **Kirovske airfield in occupied Crimea** overnight April 2 (Ukrainian military intelligence). Russian drones attacked **Odesa port infrastructure** overnight April 2. *(Kyiv Independent)*
+- **146 combat engagements** on April 1 — enemy attacking most intensely in **Kostiantynivka, Pokrovsk, and Huliaipole** sectors. Russia total combat losses since Feb 24, 2022 reached approximately **1,300,030 personnel** (~1,300/day). *(Ukrinform, Russia Matters)*
+- **Trump and Zelensky** have agreed on **90 to 95 percent** of a peace proposal, though fundamental gaps remain. Analysts say the biggest conflict in Europe since WWII is **unlikely to end in 2026**. *(Russia Matters)*
+- Russia declared **'completion' of Luhansk Oblast liberation** (Apr 1) — symbolic declaration; Ukraine had controlled only **0.2%** of the region. *(Russia Matters, Wikipedia)*
+- Previous data: Combat engagements in **decline**: 176 → 158 → 150 → 147 → 146 (Mar 25-Apr 1). On March 30: Russia launched **9,355 kamikaze drones**, carried out **70 airstrikes** dropping **237 guided aerial bombs**, and conducted **3,912 shelling attacks**. *(EMPR Media, Ukrainian General Staff)*.
 - **Russia claimed Symynivka** near Vovchansk and **Illinivka** southwest of Kostiantynivka in recent days. Ukraine's **Gen. Oleksandr Komarenko** claimed Ukrainian forces restored control over **285.6 km²** in the Oleksandrivka direction and cleared **400 km²** since the beginning of counteroffensive operations — **February 2026 was the first month since 2024 when Ukraine regained more territory than it lost**. *(Wikipedia timeline)*
 - **Senior Ukrainian military official forecast** that Russia will begin using **mobilized personnel on the battlefield from April 1** — potential influx of fresh troops. *(Pravda France)*
 - **Ukraine's Unmanned Systems Forces** destroyed **3 BM-30 Smerch/Tornado-S MLRS + transport-loader vehicle** at Russian base in **Sovkhozne, Crimea** overnight March 29 — systems capable of 120km range; significant reduction in Russian long-range bombardment capability. Separately destroyed **fuel tankers near Novosvitlivka** in Luhansk in coordinated SBU strike. *(LiveUAMap, United24, Pravda, Ukrinform)*. Russia captured **Brusovka in DPR** on March 28 — forming southern envelopment of **Stary Karavan** on the **Liman-Slavyansk railway branch and T-05-14 front-line supply route**. Russian forces preparing bridgeheads for operation to destroy **Slavyansk fortified hub** — the northern part of the Slavyansk-Kramatorsk-Druzhkovka-Konstantinovka agglomeration. Previously: Russia claimed **Bobylivka in Sumy Oblast** (Mar 27-28), crossing the Russia-Ukraine border. Russia lost **4 square miles** during the week of Mar 17-24 — shift from earlier momentum. **ISW** observing increase in Russian mechanized assaults since Mar 17 — possibly preparing **spring-summer offensive against the Fortress Belt** in Donetsk Oblast. Ukraine struck Russian **combat icebreaker Purga** (Project 23550) in Leningrad region overnight Mar 25.
@@ -672,8 +736,9 @@ Iran struck military and civilian targets across at least 9 countries plus Israe
 - Key deadlock: territory. Russia demands control of all of Donbas and denial of NATO membership for Ukraine.
 - **March 2026**: Trilateral talks on **"situational pause"** due to the Iran war. Abu Dhabi round (originally planned Mar 5-9) postponed indefinitely.
 - **March 21-22**: **US-Ukraine bilateral talks** held in **Miami** — Witkoff and Kushner met Ukrainian delegation (Umerov, Budanov, Kyslytsia, Arakhamia). Witkoff called talks "constructive," focused on "narrowing and resolving remaining items." **Russia was NOT present** — a shift from the trilateral format. Last trilateral meeting was Geneva Feb 17-18.
+- **Trump and Zelensky** agreed on **90-95% of a peace proposal** but fundamental gaps remain; analysts say war unlikely to end in 2026. *(Russia Matters, Apr 1)*
 - A **record 67% of Russians** now support peace negotiations (Euronews, Mar 2026).
-- The Iran war has diverted US attention and driven energy prices up, indirectly benefiting Russia's war economy.
+- The Iran war has diverted US attention and driven energy prices up; **Urals crude at $123.45/bbl** (Apr 3) — Russian oil commanding premium, indirectly funding war effort.
 
 ---
 
@@ -775,7 +840,7 @@ Iran struck military and civilian targets across at least 9 countries plus Israe
 - Discussed proposed **US-China "Board of Trade" and "Board of Investment"** mechanisms.
 - China offered additional agricultural purchases (poultry, beef, soybeans — 25M metric tons/year for 3 years).
 - Progress on **critical minerals**, including US access to yttrium (vital for jet engine turbines).
-- **Trump-Xi summit rescheduled to May 14-15 in Beijing** (originally Mar 31-Apr 2; delayed by Iran war). Trump told Financial Times that China should help break Iran's Hormuz blockade.
+- **Trump-Xi summit rescheduled to May 14-15 in Beijing** (originally Mar 31-Apr 2; delayed by Iran war ~6 weeks). **Record $11.1 billion Taiwan arms deal** announced — casting shadow over Beijing visit; Beijing singled out Taiwan as **"most important issue"** in bilateral relations, urging "prudence" on arms sales. US-Taiwan ART includes **$250 billion** in Taiwanese investment in US tech/chips operations. Trump told Financial Times that China should help break Iran's Hormuz blockade. **China's FM** said US-Israeli attacks on Iran **violate international law** (Apr 2). *(SCMP, CNBC, Al Jazeera)*
 - **March 27**: China launched **2 reciprocal trade investigations** against the US — one examining US policies restricting Chinese goods and export controls on advanced technology; the other focused on **barriers to Chinese green energy exports**. Each probe has a **6-month deadline** with a possible 3-month extension, giving Beijing **legal groundwork for future countermeasures** ahead of the summit. Announced as response to Trump's Section 301 investigations. *(Bloomberg, Supply Chain Dive, Washington Times, CNBC)*
 - **February 12, 2026**: US and Taiwan signed the **Agreement on Reciprocal Trade (ART)** — eliminates or reduces tariffs on up to **99% of goods** and promotes bilateral investment, agricultural market access, digital trade, and IP protection. *(USTR, The Diplomat)*
 - New **Section 301 investigations** announced against China, Vietnam, Taiwan, Mexico, Japan, EU (March 2026).
@@ -812,14 +877,19 @@ Iran struck military and civilian targets across at least 9 countries plus Israe
 - **Lee Jae-myung** (Democratic Party) won the subsequent presidential election in June 2025.
 - Growing anxiety in Seoul that North Korea may act more aggressively, emboldened by combat experience in Ukraine and the Russia mutual defense clause.
 - Kim Jong Un inspected a new **8,700-tonne nuclear-powered submarine** in December 2025.
-- No direct North Korean military action against South Korea as of March 2026.
+- No direct North Korean military action against South Korea as of April 2026.
+- **April 2026**: North Korea ground-tested a **"newly upgraded" solid-propellant rocket motor** approximately **20% more powerful** than the motor revealed in September 2025. Source of thrust increase unclear; possible Russian assistance. Pyongyang associated the motor with **"strategic forces"** — **ICBM use most likely**. *(38 North)*
+- **April 2026**: Kim Jong Un stated **"there is no reason why we cannot get on well with the U.S."** if Washington **"respects the present position of our state specified in the constitution"** and **"withdraws its hostile policy."** Any bilateral talks require US **recognition of DPRK as a nuclear-armed state**. *(Arms Control Association)*
+- **April 2**: North Korea condemned **UN Human Rights Council resolution** criticizing its record, calling it a **"grave political provocation"** with **"false data"** that **"totally distorted"** DPRK policies. *(UPI)*
+- **April 2026**: **Pyongyang International Marathon** held — **first in 6 years** with international participation; **500 spots** filled in under 5 hours. Tourism otherwise **closed** except to Russian nationals. *(NK News, Young Pioneer Tours)*
+- **11,000-15,000 DPRK troops** estimated deployed to Russia (updated from 12,000). *(Various sources)*
 - **March 14**: DPRK fired **10+ short-range ballistic missiles** (KN-25 600mm MLRS, ~350km range) into the East Sea during Freedom Shield exercises. Kim Jong Un presided over drill with 12 launchers and two artillery companies. Third missile test in March per Japan.
 - DPRK exploiting US focus on Iran to test boundaries; Kim Yo Jong warned of "unimaginably terrible consequences."
 - **March 15**: Parliamentary elections held for 15th Supreme People's Assembly. 1st Session convened **March 22**; Kim Jong Un **reelected as president of State Affairs Commission**.
 - **March 25-26**: Belarusian President **Alexander Lukashenko** made **first-ever official visit** to North Korea. Signed **friendship treaty** with Kim Jong Un. Lukashenko said relations entering a **"fundamentally new stage."** Visited Kumsusan Palace of the Sun.
 - **March 25-27**: Kim Jong Un explicitly invoked the Iran war to justify DPRK nuclear weapons: **"the present situation clearly proves"** North Korea was right to reject US denuclearization pressure. Declared nuclear status **"irreversible"** and South Korea the **"most hostile opponent"** in speech to parliament. This represents a concrete proliferation consequence of the Iran war — adversary states using it to validate nuclear deterrence.
 - **Naval buildup**: Satellite imagery confirms first 5,000-ton destroyer **Choe Hyon** berthed at Nampo port; third destroyer in the class under construction, with DPRK stating completion target of **October 2026**.
-- *Sources: CNN, Japan Times, Anadolu Agency, Al Jazeera, US News, NK News, Stimson Center, Pravda, Daily NK, KCNA*
+- *Sources: CNN, Japan Times, Anadolu Agency, Al Jazeera, US News, NK News, Stimson Center, Pravda, Daily NK, KCNA, 38 North, Arms Control Association, UPI*
 
 ---
 
@@ -925,53 +995,54 @@ Iran struck military and civilian targets across at least 9 countries plus Israe
 
 ## Summary of Key Developments for Prediction Evaluation
 
-| Topic | Status as of April 1, 2026 |
+| Topic | Status as of April 3, 2026 |
 |-------|------------------------|
-| US military strike on Iran | YES -- June 2025 (Operation Midnight Hammer) and Feb 2026 (ongoing war, Day 34); US hit 2/3 of Iran's missile/drone production; Israel attacking government infrastructure 'throughout Tehran' Mar 30-31; IRGC threatens 18 tech companies Apr 1 |
-| Israel-Iran direct conflict | YES -- Twelve-Day War (June 2025) and 2026 Iran war; nuclear/industrial/petrochemical targets; Tel Aviv hit; ADAMA chemical plant in Israel hit Mar 29 |
+| US military strike on Iran | YES -- Day 35; Trump primetime address (Apr 1): 'extremely hard' for 2-3 more weeks; struck B1 bridge in Karaj (double-tap), medical research center, steel plants; Iraq Habbaniyah base struck (7 killed) |
+| Israel-Iran direct conflict | YES -- continuing; Israel killed Hezbollah commander Hashem in Beirut (Apr 1-2); 9+ senior officials/commanders killed total |
 | Khamenei killed | YES -- Assassinated Feb 28, 2026; son Mojtaba succeeded him |
-| Israeli decapitation campaign | Khamenei (Feb 28), Larijani (Mar 17), Soleimani (Mar 17), Khatib (Mar 18), Tangsiri (Mar 26-27), Eshaghi (Mar 31) — 6 top officials; Araghchi/Qalibaf temporarily removed from hit list |
-| Iran nuclear breakout | Near-zero breakout time pre-strikes; warhead development authorized Oct 2025; Natanz struck again Mar 22 |
-| Strait of Hormuz closed | YES -- Blockade continues; Iran formally allowed 5 nations (China, Russia, India, Iraq, Pakistan); US/Israel/allies blocked; 2,000 vessels stranded |
-| Hormuz blockade casualties | 9+ countries struck; 15 US KIA; 300+ wounded; Gulf infrastructure devastated; Tangsiri (blockade architect) killed Mar 26-27 |
-| Kharg Island | US bombed 90+ targets (Mar 13); Iran FORTIFYING; WashPost: Pentagon has DETAILED PLANS for Kharg raids (Mar 29); TRUMP: 'take the oil' + threatens to DESTROY Kharg (Mar 30); USS Tripoli in CENTCOM; 82nd Airborne deploying; Trump not yet approved formal ops |
+| Israeli decapitation campaign | 9+ officials: Khamenei, Larijani, Soleimani, Khatib, Tangsiri, Eshaghi, Nasirzadeh, Pakpour, Vafaei + Hezbollah's Hashem |
+| Iran nuclear breakout | Near-zero breakout time pre-strikes; warhead development authorized Oct 2025; Natanz/Arak/Ardakan all struck |
+| Strait of Hormuz closed | YES -- Blockade continues; UK 41-nation conference (Apr 2) demands Iran cease; threatened sanctions; military planners meeting next week; 23 attacks on vessels, 11 crew deaths |
+| Hormuz blockade casualties | 9+ countries struck; 15 US KIA; 300+ wounded; Gulf infrastructure devastated; migrant workers suffering worst casualties (WashPost) |
+| Kharg Island | Plans technically active but EXIT TRAJECTORY dominant; Trump primetime address DID NOT announce ground ops; UK conference operationalizes allied Hormuz ownership; Araghchi: 'six months' war posture makes seizure riskier |
 | South Pars gas field | Israel struck processing facilities (Mar 18); ~12% of Iran's gas production damaged |
-| Energy/nuclear infrastructure spiral | Now includes nuclear (Arak, Ardakan) + industrial (steel plants) + energy; IRGC threatens 'beyond eye for eye' retaliation |
-| Trump peace plan — contested diplomacy | Iran rejected plan as "maximalist"; Islamabad talks progressing; Pakistan FM in China (Mar 31); Rubio-Araghchi direct talks possible 'within days'; Apr 6 deadline 6 days away |
-| Ground operation planning | TRUMP: 'take the oil' (FT, Mar 30) + threatens to DESTROY Kharg; WashPost (Mar 29): Pentagon has detailed Kharg raid plans; total ~7,000-8,500 (potentially 17K-18.5K); diplomatic + military dual track |
+| Energy/nuclear infrastructure spiral | Now includes nuclear (Arak, Ardakan) + industrial (steel plants) + energy; Apr 6 deadline 3 days away |
+| Trump peace plan — contested diplomacy | Araghchi: trust at 'zero', prepared for 'six months'; UK 41-nation conference; Axios: ceasefire-for-Hormuz deal discussed through mediators; Apr 6 deadline 3 days away |
+| Ground operation planning | PROBABILITY AT LOWEST POINT; Trump primetime address framed as air campaign conclusion; UK conference = allied Hormuz ownership; force ~7,000-8,500; Apr 6 likely extension/expiration |
 | Diego Garcia missile attack | Iran fired 2 IRBMs at US-UK base 4,000km away (Mar 21) — reveals doubled missile range capability |
 | Turkey hit by Iran missiles | 3 ballistic missiles entered airspace (Mar 4, 9, 13) -- all intercepted by NATO |
-| Commercial shipping attacked | Thai ship MV Mayuree Naree struck Mar 11 (3 missing); 6+ ships attacked Mar 11-12 |
-| Gulf state damage | UAE: 372 BMs + 15 CMs + 1,826 drones intercepted; Qatar: Ras Laffan + gas halt; Kuwait desalination plant struck Mar 30 (1 killed); Saudi: 5 BMs intercepted Mar 30 |
-| Oil price impact | Brent ~$118.35 (60% monthly gain — record since 1988); US gas $4/gallon; analysts warn $200/bbl if Hormuz stays shut past mid-April; world losing 4.5-5M bbl/day |
-| Lebanon ground operations | Expanding; FOUR divisions; Netanyahu orders deeper expansion Mar 29; 146th Div near Litani River; 1,200+ killed; 3 UNIFIL peacekeepers killed; 10 IDF soldiers killed; 52 health workers killed in March |
+| Commercial shipping attacked | 23 attacks on commercial vessels since Feb 28; 11 crew deaths (UK conference data); tanker struck off Qatar Apr 2 |
+| Gulf state damage | UAE: 372+ BMs + 15 CMs + 1,826+ drones intercepted; Qatar: Ras Laffan damaged; Kuwait desalination plant struck; Saudi: 5 BMs intercepted Mar 30 |
+| Oil price impact | Brent volatile $109-112 (bouncing from $105 low); Urals crude $123.45 (Russian premium); US gas $4/gallon; analysts warn $200 if Hormuz stays shut |
+| Lebanon ground operations | FOUR divisions; Hezbollah commander Hashem killed (Apr 1-2, 7 dead, 26 wounded); 1,200+ killed; 3 UNIFIL killed; 10 IDF killed |
 | Iran Gulf mining threat | Iran threatens moored/drifting mines across entire Persian Gulf if coasts/islands attacked |
 | Israeli air defense failures | David's Sling malfunction Mar 25 (Tel Aviv); interceptor failures at Dimona Mar 21-22 |
-| 82,000+ structures destroyed in Iran | Iranian Red Crescent figure (Mar 24); internet blackout hampers verification |
-| Houthi Red Sea attacks | HOUTHIS ENTERED WAR Mar 28; European Red Sea task force ready; Bab al-Mandeb not yet closed but shipping 'sharply reduced'; Saudi rerouted 5M bbl/day to Yanbu |
-| Ukraine war outcome | Russia declared Luhansk 'liberated' (Apr 1; symbolic — Ukraine held 0.2%); gained 17 sq mi last week; spring offensive momentum; net lost 12 sq mi in March |
-| Ukraine-Russia peace talks | US-Ukraine bilateral talks in Miami Mar 21-22 (no Russia); trilateral talks still paused; 67% Russians support talks |
+| 82,000+ structures destroyed in Iran | Iranian Red Crescent figure (Mar 24); 2,000+ killed (Health Ministry); 4,700+ security forces killed (Iran International) |
+| Houthi Red Sea attacks | HOUTHIS IN WAR since Mar 28; Bab al-Mandeb remains OPEN; Houthis say 'no current plans' to close; European task force ready |
+| IRGC tech company threat | CONFIRMED BLUFF — deadline passed Apr 1 8PM Tehran; NO strikes on any of 18 companies through Apr 3 |
+| Ukraine war outcome | Lt. Gen. Otroshchenko killed in Crimea An-26 crash (14th general); Russia declared Luhansk 'liberated' (symbolic); 146 engagements/day; total losses ~1,300,030 |
+| Ukraine-Russia peace talks | Trump-Zelensky agreed 90-95% of peace proposal; gaps remain; trilateral talks paused; analysts say war unlikely to end in 2026 |
 | Ukraine average soldier age | ~43 years old |
 | NATO troops to Ukraine | UK/France committed in principle for peacekeeping; Russia rejects |
 | 232:1 shipbuilding ratio | Confirmed by ONI (China 23.25M tons vs. US <100K tons) |
 | 155mm production | 40,000/month (target: 100,000/month by mid-2026) |
 | Saudi-Iran rapprochement | Holding despite wars; Saudi refused airspace for strikes on Iran |
-| US-China trade | SCOTUS struck down IEEPA tariffs Feb 20 (6-3); 10% global tariff via Section 122; China at 47%; Trump-Xi summit May 14-15 Beijing; Trump consulting Xi on Taiwan arms sale; China launched 2 trade probes; US-Taiwan ART signed Feb 12 (caps tariffs at 15%) |
-| China Taiwan assessment | US intel: China NOT planning 2027 invasion; China studying Iran war for Taiwan lessons; US-Taiwan trade integration deepening |
+| US-China trade | SCOTUS struck down IEEPA tariffs; Section 122 10% global; Trump-Xi May 14-15 Beijing; $11.1B Taiwan arms deal announced; China FM: attacks on Iran violate international law; China launched 2 trade probes |
+| China Taiwan assessment | US intel: China NOT planning 2027 invasion; China studying Iran war for Taiwan lessons; $250B Taiwanese investment in US via ART |
 | UK conscription | Ruled out by government |
 | European conscription | Denmark (expanded), Croatia (restored), Germany (voluntary/possible mandatory) |
-| US-China rapprochement | No -- fragile truce; summit postponed; fundamental issues unresolved |
+| US-China rapprochement | No -- fragile truce; summit May 14-15; fundamental issues unresolved; Taiwan arms deal complicates |
 | Germany-Russia rapprochement | No -- relations remain frozen; economic decoupling continues |
-| North Korea | Pyongyang Marathon held (first in 6 years); Kim eyes Trump-Xi May summit window; pursuing recon satellites; nuclear status 'irreversible'; no missiles since Mar 14 |
-| Russia-DPRK alliance | Deepened significantly; mutual defense treaty; massive arms/troop transfers; Lukashenko-Kim friendship treaty |
+| North Korea | NEW: upgraded solid-propellant rocket motor tested (~20% more powerful, ICBM likely); Kim demands nuclear recognition for US talks; condemned UN rights resolution; marathon held |
+| Russia-DPRK alliance | Deepened significantly; mutual defense treaty; 11,000-15,000 DPRK troops in Russia; Lukashenko-Kim friendship treaty |
 | Russia as nuclear guarantor | Did NOT prevent strikes on Iran; treaty lacks mutual defense clause |
 | Trump third term | Constitutional amendment proposed but no real progress; Trump walked back rhetoric |
-| Venezuela — Maduro trial | Judge rejected dismissal motion (Mar 26); case in pretrial; legal experts say trial unlikely this year; Hellerstein promised decision "soon" on funding |
-| Venezuela — Rodriguez govt | Acting president since Jan 5; oil reform, amnesty law; US recognized Mar 11 |
-| Cuba crisis | Communist party office torched in Moron; Costa Rica closing embassy; three blackouts in March; 51 prisoners released; daily protests; Russian tanker arrived Mar 30 (~12.5 days); secret US-Cuba talks ongoing |
-| Colombia | Economic emergency Dec 2025; peace process collapsed; US drug decertification |
-| Pakistan mediation | Four-nation summit (Mar 29); UK 35-nation Hormuz conference (Apr 2-3) WITHOUT US; Axios: US-Iran discussing ceasefire-for-Hormuz through mediators; diplomatic momentum building |
+| Venezuela — Maduro trial | US sanctions center stage in latest hearing (Apr 1); defense funding blocked; case in pretrial; unlikely this year |
+| Venezuela — Rodriguez govt | Acting president; US lifted sanctions on Rodriguez (Apr 1); recognized as sole leader Mar 11 |
+| Cuba crisis | Humanitarian crisis at limit; hospitals can't operate safely; drinking water unreliable; protests ongoing; Russian tanker (~12.5 days) insufficient; secret US-Cuba talks ongoing |
+| Colombia | Economic emergency; peace process collapsed; US drug decertification; troops at Venezuela border |
+| Pakistan mediation | UK 41-nation Hormuz conference (Apr 2) WITHOUT US; military planners meeting next week; Axios: ceasefire-for-Hormuz discussed; diplomatic momentum building |
 
 ---
 
-*Updated April 2, 2026. Sources include reporting from Al Jazeera, BBC, Reuters, NPR, CNN, CBS News, NBC News, Washington Post, CNBC, Bloomberg, Fortune, Axios, Military.com, USNI News, Stars and Stripes, Times of Israel, GOV.UK, Goldman Sachs, IEA, Britannica, Wikipedia, Congressional Research Service, CSIS, Atlantic Council, Chatham House, Carnegie Endowment, Arms Control Association, House of Commons Library, HRW, Kyiv Independent, EMPR Media, Political Wire, Defence Security Asia, IAEA, ITV News, The Week, BusinessToday, Euronews, Military Times, SCMP, AEI, Time, France24, Iran International, Democracy Now, The Defense Post, Haaretz, Gulf International Forum, BE Horizon, UN News, FDD, WSJ, Tasnim, Arab News, The War Zone, ISW/Critical Threats, ACLED, Russia Matters, Stimson Center, Japan Times, amNewYork, Eurasia Review, WION, Al Arabiya, PressTV, Israel Hayom, CGTN, Kurdistan24, JPost, Pravda, The Hill, Naval Today, Air & Space Forces, PBS, OPB, Supply Chain Dive, Washington Times, Taipei Times, USTR, The Diplomat, WHO, Global Defense Corp, UPI, Politico, NDTV, Asia Times, Al-Monitor, Trading Economics, Investing.com, WhiteHouse.gov, Alma Research Center, NK News, The New Republic, Townhall, WCAX, HotAir, Fox News, and other publicly available sources.*
+*Updated April 3, 2026. Sources include reporting from Al Jazeera, BBC, Reuters, NPR, CNN, CBS News, NBC News, Washington Post, CNBC, Bloomberg, Fortune, Axios, Military.com, USNI News, Stars and Stripes, Times of Israel, GOV.UK, Goldman Sachs, IEA, Britannica, Wikipedia, Congressional Research Service, CSIS, Atlantic Council, Chatham House, Carnegie Endowment, Arms Control Association, House of Commons Library, HRW, Kyiv Independent, EMPR Media, Political Wire, Defence Security Asia, IAEA, ITV News, The Week, BusinessToday, Euronews, Military Times, SCMP, AEI, Time, France24, Iran International, Democracy Now, The Defense Post, Haaretz, Gulf International Forum, BE Horizon, UN News, FDD, WSJ, Tasnim, Arab News, The War Zone, ISW/Critical Threats, ACLED, Russia Matters, Stimson Center, Japan Times, amNewYork, Eurasia Review, WION, Al Arabiya, PressTV, Israel Hayom, CGTN, Kurdistan24, JPost, Pravda, The Hill, Naval Today, Air & Space Forces, PBS, OPB, Supply Chain Dive, Washington Times, Taipei Times, USTR, The Diplomat, WHO, Global Defense Corp, UPI, Politico, NDTV, Asia Times, Al-Monitor, Trading Economics, Investing.com, WhiteHouse.gov, Alma Research Center, NK News, The New Republic, Townhall, WCAX, HotAir, Fox News, 38 North, United24, Euromaidan Press, Ukrainska Pravda, OSV News, IOM, Young Pioneer Tours, Turkiye Today, Middle East Eye, RFE/RL, Channels TV, Euro Weekly News, Baltimore Sun, and other publicly available sources.*
