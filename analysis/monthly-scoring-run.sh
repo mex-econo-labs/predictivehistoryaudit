@@ -57,6 +57,7 @@ STEP 5: Read EVERY analysis JSON file in ${ANALYSIS_DIR}/*.json (except schema.j
 - Status values: confirmed, partially_confirmed, disconfirmed, untested, unfalsifiable
 - Be rigorous — only change status when events clearly warrant it
 - PAY SPECIAL ATTENTION to ground invasion predictions — update status_note with current ground troop situation
+- For EVERY file you review (whether or not statuses changed), set meta.last_scoring_date to '${TODAY}'
 - Write the updated JSON back to the same file
 
 STEP 6: Update ${BRIEFING_FILE}:

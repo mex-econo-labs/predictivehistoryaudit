@@ -27,6 +27,8 @@
       </a>
       <span class="mono muted" style="font-size: 0.7rem; margin-left: var(--space-md);">
         Analyzed {{ d.meta.analysis_date }} by {{ d.meta.analyzed_by }}
+        {% if d.meta.view_count_updated %}&middot; Views updated {{ d.meta.view_count_updated }}{% endif %}
+        {% if d.meta.last_scoring_date %}&middot; Predictions reviewed {{ d.meta.last_scoring_date }}{% endif %}
       </span>
     </div>
   </div>

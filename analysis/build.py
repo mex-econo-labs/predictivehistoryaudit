@@ -17,6 +17,7 @@ import shutil
 import subprocess
 import textwrap
 from collections import Counter, defaultdict
+import datetime
 from jinja2 import Environment, FileSystemLoader
 
 
@@ -610,6 +611,7 @@ def build(base_dir: str, output_dir: str):
         'score_short': SCORE_SHORT,
         'score_labels': SCORE_LABELS,
         'score_tips': SCORE_TIPS,
+        'build_date': datetime.date.today().isoformat(),
     }
 
     # Dashboard
