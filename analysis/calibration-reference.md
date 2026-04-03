@@ -1,4 +1,4 @@
-# Prediction Calibration Reference — April 3, 2026 (Scored April 3, 2026)
+# Prediction Calibration Reference — April 4, 2026 (Scored April 3, 2026)
 
 Use this document when analyzing Predictive History lectures to accurately assess prediction statuses.
 
@@ -121,7 +121,18 @@ Use this document when analyzing Predictive History lectures to accurately asses
 | Nasirzadeh and Pakpour killed by Israel | Apr 1, 2026 | Iranian defense minister Aziz Nasirzadeh and IRGC commander Mohammad Pakpour killed by Israeli airstrikes — 8th and 9th senior officials killed |
 | Russian Lt. Gen. Otroshchenko killed in Crimea | Apr 1, 2026 | An-26 crash killed 29; 14th Russian general killed since Feb 2022; may have been own air defense shootdown |
 | DPRK tests upgraded solid-propellant rocket motor | Apr 2026 | ~20% more powerful than Sep 2025 motor; associated with 'strategic forces' (ICBM use); possible Russian assistance unclear (38 North) |
-| IRGC tech company threat confirmed as bluff | Apr 1-3, 2026 | 8PM Tehran deadline Apr 1 passed; NO confirmed strikes on any of 18 listed US tech companies; universities remained on remote learning as precaution |
+| IRGC tech company threat — PARTIALLY followed through | Apr 1-3, 2026 | 8PM Tehran deadline Apr 1 passed; IRGC struck Amazon data center in Bahrain (Apr 1) and claimed Oracle data center in Dubai (Apr 2) — first wartime targeting of commercial data centers; but 16 of 18 listed companies NOT struck |
+| F-15E Strike Eagle shot down over Iran | Apr 3, 2026 | Iranian forces downed US F-15E; pilot rescued by special forces; WSO missing — IRGC claims captured (unverified); A-10 Warthog also downed during rescue (pilot safe); 2 Black Hawks hit by small arms fire |
+| IDF kills Iranian ballistic missile chief Atimi | Apr 3, 2026 | Makram Atimi, commander of central ballistic missile unit, killed in Kermanshah; 10th+ senior Iranian official/commander killed since Feb 28 |
+| Iran missile hits Israeli drone factory in Petah Tikva | Apr 2-3, 2026 | AeroSentinel/Aero Sol production facility severely damaged by 400kg warhead; first confirmed hit on Israeli defense manufacturing |
+| Iran strikes Kuwait Al-Ahmadi refinery | Apr 3-4, 2026 | Drone attack sparked fires in several units at 450K-466K bbl/day refinery; no injuries; third time targeted |
+| UN Security Council Hormuz vote delayed | Apr 3-4, 2026 | Bahrain watered down text to 'defensive measures'; China/Russia/France oppose force authorization; vote deferred |
+| Iran-Oman drafting Hormuz monitoring protocol | Apr 2-3, 2026 | Joint protocol requiring vessel permits, documentation, transit fees; Iran attempting to formalize post-war strait control |
+| Dated Brent spot hits $141.36 | Apr 2, 2026 | Physical oil cargo price highest since 2008; massive divergence from futures (~$109); pre-war Hormuz cargoes exhausted |
+| Lebanon casualties reach 1,318 killed / 3,935 injured | Apr 4, 2026 | Up from 1,200+/3,300+; Lebanese Armed Forces withdrawing from villages as IDF advances; Israel plans to occupy ~1/10th of Lebanon |
+| Zelensky: frontline 'best in 10 months' | Apr 3, 2026 | British intelligence concurs; combat engagements surged to 213-230/day; Russia total losses ~1,301,260 |
+| NK demolishing villages near Sohae missile site | Apr 3, 2026 | Hundreds of buildings razed near missile/satellite testing station; expansion concerns (Bloomberg) |
+| NK building cemetery for Ukraine war dead | Apr 2026 | Kim visited new cemetery; burials for soldiers killed and suicides during Ukraine deployment to take place mid-April |
 | Hegseth fires Army Chief of Staff Randy George | Apr 2-3, 2026 | Fired Gen. Randy George + Gen. David Hodne (Training Command) + Maj. Gen. William Green; Gen. Christopher LaNeve (Hegseth's former military aide) named acting; unprecedented during wartime; CBS, WashPost, Al Jazeera |
 | IEA warns April oil supply 'much worse' than March | Apr 1, 2026 | Director Birol: 'April will be much worse than March' — cargo ships that transited Hormuz pre-war still arriving in March but 'in April there is nothing'; weighing additional SPR release beyond 400M barrels already deployed; jet fuel and diesel shortages hitting Asia, coming to Europe |
 | B1 bridge Tehran-Karaj collapsed | Apr 2-3, 2026 | US double-strike on highest bridge in Middle East between Tehran and Karaj; 8 killed, 95 wounded; bridge collapsed; double-tap on emergency responders |
@@ -156,38 +167,44 @@ Use this document when analyzing Predictive History lectures to accurately asses
 ## Key Contextual Facts for Analysis
 
 ### US-Iran War
-- Air/missile campaign now in Day 35 (Apr 3); NO ground troops deployed IN Iran yet; GROUND OPS PROBABILITY AT LOWEST POINT SINCE CONFLICT BEGAN; HEGSETH FIRED ARMY CHIEF OF STAFF during wartime (unprecedented)
-- TRUMP PRIMETIME ADDRESS DELIVERED (Apr 1): 19-minute speech on Operation Epic Fury; vowed 'extremely hard' strikes for 2-3 more weeks; claimed 'destroyed Iranian military'; cited nuclear threat; DID NOT announce ground ops or firm end date; most Americans disapprove of war per polls
-- UK 41-NATION HORMUZ CONFERENCE (Apr 2): 41 countries (up from 35) signed joint statement demanding Iran cease blockade; threatened sanctions; military planners meeting next week; US DID NOT ATTEND — allies taking ownership (vindicates WSJ Mar 31)
-- ARAGHCHI: IRAN PREPARED FOR 'AT LEAST SIX MONTHS' OF WAR (Apr 1): Trust at 'zero'; 'will defend by any means required' — signals protracted conflict posture
-- TRUMP NATO WITHDRAWAL THREAT (Apr 1): Called NATO 'paper tiger'; 'absolutely' considering pulling US out — signals war fatigue, not escalation appetite
+- Air/missile campaign now in Day 36 (Apr 4); NO ground troops deployed IN Iran yet; GROUND OPS PROBABILITY REMAINS LOW
+- F-15E STRIKE EAGLE SHOT DOWN OVER IRAN (Apr 3): Pilot rescued; WSO MISSING — IRGC claims captured (unverified). A-10 also downed during rescue (pilot safe). 2 Black Hawks hit. Most significant US aircraft loss of the war. Trump said shootdown 'won't affect negotiations'
+- TRUMP ESCALATES RHETORIC (Apr 3-4): 'Bridges next, then Electric Power Plants!' and 'OPEN THE HORMUZ STRAIT, TAKE THE OIL, & MAKE A FORTUNE' — but rhetorical, not operational escalation
+- IRGC FOLLOWS THROUGH ON TECH THREATS (PARTIALLY): Amazon data center in Bahrain struck (Apr 1); Oracle data center in Dubai claimed (Apr 2) — first wartime targeting of commercial data centers
+- IRAN STRIKES KUWAIT AL-AHMADI REFINERY (Apr 3-4): 450K bbl/day capacity; fires, no injuries; third time hit
+- IRAN MISSILE HITS ISRAELI DRONE FACTORY in Petah Tikva (AeroSentinel) — 400kg warhead, severe damage
+- IDF KILLS BALLISTIC MISSILE CHIEF ATIMI in Kermanshah (Apr 3) — 10th+ senior official killed
+- UN SECURITY COUNCIL HORMUZ VOTE DELAYED: Bahrain watered down text; China/Russia oppose
+- IRAN-OMAN DRAFTING HORMUZ MONITORING PROTOCOL: Permits, fees, documentation — attempt to formalize post-war strait governance
+- DATED BRENT SPOT SURGES TO $141.36 (physical cargoes) — highest since 2008; futures ~$109-112; massive divergence signals physical oil crisis
+- HEGSETH FIRED ARMY CHIEF OF STAFF (Apr 2-3) during wartime (unprecedented)
+- Trump primetime address (Apr 1): 'extremely hard' for 2-3 more weeks; DID NOT announce ground ops
+- UK 41-nation Hormuz conference (Apr 2) — allies taking ownership; US DID NOT ATTEND
+- Apr 6 energy deadline NOW 2 DAYS AWAY — WSO situation complicates Trump's decision
 - TRUMP CLAIMS IRAN CEASEFIRE OFFER (Apr 1): Pezeshkian denied ('false and baseless'); but Axios: US-Iran discussing ceasefire-for-Hormuz through mediators
 - ISRAEL KILLED HEZBOLLAH SOUTHERN FRONT COMMANDER HASHEM in Beirut (Apr 1-2): 7 killed, 26 wounded; most senior Hezbollah killing since conflict began
 - NASIRZADEH, PAKPOUR, VAFAEI KILLED (Apr 1): Defense minister, IRGC commander, Quds Force engineering chief — decapitation continues
-- IRGC TECH COMPANY THREAT CONFIRMED BLUFF: Deadline passed Apr 1; no strikes on any of 18 companies through Apr 3
+- IRGC TECH THREAT PARTIALLY FOLLOWED THROUGH: Amazon data center Bahrain struck (Apr 1); Oracle Dubai claimed (Apr 2); but 16 of 18 companies NOT struck
 - US-Israel struck B1 bridge in Karaj (double-tap on responders), medical research center in Tehran, steel plants; Iraq Habbaniyah base struck (7 killed, 13 wounded)
 - OIL VOLATILE: Brent ~$109; WTI surpassed Brent (unusual reversal); Urals crude at $123.45 (Russian premium); IEA warns April 'much worse' than March — jet fuel/diesel shortages hitting Asia
-- Israel decapitation campaign: 9+ senior officials/commanders killed — Khamenei, Larijani, Soleimani, Khatib, Tangsiri, Eshaghi, Nasirzadeh, Pakpour, Vafaei, plus Hezbollah's Hashem
+- Israel decapitation campaign: 10+ senior officials/commanders killed — Khamenei, Larijani, Soleimani, Khatib, Tangsiri, Eshaghi, Nasirzadeh, Pakpour, Vafaei, Atimi, plus Hezbollah's Hashem
 - Updated casualties: Iran: 2,076+ killed (Health Ministry), 26,500+ wounded; 4,700+ security forces killed (Iran International); 82,000+ structures damaged
-- 15 US KIA, 300+ wounded; 1,200+ killed in Lebanon/3,300+ injured/1.2M displaced/3 UNIFIL killed/10 IDF killed; 24+ killed in Israel/6,239+ wounded
-- B1 bridge Tehran-Karaj collapsed (8 killed, 95 wounded) — double-tap on emergency responders
-- Trump energy strike deadline April 6 (3 days away); address neither softened nor emphasized; likely extension or quiet expiration
-- Combined ground force ~7,000-8,500 in theatre; 10K more under consideration; Atlantic Council: 'limited/targeted ops only'
-- UN chief Guterres warned of wider war; China FM: attacks violate international law
-- WashPost: migrant workers in Gulf suffering worst casualties — majority of 30+ Gulf deaths are foreign workers
+- 15 US KIA + 1 WSO missing/possibly captured, 300+ wounded; 1,318 killed in Lebanon/3,935 injured/1.2M displaced/3 UNIFIL killed/10+ IDF killed; 24+ killed in Israel/6,239+ wounded
+- Trump energy strike deadline April 6 (2 DAYS AWAY); WSO situation complicates decision
+- Combined ground force ~7,000-8,500 in theatre; 10K more under consideration
+- Dated Brent spot $141.36 (physical cargoes, highest since 2008) vs futures ~$109-112
 
 ### Hormuz Blockade & Regional Fallout
-- Blockade continues; Iran operating 'toll booth' vetting system; 5 nations formally allowed (China, Russia, India, Iraq, Pakistan); Iran agreed 20 Pakistani-flagged ships (2/day)
-- UK 41-NATION HORMUZ CONFERENCE (Apr 2): 41 countries signed joint statement demanding Iran cease blockade; threatened sanctions; military planners meeting next week; US DID NOT ATTEND — allies taking ownership of Hormuz reopening (vindicates WSJ Mar 31)
-- 23 direct attacks on commercial vessels since Feb 28; 11 crew deaths (UK conference data)
-- OIL VOLATILE: Brent ~$109; WTI surpassed Brent (unusual reversal); Urals crude at $123.45 (Russian premium); IEA warns April 'much worse' than March; analysts still warn $150-200 if Hormuz stays shut past mid-April
-- HOUTHIS IN WAR (since Mar 28) but Bab al-Mandeb remains OPEN — Houthis say 'no current plans' for closing strait; European Red Sea naval task force ready; shipping 'sharply reduced' but not halted; Saudi rerouted ~5M bbl/day to Yanbu
+- Blockade continues; Iran operating 'toll booth' vetting system; 5 nations formally allowed (China, Russia, India, Iraq, Pakistan)
+- IRAN-OMAN DRAFTING HORMUZ MONITORING PROTOCOL: Joint framework requiring all vessels to obtain advance permits, submit documentation, pay transit fees — Iran attempting to FORMALIZE post-war control of strait (CNBC, AA, Middle East Eye)
+- UN SECURITY COUNCIL HORMUZ VOTE DELAYED: Bahrain watered down text to 'defensive measures'; China/Russia/France oppose force authorization
+- UK 41-nation Hormuz conference (Apr 2): 41 countries demanding Iran cease blockade; military planners meeting next week; US DID NOT ATTEND
+- 23+ direct attacks on commercial vessels since Feb 28; 11+ crew deaths
+- OIL CRISIS ACCELERATING: Dated Brent SPOT surged to $141.36 (physical cargoes, highest since 2008) vs futures ~$109-112. IEA: April 'much worse' — pre-war cargoes exhausted. Jet fuel/diesel shortages hitting Asia. Hormuz closure also disrupting ~1/3 of world's helium supply
+- Iran drone struck Kuwait Al-Ahmadi refinery (Apr 3-4) — 450K bbl/day; fires in several units; third time hit
 - 2,000+ vessels and 20,000 seafarers stranded (IMO)
-- Tanker struck by projectile off Qatar (Apr 2) — damage, no casualties
-- UAE: 372+ ballistic missiles, 15 cruise missiles, 1,826+ drones intercepted; 8 killed, 157+ injured
-- Qatar: Ras Laffan damaged (Mar 19); gas production halted since Mar 2
-- Japan: 254 days SPR; South Korea: 208 days SPR; India: one of 5 nations with Hormuz passage
-- Apr 6 deadline 3 days away — Trump address neither softened nor emphasized; likely extension or quiet expiration
+- Japan: 254 days SPR; South Korea: energy-saving campaign, delayed coal decommissioning; India: one of 5 nations with passage but LPG crisis
+- Apr 6 deadline 2 DAYS AWAY — WSO situation complicates Trump's decision
 
 ### Venezuela, Cuba, Colombia
 - **Venezuela**: Maduro trial — US sanctions taking center stage (Apr 1 hearing); judge questioned need for sanctions given US-Venezuela relations shift; defense funding blocked by sanctions (6th Amendment issue); US lifted sanctions on Rodriguez (Apr 1); case in pretrial; legal experts say trial unlikely this year. Rodriguez acting president; US recognized as sole leader Mar 11
@@ -197,16 +214,15 @@ Use this document when analyzing Predictive History lectures to accurately asses
 ### Russia-Ukraine War (April 2026)
 - War continues as grinding attritional conflict — Ukraine has NOT "lost"
 - Russia occupies ~20% of territory
-- Lt. Gen. Alexander Otroshchenko (Northern Fleet aviation corps commander) killed in An-26 crash in Crimea (Apr 1) — 29 dead; 14th Russian general killed since Feb 2022; may have been shot down by own air defense (Euromaidan Press)
-- Ukraine struck Kirovske airfield in Crimea overnight Apr 2; Russian drones hit Odesa port infrastructure
-- 146 combat engagements on Apr 1 — intense fighting near Kostiantynivka, Pokrovsk, Huliaipole
-- Russia total losses ~1,300,030 personnel per Ukraine (~1,300/day)
+- ZELENSKY: frontline 'best for Ukraine in 10 months' (Apr 3); British intelligence concurs
+- Combat engagements surged to 213-230/day (up from 146); heaviest fighting in Pokrovsk sector (~50 attacks)
+- Russia total losses ~1,301,260 per Ukraine (~1,230/day). Russia deploying mobilized personnel from April 1
 - Russia declared 'completion' of Luhansk Oblast liberation (Apr 1) — symbolic; Ukraine had controlled only 0.2%
-- Russia gained 17 sq mi in past week (Mar 24-31) — spring offensive momentum increasing; BUT lost 12 sq mi net for full month of March
+- Lt. Gen. Otroshchenko killed in Crimea crash (Apr 1); 14th Russian general killed since Feb 2022
 - Trump-Zelensky agreed on 90-95% of peace proposal; major gaps remain
 - Abu Dhabi trilateral talks still postponed; bilateral approach continues
 - Record 67% of Russians now support peace negotiations
-- Iran war continues to divert attention; Urals crude at $123.45/bbl — Russian oil commanding premium, indirectly funding war effort
+- Iran war continues to divert attention; Urals crude at $123.45/bbl — Russian oil commanding premium
 
 ### US-China Trade
 - SCOTUS struck down IEEPA tariffs Feb 20, 2026 (6-3 decision); Trump shifted to 10% global tariff under Section 122 of Trade Act
@@ -229,10 +245,13 @@ Use this document when analyzing Predictive History lectures to accurately asses
 - GDP grew 3.1% (2023) and 3.7% (2024) — war profiteering from Russia
 - Arms sales returned $20B+; 11,000-15,000 troops deployed to Russia
 - But remains one of world's poorest per capita; windfall unsustainable
-- Ground-tested 'newly upgraded' solid-propellant rocket motor; max thrust 2,500 kN — 26% increase from Sep 2025's 1,971 kN (KCNA, Mar 29; 38 North) — ICBM use most likely; possible Russian assistance unclear
-- Kim demands US recognize DPRK as nuclear state for bilateral talks: 'there is no reason why we cannot get on well with the U.S.' if conditions met (Arms Control Association)
-- Condemned UN Human Rights Council resolution as 'grave political provocation' (Apr 2)
-- Pyongyang International Marathon held Apr 2026 — first in 6 years; tourism otherwise closed except to Russians
+- Ground-tested 'newly upgraded' solid-propellant rocket motor; max thrust 2,500 kN — 26% increase (KCNA, Mar 29; 38 North)
+- DEMOLISHING VILLAGES NEAR SOHAE MISSILE/SATELLITE SITE (Bloomberg, Apr 3): Hundreds of buildings razed in March; expansion of ICBM/space launch infrastructure
+- Kim visited new CEMETERY FOR SOLDIERS KILLED IN UKRAINE — burials for dead and suicides mid-April (NK News)
+- 38 North (Apr 2026): drones and operational shift — NK adapting warfare tactics from Ukraine experience
+- Kim demands US recognize DPRK as nuclear state for talks
+- Condemned UN Human Rights Council resolution as 'grave political provocation'
+- Tourism closed except to Russians; Pyongyang Marathon held (first in 6 years)
 - Kim looking to Trump-Xi May 14-15 summit as pivotal window
 - Kim invoked Iran war to declare nuclear status 'irreversible'
 

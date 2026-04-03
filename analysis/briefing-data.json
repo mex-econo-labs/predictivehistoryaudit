@@ -1,5 +1,5 @@
 {
-  "briefing_date": "2026-04-03",
+  "briefing_date": "2026-04-04",
   "last_scoring_date": "2026-04-03",
   "next_scoring_date": "2026-05-03",
   "theatres": [
@@ -7,7 +7,7 @@
       "name": "Iran / Strait of Hormuz",
       "status": "disconfirmed",
       "status_label": "active war",
-      "summary": "Day 35 — TRUMP PRIMETIME ADDRESS: 'EXTREMELY HARD' HITS FOR 2-3 MORE WEEKS; UK 41-NATION HORMUZ CONFERENCE DEMANDS IRAN CEASE BLOCKADE; ARAGHCHI SAYS IRAN PREPARED FOR 'SIX MONTHS' OF WAR. Trump delivered 19-minute primetime address (Apr 1) on Operation Epic Fury — said US will hit Iran 'extremely hard' for 2-3 more weeks; claimed US 'destroyed the Iranian military'; cited nuclear threat; no firm end date. UK hosted 41 countries (up from 35 announced) — joint statement demanding Iran cease blocking Hormuz; threatened sanctions; military planners to meet next week; US DID NOT ATTEND. FM Araghchi told Al Jazeera Iran prepared for 'at least six months' of war; trust at 'zero.' Israel killed Hezbollah southern front commander Haj Youssef Ismail Hashem in Beirut strike — 7 killed, 26 wounded; most senior Hezbollah killing since Mar 2. US-Israel struck B1 bridge in Karaj (double-tap on emergency responders — 2 civilian casualties), century-old medical research center in Tehran, steel plants. Iraq Habbaniyah military base struck — 7 fighters killed, 13 wounded. UN chief Guterres warned of wider war. WashPost: migrant workers in Gulf suffering worst casualties. Oil volatile — Brent ~$109-112 range after bouncing from $105 low. Apr 6 energy deadline 3 days away. 15 US KIA, 300+ wounded. Iran Health Ministry: 2,000+ killed.",
+      "summary": "Day 36 — F-15E STRIKE EAGLE SHOT DOWN OVER IRAN; WSO MISSING; A-10 ALSO DOWNED; IRAN STRIKES DATA CENTERS AND KUWAIT REFINERY; TRUMP THREATENS BRIDGES AND POWER PLANTS; UN HORMUZ VOTE DELAYED. Iran shot down US F-15E over Iran (Apr 3) — pilot rescued by special forces, WSO (Weapons Systems Officer) still missing; IRGC claims captured 'American aggressor' (unverified); Iran offering reward. A-10 Warthog downed during rescue near Hormuz — pilot safe. 2 Black Hawk helicopters hit by small arms fire during rescue. Trump Truth Social: 'Bridges next, then Electric Power Plants!'; separately: 'OPEN THE HORMUZ STRAIT, TAKE THE OIL, & MAKE A FORTUNE.' Iran followed through on IRGC tech threat — struck Amazon data center in Bahrain (Apr 1), Oracle data center in Dubai (Apr 2); first wartime targeting of commercial data centers. Drone attack on Kuwait Al-Ahmadi refinery (450K bbl/day) — fires in several units, no injuries; third time hit. Iran missile hit Israeli drone factory (AeroSentinel) in Petah Tikva — 400kg warhead, severe damage, no casualties. IDF killed Iranian ballistic missile chief Makram Atimi in Kermanshah. UN Security Council vote on Bahrain Hormuz resolution DELAYED — China/Russia oppose force authorization; Bahrain watered down to 'defensive measures.' Iran-Oman drafting protocol to 'monitor and coordinate' Hormuz transit — permits, fees, documentation required. Dated Brent spot surged to $141.36 (physical cargoes, highest since 2008); futures ~$109-112. Lebanon casualties updated: 1,318 killed / 3,935 injured. Apr 6 energy deadline 2 days away.",
       "countries": [
         "Iran",
         "Israel",
@@ -30,7 +30,7 @@
       "name": "Russia-Ukraine War",
       "status": "untested",
       "status_label": "grinding war — talks paused",
-      "summary": "Russia holds ~20% of Ukraine. Lt. Gen. Alexander Otroshchenko killed in An-26 crash in Crimea (Apr 1) — 29 dead; 14th Russian general killed since Feb 2022; may have been shot down by own air defense. Ukraine struck Kirovske airfield in Crimea overnight Apr 2. 146 combat engagements on Apr 1; Russia attacking most intensely near Kostiantynivka, Pokrovsk, Huliaipole. Russian drones hit Odesa port infrastructure overnight Apr 2. Russia total losses ~1,300,030 per Ukraine (1,300/day). Russia declared Luhansk 'liberated' Apr 1 (symbolic). Trump-Zelensky agree on 90-95% of peace proposal but major gaps remain. Abu Dhabi trilateral talks still postponed. Iran war continues to divert attention; Urals crude at $123.45/bbl (Apr 3) — Russian oil commanding premium.",
+      "summary": "Russia holds ~20% of Ukraine. Zelensky says frontline 'best for Ukraine in 10 months' (Apr 3) — British intelligence concurs. Combat engagements surged to 213-230/day (up from 146); heaviest fighting in Pokrovsk sector (~50 attacks, 130+ Russian troops lost). Russia total losses ~1,301,260 per Ukraine. Lt. Gen. Otroshchenko killed in Crimea crash (Apr 1). Russia declared Luhansk 'liberated' (symbolic). Trump-Zelensky agree on 90-95% of peace proposal but major gaps remain. Abu Dhabi trilateral talks still postponed. Iran war continues to divert attention; Urals crude at $123.45/bbl — Russian oil commanding premium.",
       "countries": [
         "Russia",
         "Ukraine"
@@ -62,7 +62,7 @@
       "name": "East Asia — DPRK / Korean Peninsula",
       "status": "untested",
       "status_label": "elevated risk",
-      "summary": "North Korea ground-tested 'newly upgraded' solid-propellant rocket motor ~20% more powerful (Apr 2026, 38 North) — associated with 'strategic forces' (ICBM use likely); possible Russian assistance unclear. Kim demands US recognize DPRK as nuclear state as precondition for bilateral talks — 'there is no reason why we cannot get on well with the U.S.' if Washington 'respects the present position.' Condemned UN Human Rights Council resolution as 'grave political provocation.' Pyongyang Marathon held — first in 6 years with international participation. Tourism remains closed except to Russian nationals. Kim looking to Trump-Xi May 14-15 summit as pivotal window. 11,000-15,000 DPRK troops deployed to Russia. Lukashenko visited DPRK Mar 25-26; friendship treaty signed. Kim invoked Iran war to declare nuclear status 'irreversible.'",
+      "summary": "North Korea demolishing villages near Sohae satellite/missile launch site (Bloomberg, Apr 3) — hundreds of buildings razed in March; expansion of ICBM/space launch infrastructure. Kim visited new cemetery for soldiers killed in Ukraine war — burials for dead and suicides to take place 'mid-April.' Ground-tested upgraded solid-propellant rocket motor; max thrust 2,500 kN (26% increase). 38 North: drones and operational shift — NK adapting warfare tactics from Ukraine experience. Kim demands US recognize DPRK as nuclear state for talks. Tourism closed except to Russians. 11,000-15,000 DPRK troops deployed to Russia. Kim invoked Iran war to declare nuclear status 'irreversible.' Trump-Xi May 14-15 summit pivotal window.",
       "countries": [
         "North Korea",
         "South Korea",
@@ -73,10 +73,10 @@
   "metrics": [
     {
       "name": "Brent Crude ($/bbl)",
-      "value": "~$109",
-      "change": "VOLATILE — Brent ~$109; WTI surpassed Brent (unusual reversal); Urals crude at $123.45 (Russian premium). IEA Director Birol: April 'much worse' than March — cargo from pre-war Hormuz transits running out. Jet fuel/diesel shortages hitting Asia. Analysts still warn $150-200 if blockade persists.",
+      "value": "~$109-112 futures / $141 spot",
+      "change": "CRITICAL DIVERGENCE: Brent futures ~$109-112 but DATED BRENT SPOT (physical cargoes) surged to $141.36 — highest since 2008 financial crisis (Bloomberg, CNBC). Physical oil becoming scarce as pre-war Hormuz cargoes exhausted. IEA: April 'much worse' than March. Urals crude at $123.45 (Russian premium). Analysts warn $150-200 if blockade persists past mid-April.",
       "change_color": "var(--score-1)",
-      "as_of": "2026-04-03"
+      "as_of": "2026-04-04"
     },
     {
       "name": "Hormuz Tanker Traffic",
@@ -87,10 +87,10 @@
     },
     {
       "name": "US Military KIA (Iran theatre)",
-      "value": "15",
-      "change": "UP from 13; 15 confirmed US soldiers killed per Wikipedia tracker — 7 killed by enemy fire in Gulf, 6 in Iraq plane crash (Mar 13), 1 died of wounds at Prince Sultan (Mar 9), 1 additional confirmed",
+      "value": "15 confirmed + 1 WSO missing/possibly captured",
+      "change": "F-15E SHOT DOWN OVER IRAN (Apr 3): pilot rescued by special forces; WSO (Weapons Systems Officer) missing — IRGC claims captured 'American aggressor' near crash site (UNVERIFIED). A-10 Warthog also downed during rescue (pilot safe). 2 Black Hawk helicopters hit by small arms fire. If WSO confirmed captured, would be first US POW since conflict began. Previous: 15 confirmed KIA.",
       "change_color": "var(--score-1)",
-      "as_of": "2026-03-31"
+      "as_of": "2026-04-04"
     },
     {
       "name": "US Military Wounded",
@@ -115,10 +115,10 @@
     },
     {
       "name": "Lebanon Casualties (since Mar 2)",
-      "value": "1,200+ killed / 3,300+ injured / 1.2M+ displaced / 3 UNIFIL peacekeepers killed / 10 IDF soldiers killed",
-      "change": "Israel killed Hezbollah southern front commander Haj Youssef Ismail Hashem in Beirut strike (Apr 1-2) — 7 killed, 26 wounded; most senior Hezbollah killing since conflict began Mar 2; Hezbollah confirmed, called him 'beacon of Islamic Resistance.' Israeli strikes killed 7 in southern Lebanon (Apr 2) including Ramadiyeh strike (4 killed, 3 wounded). Hezbollah targeting Israeli troops around Antara. FOUR IDF divisions continue operating; expanding toward Litani.",
+      "value": "1,318 killed / 3,935 injured / 1.2M+ displaced / 3 UNIFIL peacekeepers killed / 10+ IDF soldiers killed",
+      "change": "UPDATED: 1,318 killed (up from 1,200+), 3,935 injured (up from 3,300+) per Wikipedia Lebanon war tracker. Lebanese Armed Forces withdrawing from border villages as IDF advances toward Litani River. Israel plans to occupy southern Lebanon (~1/10th of country) and bar 600K people from returning (CFR). FOUR IDF divisions continuing operations. Foreign Affairs: 'Lebanon's Coming Collapse.'",
       "change_color": "var(--score-1)",
-      "as_of": "2026-04-03"
+      "as_of": "2026-04-04"
     },
     {
       "name": "UAE Casualties",
@@ -144,9 +144,9 @@
     {
       "name": "Ukraine Territory Occupied",
       "value": "~20%",
-      "change": "Lt. Gen. Alexander Otroshchenko (Northern Fleet aviation corps commander) killed in An-26 crash in Crimea — 29 dead; 14th Russian general killed since Feb 2022; possible own air defense shootdown. Ukraine struck Kirovske airfield in Crimea (Apr 2). 146 combat engagements Apr 1 — intense fighting near Kostiantynivka, Pokrovsk, Huliaipole. Russian drones hit Odesa port infrastructure. Trump-Zelensky agree 90-95% of peace proposal. Russia total losses ~1,300,030 personnel per Ukraine.",
+      "change": "ZELENSKY: frontline 'best for Ukraine in 10 months' (Apr 3); British intelligence concurs. Combat engagements surged to 213-230/day (up from 146); heaviest in Pokrovsk sector (~50 Russian attacks). Russia total losses ~1,301,260 per Ukraine (~1,230/day). Russian forces using mobilized personnel from April 1 per Ukrainian intelligence. Russia deploying 9,058 kamikaze drones, 213 guided bombs, 3,788 shelling attacks in recent 24-hour period.",
       "change_color": "var(--text-muted)",
-      "as_of": "2026-04-03"
+      "as_of": "2026-04-04"
     },
     {
       "name": "Cuba Fuel Imports",
@@ -157,25 +157,28 @@
     },
     {
       "name": "Iranian Officials Assassinated",
-      "value": "9+ senior leaders/commanders killed",
-      "change": "UP from 6: Nasirzadeh (defense minister), Pakpour (IRGC commander), and Vafaei (Quds Force engineering chief) killed by Israeli airstrikes Apr 1. Plus Hezbollah southern front commander Hashem killed in Beirut Apr 1-2. Previous: Khamenei (Feb 28), Larijani (Mar 17), Soleimani (Mar 17), Khatib (Mar 18), Tangsiri (Mar 26-27), Eshaghi (Mar 31). Israel's decapitation campaign has eliminated 9+ senior Iranian/proxy officials in 35 days.",
+      "value": "10+ senior leaders/commanders killed",
+      "change": "UP from 9+: IDF killed Makram Atimi (commander of central Iranian ballistic missile unit) in Kermanshah airstrike (Apr 3) — responsible for dozens of missile launches at Israel; several battalion commanders also killed. Full list: Khamenei (Feb 28), Larijani (Mar 17), Soleimani (Mar 17), Khatib (Mar 18), Tangsiri (Mar 26-27), Eshaghi (Mar 31), Nasirzadeh (Apr 1), Pakpour (Apr 1), Vafaei (Apr 1), Atimi (Apr 3), plus Hezbollah's Hashem (Apr 1-2).",
       "change_color": "var(--score-1)",
-      "as_of": "2026-04-03"
+      "as_of": "2026-04-04"
     }
   ],
   "ground_invasion_tracker": {
-    "last_updated": "2026-04-03",
+    "last_updated": "2026-04-04",
     "status": "staging_but_declining",
-    "troop_count_in_theatre": "~53,500+ (CENTCOM confirmed 50,000+; USS Tripoli ARG ~3,500 in theatre; 82nd Airborne 1,000-3,000 deploying; USS Boxer ARG approaching; Pentagon still weighing 10,000 more). Trump primetime address (Apr 1) vowed 2-3 more weeks of 'extremely hard' strikes but DID NOT announce ground ops or escalation. UK 41-nation Hormuz conference (Apr 2) demonstrates diplomatic alternative to military reopening. Araghchi: Iran prepared for 'six months' — signaling protracted conflict posture that makes quick ground ops less attractive. Ground-capable force ~7,000-8,500; potential 17,000-18,500 if 10K approved. Apr 6 deadline now 3 days away.",
+    "troop_count_in_theatre": "~53,500+ (CENTCOM confirmed 50,000+; USS Tripoli ARG ~3,500 in theatre; 82nd Airborne 1,000-3,000 deploying; USS Boxer ARG approaching; Pentagon still weighing 10,000 more). F-15E shootdown (Apr 3) is the most significant US aircraft loss of the war — WSO missing/possibly captured adds political complexity. Trump's infrastructure threats ('Bridges next, then Electric Power Plants') escalate RHETORIC but not ground ops. Iran-Oman Hormuz protocol and UN vote delay suggest diplomatic tracks active. Apr 6 deadline now 2 days away. Ground-capable force ~7,000-8,500; potential 17,000-18,500 if 10K approved.",
     "key_developments": [
-      "TRUMP PRIMETIME ADDRESS DELIVERED (Apr 1, 9PM ET): 19-minute speech on Operation Epic Fury; vowed to hit Iran 'extremely hard' for 2-3 more weeks; claimed US 'destroyed the Iranian military'; cited nuclear threat; DID NOT announce ground operations or escalation; framed as 'nearing completion' (CNBC, CBS, NPR, WashPost)",
-      "UK 41-NATION HORMUZ CONFERENCE (Apr 2): UP from 35 announced — 41 countries signed joint statement demanding Iran cease Hormuz blockade; threatened sanctions; military planners meeting next week; US DID NOT ATTEND; demonstrates allies taking ownership of Hormuz reopening (Military.com, Al Jazeera, WashPost, FDD)",
-      "ARAGHCHI: IRAN PREPARED FOR 'AT LEAST SIX MONTHS' OF WAR (Apr 1 interview): Trust at 'zero'; 'we will defend our country by any means required' — signals protracted conflict posture that makes quick ground ops less attractive for US (Al Jazeera, India TV, Middle East Eye)",
-      "TRUMP NATO WITHDRAWAL THREAT (Apr 1): Called NATO 'paper tiger'; 'absolutely' considering withdrawal — signals war fatigue not escalation appetite",
-      "Trump claimed ceasefire offer from Pezeshkian (Apr 1); Iran denied; but Axios: US-Iran discussing ceasefire-for-Hormuz through mediators",
-      "Israel killed Hezbollah southern front commander Hashem in Beirut (Apr 1-2) — 7 killed, 26 wounded; most senior Hezbollah killing since Mar 2",
-      "Iraq Habbaniyah military base struck (Apr 2) — 7 fighters killed, 13 wounded at healthcare clinic; extends targeting beyond Iran",
-      "IRGC tech company threat deadline passed (8PM Tehran Apr 1) — NO confirmed strikes on tech companies; likely bluff",
+      "F-15E STRIKE EAGLE SHOT DOWN OVER IRAN (Apr 3): Pilot rescued by US special forces; WSO (Weapons Systems Officer) MISSING — IRGC claims captured 'American aggressor' near crash site (UNVERIFIED); Iran offering reward for finding crew. A-10 Warthog ALSO downed during rescue near Hormuz (pilot safe). 2 Black Hawk helicopters hit by small arms fire during rescue. Most significant US aircraft loss of the war. If WSO captured, would be first US POW — massive political implications (WashPost, Axios, NBC, CBS, CNN, Military.com, The War Zone)",
+      "TRUMP THREATENS INFRASTRUCTURE ESCALATION (Apr 3): Truth Social: 'hasn't even started destroying what's left in Iran. Bridges next, then Electric Power Plants!' Separately (Apr 4): 'With a little more time, we can easily OPEN THE HORMUZ STRAIT, TAKE THE OIL, & MAKE A FORTUNE.' Said F-15 shootdown 'won't affect negotiations' (CNBC, US News, Mediaite, Times of Israel, E&E News)",
+      "IRAN FOLLOWS THROUGH ON TECH COMPANY THREATS (PARTIALLY): Amazon data center in Bahrain struck (Apr 1); Oracle data center in Dubai claimed struck (Apr 2); FIRST WARTIME TARGETING OF COMMERCIAL DATA CENTERS IN HISTORY (The Conversation, Gizmodo, Seoul Economic Daily, Axios)",
+      "IRAN STRIKES KUWAIT AL-AHMADI REFINERY (Apr 3-4): Drone attack sparked fires in several operational units at Mina Al-Ahmadi (450K-466K bbl/day capacity); no injuries; third time hit. Also hit Kuwait desalination plant again (Al Jazeera, The National, Kurdistan24, Kuwait Times, TASS)",
+      "IRAN MISSILE HITS ISRAELI DRONE FACTORY IN PETAH TIKVA (Apr 2-3): AeroSentinel/Aero Sol production facility severely damaged by 400kg warhead; manufacturer of covert intelligence drones + F-15/F-16 helmet components; no casualties (JPost, Al Jazeera, Times of Israel, Business Today)",
+      "IDF KILLS IRANIAN BALLISTIC MISSILE CHIEF ATIMI (Apr 3): Makram Atimi, commander of central ballistic missile unit, killed in Kermanshah airstrike; responsible for dozens of launches at Israel; several battalion commanders also killed (JPost, Xinhua, IDF)",
+      "UN SECURITY COUNCIL HORMUZ VOTE DELAYED (Apr 3-4): Bahrain watered down text from 'all necessary means' to 'defensive measures'; China/Russia/France oppose force authorization; vote deferred pending further negotiations (WashPost, France24, Al-Monitor, RFE/RL, Global Times)",
+      "IRAN-OMAN DRAFTING HORMUZ MONITORING PROTOCOL: Would require all vessels to obtain advance permits from both Iran and Oman, submit documentation, pay transit fees; attempt to formalize Iranian control over strait post-war (CNBC, AA, Middle East Eye, Investing.com)",
+      "DATED BRENT SPOT SURGES TO $141.36 (Apr 2): Physical oil cargo prices at highest since 2008; massive divergence from futures (~$109-112) as pre-war cargoes run out (Bloomberg, CNBC)",
+      "TRUMP PRIMETIME ADDRESS (Apr 1): 'extremely hard' for 2-3 more weeks — air campaign finale framing",
+      "UK 41-NATION HORMUZ CONFERENCE (Apr 2): allies taking ownership of Hormuz reopening without US",
       "USS Tripoli ARG + 31st MEU (~3,500) in CENTCOM since Mar 27-28",
       "82nd Airborne Division (1,000-3,000 paratroopers) deploying",
       "USS Boxer ARG + 11th MEU (2,500 Marines) approaching",
@@ -190,7 +193,7 @@
     "kharg_island": {
       "status": "active_target_defended",
       "naval_activity": "USS Tripoli ARG in CENTCOM with ~3,500 troops + F-35Bs + amphibious assets. USS Boxer ARG approaching. 82nd Airborne deploying. Pentagon planning Kharg Island raids per WashPost (Mar 29) — special ops + conventional infantry for 'weeks of limited ground operations.' Iran continues fortifying: troops, MANPADs, air defenses, anti-armor mines. Ghalibaf warns Iran is 'waiting' for US ground troops. IRGC Navy Commander Tangsiri (blockade architect) killed Mar 26-27.",
-      "notes": "EXIT SCENARIO CONTINUES STRENGTHENING: Trump primetime address (Apr 1) vowed 'extremely hard' strikes but DID NOT announce ground ops — consistent with air campaign conclusion, not ground escalation. UK 41-nation Hormuz conference (Apr 2) further operationalizes allied ownership of Hormuz reopening. Araghchi's 'six months' statement signals Iran is digging in for protracted war — making quick ground seizure of Kharg riskier and less attractive. Oil bounced to ~$109-112 from $105 low — some risk premium returning but still well below $118 peak. Apr 6 deadline now 3 days away — Trump did NOT soften or extend in his address, but also didn't emphasize it. HOWEVER: Pentagon ground ops plans (WashPost, Mar 29) remain technically active; Kharg destruction option still credible if Iran inflicts mass-casualty event; Iran fortifying Kharg. Assessment: ground ops probability remains LOW and declining. Most likely Apr 6 scenario: another extension or quiet expiration, not strikes on energy infrastructure. Overall trajectory: 'declare victory and leave' within 2-3 weeks."
+      "notes": "F-15 SHOOTDOWN ADDS COMPLEXITY BUT DOESN'T REVERSE EXIT TRAJECTORY: The F-15E loss (Apr 3) is the most significant US aircraft shootdown of the war and the missing/possibly captured WSO could become a political flashpoint. HOWEVER: Trump's response was to escalate RHETORIC ('Bridges next, Power Plants!') not ground operations. He also said the shootdown 'won't affect negotiations' — signaling continued preference for exit over escalation. Iran-Oman Hormuz protocol and UN vote delay suggest diplomatic tracks still active. Dated Brent spot at $141 (physical cargoes) vs $109 futures = physical oil scarcity accelerating. Apr 6 deadline now 2 DAYS AWAY — Trump's 'TAKE THE OIL' post suggests destruction threat remains active but 'declare victory' narrative still dominant. IRGC's data center strikes (Amazon Bahrain, Oracle Dubai) are strategically significant but unlikely to trigger ground escalation. Assessment: ground ops probability remains LOW. F-15 shootdown could create domestic pressure for retaliation but more likely through intensified air strikes than ground invasion. Apr 6 most likely scenario: extension, quiet expiration, or targeted Kharg destruction (not seizure)."
     },
     "marine_movements": [
       "USS Tripoli (LHA-7) + USS New Orleans (LPD) + USS San Diego (LPD) + 31st MEU (~3,500 total) — IN CENTCOM since Mar 27-28; first amphibious force in theatre",
@@ -204,10 +207,66 @@
       "Rubio (G7, Mar 28): 'weeks not months'; deploying for 'maximum optionality'",
       "Defense experts warn of Indo-Pacific gap as Marines deploy from Japan to Middle East"
     ],
-    "draft_indicators": "None. No legislation introduced. No Selective Service activation. No public discussion at Pentagon or White House level. Trump's primetime address (Apr 1) vowed 2-3 more weeks of strikes then exit — completely inconsistent with draft mobilization. NATO withdrawal threats signal war fatigue. Pentagon ground ops planning focused on limited raids (special ops + infantry), not mass mobilization.",
-    "assessment": "GROUND OPS PROBABILITY REMAINS AT LOWEST POINT. Apr 3 scoring run confirms exit trajectory: Trump primetime address (Apr 1) vowed air strikes for 2-3 more weeks but NO ground ops announced. UK 41-nation Hormuz conference (Apr 2) operationalizes allied ownership. Hegseth fired Army Chief of Staff during wartime (Apr 2-3) — leadership upheaval, not escalation posture. Araghchi: Iran prepared for 6 months. IEA warns April supply crisis worse but diplomatic/allied track strengthening. Apr 6 deadline 3 days away — most likely extension or quiet expiration. Only a mass-casualty Iranian attack could reverse exit trajectory."
+    "draft_indicators": "None. No legislation introduced. No Selective Service activation. No public discussion at Pentagon or White House level. F-15 shootdown and missing WSO could create domestic pressure but toward retaliation, not draft. Trump's exit timeline (2-3 weeks) completely inconsistent with mobilization.",
+    "assessment": "GROUND OPS PROBABILITY REMAINS LOW DESPITE F-15 SHOOTDOWN. Day 36 assessment: The F-15E loss and missing/possibly captured WSO (Apr 3) is the most politically significant US military event of the war, but Trump's response was rhetorical escalation ('Bridges, Power Plants') not ground ops. Said shootdown 'won't affect negotiations.' Iran-Oman Hormuz protocol suggests Iran preparing for post-war governance of strait. UN vote delayed but diplomatic track active. Dated Brent spot at $141 signals physical oil crisis accelerating — could increase pressure for military Hormuz reopening. Apr 6 deadline now 2 days away — WSO situation could complicate Trump's decision. WILDCARD: if WSO confirmed captured by IRGC, domestic pressure for rescue operation could trigger limited ground engagement. Otherwise, exit trajectory holds."
   },
   "daily_entries": [
+    {
+      "date": "2026-04-04",
+      "tags": [
+        "Iran",
+        "F-15 Shootdown",
+        "Data Centers",
+        "Kuwait Refinery",
+        "Hormuz Diplomacy",
+        "Day 36"
+      ],
+      "summary": "Day 36 — F-15E SHOT DOWN OVER IRAN; WSO MISSING; IRAN STRIKES DATA CENTERS AND KUWAIT REFINERY; TRUMP ESCALATES RHETORIC; UN HORMUZ VOTE DELAYED; PHYSICAL OIL HITS $141. Iran shot down US F-15E Strike Eagle over Iran (Apr 3) — pilot rescued by US special forces, WSO (Weapons Systems Officer) still MISSING; IRGC claims captured 'American aggressor' near crash site (unverified); Iran offering civilian reward. A-10 Warthog also downed during rescue near Hormuz — pilot safe. 2 Black Hawk helicopters hit by small arms fire during rescue. Trump escalated rhetoric on Truth Social: 'Bridges next, then Electric Power Plants!' and separately 'OPEN THE HORMUZ STRAIT, TAKE THE OIL, & MAKE A FORTUNE' — but said F-15 shootdown 'won't affect negotiations.' IRGC PARTIALLY followed through on tech company threats: Amazon data center in Bahrain struck (Apr 1), Oracle data center in Dubai claimed (Apr 2) — first wartime targeting of commercial data centers in history. Iranian drone struck Kuwait's Al-Ahmadi refinery (450K-466K bbl/day) — fires in several units, no injuries; third time hit. Iran missile severely damaged Israeli drone factory (AeroSentinel) in Petah Tikva — 400kg warhead, no casualties. IDF killed Iranian ballistic missile chief Makram Atimi in Kermanshah. UN Security Council vote on Bahrain Hormuz resolution DELAYED — China/Russia oppose force authorization; Bahrain watered down to 'defensive measures.' Iran and Oman drafting protocol to 'monitor and coordinate' all Hormuz transit — requiring permits, documentation, transit fees; attempt to formalize post-war Iranian control. DATED BRENT SPOT surged to $141.36 (physical cargoes, highest since 2008) vs futures ~$109-112 — massive divergence as pre-war cargoes exhausted. Lebanon casualties: 1,318 killed / 3,935 injured. Ukraine: Zelensky says frontline 'best in 10 months.' NK: demolishing villages near Sohae missile site; building cemetery for Ukraine war dead. Apr 6 energy deadline 2 days away.",
+      "details": [
+        "F-15E STRIKE EAGLE SHOT DOWN OVER IRAN (Apr 3): Two-seat jet downed by Iranian forces; pilot ejected and rescued by US special forces via helicopter; WSO (Weapons Systems Officer) MISSING. IRGC claims to have taken 'American aggressor' into custody near crash site — NOT independently verified. Iran asking civilians to join search, offering reward. During rescue: A-10 Warthog took fire and crashed near Hormuz (pilot ejected over Persian Gulf, rescued); 2 HH-60G Pave Hawk Black Hawks hit by small arms fire (helicopter carrying rescued pilot was hit, crew wounded, but landed safely). HC-130J Combat King II and RQ-9 drone also involved in SAR. Pentagon informed House Armed Services Committee that second crew member's status remains unknown (WashPost, Axios, NBC, CBS, CNN, Military.com, The War Zone, Stars and Stripes)",
+        "TRUMP INFRASTRUCTURE THREATS (Apr 3): Truth Social late Thursday: 'hasn't even started destroying what's left in Iran. Bridges next, then Electric Power Plants!' and 'New Regime leadership knows what has to be done, and has to be done, FAST!' Separately (Apr 4): 'With a little more time, we can easily OPEN THE HORMUZ STRAIT, TAKE THE OIL, & MAKE A FORTUNE' (CNBC, US News, Mediaite, The Mirror, E&E News, Times of Israel, Oman Observer)",
+        "TRUMP: F-15 SHOOTDOWN 'WON'T AFFECT NEGOTIATIONS' — signals continued preference for exit over military escalation in response to aircraft loss (CNBC, Newsweek)",
+        "IRGC FOLLOWS THROUGH ON TECH THREATS (PARTIALLY): Amazon Web Services data center in Bahrain struck by Shahed drone (Apr 1); Iranian state media claimed IRGC struck Oracle data center in Dubai (Apr 2). FIRST TIME A COUNTRY HAS DELIBERATELY TARGETED COMMERCIAL DATA CENTERS DURING WARTIME (The Conversation, Gizmodo, Seoul Economic Daily, Axios, Amazon/Bahrain reports)",
+        "KUWAIT AL-AHMADI REFINERY STRUCK (Apr 3-4): Iranian drone attack sparked fires in several operational units at Mina Al-Ahmadi refinery (450K-466K bbl/day capacity); no employees injured; third time targeted. Kuwait also struck by desalination plant attack again (Al Jazeera, The National, Kurdistan24, Kuwait Times, TASS, Egypt Today, Turkiye Today)",
+        "IRAN MISSILE HITS ISRAELI DRONE FACTORY (Apr 2-3): AeroSentinel/Aero Sol production facility in Petah Tikva severely damaged by 400kg Iranian ballistic missile warhead; company makes covert intelligence drones + F-15/F-16 helmet components; large crater at impact; no casualties (JPost, CGTN, Al Jazeera, Times of Israel, Business Today, DropSiteNews)",
+        "IDF KILLS BALLISTIC MISSILE CHIEF ATIMI (Apr 3): Makram Atimi, commander of central Iranian ballistic missile unit, killed in precise IDF airstrike in Kermanshah; responsible for dozens of missile launches at Israel; several battalion commanders also killed in same strike (JPost, Xinhua, Daily Post Nigeria, Israel National News, Alma Research)",
+        "UN SECURITY COUNCIL HORMUZ VOTE DELAYED: Bahrain watered down draft from 'all necessary means' to 'defensive measures only'; China, Russia oppose; France cautious; vote deferred pending further negotiations. GCC + Jordan backing text; 5 key points include asserting strait open for all transit, no state may close/control it (WashPost, France24, Al-Monitor, RFE/RL, The National, Global Times, US News)",
+        "IRAN-OMAN HORMUZ MONITORING PROTOCOL: Iran finalizing joint protocol with Oman requiring all vessels to obtain advance permits, submit ownership/flag/cargo/destination/crew/AIS data, and pay transit fees. Gharibabadi: 'wartime conditions cannot be governed by peacetime rules' — framework being established during war for post-war application (CNBC, AA, Middle East Eye, Investing.com, Seeking Alpha)",
+        "OIL — PHYSICAL vs FUTURES DIVERGENCE: Dated Brent spot (actual physical cargo) surged to $141.36 — highest since 2008 (Bloomberg). Brent futures ~$109-112. WTI futures ~$109. Divergence signals physical oil becoming scarce as pre-war Hormuz cargoes exhausted. IEA: April 'much worse' than March (Bloomberg, CNBC, Fortune, Trading Economics)",
+        "ISRAEL FRESH MISSILE SALVO FROM IRAN (Apr 4): Air defenses operating; cluster missile not intercepted — damage to houses/cars; Tel Aviv train station damaged by shrapnel; no immediate casualty reports (Al Jazeera, Wikipedia timeline)",
+        "LEBANON UPDATED: 1,318 killed / 3,935 injured (up from 1,200+/3,300+). Lebanese Armed Forces withdrawing from border villages as IDF advances toward Litani. Israel plans to occupy ~1/10th of Lebanon, bar 600K from returning (CFR). Foreign Affairs: 'Lebanon's Coming Collapse' (Wikipedia, NPR, Foreign Affairs, Haaretz, CFR)",
+        "UKRAINE: Zelensky says frontline 'best for Ukraine in 10 months'; British intelligence concurs. Combat engagements surged to 213-230/day. Heaviest fighting Pokrovsk sector. Russia total losses ~1,301,260 (US News, Ukrinform, EMPR)",
+        "NORTH KOREA: Demolishing villages near Sohae satellite/missile launch site — expansion concerns (Bloomberg). Building cemetery for soldiers killed in Ukraine — burials mid-April (NK News). 38 North: drones and operational shift from Ukraine experience",
+        "HORMUZ HELIUM CRISIS: Strait closure disrupting ~1/3 of world's helium supply — affecting semiconductor manufacturing, MRI machines, scientific research (NPR)",
+        "Apr 6 deadline: 2 days away"
+      ],
+      "prediction_impact": "The F-15E shootdown is the most significant US military loss of the war and introduces a new variable: a missing/possibly captured American service member. If IRGC's capture claim is verified, this could become a defining moment — recall the 1979 hostage crisis parallel. Trump's response of rhetorical escalation ('Bridges, Power Plants') coupled with 'won't affect negotiations' suggests the shootdown won't reverse the exit trajectory, but a confirmed POW would change the calculus dramatically. Iran's data center strikes are historically unprecedented — first wartime targeting of commercial cloud infrastructure — and signal a new domain of warfare. The Iran-Oman Hormuz protocol is strategically crucial: Iran is attempting to convert its wartime blockade into permanent post-war governance of the strait. The physical oil price ($141 spot vs $109 futures) divergence signals the real supply crisis has arrived as IEA warned. The Apr 6 deadline now only 2 days away with the WSO situation unresolved adds enormous pressure to Trump's decision.",
+      "source": "WashPost, Axios, NBC, CBS, CNN, Military.com, The War Zone, Stars and Stripes, CNBC, US News, Mediaite, Times of Israel, E&E News, The Conversation, Gizmodo, Seoul Economic Daily, Al Jazeera, The National, Kurdistan24, Kuwait Times, JPost, CGTN, Bloomberg, France24, Al-Monitor, RFE/RL, Global Times, NPR, NK News, 38 North, Fortune, Trading Economics, Xinhua, CFR, Foreign Affairs, Haaretz, Ukrinform, EMPR, Investing.com, Middle East Eye"
+    },
+    {
+      "date": "2026-04-04",
+      "tags": [
+        "Ground Invasion Tracker"
+      ],
+      "summary": "GROUND OPS PROBABILITY REMAINS LOW DESPITE F-15 SHOOTDOWN. Day 36: F-15E shot down over Iran (Apr 3) — pilot rescued, WSO missing/possibly captured — is most significant US military event of the war. BUT Trump's response was rhetorical ('Bridges, Power Plants') not operational; said shootdown 'won't affect negotiations.' Iran-Oman Hormuz protocol suggests Iran preparing for post-war governance. UN vote delayed. Forces unchanged: USS Tripoli ARG in CENTCOM (~3,500), 82nd Airborne deploying (1,000-3,000), USS Boxer approaching, Pentagon still weighing 10K more. Combined ground force ~7,000-8,500. Apr 6 deadline 2 days away — WSO situation could complicate Trump's decision.",
+      "details": [
+        "F-15E shootdown = most significant US aircraft loss but Trump said it 'won't affect negotiations' — not a ground ops trigger",
+        "WSO missing/possibly captured — IRGC claims custody (unverified) — IF CONFIRMED, would be first US POW and massive political flashpoint",
+        "A-10 also downed during rescue + 2 Black Hawks hit — demonstrates Iran's continued air defense capability over its territory",
+        "Trump: 'Bridges next, Power Plants!' + 'TAKE THE OIL' — rhetorical escalation, not ground ops announcement",
+        "Iran-Oman Hormuz protocol = Iran seeking to formalize post-war control of strait — reduces urgency for military reopening if diplomatic path exists",
+        "UN Security Council Hormuz vote delayed — diplomatic track still active",
+        "IRGC data center strikes (Amazon Bahrain, Oracle Dubai) — unprecedented but not a ground ops trigger",
+        "Kuwait Al-Ahmadi refinery struck again — demonstrates Iran's continued ability to hit Gulf infrastructure",
+        "Forces unchanged: USS Tripoli in CENTCOM, 82nd Airborne deploying, USS Boxer approaching, 10K under consideration",
+        "No draft legislation, no Selective Service activation, no discussion",
+        "Apr 6 deadline 2 days away — WSO capture would massively complicate Trump's options",
+        "Physical oil at $141 spot (highest since 2008) vs $109 futures — supply crisis accelerating",
+        "Three scenarios: (1) Declare victory + leave (STILL MOST LIKELY), (2) Intensified air strikes on infrastructure as retaliation for F-15, (3) Limited rescue operation if WSO captured"
+      ],
+      "prediction_impact": "The F-15 shootdown introduces a new variable but doesn't change the fundamental exit trajectory. The key question is: is the WSO alive and captured by IRGC? If yes, this becomes a hostage situation that could trigger a rescue mission — which WOULD involve ground forces but in a narrow CSAR (Combat Search and Rescue) context, not a broad invasion. Trump's 'won't affect negotiations' is the critical signal: he's choosing exit over retaliation. The Iran-Oman Hormuz protocol is strategically important — if Iran can convert its blockade into a formal monitoring regime with Omani legitimacy, it changes the post-war status quo. Physical oil at $141 is the economic reality overwhelming the diplomatic narrative.",
+      "source": "WashPost, Axios, NBC, CBS, CNN, Military.com, The War Zone, CNBC, US News, Mediaite, Bloomberg, France24, Al-Monitor, RFE/RL, Investing.com, Middle East Eye, NPR"
+    },
     {
       "date": "2026-04-03",
       "tags": [
