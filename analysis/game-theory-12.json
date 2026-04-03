@@ -34,7 +34,7 @@
         "timestamp": "00:00:22",
         "falsifiable": true,
         "status": "disconfirmed",
-        "status_note": "As of March 2026, the US-Iran war is air/missile only. No ground troops deployed, no draft instituted.",
+        "status_note": "Day 35 (Apr 3, 2026): US-Iran war remains air/missile only. NO ground troops, NO draft. Trump vowed 2-3 more weeks of strikes only (Apr 1). Hegseth fired Army Chief Randy George — no ground invasion planning evident. 15 US KIA, 300+ wounded. No conscription legislation.",
         "type": "prediction"
       },
       {
@@ -42,7 +42,7 @@
         "timestamp": "00:00:37",
         "falsifiable": true,
         "status": "confirmed",
-        "status_note": "No nuclear weapons have been used in the US-Iran conflict as of March 2026.",
+        "status_note": "Day 35 (Apr 3, 2026): No nuclear weapons used. Prediction holding.",
         "type": "prediction"
       },
       {
@@ -50,7 +50,7 @@
         "timestamp": "00:00:48",
         "falsifiable": true,
         "status": "untested",
-        "status_note": "The Al-Aqsa Mosque has not been destroyed as of March 2026.",
+        "status_note": "The Al-Aqsa Mosque has not been destroyed as of Apr 3, 2026.",
         "type": "prediction"
       },
       {
@@ -58,7 +58,7 @@
         "timestamp": "00:54:57",
         "falsifiable": true,
         "status": "untested",
-        "status_note": "No draft has been instituted; no civil war. Prediction depends on prior prediction of ground troops/draft.",
+        "status_note": "No draft instituted; no civil war. No conscription legislation as of Apr 3, 2026. Prediction depends on prior prediction of ground troops/draft, which has been disconfirmed.",
         "type": "prediction"
       },
       {
@@ -74,15 +74,15 @@
         "timestamp": "00:55:39",
         "falsifiable": true,
         "status": "partially_confirmed",
-        "status_note": "GCC states severely damaged by Iranian strikes: UAE ADNOC refinery shut, Qatar halted all gas production, Kuwait/Bahrain declared force majeure. But states have not collapsed — governments functioning, diplomacy active.",
+        "status_note": "GCC states severely damaged by Iranian strikes: UAE ADNOC refinery shut, Qatar halted all gas production, Kuwait/Bahrain declared force majeure. IEA warns April oil supply 'much worse' than March. But states have not collapsed — governments functioning. UK hosted 41-nation Hormuz conference (Apr 2). Iran allows 5 nations through Hormuz selectively.",
         "type": "prediction"
       },
       {
         "claim": "Turkey and Saudi Arabia will enter the war against Iran and suffer tremendously.",
         "timestamp": "00:56:06",
         "falsifiable": true,
-        "status": "partially_confirmed",
-        "status_note": "Saudi Arabia has NOT entered the war — it refused airspace and condemned strikes on Iran. Turkey has not entered. However, Saudi, Bahrain, Kuwait, Qatar, UAE, and Oman were struck by Iranian retaliation across 9 countries in the 2026 campaign, so they are affected but not willingly participating.",
+        "status": "disconfirmed",
+        "status_note": "Neither Turkey nor Saudi Arabia has entered the war as of Day 35 (Apr 3, 2026). Saudi Arabia refused airspace and condemned strikes on Iran. GCC states struck by Iranian retaliation but are not willing participants. UK hosted 41-nation Hormuz conference (Apr 2) — allies taking ownership of crisis without US.",
         "type": "prediction"
       },
       {
@@ -114,7 +114,7 @@
         "timestamp": "00:59:09",
         "falsifiable": true,
         "status": "disconfirmed",
-        "status_note": "NATO continues to function and expand. Germany has massively rearmed (650B EUR over 5 years, 3.5% GDP target). NATO is strengthening, not collapsing.",
+        "status_note": "NATO continues to function and strengthen. Germany approved 108B EUR defense budget (2026), 650B EUR over 5 years, 3.5% GDP target, expansion to 260K soldiers. UK hosted 41-nation Hormuz conference (Apr 2). NATO is consolidating, not collapsing.",
         "type": "prediction"
       },
       {
@@ -122,7 +122,7 @@
         "timestamp": "01:04:56",
         "falsifiable": true,
         "status": "partially_confirmed",
-        "status_note": "GCC states severely damaged by Iranian strikes: UAE ADNOC refinery shut, Qatar halted all gas production, Kuwait/Bahrain declared force majeure. But states have not collapsed — governments functioning, diplomacy active.",
+        "status_note": "GCC states severely damaged; oil at $109/bbl (Brent). IEA warns April supply 'much worse' than March. Economic disruption real but US economy has not collapsed. SCOTUS struck down IEEPA tariffs (Feb 20); Trump shifted to Section 122. Economic stress increasing but far from collapse.",
         "type": "prediction"
       }
     ]

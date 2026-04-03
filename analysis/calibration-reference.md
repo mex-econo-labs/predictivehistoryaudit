@@ -1,4 +1,4 @@
-# Prediction Calibration Reference — April 3, 2026 (Scored April 1, 2026)
+# Prediction Calibration Reference — April 3, 2026 (Scored April 3, 2026)
 
 Use this document when analyzing Predictive History lectures to accurately assess prediction statuses.
 
@@ -122,6 +122,12 @@ Use this document when analyzing Predictive History lectures to accurately asses
 | Russian Lt. Gen. Otroshchenko killed in Crimea | Apr 1, 2026 | An-26 crash killed 29; 14th Russian general killed since Feb 2022; may have been own air defense shootdown |
 | DPRK tests upgraded solid-propellant rocket motor | Apr 2026 | ~20% more powerful than Sep 2025 motor; associated with 'strategic forces' (ICBM use); possible Russian assistance unclear (38 North) |
 | IRGC tech company threat confirmed as bluff | Apr 1-3, 2026 | 8PM Tehran deadline Apr 1 passed; NO confirmed strikes on any of 18 listed US tech companies; universities remained on remote learning as precaution |
+| Hegseth fires Army Chief of Staff Randy George | Apr 2-3, 2026 | Fired Gen. Randy George + Gen. David Hodne (Training Command) + Maj. Gen. William Green; Gen. Christopher LaNeve (Hegseth's former military aide) named acting; unprecedented during wartime; CBS, WashPost, Al Jazeera |
+| IEA warns April oil supply 'much worse' than March | Apr 1, 2026 | Director Birol: 'April will be much worse than March' — cargo ships that transited Hormuz pre-war still arriving in March but 'in April there is nothing'; weighing additional SPR release beyond 400M barrels already deployed; jet fuel and diesel shortages hitting Asia, coming to Europe |
+| B1 bridge Tehran-Karaj collapsed | Apr 2-3, 2026 | US double-strike on highest bridge in Middle East between Tehran and Karaj; 8 killed, 95 wounded; bridge collapsed; double-tap on emergency responders |
+| Iran casualties reach 2,076+ killed / 26,500+ wounded | Apr 3, 2026 | Al Jazeera tracker; Iranian Health Ministry figures; HRANA: 3,461+ as of Mar 29; Iran International: 4,700+ security forces killed |
+| WTI crude surpassed Brent crude | Apr 3, 2026 | Unusual reversal — WTI normally trades below Brent; Rigzone reported 'Why Has the WTI Oil Price Surpassed Brent?' driven by US-specific demand pressures |
+| NK solid-fuel engine: 2,500 kN thrust | Mar 29, 2026 | KCNA: Kim observed ground ejection test; max thrust 2,500 kN — 26% increase from Sep 2025's 1,971 kN (corrected from earlier 20% estimate) |
 | Russian oil tanker arrives in Cuba | Mar 30, 2026 | 100,000 tonnes crude oil arrived in Havana; ~250,000 barrels diesel equivalent; covers ~12.5 days of Cuban energy demand |
 | North Korea parliamentary elections | Mar 15, 2026 | 15th Supreme People's Assembly; Kim Jong Un reelected head of State Affairs Commission; Pak Thae Song reappointed Premier |
 | Israel forces nearing Litani River | Late Mar 2026 | IDF reached tributary of Litani near Qantara; some positions just hundreds of meters from river; FOUR divisions operating |
@@ -150,7 +156,7 @@ Use this document when analyzing Predictive History lectures to accurately asses
 ## Key Contextual Facts for Analysis
 
 ### US-Iran War
-- Air/missile campaign now in Day 35 (Apr 3); NO ground troops deployed IN Iran yet; GROUND OPS PROBABILITY AT LOWEST POINT SINCE CONFLICT BEGAN
+- Air/missile campaign now in Day 35 (Apr 3); NO ground troops deployed IN Iran yet; GROUND OPS PROBABILITY AT LOWEST POINT SINCE CONFLICT BEGAN; HEGSETH FIRED ARMY CHIEF OF STAFF during wartime (unprecedented)
 - TRUMP PRIMETIME ADDRESS DELIVERED (Apr 1): 19-minute speech on Operation Epic Fury; vowed 'extremely hard' strikes for 2-3 more weeks; claimed 'destroyed Iranian military'; cited nuclear threat; DID NOT announce ground ops or firm end date; most Americans disapprove of war per polls
 - UK 41-NATION HORMUZ CONFERENCE (Apr 2): 41 countries (up from 35) signed joint statement demanding Iran cease blockade; threatened sanctions; military planners meeting next week; US DID NOT ATTEND — allies taking ownership (vindicates WSJ Mar 31)
 - ARAGHCHI: IRAN PREPARED FOR 'AT LEAST SIX MONTHS' OF WAR (Apr 1): Trust at 'zero'; 'will defend by any means required' — signals protracted conflict posture
@@ -160,10 +166,11 @@ Use this document when analyzing Predictive History lectures to accurately asses
 - NASIRZADEH, PAKPOUR, VAFAEI KILLED (Apr 1): Defense minister, IRGC commander, Quds Force engineering chief — decapitation continues
 - IRGC TECH COMPANY THREAT CONFIRMED BLUFF: Deadline passed Apr 1; no strikes on any of 18 companies through Apr 3
 - US-Israel struck B1 bridge in Karaj (double-tap on responders), medical research center in Tehran, steel plants; Iraq Habbaniyah base struck (7 killed, 13 wounded)
-- OIL VOLATILE: Brent ~$109-112 range; bounced from $105 low; Urals crude at $123.45 (Russian premium)
+- OIL VOLATILE: Brent ~$109; WTI surpassed Brent (unusual reversal); Urals crude at $123.45 (Russian premium); IEA warns April 'much worse' than March — jet fuel/diesel shortages hitting Asia
 - Israel decapitation campaign: 9+ senior officials/commanders killed — Khamenei, Larijani, Soleimani, Khatib, Tangsiri, Eshaghi, Nasirzadeh, Pakpour, Vafaei, plus Hezbollah's Hashem
-- Updated casualties: Iran: 2,000+ killed (Health Ministry), 4,700+ security forces killed (Iran International); 82,000+ structures damaged
+- Updated casualties: Iran: 2,076+ killed (Health Ministry), 26,500+ wounded; 4,700+ security forces killed (Iran International); 82,000+ structures damaged
 - 15 US KIA, 300+ wounded; 1,200+ killed in Lebanon/3,300+ injured/1.2M displaced/3 UNIFIL killed/10 IDF killed; 24+ killed in Israel/6,239+ wounded
+- B1 bridge Tehran-Karaj collapsed (8 killed, 95 wounded) — double-tap on emergency responders
 - Trump energy strike deadline April 6 (3 days away); address neither softened nor emphasized; likely extension or quiet expiration
 - Combined ground force ~7,000-8,500 in theatre; 10K more under consideration; Atlantic Council: 'limited/targeted ops only'
 - UN chief Guterres warned of wider war; China FM: attacks violate international law
@@ -173,7 +180,7 @@ Use this document when analyzing Predictive History lectures to accurately asses
 - Blockade continues; Iran operating 'toll booth' vetting system; 5 nations formally allowed (China, Russia, India, Iraq, Pakistan); Iran agreed 20 Pakistani-flagged ships (2/day)
 - UK 41-NATION HORMUZ CONFERENCE (Apr 2): 41 countries signed joint statement demanding Iran cease blockade; threatened sanctions; military planners meeting next week; US DID NOT ATTEND — allies taking ownership of Hormuz reopening (vindicates WSJ Mar 31)
 - 23 direct attacks on commercial vessels since Feb 28; 11 crew deaths (UK conference data)
-- OIL VOLATILE: Brent ~$109-112 after bouncing from $105 low; Urals crude surged to $123.45 (Russian premium); analysts still warn $150-200 if Hormuz stays shut past mid-April
+- OIL VOLATILE: Brent ~$109; WTI surpassed Brent (unusual reversal); Urals crude at $123.45 (Russian premium); IEA warns April 'much worse' than March; analysts still warn $150-200 if Hormuz stays shut past mid-April
 - HOUTHIS IN WAR (since Mar 28) but Bab al-Mandeb remains OPEN — Houthis say 'no current plans' for closing strait; European Red Sea naval task force ready; shipping 'sharply reduced' but not halted; Saudi rerouted ~5M bbl/day to Yanbu
 - 2,000+ vessels and 20,000 seafarers stranded (IMO)
 - Tanker struck by projectile off Qatar (Apr 2) — damage, no casualties
@@ -222,7 +229,7 @@ Use this document when analyzing Predictive History lectures to accurately asses
 - GDP grew 3.1% (2023) and 3.7% (2024) — war profiteering from Russia
 - Arms sales returned $20B+; 11,000-15,000 troops deployed to Russia
 - But remains one of world's poorest per capita; windfall unsustainable
-- Ground-tested 'newly upgraded' solid-propellant rocket motor ~20% more powerful (Apr 2026, 38 North) — ICBM use most likely; possible Russian assistance unclear
+- Ground-tested 'newly upgraded' solid-propellant rocket motor; max thrust 2,500 kN — 26% increase from Sep 2025's 1,971 kN (KCNA, Mar 29; 38 North) — ICBM use most likely; possible Russian assistance unclear
 - Kim demands US recognize DPRK as nuclear state for bilateral talks: 'there is no reason why we cannot get on well with the U.S.' if conditions met (Arms Control Association)
 - Condemned UN Human Rights Council resolution as 'grave political provocation' (Apr 2)
 - Pyongyang International Marathon held Apr 2026 — first in 6 years; tourism otherwise closed except to Russians

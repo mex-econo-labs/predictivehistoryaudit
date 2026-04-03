@@ -34,8 +34,8 @@
         "type": "prediction",
         "timestamp": "00:03:55",
         "falsifiable": true,
-        "status": "untested",
-        "status_note": "This was reported by Rick Sanchez based on anonymous sources, and echoed by Jiang. As of March 27, 2026, Trump extended the energy strike deadline to April 6 and is pursuing diplomacy through Pakistan. No ground operation announced on March 28.",
+        "status": "disconfirmed",
+        "status_note": "No ground operation announced on March 28. Trump instead extended the energy strike deadline. As of Apr 3, Trump vowed 2-3 more weeks of air strikes only (Apr 1 primetime) and WSJ reports he's willing to end war without reopening Hormuz. Ground ops probability at lowest point.",
         "screencap": "YEJgDBgbDoQ_000355_20.jpg"
       },
       {
@@ -150,7 +150,7 @@
         "timestamp": "00:48:13",
         "falsifiable": true,
         "status": "untested",
-        "status_note": "Trump-Xi summit was postponed indefinitely due to the Iran war. As of March 27, no summit is planned until the war ends.",
+        "status_note": "Trump-Xi summit now scheduled May 14-15 in Beijing. Energy deal discussion possible but trade war at 145%/125% tariffs makes major agreement unlikely. Still testable in May.",
         "screencap": "YEJgDBgbDoQ_004813_33.jpg"
       },
       {
@@ -193,7 +193,7 @@
         "timestamp": "00:44:45",
         "falsifiable": true,
         "status": "disconfirmed",
-        "status_note": "Attributed by Sanchez to Ted Postol. UAE alone has intercepted 372 ballistic missiles, 15 cruise missiles, and 1,826 drones since Feb 28. While intercept rates vary and are debated, a 5% figure is wildly inconsistent with the UAE's reported defensive success. David's Sling did have a malfunction on March 25 allowing a missile through to Tel Aviv, but this is the exception, not the rule.",
+        "status_note": "Attributed by Sanchez to Ted Postol. UAE has intercepted hundreds of ballistic missiles, cruise missiles, and drones since Feb 28. While intercept rates vary, 5% is wildly low. Houthis entered war Mar 28 (missiles at Israel, both intercepted). David's Sling malfunction Mar 25 was exception, not rule.",
         "screencap": "YEJgDBgbDoQ_004445_38.jpg"
       },
       {

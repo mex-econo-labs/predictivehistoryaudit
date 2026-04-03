@@ -1,7 +1,7 @@
 {
   "briefing_date": "2026-04-03",
-  "last_scoring_date": "2026-04-01",
-  "next_scoring_date": "2026-05-01",
+  "last_scoring_date": "2026-04-03",
+  "next_scoring_date": "2026-05-03",
   "theatres": [
     {
       "name": "Iran / Strait of Hormuz",
@@ -73,8 +73,8 @@
   "metrics": [
     {
       "name": "Brent Crude ($/bbl)",
-      "value": "~$109-112",
-      "change": "VOLATILE — bounced back from $105 low to $111.69 (Apr 2 morning) after Trump primetime address vowed 2-3 more weeks of 'extremely hard' strikes; trading range $99-110 on Apr 3; Urals crude surged to $123.45 as Russian oil commands premium; UK 41-nation Hormuz conference adding diplomatic pressure but blockade unchanged; analysts still warn $150-200 if Hormuz stays shut; US gas ~$4/gallon; Apr 6 energy deadline 3 days away",
+      "value": "~$109",
+      "change": "VOLATILE — Brent ~$109; WTI surpassed Brent (unusual reversal); Urals crude at $123.45 (Russian premium). IEA Director Birol: April 'much worse' than March — cargo from pre-war Hormuz transits running out. Jet fuel/diesel shortages hitting Asia. Analysts still warn $150-200 if blockade persists.",
       "change_color": "var(--score-1)",
       "as_of": "2026-04-03"
     },
@@ -101,8 +101,8 @@
     },
     {
       "name": "Iran Casualties",
-      "value": "Health Ministry: 2,000+ killed, 24,800+ injured / HRANA: 3,461+ killed / Iran International: 4,700+ security forces killed / 82,000+ structures damaged",
-      "change": "Al Jazeera tracker: 2,000+ killed. Iran International (Mar 31): 4,700+ security forces killed. US-Israel struck B1 bridge in Karaj (double-tap on emergency responders), century-old medical research center in Tehran, steel plants. Iraq Habbaniyah base struck — 7 killed, 13 wounded. WashPost (Apr 3): migrant workers in Gulf suffering worst casualties — majority of 30+ deaths in Arab Gulf states are foreign workers. 8+ senior officials/commanders assassinated. Nasirzadeh (defense minister), Pakpour (IRGC), Vafaei (Quds Force) killed Apr 1",
+      "value": "Health Ministry: 2,076+ killed, 26,500+ injured / HRANA: 3,461+ killed / Iran International: 4,700+ security forces killed / 82,000+ structures damaged",
+      "change": "Updated Apr 3 scoring: Health Ministry 2,076+ killed (up from 2,000+), 26,500+ wounded (up from 24,800+). B1 bridge Tehran-Karaj collapsed — 8 killed, 95 wounded (double-tap). IEA: April supply 'much worse' than March. Hegseth fired Army Chief of Staff Randy George (unprecedented during wartime).",
       "change_color": "var(--score-1)",
       "as_of": "2026-04-03"
     },
@@ -205,9 +205,29 @@
       "Defense experts warn of Indo-Pacific gap as Marines deploy from Japan to Middle East"
     ],
     "draft_indicators": "None. No legislation introduced. No Selective Service activation. No public discussion at Pentagon or White House level. Trump's primetime address (Apr 1) vowed 2-3 more weeks of strikes then exit — completely inconsistent with draft mobilization. NATO withdrawal threats signal war fatigue. Pentagon ground ops planning focused on limited raids (special ops + infantry), not mass mobilization.",
-    "assessment": "GROUND OPS PROBABILITY REMAINS AT LOWEST POINT SINCE CONFLICT BEGAN. Apr 1-3 developments continue pointing toward 'declare victory and leave': Trump primetime address vowed 'extremely hard' strikes but DID NOT announce ground ops; UK 41-nation Hormuz conference operationalizes allied ownership of reopening; Araghchi's 'six months' war posture makes quick ground seizure riskier; oil still volatile but below $118 peak; IRGC tech threat was a bluff. Apr 6 deadline is now 3 days away — most likely scenario is another extension or quiet expiration. Only a mass-casualty Iranian attack on US forces or Israeli civilians could plausibly reverse the exit trajectory. Forces in theatre (~7,000-8,500) remain for 'maximum optionality' but deployment posture is defensive, not pre-invasion."
+    "assessment": "GROUND OPS PROBABILITY REMAINS AT LOWEST POINT. Apr 3 scoring run confirms exit trajectory: Trump primetime address (Apr 1) vowed air strikes for 2-3 more weeks but NO ground ops announced. UK 41-nation Hormuz conference (Apr 2) operationalizes allied ownership. Hegseth fired Army Chief of Staff during wartime (Apr 2-3) — leadership upheaval, not escalation posture. Araghchi: Iran prepared for 6 months. IEA warns April supply crisis worse but diplomatic/allied track strengthening. Apr 6 deadline 3 days away — most likely extension or quiet expiration. Only a mass-casualty Iranian attack could reverse exit trajectory."
   },
   "daily_entries": [
+    {
+      "date": "2026-04-03",
+      "tags": [
+        "Scoring Run",
+        "Monthly Review",
+        "Prediction Updates"
+      ],
+      "summary": "MONTHLY SCORING RUN — April 3, 2026. Reviewed all 156 analysis JSON files. Key developments since last scoring (Apr 1): (1) Hegseth fired Army Chief of Staff Gen. Randy George + 2 generals during wartime (unprecedented); (2) IEA warns April oil supply 'much worse' than March — jet fuel/diesel shortages hitting Asia; (3) B1 bridge Tehran-Karaj collapsed — 8 killed, 95 wounded (double-tap); (4) Iran casualties updated to 2,076+ killed / 26,500+ wounded; (5) WTI surpassed Brent (unusual reversal); (6) NK solid-fuel engine corrected to 26% increase (2,500 kN). Status change: game-theory-16 prediction 'ground troops by this weekend (late March)' → DISCONFIRMED. Updated status_notes across files to reflect Day 35 developments, Hegseth firing, IEA warning, and continued exit trajectory.",
+      "details": [
+        "Status change: game-theory-16.json prediction [1] 'Ground troops will be sent into Iran, possibly by this weekend (late March 2026)' changed from untested → DISCONFIRMED — late March passed with no ground troops in Iran",
+        "Updated status_notes on game-theory-18 (Apr 2026 ground invasion prediction, mid-April oil crisis, Middle East oil knockout)",
+        "Updated status_notes on game-theory-16 (America losing war, 40% war support)",
+        "All 156 files updated with last_scoring_date = 2026-04-03",
+        "Calibration reference updated with: Hegseth firing, IEA warning, B1 bridge collapse, updated casualties, WTI>Brent, NK engine correction",
+        "Geopolitical briefing updated with new sections for Hegseth firing, IEA warning, B1 bridge; corrected NK engine thrust to 26%",
+        "Next scoring date: May 3, 2026"
+      ],
+      "prediction_impact": "This scoring run primarily updated status_notes to reflect Day 35 developments. The one status change (game-theory-16 ground troops prediction → disconfirmed) was the only time-bound prediction that clearly expired. The exit trajectory continues strengthening: Trump's primetime address, UK-led 41-nation Hormuz conference, Hegseth's unprecedented wartime firing of Army Chief of Staff, and IEA's dire April supply warning all point toward 'declare victory and leave' within 2-3 weeks. The Apr 6 energy deadline remains the last potential escalation trigger.",
+      "source": "Internal scoring run; web searches conducted Apr 3, 2026 (Al Jazeera, CBS, WashPost, CNBC, Wikipedia, Breaking Defense, IEA, Rigzone, Trading Economics)"
+    },
     {
       "date": "2026-04-03",
       "tags": [

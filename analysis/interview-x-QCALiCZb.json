@@ -68,8 +68,8 @@
         "type": "prediction",
         "timestamp": "00:27:23",
         "falsifiable": true,
-        "status": "partially_confirmed",
-        "status_note": "Pentagon is preparing 'weeks of limited ground operations' (WashPost, Mar 29, 2026) targeting Kharg Island and Hormuz coastal sites. 82nd Airborne deployed, 10,000 additional troops under consideration. No draft has been called. Ground troops have not yet been deployed IN Iran, but planning is confirmed.",
+        "status": "untested",
+        "status_note": "As of Apr 3, ground ops probability at LOWEST point since war began. Trump vowed 2-3 more weeks of strikes only (Apr 1 primetime address). WSJ reports Trump willing to end war without reopening Hormuz. Hegseth fired Army Chief of Staff Randy George (Apr 2-3) during wartime — unprecedented civil-military tension. No ground troops in Iran, no draft. Previous Pentagon planning reports may not materialize given Trump's exit rhetoric.",
         "screencap": "QCALiCZbGSg_002723_24.jpg"
       },
       {
@@ -96,7 +96,7 @@
         "timestamp": "00:13:31",
         "falsifiable": true,
         "status": "untested",
-        "status_note": "Trump-Xi summit rescheduled to May 14-15, 2026 in Beijing. Trade war has escalated to 145%/125% tariffs; no energy deal announced. Summit postponed from original March dates due to Iran war.",
+        "status_note": "Trump-Xi summit scheduled May 14-15, 2026 in Beijing. Trade war continues at 145%/125% tariffs. SCOTUS struck down IEEPA tariffs (Feb 20); Trump shifted to Section 122. No energy deal announced. Summit may still produce results but the hostile trade environment makes a 'landmark deal' unlikely.",
         "screencap": "QCALiCZbGSg_001331_27.jpg"
       },
       {
@@ -105,7 +105,7 @@
         "timestamp": "00:03:54",
         "falsifiable": false,
         "status": "unfalsifiable",
-        "status_note": "Depends on definition of 'strategic advantage.' Iran's Hormuz blockade has caused massive economic disruption, but Iran has suffered 3,461+ killed, 5 senior officials assassinated, and significant infrastructure damage.",
+        "status_note": "Depends on definition of 'strategic advantage.' Iran's Hormuz blockade has caused massive economic disruption (2,000+ ships stranded, Brent ~$109/bbl), but Iran has suffered 2,076+ killed, 26,500+ wounded, 9+ senior officials assassinated, and significant infrastructure damage. Houthis entered war Mar 28.",
         "screencap": "QCALiCZbGSg_000354_28.jpg"
       },
       {
@@ -122,8 +122,8 @@
         "type": "claim",
         "timestamp": "00:05:25",
         "falsifiable": true,
-        "status": "partially_confirmed",
-        "status_note": "Pentagon plans for 'limited ground operations' at Kharg Island and Hormuz coastal sites confirmed by WashPost (Mar 29). USS Tripoli ARG with amphibious capabilities in theatre. Not yet executed.",
+        "status": "untested",
+        "status_note": "Pentagon drew up limited ground ops plans (WashPost Mar 29) but as of Apr 3, Trump's rhetoric has shifted toward ending the war within 2-3 weeks via air strikes only. Ground ops probability at lowest point. WSJ reports Trump willing to end war without reopening Hormuz. Amphibious assault increasingly unlikely.",
         "screencap": "QCALiCZbGSg_000525_30.jpg"
       }
     ]

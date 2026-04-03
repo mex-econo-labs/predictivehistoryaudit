@@ -35,15 +35,15 @@
         "timestamp": "00:27:02",
         "falsifiable": true,
         "status": "untested",
-        "status_note": "War is only ~10 days old at time of interview; too early to assess.",
+        "status_note": "Day 35. Trump vowed 2-3 more weeks of strikes (Apr 1 primetime address) but also signaled willingness to end war without reopening Hormuz (WSJ, Mar 31). Diplomatic channels active via Pakistan, Oman. Not yet clear if war will de-escalate or continue.",
         "type": "prediction"
       },
       {
         "claim": "Dubai will run out of food in about a week's time due to the Strait of Hormuz closure.",
         "timestamp": "00:11:50",
         "falsifiable": true,
-        "status": "untested",
-        "status_note": "Dubai struck by Iranian attacks but food crisis not yet confirmed as of March 14, 2026.",
+        "status": "disconfirmed",
+        "status_note": "35 days into the Hormuz blockade, Dubai has not run out of food. While the blockade has caused severe economic disruption and 2,000+ ships are stranded, food supply chains have been maintained through alternative routes and reserves. The one-week timeline was dramatically wrong.",
         "type": "prediction"
       },
       {
@@ -74,23 +74,24 @@
         "claim": "North Korea will threaten South Korea to exploit America's distraction in the Middle East, extorting concessions from South Korea and Japan.",
         "timestamp": "00:32:00",
         "falsifiable": true,
-        "status": "untested",
+        "status": "partially_confirmed",
+        "status_note": "North Korea conducted a solid-fuel engine test (2,500 kN thrust, 26% increase) and Kim Jong Un demands nuclear recognition. However, this appears to be ongoing weapons development rather than specific exploitation of the Iran war distraction. No extortion of concessions from South Korea or Japan reported.",
         "type": "prediction"
       },
       {
         "claim": "Trump will visit Beijing on March 31st for a three-day state visit and the meeting will be surprisingly friendly and productive.",
         "timestamp": "00:49:08",
         "falsifiable": true,
-        "status": "untested",
-        "status_note": "Specific near-term prediction testable within weeks of the interview.",
+        "status": "disconfirmed",
+        "status_note": "Trump did not visit Beijing on March 31. The summit was postponed to May 14-15 due to the Iran war. US-China trade war continues with tariffs at 145%/125%. No friendly, productive meeting occurred.",
         "type": "prediction"
       },
       {
         "claim": "The US and China will have a rapprochement, with three major summits scheduled for the year.",
         "timestamp": "00:49:27",
         "falsifiable": true,
-        "status": "untested",
-        "status_note": "Previous Jiang predictions of US-China rapprochement have been disconfirmed by escalating trade war (145%/125% tariffs).",
+        "status": "disconfirmed",
+        "status_note": "US-China relations have deteriorated, not improved. Tariffs at 145%/125%. Only one summit scheduled (May 14-15 Beijing), not three. SCOTUS struck down IEEPA tariffs (Feb 20) but Trump shifted to Section 122. No rapprochement.",
         "type": "prediction"
       },
       {

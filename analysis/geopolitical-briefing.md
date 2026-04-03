@@ -311,6 +311,27 @@ Compiled for evaluation of mid-2024 predictions. All information sourced from pu
 - The threat is now assessed as a **bluff** — two full days past deadline with no follow-through.
 - *Sources: CNBC, Euronews, Time, Foreign Policy, Defence Security Asia*
 
+### Hegseth Fires Army Chief of Staff (April 2-3, 2026)
+- Defense Secretary **Pete Hegseth** asked Army Chief of Staff **Gen. Randy George** to step down and take **immediate retirement** — effective immediately.
+- Two other senior officers also removed: **Gen. David Hodne** (Army's Transformation and Training Command) and **Maj. Gen. William Green Jr.**
+- **Gen. Christopher LaNeve**, formerly Hegseth's military aide, named **acting Army chief of staff**.
+- Pentagon spokesperson Sean Parnell confirmed; one source said Hegseth wants someone who will implement **Trump and Hegseth's vision** for the Army.
+- **Firing a general during wartime is nearly unprecedented** — raises questions about military leadership continuity during active conflict with Iran.
+- *Sources: CBS News, Washington Post, Al Jazeera, Breaking Defense, The Hill, NBC News, Axios, CNBC, Stars and Stripes*
+
+### IEA Warns April Oil Supply "Much Worse" Than March (April 1, 2026)
+- IEA Executive Director **Fatih Birol** warned that **"April will be much worse than March"** for oil supply — cargo ships that transited Hormuz pre-war are still arriving in March, but **"in April, there is nothing."**
+- The IEA is considering **additional strategic reserve releases** beyond the record **400 million barrels** already deployed.
+- **Jet fuel and diesel shortages** already hitting Asia, expected to reach Europe by April or early May.
+- Birol described the situation as the **"worst energy crisis in history"** — energy shortages could lead to **rationing** in some countries, particularly emerging markets.
+- *Sources: CNBC, Energy Central, TippInsights, Energy Update, IEA*
+
+### B1 Bridge Tehran-Karaj Collapsed (April 2-3, 2026)
+- US conducted **two strikes** on the **B1 bridge** between Tehran and Karaj — described as the **highest bridge in the Middle East**.
+- The bridge **collapsed** after strikes; **8 killed, 95 wounded**.
+- State TV reported a **double-tap**: the first strike caused casualties, followed by a second strike as **emergency teams responded**.
+- *Sources: Al Jazeera, Wikipedia (2026 Iran war)*
+
 ### Trump Primetime Address on Operation Epic Fury (April 1, 2026)
 - Trump delivered a roughly **19-minute primetime address** at 9 PM ET on April 1, providing an update on the Iran war dubbed **"Operation Epic Fury."**
 - Trump said the US will hit Iran **"extremely hard"** over the next **two to three weeks**, claiming American forces have delivered **"overwhelming victories"** — **"decimating its navy, shattering its air force, eliminating its key terrorist leaders, and systematically dismantling its ability to threaten America."**
@@ -556,7 +577,7 @@ Iran struck military and civilian targets across at least 9 countries plus Israe
 | **Cyprus (UK base)** | RAF Akrotiri — Hezbollah-launched Shahed drone hit runway (Mar 1), more drones Mar 4 intercepted | Minor damage |
 | **Azerbaijan** | Nakhchivan exclave — airport damaged (Mar 5) | 2 civilians injured; Azerbaijan withdrew diplomats |
 
-**US military casualties**: **15 confirmed fatalities** (confirmed by casualty trackers as of Apr 2) — includes 7 killed by enemy fire in Gulf, 6 in Iraq plane crash (Mar 13), 1 died of wounds at Prince Sultan, 1 additional confirmed. **300+ wounded** (official figure: 261 per US military; "vast majority" returned to duty). **~53,500+ US troops** in the Middle East. **Trump threatens NATO withdrawal** (Apr 1) — signals war fatigue; **UK hosts 35-nation Hormuz conference** (Apr 2-3) without US. **UAE** has intercepted **372 ballistic missiles, 15 cruise missiles, and 1,826 drones** since Feb 28. Overall death toll: **Iran Health Ministry: 1,937+ killed, 24,800+ injured**; **HRANA: 3,461** (1,551 civilians, 236 children); **24+ in Israel, 6,239+ wounded**; **15 US KIA, 300+ wounded**; **25+ in Gulf states**, **3 UNIFIL peacekeepers killed**, **10 IDF soldiers killed in Lebanon** (as of Apr 2). **Oil dropped to ~$105/bbl** from $118 on ceasefire hopes.
+**US military casualties**: **15 confirmed fatalities** (confirmed by casualty trackers as of Apr 3) — includes 7 killed by enemy fire in Gulf, 6 in Iraq plane crash (Mar 13), 1 died of wounds at Prince Sultan, 1 additional confirmed. **300+ wounded** (official figure: 261 per US military; "vast majority" returned to duty). **~53,500+ US troops** in the Middle East. **Hegseth fired Army Chief of Staff Gen. Randy George** (Apr 2-3) — also fired Gen. David Hodne and Maj. Gen. William Green; Gen. Christopher LaNeve (Hegseth's former military aide) named acting; unprecedented during wartime. **Trump threatens NATO withdrawal** (Apr 1) — signals war fatigue; **UK hosts 41-nation Hormuz conference** (Apr 2) without US. **UAE** has intercepted **372 ballistic missiles, 15 cruise missiles, and 1,826 drones** since Feb 28. Overall death toll: **Iran Health Ministry: 2,076+ killed, 26,500+ wounded**; **HRANA: 3,461** (1,551 civilians, 236 children); **24+ in Israel, 6,239+ wounded**; **15 US KIA, 300+ wounded**; **25+ in Gulf states**, **3 UNIFIL peacekeepers killed**, **10 IDF soldiers killed in Lebanon** (as of Apr 3). **Oil volatile: Brent ~$109/bbl; WTI surpassed Brent** (unusual reversal); Urals crude at $123.45 (Russian premium). **IEA warns April supply "much worse" than March**.
 
 ### Iranian Missiles Targeting Turkey (March 4-13, 2026)
 - Three Iranian ballistic missiles entered Turkish airspace, all intercepted by NATO air and missile defense assets in the Eastern Mediterranean.
@@ -878,7 +899,7 @@ Iran struck military and civilian targets across at least 9 countries plus Israe
 - Growing anxiety in Seoul that North Korea may act more aggressively, emboldened by combat experience in Ukraine and the Russia mutual defense clause.
 - Kim Jong Un inspected a new **8,700-tonne nuclear-powered submarine** in December 2025.
 - No direct North Korean military action against South Korea as of April 2026.
-- **April 2026**: North Korea ground-tested a **"newly upgraded" solid-propellant rocket motor** approximately **20% more powerful** than the motor revealed in September 2025. Source of thrust increase unclear; possible Russian assistance. Pyongyang associated the motor with **"strategic forces"** — **ICBM use most likely**. *(38 North)*
+- **April 2026**: North Korea ground-tested a **"newly upgraded" solid-propellant rocket motor** approximately **26% more powerful** (max thrust 2,500 kN, up from 1,971 kN) than the motor revealed in September 2025. Source of thrust increase unclear; possible Russian assistance. Pyongyang associated the motor with **"strategic forces"** — **ICBM use most likely**. *(38 North)*
 - **April 2026**: Kim Jong Un stated **"there is no reason why we cannot get on well with the U.S."** if Washington **"respects the present position of our state specified in the constitution"** and **"withdraws its hostile policy."** Any bilateral talks require US **recognition of DPRK as a nuclear-armed state**. *(Arms Control Association)*
 - **April 2**: North Korea condemned **UN Human Rights Council resolution** criticizing its record, calling it a **"grave political provocation"** with **"false data"** that **"totally distorted"** DPRK policies. *(UPI)*
 - **April 2026**: **Pyongyang International Marathon** held — **first in 6 years** with international participation; **500 spots** filled in under 5 hours. Tourism otherwise **closed** except to Russian nationals. *(NK News, Young Pioneer Tours)*
@@ -1033,7 +1054,7 @@ Iran struck military and civilian targets across at least 9 countries plus Israe
 | European conscription | Denmark (expanded), Croatia (restored), Germany (voluntary/possible mandatory) |
 | US-China rapprochement | No -- fragile truce; summit May 14-15; fundamental issues unresolved; Taiwan arms deal complicates |
 | Germany-Russia rapprochement | No -- relations remain frozen; economic decoupling continues |
-| North Korea | NEW: upgraded solid-propellant rocket motor tested (~20% more powerful, ICBM likely); Kim demands nuclear recognition for US talks; condemned UN rights resolution; marathon held |
+| North Korea | NEW: upgraded solid-propellant rocket motor tested (~26% more powerful / 2,500 kN thrust, ICBM likely); Kim demands nuclear recognition for US talks; condemned UN rights resolution; marathon held |
 | Russia-DPRK alliance | Deepened significantly; mutual defense treaty; 11,000-15,000 DPRK troops in Russia; Lukashenko-Kim friendship treaty |
 | Russia as nuclear guarantor | Did NOT prevent strikes on Iran; treaty lacks mutual defense clause |
 | Trump third term | Constitutional amendment proposed but no real progress; Trump walked back rhetoric |
