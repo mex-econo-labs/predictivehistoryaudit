@@ -1,5 +1,5 @@
 {
-  "generated_date": "2026-03-21",
+  "generated_date": "2026-04-03",
   "subject": {
     "name": "Jiang Xueqin",
     "chinese_name": "江学勤",
@@ -84,11 +84,11 @@
   "expulsion_paradox": "In June 2002, Jiang was detained in Daqing for 48 hours and deported from China for filming a PBS documentary about labor unrest.[22] Yet by 2003, he was allowed to return. After five undocumented years of drift,[25] he was placed at Shenzhen Middle School (2008), then Peking University High School (2010), then Tsinghua University High School (2013) — some of China's most politically connected schools — despite holding no graduate degree or teaching credentials.[1] He married a Chinese woman, had two children, and lives on modest income, borrowing money from his wife's parents.[25] As Splice Today observed: 'To live and work in Beijing today, as a foreign national with Jiang's history, is not something the CCP permits by accident.'[26] Whether the result of deliberate engineering or organic circumstance, the pattern is clear: a Canadian citizen who is financially, familially, and professionally dependent on remaining in China, now producing content consumed by two million Western subscribers that aligns with CCP strategic messaging.",
   "credential_issues": "Jiang styles himself \"Professor\" on YouTube but holds only a B.A. in English Literature.[1] He has never been a university professor. His Harvard affiliation was as a researcher (not faculty) at the Global Education Innovation Initiative.[2] His RSA Fellowship is an open membership (30,000+ fellows, no nomination required, £208/year), not a selective academic honor.[3]",
   "triple_standard": {
-    "summary": "Across 140 analyzed lectures, Jiang operates with a consistent triple standard in civilizational framing.",
+    "summary": "Across 156 analyzed lectures, Jiang operates with a consistent triple standard in civilizational framing.",
     "china": {
       "favorable_pct": 26.8,
-      "neutral_pct": 55.4,
-      "critical_pct": 17.9,
+      "neutral_pct": 52.8,
+      "critical_pct": 20.5,
       "characterization": "Peaceful trading civilization, meritocratic, victim of Western exploitation. Exempt from decline narratives applied to others. Never subjected to the conspiratorial analysis applied to Western institutions. China's surveillance state, territorial expansion, censorship, Uyghurs, Tibet, Tiananmen, and Hong Kong are never mentioned in lectures — they appear only in analyst ironic_mirror annotations.",
       "key_quotes": [
         "China's not interested in geopolitics. China is not interested in what's happening in the Middle East. It's interested in trade.",
@@ -96,9 +96,9 @@
       ]
     },
     "us_west": {
-      "favorable_pct": 5.2,
-      "neutral_pct": 40.6,
-      "critical_pct": 54.2,
+      "favorable_pct": 5.4,
+      "neutral_pct": 38.7,
+      "critical_pct": 55.9,
       "characterization": "Imperial, corrupt, declining. Philosophy and institutions are products of conspiracy. Stated values are cynical cover. Future is collapse. The US is variously described as a \"mafia state,\" \"paper tiger,\" \"Freemason country,\" and \"gambling economy\" running a \"Ponzi scheme.\"",
       "key_quotes": [
         "America controls information space. It controls the internet. It controls YouTube. It controls Google.",
@@ -107,9 +107,9 @@
       ]
     },
     "russia": {
-      "favorable_pct": 40.8,
-      "neutral_pct": 44.9,
-      "critical_pct": 14.3,
+      "favorable_pct": 41.0,
+      "neutral_pct": 45.9,
+      "critical_pct": 13.1,
       "characterization": "Spiritual, authentic, strategically brilliant. Putin is called \"the greatest geopolitical leader in the world today,\" \"a strategic genius,\" \"the Ubermensch of the 21st century,\" and a potential katechon (restrainer of the Antichrist). Russia's invasion of Ukraine is consistently reframed as civilizational self-defense or prophecy fulfillment. Civilian casualties never discussed.",
       "key_quotes": [
         "Russian civilization is far superior to the Anglo-American Empire.",
@@ -146,85 +146,85 @@
     }
   ],
   "prediction_calibration": {
-    "total_predictions": 414,
-    "total_claims": 179,
-    "confirmed": 51,
-    "partially_confirmed": 105,
-    "disconfirmed": 88,
-    "untested": 181,
-    "unfalsifiable": 168,
-    "overall_calibration": 36.7,
+    "total_predictions": 523,
+    "total_claims": 265,
+    "confirmed": 64,
+    "partially_confirmed": 134,
+    "disconfirmed": 119,
+    "untested": 262,
+    "unfalsifiable": 209,
+    "overall_calibration": 35.0,
     "by_topic": [
       {
         "topic": "Iran war (air/missile)",
-        "confirmed": 72,
-        "disconfirmed": 38,
-        "calibration": 65.5
+        "confirmed": 83,
+        "disconfirmed": 49,
+        "calibration": 62.9
       },
       {
         "topic": "Iran ground invasion",
-        "confirmed": 1,
-        "disconfirmed": 1,
+        "confirmed": 3,
+        "disconfirmed": 3,
         "calibration": 50.0
       },
       {
         "topic": "US domestic politics",
-        "confirmed": 20,
-        "disconfirmed": 11,
-        "calibration": 64.5
+        "confirmed": 24,
+        "disconfirmed": 20,
+        "calibration": 54.5
       },
       {
         "topic": "Russia / Ukraine",
-        "confirmed": 13,
-        "disconfirmed": 5,
-        "calibration": 72.2
+        "confirmed": 15,
+        "disconfirmed": 7,
+        "calibration": 68.2
       },
       {
         "topic": "Europe / NATO",
-        "confirmed": 4,
-        "disconfirmed": 1,
-        "calibration": 80.0
+        "confirmed": 6,
+        "disconfirmed": 2,
+        "calibration": 75.0
       },
       {
         "topic": "China / US-China",
-        "confirmed": 11,
-        "disconfirmed": 1,
-        "calibration": 91.7
+        "confirmed": 17,
+        "disconfirmed": 4,
+        "calibration": 81.0
       },
       {
         "topic": "Israel / Middle East",
-        "confirmed": 8,
+        "confirmed": 10,
         "disconfirmed": 4,
-        "calibration": 66.7
+        "calibration": 71.4
       },
       {
         "topic": "AI / Technology",
-        "confirmed": 0,
+        "confirmed": 2,
         "disconfirmed": 3,
-        "calibration": 0.0
+        "calibration": 40.0
       }
     ],
     "key_hits": [
+      "If America fights a major war, it will have serious problems due to overcommitment and lack of manufacturing capacity. (The Iran campaign triggered Strait of Hormuz blockade (since Mar 2, oil ~$109/bbl down from $118 peak). By Day 35 (Apr 3, 2026): 2,076+ Iranian killed, 26,500+ wounded; 15 US KIA/300+ wounded; Houthis entered war Mar 28; Saudi refused US coalition; UK hosted 41-nation Hormuz conference without US (Apr 2); Hegseth fired Army Chief Randy George during wartime (Apr 2-3). Ground ops probability at lowest point — Trump vowed only '2-3 more weeks of strikes.' The US is demonstrably unable to achieve decisive results through air power alone.)",
+      "Iran doesn't need to beat the US military — they just need to make the Strait unusable through mines, drones, missiles, and asymmetric warfare. (Iran effectively blockaded the Strait using exactly these methods. Tanker traffic near zero. 2,000+ vessels stranded. Iran allows 5 nations through selectively. IEA warns April supply 'much worse' than March. Brent ~$109/bbl. WSJ: Trump willing to end war without reopening Hormuz — suggesting blockade has been effective leverage.)",
+      "European nations will move toward conscription, especially Germany, and Germany will remilitarize, antagonizing other European nations. (Germany approved €108B defense budget, 3.5% GDP target, 260K troops. Multiple European nations debating military service expansion. However, the 'antagonizing' element is only partially confirmed — dominant European reaction is allied coordination against shared threats, not antagonism toward Germany.)",
       "If Trump wins the presidency, he will most likely start a war against Iran, possibly two years from now. (Trump won in November 2024. The US launched Operation Midnight Hammer against Iran in June 2025 (~7 months into his term) and a full-scale campaign in February 2026. The prediction of Trump initiating war with Iran was accurate, though it came sooner than the predicted two-year timeframe.)",
-      "Netanyahu's visit to Washington signals that Israel and the United States will resume air strikes against Iran and escalate the war in the Middle East. (Operation Midnight Hammer (June 2025) saw US B-2 bombers strike Iranian nuclear facilities; the Twelve-Day War (June 13-24, 2025) saw massive Israeli strikes; and a full-scale US-Israeli campaign launched Feb 28, 2026.)",
-      "If Trump wins a second term, it is very possible he will declare war on Iran or continue to escalate tensions with Iran. (Operation Midnight Hammer (June 2025) struck Iranian nuclear facilities. Full-scale US-Israeli campaign launched Feb 28, 2026 with 900+ strikes. Trump did not declare formal war but escalated to large-scale military action against Iran.)",
-      "The United States and Iran will eventually come into direct conflict, dragging in the entire world. (Operation Midnight Hammer (June 2025) and the full-scale US-Israeli campaign against Iran (Feb 28, 2026) confirmed direct US-Iran conflict. The global drag-in is partially confirmed via Strait of Hormuz blockade and Iran striking across 9 countries.)",
-      "Donald Trump wants and will pursue a third presidential term. (H.J.Res.29 introduced Jan 2025 to amend 22nd Amendment. Trump stated 'there are methods' (March 2025 NBC). Said 'if we happen to be in a war, no more elections' (Aug 2025). Steve Bannon confirmed 'there is a plan.' Pursuit confirmed; achievement remains constitutionally unlikely.)",
-      "Mojtaba Khamenei will become the next Supreme Leader of Iran after Ayatollah Khamenei dies. (Mojtaba Khamenei did succeed as Supreme Leader after Ayatollah Khamenei was assassinated on Feb 28, 2026 by a US-Israeli strike. The succession mechanism was different than predicted (assassination vs. natural death), but the outcome matched.)",
-      "European nations will move toward conscription, especially Germany, and Germany will remilitarize, antagonizing other European nations. (Germany announced massive rearmament: 83-108B EUR budget, 650B over 5 years, 3.5% GDP target, 260K troops. Multiple European nations have discussed or implemented conscription measures.)",
-      "The holistic admissions system was specifically designed to exclude Jews from Harvard. (Well-documented by Jerome Karabel in 'The Chosen' (2005). Harvard, Yale, and Princeton introduced 'character' criteria in the 1920s specifically in response to rising Jewish enrollment. This is a historically accurate claim.)"
+      "The United States and Iran will eventually come into direct conflict, dragging in the entire world. (Operation Midnight Hammer (June 2025) and the full-scale US-Israeli campaign against Iran (Feb 28, 2026) confirmed direct US-Iran conflict. Now Day 35 (April 2026) with 15 US KIA. Global drag-in partially confirmed via Strait of Hormuz blockade and Iran striking across 9 countries.)",
+      "Iran will respond with guerrilla warfare — hiding in mountains and launching rockets at GCC countries and Israel. (Iran retaliated across 9 countries including GCC states; IRGC blockaded Strait of Hormuz (still effective Day 35). 2,000+ ships stranded. Iran allows 5 nations through selectively. Houthis entered war Mar 28. Consistent with asymmetric/guerrilla response predicted.)",
+      "The US-China conflict will intensify as China tries to diversify away from American-controlled systems through BRICS and other mechanisms. (US-China trade war escalated to 145%/125% tariffs. SCOTUS struck down IEEPA tariffs (Feb 20, 2026); Trump shifted to Section 122. Trump-Xi summit still scheduled May 14-15 in Beijing. BRICS expansion continued. Core direction confirmed.)",
+      "The Iranians have closed the Strait of Hormuz, and the entire global economy will suffer greatly over the next few months. (IRGC imposed effective blockade of Strait of Hormuz on Feb 28, 2026; 2,000+ ships stranded; Brent at $109/bbl; WTI surpassed Brent; IEA warns April supply 'much worse' than March. Iran allows 5 nations through selectively. Blockade continues Day 35.)"
     ],
     "key_misses": [
+      "Ground troops will be sent into Iran, possibly by this weekend (late March 2026). (DISCONFIRMED as of April 3, 2026. Late March 2026 passed with NO US ground troops entering Iran. 82nd Airborne deployed TO the region (not into Iran) Mar 24-25; USS Tripoli ARG arrived in CENTCOM Mar 27-28; but all ground-capable forces remain in staging/defensive posture. Trump's Apr 1 primetime address vowed 2-3 more weeks of air strikes but DID NOT announce ground operations. Ground ops probability at lowest point since conflict began. Pentagon drew up Kharg Island raid plans (WashPost Mar 29) but Trump has not approved; WSJ reported Mar 31 that Trump willing to end war without reopening Hormuz.)",
       "Muhammad did not preach Islam; he preached himself as the Messiah and promised religious tolerance. Islam emerged later from civil wars after his death. (This contradicts mainstream Islamic scholarship and historical consensus. Muhammad preached submission to one God (islam) from the beginning of his mission. The Constitution of Medina (622 CE) was a political charter, not merely a promise of tolerance. The shahada (declaration of faith) and core Islamic practices were established during Muhammad's lifetime. While post-Muhammad succession disputes (Sunni-Shia split) did reshape the religion, the claim that Muhammad did not preach Islam is rejected by virtually all historians.)",
       "ISIS is an American creation designed to create chaos in the Middle East — its fighters are programmed robots controlled by the American military. (ISIS (Islamic State) emerged from Al-Qaeda in Iraq, led by Abu Musab al-Zarqawi and later Abu Bakr al-Baghdadi. While US detention facilities did serve as radicalization incubators (a well-documented phenomenon), the claim that ISIS fighters are literally 'programmed robots' controlled by the US military is a conspiracy theory contradicted by extensive evidence of ISIS's independent command structure, self-financing through oil sales, and frequently anti-American operations including killing American hostages.)",
       "Freud reversed his seduction theory because powerful Frankist patrons who practiced ritual incest pressured him. (Freud's abandonment of the seduction theory is well-documented in his letters to Fliess (September 21, 1897). He cited multiple reasons: therapeutic failures, the improbability of universal paternal perversion, inability to distinguish fantasy from memory in the unconscious, and lack of breakthrough in severe cases. No evidence connects this to any Frankist pressure. The scholarly debate (Masson vs. mainstream) concerns whether Freud was wrong to abandon the theory, not whether he was pressured by a secret sect.)",
       "Positive psychology, developed by Martin Seligman, is essentially brainwashing derived from CIA torture research. (While Seligman's learned helplessness research was controversially consulted by CIA-contracted psychologists James Mitchell and Bruce Jessen for interrogation programs, positive psychology as a field is a legitimate branch of academic psychology focused on well-being, supported by peer-reviewed research. Seligman himself has denied direct involvement in torture programs. Equating the entire field of positive psychology with brainwashing is a massive logical leap.)",
       "All major scientific discoveries came to their discoverers through dreams, intuition, or divine inspiration — never through the scientific method alone. (While intuition plays a role in discovery, many major findings resulted from systematic experimentation (e.g., Mendeleev's periodic table from data patterns, Fleming's penicillin from observation, the Higgs boson from decades of collaborative experimental physics). The claim that 'no scientist in the history of humanity has ever come up with a great idea using the scientific method' is demonstrably false.)",
       "Cancer is caused by 'loss of faith' and the body 'literally falling apart' because you've 'stopped believing in yourself.' (Cancer is caused by genetic mutations leading to uncontrolled cell division, triggered by factors including carcinogens, radiation, viruses, hereditary mutations, and aging. The claim that cancer is fundamentally caused by psychological states contradicts established oncology. While psychoneuroimmunology recognizes some mind-body interactions, the claim that faith alone can cure cancer is medically irresponsible pseudoscience.)",
-      "Ancient peoples were 'much more creative than we are today' and could accomplish things 'beyond our imagination' like building the pyramids, which modern people attribute to aliens because 'their mind is beyond our imagination.' (Pyramid construction methods are well-understood by modern Egyptologists and engineers. Mainstream archaeology does not attribute pyramids to aliens — that is a fringe claim associated with pseudoarchaeology (e.g., Erich von Däniken). The speaker conflates fringe theories with mainstream scientific understanding.)",
-      "1950s China was as democratic as the United States — both were open societies where criticism of leaders was encouraged. (Factually wrong. By 1950s China, the CCP had consolidated single-party rule. The Hundred Flowers Campaign (1956-57) briefly invited criticism but was followed by the Anti-Rightist Campaign (1957) that persecuted 550,000+ intellectuals. The Great Leap Forward (1958-62) caused 15-55 million deaths. 1950s China had no free press, no multi-party elections, no independent judiciary. This claim is historically indefensible.)"
+      "Ancient peoples were 'much more creative than we are today' and could accomplish things 'beyond our imagination' like building the pyramids, which modern people attribute to aliens because 'their mind is beyond our imagination.' (Pyramid construction methods are well-understood by modern Egyptologists and engineers. Mainstream archaeology does not attribute pyramids to aliens — that is a fringe claim associated with pseudoarchaeology (e.g., Erich von Däniken). The speaker conflates fringe theories with mainstream scientific understanding.)"
     ],
-    "ground_invasion_fixation": "The single most repeated prediction across the entire corpus: a US ground invasion of Iran requiring 500K-2M troops and a national draft. Predicted 29 separate times across Game Theory, Geo-Strategy, and Interview series. The entire causal chain depends on it: ground troops trapped → draft → civil war → empire collapses. The US-Iran conflict has been exclusively air/missile-based. This prediction was never corrected or acknowledged as wrong in subsequent lectures."
+    "ground_invasion_fixation": "The single most repeated prediction across the entire corpus: a US ground invasion of Iran requiring 500K-2M troops and a national draft. Predicted 40 separate times across Game Theory, Geo-Strategy, and Interview series. The entire causal chain depends on it: ground troops trapped → draft → civil war → empire collapses. The US-Iran conflict has been exclusively air/missile-based. This prediction was never corrected or acknowledged as wrong in subsequent lectures."
   },
   "propaganda_analysis": {
     "dawaixuan_context": "China's 大外宣 (Grand External Propaganda) framework, directed by the Central Propaganda Department, explicitly targets Western audiences. MFA spokesperson Zhao Lijian stated the goal: \"use language that Western audiences understand, methods that make them listen, and content that they will believe to make China's narrative become the world narrative.\"[4] The framework uses low-ideological entry points (culture, history, analysis) to deliver strategic messaging.",
@@ -251,55 +251,55 @@
       {
         "title": "The Iran Trap",
         "series": "Geo-Strategy #8",
-        "views": 4053178
+        "views": 4340241
       },
       {
         "title": "The US-Iran War",
         "series": "Game Theory #9",
-        "views": 3872305
+        "views": 4249346
+      },
+      {
+        "title": "Political Prophet Predicts the Next Phase in Iran, Trump's War Plan, & Israel's Plot to Sabotage It",
+        "series": "Interview",
+        "views": 3237231
       },
       {
         "title": "How Evil Triumphs",
         "series": "Secret History #4",
-        "views": 2782969
+        "views": 2969056
       },
       {
         "title": "WWIII Begins, Let's Game Theory",
         "series": "Geo-Strategy Update #2",
-        "views": 1596368
+        "views": 1630909
       },
       {
         "title": "The Law of Asymmetry",
         "series": "Game Theory #10",
-        "views": 1381674
+        "views": 1501602
+      },
+      {
+        "title": "The Law of Eschatological Convergence",
+        "series": "Game Theory #12",
+        "views": 1497981
       },
       {
         "title": "Death by Gerontocracy",
         "series": "Secret History #3",
-        "views": 1284801
-      },
-      {
-        "title": "How Societies Collapse",
-        "series": "Secret History #2",
-        "views": 1194915
+        "views": 1473870
       },
       {
         "title": "Rich Dad, Poor Dad",
         "series": "Game Theory #3",
-        "views": 1169042
+        "views": 1455884
       },
       {
-        "title": "The Birth of Evil",
-        "series": "Secret History #5",
-        "views": 1143736
-      },
-      {
-        "title": "Why the West is Doomed",
-        "series": "Geo-Strategy Update #8",
-        "views": 1136116
+        "title": "Epstein's World",
+        "series": "Game Theory #13",
+        "views": 1385374
       }
     ],
-    "title_analysis": "Provocative titles (\"Evil,\" \"Trap,\" \"War,\" \"Doomed,\" \"Collapse\") outperform neutral academic titles by 3-5x within the same series. Iran-related content averages 992,167 views vs 158,496 for Civilization series academic lectures.",
+    "title_analysis": "Provocative titles (\"Evil,\" \"Trap,\" \"War,\" \"Doomed,\" \"Collapse\") outperform neutral academic titles by 3-5x within the same series. Iran-related content averages 1,236,047 views vs 174,163 for Civilization series academic lectures.",
     "growth_trajectory": "Near-zero to viral overnight. Channel gained 100K subscribers in 3 days when Iran predictions materialized (June 2025). Current growth: ~28K subscribers/day, ~837K/month. Substack reached #1 in \"world politics\" category within 6 months of launch."
   },
   "eschatological_context": {
