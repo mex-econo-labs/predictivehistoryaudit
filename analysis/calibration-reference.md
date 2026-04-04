@@ -1,4 +1,4 @@
-# Prediction Calibration Reference — April 4, 2026 (Scored April 3, 2026)
+# Prediction Calibration Reference — April 5, 2026 (Scored April 3, 2026)
 
 Use this document when analyzing Predictive History lectures to accurately assess prediction statuses.
 
@@ -140,6 +140,15 @@ Use this document when analyzing Predictive History lectures to accurately asses
 | WTI crude surpassed Brent crude | Apr 3, 2026 | Unusual reversal — WTI normally trades below Brent; Rigzone reported 'Why Has the WTI Oil Price Surpassed Brent?' driven by US-specific demand pressures |
 | NK solid-fuel engine: 2,500 kN thrust | Mar 29, 2026 | KCNA: Kim observed ground ejection test; max thrust 2,500 kN — 26% increase from Sep 2025's 1,971 kN (corrected from earlier 20% estimate) |
 | Russian oil tanker arrives in Cuba | Mar 30, 2026 | 100,000 tonnes crude oil arrived in Havana; ~250,000 barrels diesel equivalent; covers ~12.5 days of Cuban energy demand |
+| Bushehr nuclear power plant struck | Apr 4, 2026 | Projectile hit auxiliary building 350m from reactor; 1 security guard killed; IAEA Director Grossi 'deeply concerned' — warned crossing 'reddest line'; no radiation increase; 4th incident at Bushehr since war began |
+| Rosatom evacuating Bushehr nuclear plant | Apr 4, 2026 | 198 Russian staff evacuated via buses toward Armenian border; 50 volunteers staying; final/largest wave of evacuation since war began (Bloomberg, Moscow Times, WION) |
+| Mahshahr petrochemical zone struck | Apr 4, 2026 | US-Israeli strikes hit Fajr 1&2, Rejal, Amir Kabir plants directly; Abou Ali and Bandar-e Imam Khomeini also struck; 5 wounded; all personnel evacuated; critical export revenue target |
+| Trump 48-hour 'all Hell' ultimatum | Apr 4-5, 2026 | 'Time is running out — 48 hours before all Hell will reign down'; threatened power plants, oil, desalination; Iran rejected as 'helpless, nervous, unbalanced and stupid' |
+| Iran authorizes essential goods through Hormuz | Apr 4, 2026 | Tasnim: ships carrying essential goods/humanitarian supplies to Iranian ports allowed under protocols; businesses can resume; unclear scope |
+| IRGC denies capturing WSO | Apr 5, 2026 | IRGC AND provincial governor of Kohgiluyeh and Boyer-Ahmad BOTH deny capturing F-15E WSO — contradicts earlier claims; search enters Day 2 |
+| US wounded rises to 365 | Apr 4, 2026 | NPR: 365 US service members wounded; 13 KIA in combat (15 total including non-combat deaths) |
+| Russia sending second oil tanker to Cuba | Apr 2, 2026 | Moscow announced second tanker being loaded after Anatoly Kolodkin delivered 730K barrels; 'will not leave Cubans alone in trouble' (Euronews, US News, WashPost) |
+| USS Boxer ARG arrives Hawaii | Mar 31, 2026 | USS Boxer + USS Portland + USS Comstock + 11th MEU (2,500 Marines) arrived Pearl Harbor; still ~3 weeks from CENTCOM theatre (Stars and Stripes) |
 | North Korea parliamentary elections | Mar 15, 2026 | 15th Supreme People's Assembly; Kim Jong Un reelected head of State Affairs Commission; Pak Thae Song reappointed Premier |
 | Israel forces nearing Litani River | Late Mar 2026 | IDF reached tributary of Litani near Qantara; some positions just hundreds of meters from river; FOUR divisions operating |
 | Germany Bundestag approves €108B defense budget | 2026 | €82.7B regular + €25.5B special fund; 4th highest funded military globally; targets 260K troops and 3.5% GDP by 2029 |
@@ -167,49 +176,41 @@ Use this document when analyzing Predictive History lectures to accurately asses
 ## Key Contextual Facts for Analysis
 
 ### US-Iran War
-- Air/missile campaign now in Day 36 (Apr 4); NO ground troops deployed IN Iran yet; GROUND OPS PROBABILITY REMAINS LOW
-- F-15E STRIKE EAGLE SHOT DOWN OVER IRAN (Apr 3): Pilot rescued; WSO MISSING — IRGC claims captured (unverified). A-10 also downed during rescue (pilot safe). 2 Black Hawks hit. Most significant US aircraft loss of the war. Trump said shootdown 'won't affect negotiations'
-- TRUMP ESCALATES RHETORIC (Apr 3-4): 'Bridges next, then Electric Power Plants!' and 'OPEN THE HORMUZ STRAIT, TAKE THE OIL, & MAKE A FORTUNE' — but rhetorical, not operational escalation
-- IRGC FOLLOWS THROUGH ON TECH THREATS (PARTIALLY): Amazon data center in Bahrain struck (Apr 1); Oracle data center in Dubai claimed (Apr 2) — first wartime targeting of commercial data centers
-- IRAN STRIKES KUWAIT AL-AHMADI REFINERY (Apr 3-4): 450K bbl/day capacity; fires, no injuries; third time hit
-- IRAN MISSILE HITS ISRAELI DRONE FACTORY in Petah Tikva (AeroSentinel) — 400kg warhead, severe damage
-- IDF KILLS BALLISTIC MISSILE CHIEF ATIMI in Kermanshah (Apr 3) — 10th+ senior official killed
-- UN SECURITY COUNCIL HORMUZ VOTE DELAYED: Bahrain watered down text; China/Russia oppose
-- IRAN-OMAN DRAFTING HORMUZ MONITORING PROTOCOL: Permits, fees, documentation — attempt to formalize post-war strait governance
-- DATED BRENT SPOT SURGES TO $141.36 (physical cargoes) — highest since 2008; futures ~$109-112; massive divergence signals physical oil crisis
-- HEGSETH FIRED ARMY CHIEF OF STAFF (Apr 2-3) during wartime (unprecedented)
-- Trump primetime address (Apr 1): 'extremely hard' for 2-3 more weeks; DID NOT announce ground ops
-- UK 41-nation Hormuz conference (Apr 2) — allies taking ownership; US DID NOT ATTEND
-- Apr 6 energy deadline NOW 2 DAYS AWAY — WSO situation complicates Trump's decision
-- TRUMP CLAIMS IRAN CEASEFIRE OFFER (Apr 1): Pezeshkian denied ('false and baseless'); but Axios: US-Iran discussing ceasefire-for-Hormuz through mediators
-- ISRAEL KILLED HEZBOLLAH SOUTHERN FRONT COMMANDER HASHEM in Beirut (Apr 1-2): 7 killed, 26 wounded; most senior Hezbollah killing since conflict began
-- NASIRZADEH, PAKPOUR, VAFAEI KILLED (Apr 1): Defense minister, IRGC commander, Quds Force engineering chief — decapitation continues
-- IRGC TECH THREAT PARTIALLY FOLLOWED THROUGH: Amazon data center Bahrain struck (Apr 1); Oracle Dubai claimed (Apr 2); but 16 of 18 companies NOT struck
-- US-Israel struck B1 bridge in Karaj (double-tap on responders), medical research center in Tehran, steel plants; Iraq Habbaniyah base struck (7 killed, 13 wounded)
-- OIL VOLATILE: Brent ~$109; WTI surpassed Brent (unusual reversal); Urals crude at $123.45 (Russian premium); IEA warns April 'much worse' than March — jet fuel/diesel shortages hitting Asia
+- Air/missile campaign now in Day 37 (Apr 5); NO ground troops deployed IN Iran; GROUND OPS PROBABILITY AT ABSOLUTE LOWEST
+- BUSHEHR NUCLEAR PLANT HIT (Apr 4): Projectile struck auxiliary building 350m from reactor; 1 security guard killed; IAEA Director Grossi 'deeply concerned' — warned crossing 'reddest line'; Rosatom evacuating 198 Russian staff; 50 volunteers staying; 4th incident at Bushehr
+- MAHSHAHR PETROCHEMICAL ZONE STRUCK (Apr 4): Fajr 1&2, Rejal, Amir Kabir plants directly hit; Abou Ali and Bandar-e Imam Khomeini also struck; 5 wounded; all personnel evacuated — ECONOMIC DESTRUCTION campaign intensifying
+- TRUMP 48-HOUR 'ALL HELL' ULTIMATUM (Apr 4-5): 'Time is running out — 48 hours before all Hell will reign down'; threatened power plants, oil, desalination; Iran rejected as 'helpless, nervous, unbalanced and stupid'
+- IRAN AUTHORIZES ESSENTIAL GOODS THROUGH HORMUZ (Apr 4): Tasnim; ships carrying essential/humanitarian goods to Iranian ports allowed under protocols — minor de-escalation
+- WSO SEARCH DAY 2 — IRGC DENIES CAPTURE (Apr 5): IRGC AND provincial governor BOTH deny capturing second crew member, contradicting earlier claims; missing, NOT captured; eliminates hostage-crisis trigger
+- US WOUNDED RISES TO 365 (NPR, Apr 4); 13 KIA in combat (15 total)
+- USS BOXER ARG IN HAWAII (Mar 31): ~3 weeks from combat zone; amphibious ops physically impossible before late April
+- Apr 6 energy deadline NOW ~24 HOURS AWAY — Trump threatening INFRASTRUCTURE destruction, NOT ground ops
+- ECONOMIC DESTRUCTION replaces GROUND INVASION: Bushehr + Mahshahr + petrochemical strikes demonstrate preferred escalation path; War on the Rocks published 'The Folly of Seizing Kharg Island'
+- F-15E SHOT DOWN (Apr 3): Pilot rescued; WSO MISSING (IRGC denies capture); A-10 also downed during rescue (pilot safe)
+- IRGC data centers: Amazon Bahrain (Apr 1), Oracle Dubai claimed (Apr 2) — first wartime targeting of commercial data centers; 16 of 18 companies NOT struck
 - Israel decapitation campaign: 10+ senior officials/commanders killed — Khamenei, Larijani, Soleimani, Khatib, Tangsiri, Eshaghi, Nasirzadeh, Pakpour, Vafaei, Atimi, plus Hezbollah's Hashem
-- Updated casualties: Iran: 2,076+ killed (Health Ministry), 26,500+ wounded; 4,700+ security forces killed (Iran International); 82,000+ structures damaged
-- 15 US KIA + 1 WSO missing/possibly captured, 300+ wounded; 1,318 killed in Lebanon/3,935 injured/1.2M displaced/3 UNIFIL killed/10+ IDF killed; 24+ killed in Israel/6,239+ wounded
-- Trump energy strike deadline April 6 (2 DAYS AWAY); WSO situation complicates decision
-- Combined ground force ~7,000-8,500 in theatre; 10K more under consideration
-- Dated Brent spot $141.36 (physical cargoes, highest since 2008) vs futures ~$109-112
+- Updated casualties: Iran: 2,076+ killed (Health Ministry), 26,500+ wounded; 82,000+ structures damaged; 15 US KIA + 1 WSO missing, 365 wounded; 1,318 killed in Lebanon/3,935 injured; 24+ killed in Israel/6,239+ wounded
+- Combined ground force ~7,000-8,500 (USS Boxer NOT in theatre); 10K more under consideration
+- Oil: Brent futures ~$109; physical spot $141+; gas up 37% since Feb 28; markets bracing for Apr 6 escalation
 
 ### Hormuz Blockade & Regional Fallout
 - Blockade continues; Iran operating 'toll booth' vetting system; 5 nations formally allowed (China, Russia, India, Iraq, Pakistan)
 - IRAN-OMAN DRAFTING HORMUZ MONITORING PROTOCOL: Joint framework requiring all vessels to obtain advance permits, submit documentation, pay transit fees — Iran attempting to FORMALIZE post-war control of strait (CNBC, AA, Middle East Eye)
+- IRAN AUTHORIZES ESSENTIAL GOODS THROUGH HORMUZ (Apr 4): Tasnim; ships carrying essential/humanitarian goods to Iranian ports allowed under protocols; businesses can resume; scope unclear
 - UN SECURITY COUNCIL HORMUZ VOTE DELAYED: Bahrain watered down text to 'defensive measures'; China/Russia/France oppose force authorization
 - UK 41-nation Hormuz conference (Apr 2): 41 countries demanding Iran cease blockade; military planners meeting next week; US DID NOT ATTEND
 - 23+ direct attacks on commercial vessels since Feb 28; 11+ crew deaths
-- OIL CRISIS ACCELERATING: Dated Brent SPOT surged to $141.36 (physical cargoes, highest since 2008) vs futures ~$109-112. IEA: April 'much worse' — pre-war cargoes exhausted. Jet fuel/diesel shortages hitting Asia. Hormuz closure also disrupting ~1/3 of world's helium supply
+- OIL CRISIS: Brent futures ~$109; physical spot $141+ (highest since 2008). IEA: April 'much worse' — pre-war cargoes exhausted. Jet fuel/diesel shortages hitting Asia. Gas up 37% since Feb 28. Hormuz also disrupting ~1/3 of world's helium supply
+- MAHSHAHR PETROCHEMICAL ZONE STRUCK (Apr 4) — 5 major plants hit; petrochemical exports disrupted
 - Iran drone struck Kuwait Al-Ahmadi refinery (Apr 3-4) — 450K bbl/day; fires in several units; third time hit
 - 2,000+ vessels and 20,000 seafarers stranded (IMO)
-- Japan: 254 days SPR; South Korea: energy-saving campaign, delayed coal decommissioning; India: one of 5 nations with passage but LPG crisis
-- Apr 6 deadline 2 DAYS AWAY — WSO situation complicates Trump's decision
+- Japan: 254 days SPR; South Korea: energy-saving campaign; India: passage but LPG crisis; Asia energy chaos deepening (CFR)
+- Apr 6 deadline NOW ~24 HOURS AWAY — Trump threatening 'all Hell' infrastructure strikes
 
 ### Venezuela, Cuba, Colombia
-- **Venezuela**: Maduro trial — US sanctions taking center stage (Apr 1 hearing); judge questioned need for sanctions given US-Venezuela relations shift; defense funding blocked by sanctions (6th Amendment issue); US lifted sanctions on Rodriguez (Apr 1); case in pretrial; legal experts say trial unlikely this year. Rodriguez acting president; US recognized as sole leader Mar 11
-- **Cuba**: Crisis ESCALATING — protesters torched communist party office in Moron (5 arrested); Costa Rica closing embassy and expelled Cuban diplomats; several Latin American nations ending Cuban medical cooperation under US pressure; three nationwide blackouts in March; 10M+ affected; 51 political prisoners released; daily protests since Mar 6 (156+/47+ arrests); Russian tanker arrived Mar 30 (~12.5 days supply) but insufficient; GDP forecast -7.2% for 2026; secret US-Cuba talks ongoing; humanitarian situation at limit — hospitals can't operate, drinking water unreliable
-- **Colombia**: Economic emergency Dec 2025; peace process collapsed; drug decertification by US; coca production at all-time records; troops deployed to Venezuela border
+- **Venezuela**: Maduro trial — US sanctions taking center stage (Apr 1 hearing); case in pretrial; legal experts say trial unlikely this year. Rodriguez acting president; US recognized as sole leader Mar 11; US Embassy formally resuming operations in Venezuela (Apr 2026)
+- **Cuba**: Russia sending SECOND oil tanker (Apr 2 announcement) after Anatoly Kolodkin delivered 730K barrels / 100K tonnes (~12.5 days supply, Mar 30); US allowed Russian tanker for humanitarian reasons despite sanctions. Crisis continues — protesters torched communist party office in Moron; Costa Rica closing embassy; daily protests since Mar 6; secret US-Cuba talks ongoing; GDP forecast -7.2%
+- **Colombia**: Economic emergency Dec 2025; peace process collapsed; drug decertification by US; coca production at all-time records
 
 ### Russia-Ukraine War (April 2026)
 - War continues as grinding attritional conflict — Ukraine has NOT "lost"
