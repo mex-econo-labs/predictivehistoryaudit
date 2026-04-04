@@ -308,6 +308,27 @@ def sort_episode_key(ep):
     return special.get(str(ep).upper(), 9999)
 
 
+def estimate_read_time(data: dict) -> int:
+    """Estimate reading time in minutes from analysis content (~230 wpm)."""
+    words = 0
+    words += len(data.get('synopsis', '').split())
+    for p in data.get('thesis', {}).get('predictions', []):
+        words += len(p.get('claim', '').split())
+        words += len(p.get('status_note', '').split())
+    for r in data.get('rhetoric', []):
+        words += len(r.get('example', '').split())
+        words += len(r.get('explanation', '').split())
+    for q in data.get('notable_quotes', []):
+        words += len(q.get('quote', '').split())
+        words += len(q.get('significance', '').split())
+    v = data.get('verdict', {})
+    words += len(v.get('summary', '').split())
+    for s in data.get('scores', {}).values():
+        if isinstance(s, dict):
+            words += len(s.get('justification', '').split())
+    return max(1, round(words / 230))
+
+
 def load_analyses(base_dir: str) -> list:
     """Load all analysis JSON files."""
     analyses = []
@@ -320,6 +341,7 @@ def load_analyses(base_dir: str) -> list:
         data['avg'] = compute_avg(data)
         data['sort_episode'] = sort_episode_key(data['meta'].get('episode'))
         data['display_title'] = clean_title(data)
+        data['read_time_min'] = estimate_read_time(data)
         analyses.append(data)
 
     # Sort by upload_date descending (newest first)

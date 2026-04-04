@@ -24,6 +24,7 @@ for json_file in *.json; do
 
   NEW_VIEWS=$(yt-dlp --print "%(view_count)s" --skip-download "https://www.youtube.com/watch?v=$VIDEO_ID" 2>/dev/null) || continue
   [[ -z "$NEW_VIEWS" || "$NEW_VIEWS" == "NA" ]] && continue
+  NEW_DURATION=$(yt-dlp --print "%(duration_string)s" --skip-download "https://www.youtube.com/watch?v=$VIDEO_ID" 2>/dev/null) || NEW_DURATION=""
 
   OLD_VIEWS=$(python3 -c "import json; print(json.load(open('$json_file'))['meta'].get('view_count', 0))" 2>/dev/null)
 
@@ -36,6 +37,9 @@ import json
 d = json.load(open('$json_file'))
 d['meta']['view_count'] = $NEW_VIEWS
 d['meta']['view_count_updated'] = '$TODAY'
+dur = '$NEW_DURATION'
+if dur and dur != 'NA':
+    d['meta']['duration'] = dur
 json.dump(d, open('$json_file', 'w'), indent=2, ensure_ascii=False)
 "
       echo "  $VIDEO_ID: $OLD_VIEWS → $NEW_VIEWS"

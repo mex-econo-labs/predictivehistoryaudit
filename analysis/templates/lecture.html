@@ -25,7 +25,11 @@
       <a href="https://www.youtube.com/watch?v={{ d.meta.video_id }}" class="mono" style="font-size: 0.78rem; color: var(--text-muted);" target="_blank" rel="noopener">
         youtube.com/watch?v={{ d.meta.video_id }} &#x2197;
       </a>
-      <span class="mono muted" style="font-size: 0.7rem; margin-left: var(--space-md);">
+      <span class="mono muted" style="font-size: 0.72rem; margin-left: var(--space-md);">
+        {% if d.meta.duration %}Video: {{ d.meta.duration }} &middot; {% endif %}Read time: ~{{ d.read_time_min }} min
+      </span>
+      <br>
+      <span class="mono muted" style="font-size: 0.68rem; margin-left: var(--space-md);">
         Analyzed {{ d.meta.analysis_date }} by {{ d.meta.analyzed_by }}
         {% if d.meta.view_count_updated %}&middot; Views updated {{ d.meta.view_count_updated }}{% endif %}
         {% if d.meta.last_scoring_date %}&middot; Predictions reviewed {{ d.meta.last_scoring_date }}{% endif %}
