@@ -1,6 +1,6 @@
-# Geopolitical Briefing: State of the World as of April 6, 2026
+# Geopolitical Briefing: State of the World as of April 7, 2026
 
-Compiled for evaluation of mid-2024 predictions. All information sourced from publicly available reporting through April 6, 2026. Last updated: April 6, 2026.
+Compiled for evaluation of mid-2024 predictions. All information sourced from publicly available reporting through April 7, 2026. Last updated: April 7, 2026.
 
 ---
 
@@ -18,10 +18,10 @@ Compiled for evaluation of mid-2024 predictions. All information sourced from pu
 - On **February 28, 2026**, the US and Israel launched nearly **900 strikes in 12 hours** targeting Iranian missiles, air defenses, military infrastructure, and leadership.
 - The opening salvo **assassinated Supreme Leader Ayatollah Ali Khamenei** and several family members in Tehran. His daughter Boshra, her daughter, his son-in-law, and daughter-in-law were also killed.
 - A missile struck a girls' school adjacent to a naval base in Minab, near Bandar Abbas, killing ~170 people.
-- As of March 31, 2026: **Al Jazeera tracker**: **2,000+ killed**. **HRANA**: **3,461 killed** (1,551 civilians, 236 children) as of Mar 29. **Red Crescent**: **1,900+ killed, 20,000+ injured**. **Washington Post** (Mar 27): **~1,500 civilians killed**. **Hengaw**: **5,300 killed in 18 days** (511 civilians, 4,789 military). The **Iranian Red Crescent Society** reported **82,000+ civilian structures** damaged or destroyed (Mar 24). US has hit **two-thirds of Iran's missile and drone production facilities**. Iran's internet blackout has made independent casualty verification extremely difficult (France24, SCMP). US acknowledges war may extend past initial **4-6 week timeline** (Times of Israel, Mar 27). *Sources: Modern Diplomacy, HRANA, Al Jazeera, WashPost, Hengaw*
+- As of April 7, 2026: **HRANA**: **3,540 killed** (1,616 civilians, 244 children) as of Apr 7 — up from 3,461 on Mar 29. **Al Jazeera tracker**: **2,076+ killed** (Health Ministry). **Red Crescent**: **1,900+ killed, 26,500+ injured**. **Iran International**: **4,700+ security forces killed**. **Hengaw**: **5,300 killed in 18 days** (early figure). The **Iranian Red Crescent Society** reported **82,000+ civilian structures** damaged or destroyed (Mar 24). Six children under 10 killed in overnight Israeli-US strikes (Apr 6-7). US has hit **two-thirds of Iran's missile and drone production facilities**. Iran's internet blackout has made independent casualty verification extremely difficult. *Sources: HRANA, Al Jazeera, Japan Times, WashPost, Iran International*
 - Iran has responded with **500+ ballistic/naval missiles and ~2,000 drones** since Feb 28, striking US military presence and civilian infrastructure across **9 countries** including Bahrain, Kuwait, Qatar, Saudi Arabia, Oman, and the UAE.
-- At least **19 Israeli civilians killed and 6,833 total casualties evacuated to hospitals** as of April 5, 2026. Iranian missiles struck Dimona and Arad on March 21-22, wounding **180** in the most significant penetration of Israeli air defenses near nuclear infrastructure. On March 25, Iranian missiles struck **Tel Aviv** after a **David's Sling malfunction** allowed ballistic missiles through. Iran launched missiles at **Jerusalem** on April 5 — debris fell near **Al-Aqsa Mosque/Temple Mount**. **434 total Iranian attack waves** identified since Feb 28.
-- **15 US service members killed** (includes 7 killed by enemy fire in Gulf, 6 in Iraq plane crash Mar 13, 1 died of wounds at Prince Sultan, 1 additional confirmed) and **365+ wounded** (NPR, Apr 4). Missing F-15E WSO **rescued** by special operations forces on April 5 after 36 hours of evasion (see below).
+- At least **23+ Israeli civilians killed and 6,833+ total casualties evacuated to hospitals** as of April 7, 2026. On April 5, an **Iranian missile struck a residential building in Haifa**, killing **4 civilians** — Lena Ostrovsky (68), Vladimir Gershovich (73), son Dima (42), and wife Lucille Jean (~25). The top three floors collapsed; an 18-hour rescue operation recovered the bodies. The **IDF is investigating the failure to intercept** the missile. Iranian missiles also struck Dimona and Arad on March 21-22, wounding **180**. On March 25, Iranian missiles struck **Tel Aviv** after a **David's Sling malfunction**. Iran launched missiles at **Jerusalem** on April 5 — debris fell near **Al-Aqsa Mosque/Temple Mount**. **434+ total Iranian attack waves** identified since Feb 28. *Sources: Haaretz, Times of Israel, Al Jazeera, CNN*
+- **15 US service members killed** (includes 7 killed by enemy fire in Gulf, 6 in Iraq plane crash Mar 13, 1 died of wounds at Prince Sultan, 1 additional confirmed) and **365+ wounded** (NPR, Apr 4). Missing F-15E WSO **rescued** by special operations forces on April 5 after 36 hours of evasion (see below). Trump celebrated the rescue at a **White House press conference on April 6** before pivoting to threaten that **"the entire country can be taken out in one night."**
 - A US Senate **war powers vote failed**, allowing Trump to continue Iran strikes without new authorization.
 
 ### Kharg Island Raid (March 13, 2026)
@@ -470,6 +470,82 @@ Compiled for evaluation of mid-2024 predictions. All information sourced from pu
 - Iran FM **Araghchi** reiterated: **"at present there is no negotiation."**
 - The standstill, combined with Trump's "Power Plant Day" rhetoric for Tuesday, raises the probability of **major infrastructure strikes** on April 7.
 - *Sources: JPost, Business Standard, Frontier Affairs, CNBC, Fox News*
+
+### Trump: "Take Out All of Iran in One Night" (April 6, 2026)
+- At a **White House press conference** on Monday, Trump stated: **"the entire country can be taken out in one night, and that night might be tomorrow night"** — his most extreme rhetoric of the entire war.
+- The press conference began as a celebration of the **dramatic WSO rescue** over the weekend, then pivoted to **maximum-escalation threats** against Iran.
+- Trump stated: **"If they don't make a deal, I am blowing up everything over there."** He added: **"After that, they're gonna have no bridges. They're gonna have no power plants, Stone Ages."**
+- Trump said the US would **"charge tolls"** in the Strait of Hormuz — implying US control over the waterway.
+- He also said, when asked whether he was winding down or escalating: **"I don't know"** — a remarkable admission of strategic ambiguity from a commander-in-chief during active conflict.
+- The April 7, 8 PM ET deadline is now hours away.
+- *Sources: Bloomberg, Times of Israel, Fortune, NBC, ABC News, Newsweek, CBS*
+
+### Iran Rejects Temporary Ceasefire — Sends 10-Point Counter-Demands (April 6-7, 2026)
+- Iran **formally rejected** the proposed **45-day temporary ceasefire**, conveying its response to **Pakistan** (the lead mediator) on Sunday night.
+- Iran sent a **10-point counter-proposal** demanding:
+  1. **Permanent end to war** — not a temporary ceasefire
+  2. **End to "conflicts in the region"** — interpreted as linking deal to Lebanon/Hezbollah
+  3. **New legal framework** for Hormuz safe passage with transit fees
+  4. **Sanctions relief**
+  5. **Reconstruction commitments** for war damage
+  6. Additional conditions on nuclear program and security guarantees
+- Iran's presidential spokesperson stated the Strait of Hormuz would open **"when all the damage caused by the imposed war is compensated through a new legal regime, using a portion of the revenue from transit fees."**
+- A **senior Iranian official** told **Reuters** on Monday: Iran **"will not reopen the strait as part of a temporary ceasefire"** and **"will not accept deadlines."**
+- A **US official** who saw the Iranian response called it **"maximalist."**
+- Trump acknowledged the proposal, saying it was **"not good enough, but it's a very significant step."**
+- *Sources: Axios, NPR, CNN, CNBC, Ynetnews, i24 News, Arab Times, Tribune India, Washington Times, Euronews, RFE/RL, Al Jazeera*
+
+### 45-Day "Islamabad Accord" Ceasefire Proposal (April 6-7, 2026)
+- **Pakistan, Egypt, and Turkey** drafted a comprehensive **two-phase ceasefire proposal**, sent late Sunday night to both **Iran FM Araghchi** and **US envoy Steve Witkoff**.
+- **Phase 1**: Immediate ceasefire; Hormuz reopening within **15-20 days**; both sides stop military operations.
+- **Phase 2**: Comprehensive permanent peace deal including **Iranian nuclear commitments** (uranium stockpile removal or dilution), **sanctions relief**, and **release of frozen assets**.
+- The proposal is tentatively called the **"Islamabad Accord"** — reflecting Pakistan's central mediating role.
+- A **White House official** said Trump had **not signed off** on the proposal; the US military operation continues.
+- Iran is **reviewing** the proposal but said it **will not open Hormuz under a temporary ceasefire** — a fundamental incompatibility with the proposal's structure.
+- The chances of a deal before Tuesday's 8 PM deadline appear **slim**.
+- *Sources: Al Jazeera, Axios, The Hill, Express Tribune, Daily Sabah, TRT World, Seoul Economic Daily, CBS, Townhall*
+
+### Israel Strikes Asaluyeh — 85% of Petrochemical Exports Disrupted (April 6, 2026)
+- Israeli Defense Minister **Israel Katz** confirmed that Israel struck the **Asaluyeh petrochemical complex** in Bushehr Province — Iran's **largest petrochemical facility**, responsible for approximately **50% of the country's petrochemical production**.
+- Katz stated Israel had **"just carried out a powerful strike on the largest petrochemical facility in Iran."**
+- Combined with the **Mahshahr petrochemical zone strikes** on April 4 (~35% of production), approximately **85% of Iran's petrochemical exports** are now disrupted.
+- Katz called this a **"severe economic blow amounting to tens of billions of dollars to the Iranian regime."**
+- Explosions were heard across the **South Pars** complex area.
+- The strike confirms Israel's **independent escalation** of the economic destruction campaign regardless of diplomatic efforts.
+- *Sources: Washington Times, Middle East Eye, Times of Israel, Al Arabiya, Ynetnews, Arab News, CNN, JPost, Punch*
+
+### Haifa Missile Strike Kills 4 Civilians (April 5, 2026)
+- An Iranian missile struck a **multi-story residential building in Haifa** on Sunday — the top three floors **collapsed**, trapping residents.
+- **Four bodies** were recovered after an **18-hour rescue operation** described as **"one of the most complex"** of the war:
+  - **Lena Ostrovsky**, 68
+  - **Vladimir Gershovich**, 73 (her husband)
+  - **Dima**, 42 (her son)
+  - **Lucille Jean**, approximately 25 (Dima's wife, a Filipina native)
+- Additional casualties: an **82-year-old man** seriously wounded, a **78-year-old woman** lightly to moderately wounded, a **38-year-old woman** and **10-month-old baby** lightly wounded.
+- The **IDF is investigating the failure to intercept** the missile — a significant air defense gap given Haifa's population.
+- This is the **most lethal single Iranian missile strike on Israeli civilians** in the war, bringing the total civilian death toll to **23+**.
+- *Sources: Haaretz, Times of Israel, Al Jazeera, CNN*
+
+### IRGC Declares "New Persian Gulf Order" (April 5-6, 2026)
+- The **IRGC Navy** announced on social media that it is **completing operational preparations** for what it called the **"new Persian Gulf order."**
+- The IRGC warned that conditions in the Strait of Hormuz **"will never return to its former status, especially for the US and Israel."**
+- The initiative aims to establish a **"new, indigenous security architecture"** in the Persian Gulf, based on the principle that the region's **"stability and security must be guaranteed by the littoral states themselves, without the provocative and illegitimate presence of outside forces."**
+- This declaration directly challenges both Trump's demand to reopen Hormuz and the **"Islamabad Accord"** framework being proposed by mediators.
+- The statement represents Iran's most explicit articulation of its **post-war strategic vision** for permanent control over the strait.
+- *Sources: Times of Israel, GlobalSecurity, Free Malaysia Today, BSS News, Jordan News, WION, Borneo Post*
+
+### UAE Intercepts Surge — April 3-4, 2026
+- The **UAE Ministry of Defense** reported intercepting:
+  - **April 3**: 18 ballistic missiles, 4 cruise missiles, and 47 UAVs launched from Iran.
+  - **April 4**: 23 ballistic missiles and 56 UAVs — debris from an intercept landed on the **facade of a residential tower in the marina area** with no significant injuries.
+- These represent the **highest single-day intercept figures** since the war began, indicating an **intensification of Iranian attacks** on Gulf state infrastructure.
+- *Sources: Wikipedia (2026 Iranian strikes on UAE), Al Jazeera, SCMP*
+
+### Gulf States Infrastructure Attacks Continue (April 5-6, 2026)
+- **Kuwait**: Iranian drones struck **Kuwait Petroleum's Shuwaikh complex** and two additional power and desalination plants — significant damage, no injuries.
+- **Bahrain**: **Bapco Energies** confirmed a fire at a storage facility after an Iranian drone attack — extinguished, situation under control.
+- The **South China Morning Post** reported UAE, Bahrain, and Kuwait are **losing water and energy infrastructure** to ongoing Iranian strikes, raising concerns about long-term civilian welfare.
+- *Sources: The National, Al Jazeera, SCMP*
 
 ### Mahshahr Petrochemical Zone Casualties Revised Upward (April 4-5, 2026)
 - **IRNA** (Iranian state news) and **Anadolu Agency** revised the casualty figures from the April 4 Mahshahr strikes: **5 killed and 170 injured** — significantly higher than the initially reported 5 wounded.
