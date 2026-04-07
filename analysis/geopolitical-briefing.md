@@ -1,6 +1,6 @@
-# Geopolitical Briefing: State of the World as of April 7, 2026
+# Geopolitical Briefing: State of the World as of April 8, 2026
 
-Compiled for evaluation of mid-2024 predictions. All information sourced from publicly available reporting through April 7, 2026. Last updated: April 7, 2026.
+Compiled for evaluation of mid-2024 predictions. All information sourced from publicly available reporting through April 8, 2026. Last updated: April 8, 2026.
 
 ---
 
@@ -18,10 +18,10 @@ Compiled for evaluation of mid-2024 predictions. All information sourced from pu
 - On **February 28, 2026**, the US and Israel launched nearly **900 strikes in 12 hours** targeting Iranian missiles, air defenses, military infrastructure, and leadership.
 - The opening salvo **assassinated Supreme Leader Ayatollah Ali Khamenei** and several family members in Tehran. His daughter Boshra, her daughter, his son-in-law, and daughter-in-law were also killed.
 - A missile struck a girls' school adjacent to a naval base in Minab, near Bandar Abbas, killing ~170 people.
-- As of April 7, 2026: **HRANA**: **3,540 killed** (1,616 civilians, 244 children) as of Apr 7 — up from 3,461 on Mar 29. **Al Jazeera tracker**: **2,076+ killed** (Health Ministry). **Red Crescent**: **1,900+ killed, 26,500+ injured**. **Iran International**: **4,700+ security forces killed**. **Hengaw**: **5,300 killed in 18 days** (early figure). The **Iranian Red Crescent Society** reported **82,000+ civilian structures** damaged or destroyed (Mar 24). Six children under 10 killed in overnight Israeli-US strikes (Apr 6-7). US has hit **two-thirds of Iran's missile and drone production facilities**. Iran's internet blackout has made independent casualty verification extremely difficult. *Sources: HRANA, Al Jazeera, Japan Times, WashPost, Iran International*
+- As of April 8, 2026: **HRANA**: **3,546+ killed** (1,616 civilians, 244 children) as of Apr 7 — up from 3,540 on Apr 6. **Al Jazeera tracker**: **2,076+ killed** (Health Ministry). **Red Crescent**: **1,900+ killed, 26,500+ injured**. **Iran International**: **4,700+ security forces killed**. Nearly **three dozen killed** in renewed US-Israeli strikes on Apr 7 before ceasefire announcement. The **Iranian Red Crescent Society** reported **82,000+ civilian structures** damaged or destroyed (Mar 24). US has hit **two-thirds of Iran's missile and drone production facilities**. Iran's internet blackout has made independent casualty verification extremely difficult. *Sources: HRANA, Al Jazeera, Japan Times, WashPost, Iran International, NewsNation*
 - Iran has responded with **500+ ballistic/naval missiles and ~2,000 drones** since Feb 28, striking US military presence and civilian infrastructure across **9 countries** including Bahrain, Kuwait, Qatar, Saudi Arabia, Oman, and the UAE.
-- At least **23+ Israeli civilians killed and 6,833+ total casualties evacuated to hospitals** as of April 7, 2026. On April 5, an **Iranian missile struck a residential building in Haifa**, killing **4 civilians** — Lena Ostrovsky (68), Vladimir Gershovich (73), son Dima (42), and wife Lucille Jean (~25). The top three floors collapsed; an 18-hour rescue operation recovered the bodies. The **IDF is investigating the failure to intercept** the missile. Iranian missiles also struck Dimona and Arad on March 21-22, wounding **180**. On March 25, Iranian missiles struck **Tel Aviv** after a **David's Sling malfunction**. Iran launched missiles at **Jerusalem** on April 5 — debris fell near **Al-Aqsa Mosque/Temple Mount**. **434+ total Iranian attack waves** identified since Feb 28. *Sources: Haaretz, Times of Israel, Al Jazeera, CNN*
-- **15 US service members killed** (includes 7 killed by enemy fire in Gulf, 6 in Iraq plane crash Mar 13, 1 died of wounds at Prince Sultan, 1 additional confirmed) and **365+ wounded** (NPR, Apr 4). Missing F-15E WSO **rescued** by special operations forces on April 5 after 36 hours of evasion (see below). Trump celebrated the rescue at a **White House press conference on April 6** before pivoting to threaten that **"the entire country can be taken out in one night."**
+- At least **26+ Israeli civilians killed and 7,183+ total wounded** as of April 8, 2026. Iran fired **ballistic missile salvos at central and southern Israel** on April 7 during a Jewish holiday. On April 5, an **Iranian missile struck a residential building in Haifa**, killing **4 civilians** — Lena Ostrovsky (68), Vladimir Gershovich (73), son Dima (42), and wife Lucille Jean (~25). The top three floors collapsed; an 18-hour rescue operation recovered the bodies. The **IDF is investigating the failure to intercept** the missile. Iranian missiles also struck Dimona and Arad on March 21-22, wounding **180**. On March 25, Iranian missiles struck **Tel Aviv** after a **David's Sling malfunction**. Iran launched missiles at **Jerusalem** on April 5 — debris fell near **Al-Aqsa Mosque/Temple Mount**. **434+ total Iranian attack waves** identified since Feb 28. *Sources: Haaretz, Times of Israel, Al Jazeera, CNN*
+- **15 US service members killed** (includes 7 killed by enemy fire in Gulf, 6 in Iraq plane crash Mar 13, 1 died of wounds at Prince Sultan, 1 additional confirmed) and **380+ wounded** (up from 365 after 15 wounded in Ali Al Salem drone strike Apr 7). Missing F-15E WSO **rescued** by special operations forces on April 5 after 36 hours of evasion. Trump celebrated the rescue at a **White House press conference on April 6** before pivoting to threaten that **"the entire country can be taken out in one night."**
 - A US Senate **war powers vote failed**, allowing Trump to continue Iran strikes without new authorization.
 
 ### Kharg Island Raid (March 13, 2026)
@@ -861,6 +861,97 @@ Iran struck military and civilian targets across at least 9 countries plus Israe
 - **Europe**: Energy security threatened; aviation and tourism sectors declined. Natural gas prices nearly doubled after Qatar halt.
 - **Goldman Sachs** warns triple-digit oil prices may persist for years (CNN, Mar 20).
 
+### Trump Agrees to Two-Week Ceasefire (April 7, 2026)
+- Less than **two hours** before his 8 PM ET deadline, Trump posted on **Truth Social**: **"This will be a double sided CEASEFIRE!"** and stated he has agreed **"to suspend the bombing and attack of Iran for a period of two weeks."**
+- Trump said: **"We have already met and exceeded all Military objectives, and are very far along with a definitive Agreement concerning Longterm PEACE with Iran, and PEACE in the Middle East."**
+- He called Iran's 10-point proposal a **"workable basis"** for negotiations and expected an agreement to be **"finalized and consummated"** during the two-week window.
+- The ceasefire was conditioned on Iran agreeing to the **"COMPLETE, IMMEDIATE, and SAFE OPENING of the Strait of Hormuz."**
+- **Pakistan PM Shehbaz Sharif** mediated — he asked Trump for a two-week extension and asked Iran to open Hormuz for two weeks as a **"goodwill gesture."** Sharif urged all warring parties to observe a ceasefire "everywhere."
+- White House press secretary **Karoline Leavitt** had earlier said: **"The President has been made aware of the proposal, and a response will come."**
+- A **senior Iranian official** told **Reuters** that Tehran was **"positively reviewing"** the Pakistani ceasefire proposal.
+- This is the **third time** Trump has set a deadline and then delayed: **March 28 → April 6 → April 7 → now ~April 21**.
+- **PBS** noted the pattern: **"3 times Trump has given Iran deadlines and then delayed them."**
+- The ceasefire announcement came after a day of **maximum escalation rhetoric** and military strikes, representing a dramatic shift within hours from existential threats to diplomatic engagement.
+- *Sources: Bloomberg, CNN, Al Jazeera, Fox News, Axios, NBC, Globe and Mail, ABC, Irish Times, PBS, CNBC*
+
+### US Re-Strikes Kharg Island — Second Time (April 7, 2026)
+- The US military carried out a **fresh round of strikes** on **Kharg Island** on April 7, hitting **more than fifty military targets** — runways, bunkers, storage facilities, and air defense systems.
+- A US official described them as **"re-strikes"** — targets that the US has hit previously.
+- **Oil infrastructure was deliberately spared again** — this is the second time the US has attacked Kharg without touching oil facilities (first was March 13).
+- **No US ground troops** were involved — the strikes were entirely air-delivered.
+- Oil prices **spiked 3%** after the attack, with Brent crude jumping above $110/barrel.
+- The dual Kharg strikes (Mar 13 and Apr 7) definitively demonstrate the US approach: **air strikes on military targets, oil infrastructure preserved as leverage, no ground operations**.
+- *Sources: NPR, CNN, JPost, Navy Times, NBC, UPI, WCNC*
+
+### Israel Bombs 8 Bridges and Railways Across Iran (April 7, 2026)
+- The **Israeli Air Force** bombed **8 rail sections and bridges** in Iran on Tuesday, claiming they were used by the IRGC for **"transporting weapons and military equipment."**
+- Strikes hit infrastructure in **Tehran, Karaj, Tabriz, Kashan, and Qom**.
+- Israel's military warned Iranians to **"refrain from using and travelling by train throughout Iran until 21:00 Iran time"** — a remarkable wartime travel advisory to an entire nation.
+- At least **2 people were killed** in an Israeli strike on the **Yahya Abad railway bridge** in central Iran's **Kashan** city.
+- Prime Minister **Benjamin Netanyahu** confirmed the strikes, stating they hit infrastructure **"used by"** Iran's Islamic Revolutionary Guard Corps.
+- Additionally, multiple **railway lines, freeways, and other roads** across Iran were struck.
+- *Sources: Al Jazeera, Times of Israel, CBS, Washington Post, RailTech, Tribune India*
+
+### Trump: "A Whole Civilization Will Die Tonight" (April 7, 2026)
+- In the morning of April 7, Trump posted on **Truth Social**: **"A whole civilisation will die tonight, never to be brought back again. I don't want that to happen, but it probably will."**
+- At a press conference, Trump stated: **"Every bridge in Iran will be decimated by 12 o'clock tomorrow night, where every power plant in Iran will be out of business — burning, exploding and never to be used again. I mean complete demolition by 12 o'clock."**
+- **Amnesty International** demanded **"urgent global action to prevent atrocity crimes,"** stating Trump's threats constituted threatening **"large-scale civilian devastation."**
+- **Legal experts** told NPR that wide-scale destruction of civilian infrastructure **"would be considered a war crime"** under international and US law.
+- **The Intercept** quoted former Pentagon officials calling on the military to **disobey orders** if Trump directed strikes on civilian power plants.
+- Hours later, Trump reversed course and announced the two-week ceasefire — the most dramatic rhetorical whiplash of the entire conflict.
+- *Sources: NPR, PBS, Time, Al Jazeera, CNN, CBS, NBC, Amnesty International, The Intercept*
+
+### Iran Forms Human Chains Around Power Plants (April 7, 2026)
+- Iran on Tuesday **urged youths to form human chains** around power plants to protect them from US strikes.
+- President **Masoud Pezeshkian** posted that **14 million Iranians** — including himself — **"have declared their readiness to sacrifice their lives"** in defense of their country. The figure was **double** what state media had previously reported.
+- Iran's official **Fars state news agency** posted video showing a **"human chain in front of the Kazerun combined cycle power plant."**
+- Iran FM spokesman **Esmail Baqaei** told reporters that US officials **"have been trying to intimidate Iranians with such literature for 48 years"** but **"Iranians are not going to be subdued by such deadlines."**
+- *Sources: Fortune, PBS, CBS, NPR, Military.com, OPB, KSAT*
+
+### IRGC Declares "Restraint Is Over" (April 7, 2026)
+- The **IRGC** declared that **"all reservations"** on targeting in the region **"have been removed."**
+- The statement warned: **"We will target the infrastructure of America and its partners in such a way that America and its allies will be deprived of the region's oil and gas for years."**
+- The IRGC added: **"America's regional partners should also know that until today, we have exercised great restraint for the sake of good neighborliness and have had some reservations in choosing targets for retaliation, but all these reservations have since been removed."**
+- A further warning: **"if the American terrorist army crosses the red lines, our response will go beyond the region."**
+- The statement represents the **most aggressive IRGC posture** since the war began — explicitly threatening long-term energy disruption for the entire region.
+- *Sources: Gateway Pundit, Times of Israel, NBC, Tasnim, IBTimes, Middle East Eye*
+
+### 15 Americans Wounded at Ali Al Salem Airbase, Kuwait (April 7, 2026)
+- An Iranian **drone strike** on the **Ali Al Salem air base** in Kuwait wounded **15 Americans** overnight (April 6-7).
+- Most of those injured have since **returned to duty**.
+- The attack brought the total number of US wounded to approximately **380+** — up from 365 (NPR, Apr 4).
+- Ali Al Salem Air Base is a key US staging facility in Kuwait hosting **Air Force combat and support operations**.
+- *Sources: CBS, Middle East Eye, Al Mayadeen, Democracy Now, GlobalSecurity, APA*
+
+### UN Security Council Hormuz Resolution Vetoed by Russia and China (April 7, 2026)
+- **Russia and China vetoed** a UN Security Council resolution aimed at reopening the Strait of Hormuz — just hours before Trump's deadline.
+- The resolution received **11 votes in favor** and **2 against** (Russia and China), with **Pakistan and Colombia abstaining**.
+- The original **Bahrain-sponsored** text had called for **"all necessary means"** — including military action — to secure the waterway. After Russia, China, and France objected, it was **watered down** to authorize only **"all defensive means necessary."** Even this weakened version was vetoed.
+- Russia's Ambassador **Vassily Nebenzia**: the resolution presented Iranian actions as the **"sole source of regional tensions"** while illegal US-Israeli attacks were **"not mentioned at all."**
+- China's Ambassador **Fu Cong**: the draft **"failed to capture the root causes and the full picture of the conflict in a comprehensive and balanced manner."**
+- The veto demonstrates that **Iran has powerful diplomatic protection** at the Security Council, making any UN-authorized military enforcement of Hormuz transit impossible.
+- *Sources: UN News, Fox News, Bloomberg, PBS, Al-Monitor, Haaretz, Inquirer*
+
+### King Fahd Causeway Temporarily Closed (April 7, 2026)
+- The **King Fahd Causeway** — the only road link between **Saudi Arabia and Bahrain** (25 km) — was **temporarily closed** due to Iranian air raid threats in Saudi Arabia's Eastern Province.
+- The **King Fahd Causeway Authority** announced the suspension as a **precautionary measure** amid the escalating security situation.
+- The bridge holds **strategic importance** — Bahrain hosts the **US Fifth Fleet**.
+- The closure was later **lifted** after the threat cleared and vehicle crossing resumed.
+- *Sources: Newsmax, WTOP, Las Vegas Sun, LiveUAMap, APN News, The Peninsula Qatar*
+
+### Dated Brent Spot Hits All-Time Record $144.42 (April 7, 2026)
+- **Dated Brent**, which helps value most of the world's oil transactions, hit **$144.42 a barrel** on Tuesday — the **highest since Platts first began publishing the measure in 1987**.
+- Brent **futures** traded near **$109** — a **$35+ divergence** from spot prices, indicating acute physical scarcity.
+- **12 unanswered bids** appeared in a key oil-pricing window — the latest sign of tightness in global crude markets (Bloomberg).
+- The record price came as the US struck military targets on Kharg Island and Trump's deadline loomed.
+- *Sources: Bloomberg, CNBC, Trading Economics*
+
+### South Pars Electricity Units Struck (April 7, 2026)
+- **Two electricity-generating units** for the **South Pars gas field** were struck in US-Israeli attacks.
+- Iranian officials called it a **"huge escalation"** and a sign that the US and Israel intend to **"destroy the survival capabilities of the Iranian people."**
+- South Pars is the world's largest natural gas field; targeting its power supply could cripple remaining gas processing capacity.
+- *Sources: Al Jazeera, CBS*
+
 ---
 
 ## 2. Israel-Iran Conflict
@@ -984,10 +1075,10 @@ Iran struck military and civilian targets across at least 9 countries plus Israe
 - The war continues as a grinding attritional conflict. Ukraine maintains significant territory and fighting capability.
 - Ukraine has become a **drone superpower**, with its drone technology being noted in context of the Iran war.
 - **Zelensky says frontline "best for Ukraine in 10 months"** (Apr 3) — **British intelligence concurs**. First time since mid-2025 that Ukraine's position assessed as improving. *(US News, Ukrinform)*
-- **Combat engagements dropped to 149/day** on April 4 (from 213-230 peak on Apr 2-3); **Kostiantynivka and Pokrovsk** remain hottest sectors. *(EMPR, Ukrinform)*
+- **Combat engagements rose to 157/day** on April 7 (up from 120 on Apr 6; earlier decline from 213-230 peak on Apr 2-3); **Pokrovsk** remains heaviest sector. Russian **FPV drone** struck a **passenger bus** in central **Nikopol, Dnipropetrovsk Oblast**, killing **3 people** and injuring **16** (3 critically); an **11-year-old boy** was killed in a separate attack in the same region. *(Ukrinform, Kyiv Independent)*
 - **Ukraine regained 12 settlements** on the **Oleksandrivka axis** (8 in Dnipropetrovsk region, 4 in Zaporizhzhia region) — significant counteroffensive gains. *(Russia Matters, EMPR)*
 - Russia launched **93 Shahed-type drones** overnight April 5 — Ukraine downed **76**; **Odesa** struck, residential building damaged, **3 injured**. *(Kyiv Independent, Ukrinform)*
-- Russia total combat losses since Feb 24, 2022 reached approximately **1,303,550 personnel** (~1,180/day). Russia deploying **mobilized personnel on battlefield from April 1**. *(Ukrinform, Pravda France)*
+- Russia total combat losses since Feb 24, 2022 reached approximately **1,305,470 personnel** (+980 on Apr 7). Russia deploying **mobilized personnel on battlefield from April 1**. *(Ukrinform, Pravda France)*
 - **Zelensky visited Syria** (April 5) — **first Ukrainian president** to visit; met President **Ahmad al-Sharaa** in Damascus; trilateral meeting with Turkish FM **Hakan Fidan**; discussed **security cooperation, drone expertise exchange, and food security**. Part of broader regional tour seeking air defense missiles in exchange for Ukrainian drone technology. *(Al-Monitor, Daily Sabah, SANA, AA, Asharq Al-Awsat)* 
 - **Lt. Gen. Alexander Otroshchenko** killed in An-26 crash in Crimea (Apr 1) — 29 dead; 14th Russian general killed since Feb 2022; possible own air defense shootdown. *(United24, Euromaidan Press, Kyiv Independent)*
 - Ukraine struck Kirovske airfield in Crimea overnight Apr 2. Russian drones attacked Odesa port infrastructure. *(Kyiv Independent)*
@@ -1127,7 +1218,11 @@ Iran struck military and civilian targets across at least 9 countries plus Israe
 - **US intelligence assessment** (Mar 18-19): China does **NOT plan to invade Taiwan in 2027** and seeks to control the island without force (Military Times, Al Jazeera, SCMP).
 - However, China's military is **closely studying** the US-Israeli operation against Iran, learning lessons for a possible Taiwan conflict (Bloomberg, Mar 18).
 - Trump expressed interest in meeting **Kim Jong Un** when visiting China for the May summit, but unlikely as US hasn't changed North Korea policy.
-- *Sources: Bloomberg, Military Times, Al Jazeera, SCMP, AEI, Supply Chain Dive, Washington Times, CNBC, USTR, The Diplomat, Taipei Times*
+- **April 7**: **China and Russia vetoed** UN Security Council resolution on Strait of Hormuz — demonstrating Beijing's willingness to shield Iran diplomatically, complicating any UN-authorized enforcement. *(UN News, Bloomberg, PBS)*
+- **April 7**: **KMT Chairman Eric Chu** visited China for a **"peace mission"** — the latest cross-strait diplomatic overture ahead of the May Trump-Xi summit. *(Japan Times, SCMP)*
+- US-China **goods trade deficit declined 30%** in 2025 to **$202.1 billion** — lowest since the early 2000s, reflecting decoupling trend. *(SCMP)*
+- A **bipartisan group of US senators** visited Taiwan and urged lawmakers to approve a **$40 billion supplementary military budget** to deter Chinese invasion. *(WashPost)*
+- *Sources: Bloomberg, Military Times, Al Jazeera, SCMP, AEI, Supply Chain Dive, Washington Times, CNBC, USTR, The Diplomat, Taipei Times, UN News, PBS, Japan Times, WashPost*
 
 ---
 
@@ -1171,7 +1266,9 @@ Iran struck military and civilian targets across at least 9 countries plus Israe
 - **April 3**: **Bloomberg** reported North Korea **demolished villages near Sohae satellite/missile launch site** — hundreds of buildings including two villages bordering the station on the western coast razed in March, suggesting **expansion of ICBM/space launch infrastructure**.
 - **April 2026**: Kim Jong Un visited a new **cemetery and museum commemorating soldiers killed in the joint war with Russia** in Ukraine. Burials for soldiers who **died and committed suicide** during the deployment will take place in **"mid-April"**. *(NK News)*
 - **April 2026**: **38 North** published analysis on **"Drones and Operational Shift: North Korea's Adaptation to a Changing Warfare Environment"** — NK studying and adapting drone tactics from Ukraine experience, with implications for future Korean Peninsula operations.
-- *Sources: CNN, Japan Times, Anadolu Agency, Al Jazeera, US News, NK News, Stimson Center, Pravda, Daily NK, KCNA, 38 North, Arms Control Association, UPI, Bloomberg*
+- **April 6**: South Korean lawmakers briefed that North Korea is **working on a carbon-fiber ICBM** designed for **multi-warhead delivery** — the first indication of DPRK **MIRV capability development**. Carbon fiber would extend range and allow heavier/multiple warheads. *(US News)*
+- **April 2026**: Kim Jong Un **ordered a significant increase in missile and munitions production** for 2026, after factories were directed to step up production to meet growing demand from both domestic forces and Russian clients. *(Euronews)*
+- *Sources: CNN, Japan Times, Anadolu Agency, Al Jazeera, US News, NK News, Stimson Center, Pravda, Daily NK, KCNA, 38 North, Arms Control Association, UPI, Bloomberg, Euronews*
 
 ---
 

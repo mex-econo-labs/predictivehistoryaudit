@@ -1,4 +1,4 @@
-# Prediction Calibration Reference — April 7, 2026 (Scored April 3, 2026)
+# Prediction Calibration Reference — April 8, 2026 (Scored April 3, 2026)
 
 Use this document when analyzing Predictive History lectures to accurately assess prediction statuses.
 
@@ -166,6 +166,16 @@ Use this document when analyzing Predictive History lectures to accurately asses
 | HRANA: 3,540 killed in Iran | Apr 7, 2026 | Up from 3,461 (Mar 29); 1,616 civilians, 244 children; six children under 10 killed overnight Apr 6-7 |
 | Trump: 'take out all of Iran in one night' | Apr 6, 2026 | White House press conference: 'the entire country can be taken out in one night, and that night might be tomorrow night'; Apr 7 8PM ET deadline |
 | Russia sending second oil tanker to Cuba | Apr 2, 2026 | Moscow announced second tanker being loaded after Anatoly Kolodkin delivered 730K barrels; 'will not leave Cubans alone in trouble' (Euronews, US News, WashPost) |
+| Trump agrees to two-week ceasefire with Iran | Apr 7, 2026 | Posted on Truth Social: 'suspend the bombing and attack of Iran for a period of two weeks'; 'double sided CEASEFIRE'; said 'all Military objectives met and exceeded'; Pakistan PM Sharif mediated; Iran 'positively reviewing'; third deadline delay |
+| US re-strikes Kharg Island (second time) | Apr 7, 2026 | US struck 'dozens' of military targets on Kharg Island; oil infrastructure spared again; NO ground troops; confirms air-only approach |
+| Israel bombs 8 bridges + railways in Iran | Apr 7, 2026 | IDF struck 8 rail sections/bridges in Tehran, Karaj, Tabriz, Kashan, Qom; warned 'do not travel by train'; 2 killed at Yahya Abad railway bridge; Netanyahu confirmed |
+| UN Security Council Hormuz vote — Russia + China veto | Apr 7, 2026 | 11 in favor, 2 against (Russia + China vetoed), Pakistan + Colombia abstained; watered-down 'defensive measures' text still blocked |
+| 15 Americans wounded at Ali Al Salem (Kuwait) | Apr 7, 2026 | Iranian drone strike on Ali Al Salem airbase; US wounded total now 380+ |
+| IRGC declares 'restraint is over' | Apr 7, 2026 | Threatened to 'deprive US and allies of oil and gas for years'; all reservations on targets removed; 'response will go beyond the region' if red lines crossed |
+| Iran human chains around power plants | Apr 7, 2026 | Pezeshkian: 14 million Iranians registered to sacrifice lives; human chains formed at Kazerun power plant and others; double previous volunteer numbers |
+| Dated Brent spot hits all-time record $144.42 | Apr 7, 2026 | Highest since Platts began publishing in 1987; futures at ~$109.62; 12 unanswered bids in key pricing window |
+| King Fahd Causeway temporarily closed | Apr 7, 2026 | Saudi-Bahrain land bridge (25km) suspended over Iranian air raid threats in Eastern Province; later reopened |
+| NK working on carbon-fiber ICBM for multi-warhead delivery | Apr 6, 2026 | Seoul lawmakers briefed; first sign of MIRV capability development in DPRK program |
 | USS Boxer ARG arrives Hawaii | Mar 31, 2026 | USS Boxer + USS Portland + USS Comstock + 11th MEU (2,500 Marines) arrived Pearl Harbor; still ~3 weeks from CENTCOM theatre (Stars and Stripes) |
 | North Korea parliamentary elections | Mar 15, 2026 | 15th Supreme People's Assembly; Kim Jong Un reelected head of State Affairs Commission; Pak Thae Song reappointed Premier |
 | Israel forces nearing Litani River | Late Mar 2026 | IDF reached tributary of Litani near Qantara; some positions just hundreds of meters from river; FOUR divisions operating |
@@ -194,39 +204,36 @@ Use this document when analyzing Predictive History lectures to accurately asses
 ## Key Contextual Facts for Analysis
 
 ### US-Iran War
-- Air/missile campaign now in Day 39 (Apr 7); NO ground troops deployed IN Iran; GROUND OPS PROBABILITY NEGLIGIBLE
-- APR 7 8PM ET DEADLINE IS TONIGHT: Trump press conference (Apr 6): 'the entire country can be taken out in one night, and that night might be tomorrow night'; 'blow up everything'; 'Stone Ages'
-- IRAN REJECTS TEMPORARY CEASEFIRE (Apr 6-7): Sent 10-point counter-demands via Pakistan — permanent end to war, Hormuz framework, sanctions relief, reconstruction. US official: 'maximalist.' Trump: 'not good enough, but significant step'
-- 45-DAY 'ISLAMABAD ACCORD' PROPOSED: Pakistan-Egypt-Turkey mediators drafted two-phase ceasefire; Iran says won't open Hormuz for temp truce — chances of deal before tonight's deadline SLIM
+- Air/missile campaign now in Day 40 (Apr 8); NO ground troops deployed IN Iran; GROUND OPS PROBABILITY EFFECTIVELY ZERO
+- TWO-WEEK CEASEFIRE ANNOUNCED (Apr 7 evening): Trump posted on Truth Social: 'suspend the bombing and attack of Iran for a period of two weeks.' Called it a 'double sided CEASEFIRE.' Said 'all Military objectives met and exceeded.' Iran's 10-point proposal called 'workable basis.' Pakistan PM Sharif mediated. Iran 'positively reviewing.' Third time Trump set deadline and delayed
+- Ceasefire conditioned on Iran 'COMPLETE, IMMEDIATE, and SAFE OPENING of the Strait of Hormuz' — unclear whether Iran will actually open Hormuz
+- Earlier Apr 7: US re-struck Kharg Island (second time, air only); Israel bombed 8 bridges + railways; IRGC declared 'restraint is over'; 15 Americans wounded at Ali Al Salem (Kuwait)
+- Trump: 'a whole civilization will die tonight' — followed hours later by ceasefire announcement. Pattern of maximum rhetoric → diplomatic retreat now established 3 times
 - ISRAEL STRUCK ASALUYEH (Apr 6): Iran's largest petrochemical complex (50% of production); combined with Mahshahr (35%), ~85% of petrochemical exports disrupted; 'tens of billions in damage'
 - HAIFA MISSILE KILLS 4 (Apr 5): Iranian missile collapsed residential building; Ostrovsky family + wife killed; Israeli civilian deaths now 23+
 - IRGC: 'NEW PERSIAN GULF ORDER' — Hormuz 'will never return to former status'
-- HRANA: 3,540 killed (up from 3,461); 1,616 civilians, 244 children; six children under 10 killed overnight Apr 6-7
-- Israel: 6,833+ total casualties evacuated to hospitals; 23+ civilians killed; 434+ attack waves
+- HRANA: 3,546+ killed (up from 3,540); 1,616 civilians, 244 children; ~3 dozen killed in pre-ceasefire strikes Apr 7
+- Israel: 26+ killed, 7,183+ wounded (up from 23+ killed, 6,833+); Iranian missile salvos continued Apr 7
 - Lebanon: ~1,400 killed / 4,000+ wounded; Israeli goals shifting to South Lebanon Security Zone
-- UAE intercepted 23 BMs + 56 UAVs (Apr 4); 18 BMs + 4 CMs + 47 UAVs (Apr 3)
-- US WOUNDED: 365+; 15 KIA (13 combat); WSO rescued (seriously injured)
-- USS BOXER ARG: ~2 weeks from combat zone; amphibious ops still physically impossible
-- ECONOMIC DESTRUCTION replaces GROUND INVASION: Asaluyeh strike (85% petrochemical exports disrupted); MC-130J losses prove point; War on the Rocks 'Folly of Seizing Kharg'; air escalation confirmed path
+- UAE cumulative intercepts: 498 BMs, 2,141 drones, 23 CMs since Feb 28
+- US WOUNDED: 380+ (up from 365); 15 KIA (13 combat); 15 wounded at Ali Al Salem Apr 7
+- USS BOXER ARG: ~1 week from combat zone; ceasefire makes amphibious ops moot
+- ECONOMIC DESTRUCTION confirmed as escalation path — NOT ground invasion: Asaluyeh (85% petrochemical), Mahshahr, steel plants, 8 bridges, railways — all from air
 - Israel decapitation campaign: 10+ senior officials/commanders killed
-- Oil: Brent ~$111.25 futures; physical spot $141+; gas up 37% since Feb 28; tonight's deadline threatens massive escalation on power plants + bridges
+- Oil: Brent futures ~$109.62; DATED BRENT SPOT ALL-TIME RECORD $144.42 (Platts since 1987); gas up 37% since Feb 28
 
 ### Hormuz Blockade & Regional Fallout
-- Blockade continues; Iran operating 'toll booth' vetting system; 5 nations formally allowed (China, Russia, India, Iraq, Pakistan)
-- IRAN-OMAN DRAFTING HORMUZ MONITORING PROTOCOL: Joint framework requiring permits, documentation, transit fees — Iran attempting to FORMALIZE post-war control
-- IRGC: 'NEW PERSIAN GULF ORDER' (Apr 5-6): Hormuz 'will never return to former status'; preparing indigenous security architecture without US/Israeli presence
-- IRAN REJECTS TEMP CEASEFIRE + 10-POINT DEMANDS (Apr 6-7): Won't open Hormuz for temporary truce; demands permanent deal, sanctions relief, reconstruction
-- 45-DAY 'ISLAMABAD ACCORD' PROPOSED: Pakistan-Egypt-Turkey two-phase ceasefire — Iran reviewing but fundamental incompatibility on Hormuz reopening
-- UN SECURITY COUNCIL HORMUZ VOTE DELAYED: Bahrain watered down text; China/Russia/France oppose force authorization
-- APR 7 8PM ET DEADLINE IS TONIGHT: Trump: 'take out all of Iran in one night'; power plants + bridges threatened
-- UK 41-nation Hormuz conference (Apr 2): 41 countries demanding Iran cease blockade; military planners meeting next week; US DID NOT ATTEND
+- Blockade continues; TWO-WEEK CEASEFIRE conditioned on Iran opening Hormuz — key test of whether Iran will comply
+- Iran operating 'toll booth' vetting system; 5 nations formally allowed (China, Russia, India, Iraq, Pakistan)
+- IRAN-OMAN DRAFTING HORMUZ MONITORING PROTOCOL: Joint framework requiring permits, transit fees — Iran attempting to FORMALIZE post-war control
+- IRGC: 'NEW PERSIAN GULF ORDER' + 'RESTRAINT IS OVER' (Apr 5-7): All reservations on targets removed; threatened to deprive US/allies of oil 'for years'
+- UN SECURITY COUNCIL HORMUZ VOTE — VETOED BY RUSSIA + CHINA (Apr 7): 11-2 vote; Pakistan + Colombia abstained; even watered-down 'defensive measures' text blocked
+- King Fahd Causeway (Saudi-Bahrain) temporarily closed Apr 7 over Iranian threats
+- UK 41-nation Hormuz conference (Apr 2): military planners meeting scheduled; US DID NOT ATTEND
 - 23+ direct attacks on commercial vessels since Feb 28; 11+ crew deaths
-- OIL CRISIS: Brent ~$111.25 futures; physical spot $141+ (highest since 2008). IEA: April 'much worse' — pre-war cargoes exhausted. Jet fuel/diesel shortages hitting Asia. Gas up 37% since Feb 28. Hormuz also disrupting ~1/3 of world's helium supply
-- ASALUYEH + MAHSHAHR STRUCK — 85% of petrochemical exports disrupted from air strikes (Apr 4-6)
-- Iran drone struck Kuwait Al-Ahmadi refinery (Apr 3-4) — 450K bbl/day; fires in several units; third time hit
+- OIL CRISIS: Dated Brent spot ALL-TIME RECORD $144.42 (Apr 7); futures ~$109.62. IEA: April 'much worse' than March. Jet fuel/diesel shortages in Asia. ~1/3 of world's helium supply disrupted
 - 2,000+ vessels and 20,000 seafarers stranded (IMO)
-- Japan: 254 days SPR; South Korea: energy-saving campaign; India: passage but LPG crisis; Asia energy chaos deepening (CFR)
-- Apr 7 8PM ET deadline IS TONIGHT — Trump threatening to 'take out all of Iran in one night'
+- Ceasefire creates 2-week window where Hormuz opening could happen — or could remain closed if Iran defies condition
 
 ### Venezuela, Cuba, Colombia
 - **Venezuela**: Maduro trial in pretrial phase; legal experts say trial unlikely this year. Rodriguez acting president; US recognized Mar 11; US Embassy resuming operations. Sea Horse tanker rerouted from Cuba to Venezuela (Apr 2)
@@ -236,20 +243,26 @@ Use this document when analyzing Predictive History lectures to accurately asses
 ### Russia-Ukraine War (April 2026)
 - War continues as grinding attritional conflict — Ukraine has NOT "lost"
 - Russia occupies ~20% of territory
-- Combat engagements at 120/day on Apr 6 (continuing decline from 149 on Apr 4, 213-230 peak); Pokrovsk direction heaviest (25 clashes)
-- Ukraine previously regained 12 settlements on Oleksandrivka axis
-- Russia total losses ~1,304,490 per Ukraine (+940/day on Apr 6); lost 2 tanks, 10 AFVs, 58 artillery in latest period
+- Combat engagements UP to 157/day on Apr 7 (from 120 on Apr 6); Pokrovsk direction remains heaviest
+- Ukraine counter-attacks in Hulyaipole and Oleksandrivka directions disrupting Russian Pokrovsk operations
+- Feb 2026 was first month since 2024 when Ukraine regained more territory than it lost
+- Russia total losses ~1,305,470 per Ukraine (+980/day on Apr 7)
+- FPV drone killed 3 on passenger bus in Nikopol; 11-year-old killed in separate attack (Dnipropetrovsk Oblast)
 - Russia deployed mobilized personnel from April 1; declared Luhansk 'liberated' (Apr 1) — symbolic
-- Zelensky visited Syria (Apr 5, first ever) — met al-Sharaa; trilateral with Turkish FM Fidan; security cooperation and drone expertise exchange
+- Zelensky visited Syria (Apr 5, first ever)
 - Trump-Zelensky agreed on 90-95% of peace proposal; major gaps remain; Abu Dhabi talks postponed
 - Record 67% of Russians support peace negotiations
-- Iran war continues to divert attention; Russian oil commanding premium
+- Iran two-week ceasefire may refocus attention/resources on Ukraine theatre
 
 ### US-China Trade
 - SCOTUS struck down IEEPA tariffs Feb 20, 2026 (6-3 decision); Trump shifted to 10% global tariff under Section 122 of Trade Act
 - China tariffs reduced from 57% to 47%; trade truce extended by a year
 - Trump-Xi summit confirmed May 14-15 in Beijing (rescheduled from Mar 31-Apr 2 due to Iran war); reciprocal Xi visit to DC later in 2026
 - Record $11.1B Taiwan arms deal announced — casting shadow over Beijing visit; Beijing: Taiwan is 'most important issue'
+- China + Russia VETOED UN Security Council Hormuz resolution (Apr 7) — 11-2 vote
+- US-China goods trade deficit declined 30% in 2025 to $202.1B (lowest since early 2000s)
+- US bipartisan senators visited Taiwan urging $40B supplementary military budget
+- KMT Chairman Eric Chu visited China Apr 7 for 'peace mission' — cross-strait diplomatic overture
 - China FM said US-Israeli attacks on Iran violate international law (Apr 2)
 - China launched 2 reciprocal trade investigations against US (Mar 27)
 - US-Taiwan Agreement on Reciprocal Trade (ART) signed Feb 12 — $250B Taiwanese investment in US tech/chips
@@ -266,15 +279,15 @@ Use this document when analyzing Predictive History lectures to accurately asses
 - GDP grew 3.1% (2023) and 3.7% (2024) — war profiteering from Russia
 - Arms sales returned $20B+; 11,000-15,000 troops deployed to Russia
 - But remains one of world's poorest per capita; windfall unsustainable
+- WORKING ON CARBON-FIBER ICBM FOR MULTI-WARHEAD DELIVERY (Apr 6): Seoul lawmakers briefed; first sign of MIRV capability development
 - Ground-tested 'newly upgraded' solid-propellant rocket motor; max thrust 2,500 kN — 26% increase (KCNA, Mar 29; 38 North)
-- DEMOLISHING VILLAGES NEAR SOHAE MISSILE/SATELLITE SITE (Bloomberg, Apr 3): Hundreds of buildings razed in March; expansion of ICBM/space launch infrastructure
-- Kim visited new CEMETERY FOR SOLDIERS KILLED IN UKRAINE — burials for dead and suicides mid-April (NK News)
+- DEMOLISHING VILLAGES NEAR SOHAE MISSILE/SATELLITE SITE (Bloomberg, Apr 3): Hundreds of buildings razed
+- Kim ordered significant increase in missile/munitions production for 2026
+- Kim visited new CEMETERY FOR SOLDIERS KILLED IN UKRAINE — burials mid-April
 - 38 North (Apr 2026): drones and operational shift — NK adapting warfare tactics from Ukraine experience
 - Kim demands US recognize DPRK as nuclear state for talks
-- Condemned UN Human Rights Council resolution as 'grave political provocation'
-- Tourism closed except to Russians; Pyongyang Marathon held (first in 6 years)
-- Kim looking to Trump-Xi May 14-15 summit as pivotal window
 - Kim invoked Iran war to declare nuclear status 'irreversible'
+- Kim looking to Trump-Xi May 14-15 summit as pivotal window
 
 ### Plaza Accord
 - Multilateral agreement (US, Japan, France, West Germany, UK) — not unilateral US diktat
