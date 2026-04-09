@@ -1,5 +1,5 @@
 {
-  "briefing_date": "2026-04-09",
+  "briefing_date": "2026-04-10",
   "last_scoring_date": "2026-04-03",
   "next_scoring_date": "2026-05-03",
   "theatres": [
@@ -7,7 +7,7 @@
       "name": "Iran / Strait of Hormuz",
       "status": "disconfirmed",
       "status_label": "active war",
-      "summary": "Day 41 — CEASEFIRE DAY 1: FRAGILE TRUCE IMMEDIATELY CRACKS. Iran's SNSC formally accepted two-week ceasefire. BUT: LAVAN ISLAND REFINERY + SIRRI ISLAND EXPORT FACILITIES STRUCK ~06:30 GMT APR 8 — HOURS AFTER CEASEFIRE — NO PARTY CLAIMS RESPONSIBILITY (US + ISRAEL BOTH DENY). IRAN RETALIATES AGAINST GULF STATES: UAE (17 BMs + 35 DRONES INTERCEPTED), KUWAIT (28 DRONES ON OIL/POWER), QATAR (7 BMs + DRONES), BAHRAIN (2 INJURED IN SITRA). ISRAEL KILLS 254 IN LEBANON — LARGEST SINGLE-DAY ATTACK SINCE MAR 2: 50 IAF JETS, 160 MUNITIONS, 100 TARGETS IN 10 MINUTES. NETANYAHU: CEASEFIRE 'DOES NOT INCLUDE LEBANON'. IRAN THREATENS TO WITHDRAW FROM CEASEFIRE IF LEBANON ATTACKS CONTINUE. IRAN HALTS TANKER TRANSIT CITING LEBANON STRIKES. HORMUZ PARTIALLY REOPENS FOR BULK CARRIERS ONLY — ~11 SHIPS IN 24 HOURS (~8% OF NORMAL). IRGC CHARGING TOLLS UP TO $2M PER TANKER IN CRYPTO/YUAN. TRUMP: HORMUZ OPEN 'WITHOUT LIMITATION, INCLUDING TOLLS'. OIL CRASHES: BRENT FUTURES -15% TO ~$94/bbl; DATED SPOT STILL ~$120+. VANCE + WITKOFF + KUSHNER HEADING TO ISLAMABAD FOR SATURDAY TALKS — HIGHEST-LEVEL US-IRAN MEETING SINCE 1979. Iran sending Qalibaf + Araghchi. HRANA: 3,597+ KILLED (1,665 civilians, 1,221 military). NK FIRES MULTIPLE SRBMs FROM WONSAN — SECOND CONSECUTIVE DAY.",
+      "summary": "Day 43 — CEASEFIRE DAY 3: ISLAMABAD TALKS BEGIN AS IRAN CONFIRMS MINES IN HORMUZ. IRGC published map showing anti-ship mines in Hormuz main traffic zone — FIRST OFFICIAL CONFIRMATION mines are in the water. IRGC: strait 'will NEVER return to its previous status.' Only ~4-5 ships transiting/day (bulk carriers only, NO tankers). Brent futures REBOUND to ~$98.27 (+3.7%) as market realizes Iran still controls Hormuz. TRUMP: military 'loading up and resting, looking forward to its next Conquest' — all forces remain near Iran until 'REAL AGREEMENT' honored. NETANYAHU ANNOUNCES DIRECT NEGOTIATIONS WITH LEBANON after Witkoff told him to 'calm down' — talks at State Dept next week (Israeli amb Leiter, Lebanese amb Moawad). BUT: 'No ceasefire in Lebanon' — IDF continues strikes (17+ killed Apr 9 in Bint Jbeil, Dahieh, Abbassiyeh; overnight Beirut strikes killed 10+). Hezbollah fires 30+ rockets at northern Israel (Kiryat Shmona) — no injuries. KHAMENEI 40-DAY MOURNING: mass rallies across Iran; Mojtaba Khamenei ABSENT — intel reports 'unconscious' in Qom since Feb 28 strike. Lebanon total: ~1,739 killed / 5,873 wounded. ISLAMABAD TALKS BEGIN TODAY (Apr 10) at Serena Hotel — Vance + Witkoff + Kushner vs Qalibaf + Araghchi. Ceasefire deadline Apr 22. NK confirmed cluster-bomb warheads on Hwasong-11 missiles. Ukraine: 164 combat engagements; Pokrovsk most active.",
       "countries": [
         "Iran",
         "Israel",
@@ -30,7 +30,7 @@
       "name": "Russia-Ukraine War",
       "status": "untested",
       "status_label": "grinding war — talks paused",
-      "summary": "Russia holds ~20% of Ukraine. Zelensky offered Easter ceasefire — Russia appears unwilling to agree. Ukraine's DIU special forces DESTROYED RUSSIA'S LAST RAILWAY FERRY IN KERCH STRAIT. Russian military transporting equipment through Mariupol toward Huliaipole. Ukraine regained 480 sq km since late January per army chief. Combat engagements elevated. Russia total losses ~1,305,470+. Pokrovsk direction remains heaviest. February 2026 was first month since 2024 when Ukraine regained more territory than lost. Abu Dhabi trilateral talks still postponed. Iran war ceasefire may refocus attention on Ukraine theatre.",
+      "summary": "Russia holds ~20% of Ukraine. 164 combat engagements on Apr 9 — Pokrovsk sector most active with 32 assault actions repelled. Russian daily losses: 1,040 personnel, 64 artillery systems, 2,238 UAVs. Russia deployed 10,100 kamikaze drones and 250 guided bombs in single day. Zelensky offered Easter ceasefire — Russia unwilling. Ukraine DIU destroyed Russia's last Kerch Strait railway ferry. Ukraine regained 480 sq km since late January. Feb 2026 first month since 2024 Ukraine regained more territory than lost. Russia total losses ~1,306,510+. Abu Dhabi talks still postponed. Iran ceasefire may refocus attention on Ukraine theatre.",
       "countries": [
         "Russia",
         "Ukraine"
@@ -62,7 +62,7 @@
       "name": "East Asia — DPRK / Korean Peninsula",
       "status": "untested",
       "status_label": "elevated risk",
-      "summary": "NK FIRES MULTIPLE SRBMs FROM WONSAN (Apr 8) — second consecutive day of launches; 4th launch event of 2026. Missiles flew ~240km + one 700km missile into East Sea. Declared South Korea 'most hostile enemy.' Working on CARBON-FIBER ICBM for multi-warhead delivery per Seoul lawmakers (Apr 6). Demolishing villages near Sohae satellite/missile launch site. Kim visited cemetery for Ukraine war dead — burials mid-April. Ground-tested upgraded solid-propellant rocket motor; max thrust 2,500 kN (26% increase). Kim ordered significant increase in missile/munitions production for 2026. 11,000-15,000 DPRK troops deployed to Russia. Kim invoked Iran war to declare nuclear status 'irreversible.' Trump-Xi May 14-15 summit pivotal window.",
+      "summary": "NK CONFIRMS CLUSTER-BOMB WARHEADS ON HWASONG-11 MISSILES (KCNA, Apr 8-9): Three-day testing spree (Apr 6-8) included cluster-munition warhead systems on nuclear-capable Hwasong-11 missiles, anti-aircraft weapons, electromagnetic weapons, and carbon-fiber bombs. Missiles flew 240-700km. US military: launches posed 'no immediate threat.' Working on carbon-fiber ICBM for multi-warhead delivery. Demolishing villages near Sohae launch site. Kim visited cemetery for Ukraine war dead. Ground-tested upgraded solid-propellant rocket motor; max thrust 2,500 kN (26% increase). 11,000-15,000 DPRK troops deployed to Russia. Kim invoked Iran war to declare nuclear status 'irreversible.' Trump-Xi May 14-15 summit pivotal window.",
       "countries": [
         "North Korea",
         "South Korea",
@@ -73,17 +73,17 @@
   "metrics": [
     {
       "name": "Brent Crude ($/bbl)",
-      "value": "~$94.16 futures / ~$120+ spot",
-      "change": "CEASEFIRE CRASH: Brent futures PLUNGED 15%+ from ~$109.62 to ~$94.16/bbl — biggest one-day drop since 2020. Dated Brent spot still elevated ~$120+ reflecting physical scarcity. Ceasefire relief rally BUT Hormuz barely open (~11 ships in 24 hrs, 8% of normal). Iran HALTED tanker transit citing Israel's Lebanon strikes. IRGC charging tolls up to $2M/tanker in crypto/yuan. Trump demands open 'without limitation, including tolls.' Large-scale oil shipping won't restart quickly (Axios). EIA forecast Brent to peak ~$115/bbl in Q2.",
-      "change_color": "var(--score-3)",
-      "as_of": "2026-04-09"
+      "value": "~$98.27 futures / ~$124.68 spot",
+      "change": "REBOUND: Brent futures rose ~3.7% from $94.75 to $98.27 as market realizes Iran still controls Hormuz access despite ceasefire. Dated Brent spot at $124.68 — physical scarcity deepening. IRGC CONFIRMED MINES IN HORMUZ (Apr 9) — published map showing anti-ship mines in main traffic zone. Only ~4-5 ships/day transiting (down from 11 on Day 1). Iran's mine confirmation invalidates ceasefire's core premise of Hormuz reopening. Goldman: another month of closure means >$100 Brent throughout 2026. EIA forecast Brent peaking ~$115/bbl in Q2.",
+      "change_color": "var(--score-2)",
+      "as_of": "2026-04-10"
     },
     {
       "name": "Hormuz Tanker Traffic",
-      "value": "partially reopened — bulk carriers only, tankers HALTED",
-      "change": "CEASEFIRE PARTIAL OPENING: ~11 vessels in 24 hours (~8% of normal 60-135/day). First ships through: Greek NJ Earth + Liberian Daytona Beach (bulk carriers, NOT tankers). 800+ vessels still trapped. Iran HALTED tanker transit citing Israel's Lebanon strikes (Fars). IRGC charging tolls up to $2M/tanker in crypto/yuan. Trump demands open 'without limitation, including tolls.' Oil tankers specifically blocked despite ceasefire.",
-      "change_color": "var(--score-2)",
-      "as_of": "2026-04-09"
+      "value": "~4-5 ships/day (bulk carriers only); MINES CONFIRMED",
+      "change": "IRAN CONFIRMS MINES IN HORMUZ (Apr 9): IRGC published map showing anti-ship mines in main traffic zone — FIRST OFFICIAL CONFIRMATION mines are in the water. IRGC: 'all vessels are advised to coordinate with IRGC Navy and use alternative routes until further notice.' Strait 'will NEVER return to its previous status.' Down from ~11 ships on Day 1 to ~4-5 ships/day (Kpler data). Still bulk carriers only — NO oil/gas tankers. 800+ vessels trapped. IRGC tolls up to $2M in crypto/yuan. Mine confirmation potentially invalidates ceasefire's core premise of Hormuz reopening. Mine clearance could take weeks-months even with full cooperation.",
+      "change_color": "var(--score-1)",
+      "as_of": "2026-04-10"
     },
     {
       "name": "US Military KIA (Iran theatre)",
@@ -115,10 +115,10 @@
     },
     {
       "name": "Lebanon Casualties (since Mar 2)",
-      "value": "~1,654+ killed / 5,165+ injured / 1.2M+ displaced / 3 UNIFIL peacekeepers killed / 10+ IDF soldiers killed",
-      "change": "MASSIVE SURGE: 254 killed + 1,165 wounded IN A SINGLE DAY (Apr 8) — Israel's LARGEST coordinated strike since Mar 2. 50 IAF jets, 160 munitions, 100 Hezbollah targets in 10 minutes across Beirut, Bekaa, southern Lebanon. Netanyahu: ceasefire 'does not include Lebanon.' Iran threatens to withdraw from ceasefire if Lebanon attacks continue. Amnesty International: 'urgent call to protect civilians.' Total now ~1,654+ killed (1,400 + 254), 5,165+ injured (4,000 + 1,165).",
+      "value": "~1,739+ killed / 5,873+ injured / 1.2M+ displaced / 3 UNIFIL peacekeepers killed / 10+ IDF soldiers killed",
+      "change": "UP from 1,654: Continued strikes on Apr 9 — at least 17+ killed in Bint Jbeil, Dahieh, Az-Zrariyeh, Abbassiyeh, Kafra, Jmaijmeh; overnight central Beirut strikes killed 10+, injured 27 (no warning). Lebanon declared national day of mourning (Apr 9). Hezbollah fired 30+ rockets at northern Israel (Kiryat Shmona, Taibe, Manara — no injuries). NETANYAHU ANNOUNCES DIRECT NEGOTIATIONS WITH LEBANON (Apr 9) after Witkoff told him to 'calm down' — talks at State Dept next week. BUT: 'No ceasefire in Lebanon.' Israel continues operations. Total now ~1,739+ killed, 5,873+ wounded. WHO urged Israel to protect hospitals. UK FM called Israeli actions 'damaging.' German Chancellor Merz warned could 'cause failure of peace process.'",
       "change_color": "var(--score-1)",
-      "as_of": "2026-04-09"
+      "as_of": "2026-04-10"
     },
     {
       "name": "UAE Casualties",
@@ -144,9 +144,9 @@
     {
       "name": "Ukraine Territory Occupied",
       "value": "~20%",
-      "change": "Ukraine regained 480 sq km since late January per army chief. DIU special forces DESTROYED RUSSIA'S LAST RAILWAY FERRY IN KERCH STRAIT — significant logistics disruption for Crimea supply. Zelensky offered Easter ceasefire — Russia appears unwilling. Russian military transporting equipment through Mariupol toward Huliaipole. Pokrovsk direction remains heaviest. Feb 2026 was first month since 2024 Ukraine regained more territory than lost.",
+      "change": "164 combat engagements on Apr 9 — Pokrovsk sector most active (32 assault actions repelled in Rodynske, Pokrovsk, Kotlyne, etc.). Russian daily losses: 1,040 personnel, 1 tank, 2 APCs, 64 artillery, 2,238 UAVs. Russia deployed 10,100 kamikaze drones + 250 guided bombs. Mar 10-Apr 7: Russia gained only 17 sq mi. Ukraine counter-attacks in Hulyaipole/Oleksandrivka disrupting Russian ops. Kerch railway ferry destroyed. Feb 2026 first month since 2024 Ukraine regained more territory than lost.",
       "change_color": "var(--text-muted)",
-      "as_of": "2026-04-09"
+      "as_of": "2026-04-10"
     },
     {
       "name": "Cuba Fuel Imports",
@@ -164,10 +164,15 @@
     }
   ],
   "ground_invasion_tracker": {
-    "last_updated": "2026-04-09",
+    "last_updated": "2026-04-10",
     "status": "no_ground_troops",
-    "troop_count_in_theatre": "~53,500+ (CENTCOM confirmed 50,000+; USS Tripoli ARG ~3,500 in theatre; 82nd Airborne 1,000-3,000 in theatre; USS Boxer ARG still in Pacific transit — estimated ~1 week from CENTCOM). CEASEFIRE IN EFFECT SINCE APR 8. VP Vance heading to Islamabad for Saturday talks — diplomatic track now dominant. Ground invasion IMPOSSIBLE during ceasefire and talks. No new troop deployments announced. Pentagon Kharg raid planning effectively shelved.",
+    "troop_count_in_theatre": "~53,500+ (CENTCOM confirmed 50,000+; USS Tripoli ARG ~3,500 in theatre; 82nd Airborne 1,000-3,000 in theatre; USS Boxer ARG transiting Pacific — departed Pearl Harbor Apr 1, estimated days from CENTCOM). CEASEFIRE DAY 3. Islamabad talks BEGIN TODAY (Apr 10) at Serena Hotel. Trump: military 'loading up and resting, looking forward to its next Conquest' — but forces remain in place, no new deployments. Ground invasion IMPOSSIBLE during ceasefire and active negotiations.",
     "key_developments": [
+      "ISLAMABAD TALKS BEGIN TODAY (Apr 10): Vance + Witkoff + Kushner arriving at Serena Hotel, Islamabad. Iran's Qalibaf + Araghchi leading Iranian delegation. Pakistan PM Sharif mediating. HIGHEST-LEVEL US-IRAN MEETING SINCE 1979. Ceasefire deadline Apr 22. Diplomatic process fully engaged — ground operations cannot occur during active negotiations (Tribune India, Al Jazeera, Pakistan Today, The National, CNN)",
+      "TRUMP: MILITARY 'LOOKING FORWARD TO NEXT CONQUEST' (Apr 9): Truth Social: 'Our great Military is Loading Up and Resting, looking forward, actually, to its next Conquest.' All ships, aircraft, personnel remain near Iran until 'REAL AGREEMENT' honored. Rhetoric maintains military pressure but NO new deployments announced — diplomatic track dominant (CNBC, Al Jazeera, Washington Times, Newsweek, Daily Post Nigeria)",
+      "IRAN CONFIRMS MINES IN HORMUZ (Apr 9): IRGC published map showing anti-ship mines in main traffic zone. This is a DEFENSIVE/DETERRENT measure, not a ground invasion indicator. Makes Hormuz mine clearance a prerequisite for any naval operations near Iranian coast — COMPLICATES rather than enables ground ops (Haaretz, Middle East Eye, JPost, Al Arabiya, Al Bawaba)",
+      "NETANYAHU ANNOUNCES LEBANON NEGOTIATIONS (Apr 9): Direct Israel-Lebanon talks at State Dept next week after Witkoff told Netanyahu to 'calm down.' This is DIPLOMACY, not ground escalation. Israel's Lebanon operations remain separate from Iran ground invasion question (CNN, Axios, Al Jazeera, CSMonitor, Daily Caller)",
+      "CEASEFIRE DAY 2 VIOLATIONS ALL AIR/MISSILE (Apr 9): Israel continued Lebanon strikes (17+ killed); Hezbollah fired 30+ rockets at northern Israel; Kuwait reported drone attacks on vital facilities; Baghdad airport hit by Iran-backed groups. ALL air/missile events — ZERO ground force involvement (NBC, CBS, OPB, Wikipedia)",
       "CEASEFIRE DAY 1 — DIPLOMATIC TRACK REPLACES MILITARY (Apr 8): Iran's SNSC formally accepted ceasefire. VP Vance + Witkoff + Kushner heading to Islamabad for Saturday talks. Iran sending Qalibaf + Araghchi. HIGHEST-LEVEL US-IRAN MEETING SINCE 1979. This is now a diplomatic process, not a military escalation path. Ground invasion probability: ZERO during ceasefire and talks (Bloomberg, Axios, Washington Times, Al Jazeera, PBS)",
       "CEASEFIRE CRACKS DO NOT INVOLVE GROUND FORCES (Apr 8): Lavan/Sirri oil facilities struck hours after ceasefire — no party claims responsibility. Iran retaliates with missiles/drones against Gulf states. Israel kills 254 in Lebanon. ALL of these are air/missile events — NONE involve ground forces or ground invasion indicators (NPR, CNBC, Al Jazeera, Times of Israel, CBS)",
       "TRUMP AGREES TO TWO-WEEK CEASEFIRE (Apr 7 evening): Less than 2 hours before 8PM ET deadline, Trump posted on Truth Social: 'suspend the bombing and attack of Iran for a period of two weeks.' Called it a 'double sided CEASEFIRE.' Said 'all Military objectives have been met and exceeded' and Iran's 10-point proposal is a 'workable basis.' Pakistan PM Sharif mediated. Iran 'positively reviewing.' THIRD time Trump set deadline and delayed. GROUND INVASION PROBABILITY NOW EFFECTIVELY ZERO during ceasefire (Bloomberg, CNN, Al Jazeera, Fox News, Axios, NBC, Globe and Mail, ABC, Irish Times)",
@@ -217,24 +222,85 @@
       "UN chief Guterres warned of wider war — adds diplomatic pressure against escalation"
     ],
     "kharg_island": {
-      "status": "struck_twice_no_ground_ops_ceasefire_active",
-      "naval_activity": "USS Tripoli ARG in CENTCOM with ~3,500 troops + F-35Bs. USS Boxer ARG still in Pacific transit (~1 week from CENTCOM). 82nd Airborne in theatre. Ceasefire in effect — no military operations against Iran. Vance-led delegation heading to Islamabad for Saturday talks.",
-      "notes": "CEASEFIRE DAY 1 (Apr 8): Diplomatic track now dominant. Vance + Witkoff + Kushner heading to Islamabad. Iran sending Qalibaf + Araghchi — highest-level US-Iran meeting since 1979. Kharg Island ground operation probability is now ZERO — ceasefire makes any military operation impossible, and diplomatic talks further reduce probability. Even before ceasefire, Kharg was struck TWICE from air with no ground component. If Islamabad talks succeed, Kharg ground ops will never materialize. If they fail, the demonstrated 40-day pattern is overwhelmingly air-centric. The ceasefire + diplomatic talks are the definitive answer to the Kharg ground seizure question."
+      "status": "struck_twice_no_ground_ops_ceasefire_active_mines_confirmed",
+      "naval_activity": "USS Tripoli ARG in CENTCOM with ~3,500 troops + F-35Bs. USS Boxer ARG transiting Pacific — departed Pearl Harbor Apr 1, estimated days from CENTCOM. 82nd Airborne in theatre. Ceasefire in effect — no military operations against Iran. Islamabad talks begin today (Apr 10).",
+      "notes": "CEASEFIRE DAY 3 (Apr 10): Islamabad talks begin today at Serena Hotel. IRGC confirmed mines in Hormuz (Apr 9) — mine clearance would be prerequisite for ANY naval approach to Kharg, further complicating ground operations even in theory. Diplomatic track fully engaged. Kharg Island ground operation probability: ZERO. Ceasefire + active negotiations + confirmed mines in shipping lanes make ground ops impossible. Pattern conclusive: Kharg struck twice from air, never with ground component. 43-day track record is overwhelmingly air-centric."
     },
     "marine_movements": [
       "USS Tripoli (LHA-7) + USS New Orleans (LPD) + USS San Diego (LPD) + 31st MEU (~3,500 total) — IN CENTCOM since Mar 27-28",
-      "USS Boxer (LHD-4) + USS Portland (LPD-27) + USS Comstock (LSD-45) + 11th MEU (~2,200+ Marines) — still in Pacific transit, ~1 week from CENTCOM. Still NOT in theatre as of Apr 9",
+      "USS Boxer (LHD-4) + USS Portland (LPD-27) + USS Comstock (LSD-45) + 11th MEU (~2,500 Marines) — departed Pearl Harbor Apr 1; transiting Pacific; estimated days from CENTCOM",
       "82nd Airborne Division — 1,000-3,000 paratroopers in theatre (deployed Mar 24-25)",
-      "CEASEFIRE IN EFFECT (Apr 8): All military operations against Iran suspended. VP Vance heading to Islamabad for Saturday talks. Diplomatic track now dominant",
+      "CEASEFIRE DAY 3 (Apr 10): All military operations against Iran suspended. Islamabad talks begin today. Diplomatic track dominant",
+      "Trump (Apr 9): military 'loading up and resting, looking forward to its next Conquest' — forces remain in place but no new deployments",
+      "IRGC confirmed mines in Hormuz (Apr 9) — mine clearance prerequisite for any naval approach to Iranian coast",
       "Pentagon Kharg raid planning (WashPost, Mar 29) effectively shelved during ceasefire and talks",
       "No new troop deployments announced since ceasefire",
-      "15 US KIA, 380+ wounded as of Apr 9",
-      "Ground operations IMPOSSIBLE during ceasefire and diplomatic talks"
+      "15 US KIA, 380+ wounded as of Apr 10",
+      "Ground operations IMPOSSIBLE during ceasefire, active negotiations, and confirmed mines"
     ],
-    "draft_indicators": "None. No legislation introduced. No Selective Service activation. No public discussion at any level. Ceasefire in effect and diplomatic talks beginning Saturday in Islamabad. War is firmly in diplomatic phase. Draft discussion entirely moot.",
-    "assessment": "GROUND INVASION PROBABILITY: ZERO. Day 41 assessment: Ceasefire is in effect and VP Vance is heading to Islamabad for the highest-level US-Iran talks since 1979. The war has definitively transitioned from military to diplomatic phase. Even the ceasefire violations (Lavan/Sirri strikes, Iran's Gulf retaliations, Israel's Lebanon massacre) are all air/missile events — none involve ground forces. The 41-day track record is now conclusive: this was always an air/missile campaign. Kharg struck twice from air, no ground component. Three deadlines, three delays, now ceasefire and talks. Ground invasion will not happen."
+    "draft_indicators": "None. No legislation introduced. No Selective Service activation. No public discussion at any level. Ceasefire Day 3. Islamabad talks begin today. War firmly in diplomatic phase. Draft discussion entirely moot.",
+    "assessment": "GROUND INVASION PROBABILITY: ZERO. Day 43 assessment: Islamabad talks begin today (Apr 10) at Serena Hotel — Vance vs Qalibaf in highest-level US-Iran meeting since 1979. War has definitively transitioned to diplomatic phase. IRGC confirmed mines in Hormuz (Apr 9) — this COMPLICATES ground operations even in theory (mine clearance prerequisite). Trump's 'next conquest' rhetoric maintains pressure but no new deployments announced. All ceasefire violations remain air/missile — zero ground force involvement. 43-day track record conclusive: air/missile campaign + diplomatic exit. Ground invasion will not happen."
   },
   "daily_entries": [
+    {
+      "date": "2026-04-10",
+      "tags": [
+        "Iran",
+        "Ceasefire Day 2-3",
+        "Islamabad Talks Begin",
+        "IRGC Confirms Mines Hormuz",
+        "Trump Next Conquest",
+        "Netanyahu Lebanon Negotiations",
+        "Witkoff Calm Down Netanyahu",
+        "Khamenei 40 Day Mourning",
+        "Mojtaba Khamenei Unconscious",
+        "Lebanon Day of Mourning",
+        "Hezbollah 30 Rockets Israel",
+        "Oil Rebounds $98",
+        "Israel Operation Eternal Darkness",
+        "NK Cluster Bomb Warheads",
+        "Ukraine 164 Engagements",
+        "Baghdad Airport Hit",
+        "Day 42-43"
+      ],
+      "summary": "Day 42-43 — CEASEFIRE DAY 2-3: ISLAMABAD TALKS BEGIN AS IRAN CONFIRMS MINES IN HORMUZ. (1) IRGC PUBLISHED MAP SHOWING ANTI-SHIP MINES IN HORMUZ MAIN TRAFFIC ZONE (Apr 9) — FIRST OFFICIAL CONFIRMATION mines in the water. IRGC: strait 'will NEVER return to its previous status.' Only ~4-5 ships/day transiting (down from 11 on Day 1). (2) TRUMP: military 'loading up and resting, looking forward to its next Conquest' — all forces remain near Iran until 'REAL AGREEMENT' honored (Truth Social, Apr 9). (3) NETANYAHU ANNOUNCES DIRECT NEGOTIATIONS WITH LEBANON (Apr 9) after Witkoff told him to 'calm down' — talks at State Dept next week (Israeli amb Leiter, Lebanese amb Moawad, US amb to Lebanon Issa). BUT: 'No ceasefire in Lebanon.' (4) KHAMENEI 40-DAY MOURNING: mass rallies across Iran marking arbaeen (Apr 9); hundreds of thousands in Tehran. Mojtaba Khamenei ABSENT — intel reports (RFE/RL, Newsweek) say he is 'unconscious' in Qom since Feb 28 strike that killed his father. AI-generated video released earlier. (5) LEBANON DAY 2 STRIKES: 17+ killed in Bint Jbeil, Dahieh, Az-Zrariyeh, Abbassiyeh, Kafra, Jmaijmeh; overnight central Beirut strikes killed 10+, injured 27 (no warning). Lebanon declared national day of mourning. Total: ~1,739 killed / 5,873 wounded. (6) HEZBOLLAH fires 30+ rockets at northern Israel (Kiryat Shmona, Taibe, Manara) — no injuries. (7) OIL REBOUNDS: Brent futures $94.75→$98.27 (+3.7%); dated Brent spot $124.68. Market realizes Iran still controls Hormuz. (8) ISLAMABAD TALKS BEGIN TODAY (Apr 10) at Serena Hotel: Vance + Witkoff + Kushner vs Qalibaf + Araghchi. Pakistan PM Sharif mediating. Ceasefire deadline Apr 22. (9) INTERNATIONAL: UK FM called Israeli actions 'damaging' to ceasefire. German Chancellor Merz warned could 'cause failure of peace process.' NATO SG Rutte: European allies providing 'massive support.' WHO urged Israel to protect hospitals. (10) NK CONFIRMS CLUSTER-BOMB WARHEADS on Hwasong-11 missiles (KCNA). (11) UKRAINE: 164 combat engagements; Pokrovsk most active (32 assaults repelled); Russian daily losses 1,040 personnel, 2,238 UAVs.",
+      "details": [
+        "IRGC CONFIRMS MINES IN HORMUZ — PUBLISHES MAP (Apr 9): IRGC Navy published map Thursday showing alternative routes through Strait of Hormuz to avoid anti-ship mines — FIRST OFFICIAL IRANIAN CONFIRMATION that mines are in the water. IRGC statement: 'Due to the past war situation and possible anti-ship mines in the main traffic zone of the Strait of Hormuz, all vessels are advised to coordinate with the IRGC Navy and use alternative routes until further notice.' Declared strait 'will NEVER return to its previous status.' This potentially invalidates the ceasefire's core premise of Hormuz reopening — IRGC is not offering to reopen Hormuz, it is offering to MANAGE ACCESS on its own terms indefinitely. Mine clearance could take weeks-months even with full cooperation (Haaretz, Middle East Eye, JPost, Al Arabiya, Al Bawaba, Times of Israel, House of Saud, Mappr)",
+        "TRUMP: MILITARY 'LOOKING FORWARD TO NEXT CONQUEST' (Apr 9): Truth Social: 'In the meantime our great Military is Loading Up and Resting, looking forward, actually, to its next Conquest.' Also: 'All U.S. Ships, Aircraft, and Military Personnel, with additional Ammunition, Weaponry, and anything else that is appropriate and necessary for the lethal prosecution and destruction of an already substantially degraded Enemy, will remain in place in, and around, Iran, until such time as the REAL AGREEMENT reached is fully complied with.' Warns any breach triggers response 'larger than anything seen before.' Also warned Iran against charging tanker fees through Hormuz (CNBC, Al Jazeera, Washington Times, Newsweek, BSS News, Daily Post Nigeria, Joe My God)",
+        "NETANYAHU ANNOUNCES DIRECT NEGOTIATIONS WITH LEBANON (Apr 9): 'In light of Lebanon's repeated requests to open direct negotiations with Israel, I instructed yesterday to begin direct negotiations with Lebanon as soon as possible.' After Wednesday calls with Trump and Witkoff — senior US officials say Witkoff asked Netanyahu to 'calm down' strikes. Talks at State Department next week: Israeli ambassador Yechiel Leiter, Lebanese ambassador Nada Hamadeh-Moawad, US ambassador to Lebanon Michel Issa. Focus on 'disarming Hezbollah and establishing peaceful relations.' Israeli official: 'No ceasefire in Lebanon. The negotiations with the Lebanese government will begin in the coming days' (CNN, Axios, Al Jazeera, CSMonitor, ANI, Legal Insurrection, Daily Caller, Investing.com)",
+        "KHAMENEI 40-DAY MOURNING — MASS RALLIES ACROSS IRAN (Apr 9): Arbaeen ceremonies marking 40th day since assassination. National tribute commenced at 9:40 AM (06:10 GMT) — exact time Khamenei was killed on Feb 28. Hundreds of thousands in Tehran; rallies in Urmia, Gorgan, and cities nationwide. Mojtaba Khamenei ABSENT — not seen publicly since appointment. Intelligence memo (RFE/RL): 'Mojtaba Khamenei is being treated in Qom in a severe condition, unable to be involved in any decision-making.' Wounded in Feb 28 strike that killed father. Two written statements read on state TV. One AI-generated video showing him in war room released earlier. His written statement on Apr 9 vowed to 'punish aggressors' and bring Hormuz management into 'new phase' (Al Jazeera, Araweelo News, Brit Brief, RFE/RL, Newsweek, India TV, The Health Site, Religion Unplugged, Open The Magazine)",
+        "LEBANON DAY 2 STRIKES (Apr 9): Israel continued strikes across Lebanon despite ceasefire dispute. At least 21 violations recorded in Bint Jbeil; strategic bridge hit in Al-Qasmiyah; strikes in Dahieh (Beirut) and Az-Zrariyeh killed at least 17, mostly women and children. Additional strikes killed 7 in Abbassiyeh; more hits in Kafra, Jmaijmeh, Safad al-Battikh, Majdal Selm, Deir Antar. Overnight central Beirut strikes largely unannounced — killed 10+, injured 27. WHO urged Israel to reverse evacuation order for Jnah area with two major hospitals. IDF issued evacuation orders for 8 Beirut suburbs. Total Lebanon casualties now ~1,739 killed, 5,873 wounded (NBC, CBS, OPB, Wikipedia, Haaretz, PBS)",
+        "HEZBOLLAH FIRES 30+ ROCKETS AT NORTHERN ISRAEL (Apr 9): Hezbollah claimed responsibility for rocket attacks on northern Israel — striking Kiryat Shmona, Taibe, and Manara. ~30 rockets fired since morning. All either intercepted or struck open areas — no injuries or damage reported. Hezbollah: attacks will continue until Israel stops striking Lebanese territories (Times of Israel, Haaretz, Wikipedia)",
+        "OIL REBOUNDS ON HORMUZ REALITY (Apr 9-10): Brent crude futures rose ~3.7% from $94.75 to $98.27 as market realizes Iran still controls Hormuz access despite ceasefire. Dated Brent spot at $124.68/bbl (CNBC) — deep physical scarcity persists. Only ~4-5 ships/day transiting (down from 11 Day 1). Goldman: another month of closure means >$100 Brent throughout 2026. Mine confirmation (IRGC map) further dampens reopening prospects (CNBC, Trading Economics, Fortune, Goldman Sachs via OilPrice.com)",
+        "ISLAMABAD TALKS BEGIN TODAY — APR 10 (Apr 10): Pakistan PM Sharif invited delegations to Islamabad for Friday. Serena Hotel requisitioned by government for 'important event.' US delegation: VP JD Vance, envoy Steve Witkoff, Jared Kushner. Iranian delegation: Parliament Speaker Qalibaf, FM Araghchi. Saturday talks first session. Ceasefire deadline April 22 — less than 2 weeks to reach agreement. Basis for talks already disputed — Trump says Iran's published 10 points differ from those given to US (Tribune India, Al Jazeera, Pakistan Today, The National, CNN, Turkiye Today, FPIF)",
+        "CEASEFIRE VIOLATIONS CONTINUE (Apr 9): Kuwait reported drone attacks on vital facilities. Iran-backed groups in Iraq hit Baghdad International Airport diplomatic support center — US Embassy issued urgent security alert warning citizens to avoid air travel. Gulf states still reporting intermittent attacks. Iran's adviser Mahdi Mohammadi: 'missiles are ready to launch' if Israel continues Lebanon strikes (NBC, Newsweek, Wikipedia, CBS, Fox News)",
+        "MOJTABA KHAMENEI WRITTEN STATEMENT (Apr 9): New Supreme Leader (56) issued written statement vowing to 'punish aggressors' and bring Strait management into 'new phase.' But intelligence reports say he is unconscious/incapacitated in Qom. IRGC effectively managing war decisions. Power vacuum raises questions about who authorizes Iranian negotiating positions at Islamabad (NBC, Asia Plus, The Week, OAN, Open The Magazine, Newsweek)",
+        "INTERNATIONAL REACTION TO LEBANON (Apr 9): UK Foreign Secretary called Israeli actions 'damaging' to ceasefire. German Chancellor Merz warned severity could 'cause failure of peace process.' NATO Secretary General Rutte: European allies providing 'massive support' for US objectives. WHO Director-General urged Israel to protect hospitals and shelters. Amnesty International continued calls for civilian protection (NBC, Al Jazeera, Democracy Now)",
+        "NORTH KOREA CONFIRMS CLUSTER-BOMB WARHEADS (Apr 8-9): KCNA confirmed three-day testing spree (Apr 6-8) included cluster-munition warhead systems on nuclear-capable Hwasong-11 missiles (resemble Russia's Iskander), plus demonstrations of anti-aircraft weapons, electromagnetic weapons systems, and carbon-fiber bombs. Missiles flew 240-700km. US military: launches posed 'no immediate threat to United States or its allies.' Japan: none entered EEZ (NPR, Euronews, Bloomberg, NK News, WCBE, KUNR, KCLU)",
+        "UKRAINE FRONTLINE (Apr 9): 164 combat engagements recorded. Pokrovsk sector most active — 32 assault actions repelled in Rodynske, Pokrovsk, Kotlyne, Muravka, Hryshyne, Udachne, Filiia areas. Russian daily losses: 1,040 personnel, 1 tank, 2 APCs, 64 artillery, 1 MLRS, 2,238 UAVs, 229 vehicles. Russia deployed 10,100 kamikaze drones + 250 guided bombs + 3,625 shellings (107 MLRS). Mar 10-Apr 7: Russia gained only 17 sq mi. Ukraine counter-attacks in Hulyaipole/Oleksandrivka continuing to disrupt Russian operations (Ukrinform, EMPR, Russia Matters)"
+      ],
+      "prediction_impact": "The IRGC mine confirmation is the most significant strategic development since the ceasefire. By publishing a map showing mines in the main shipping lane and declaring Hormuz will 'NEVER return to its previous status,' Iran is signaling it intends to maintain permanent leverage over the strait regardless of ceasefire terms. This fundamentally undermines Trump's core demand for 'COMPLETE, IMMEDIATE, and SAFE OPENING' of Hormuz — mine clearance alone could take weeks-months. Combined with only 4-5 ships/day transiting (down from 11 on Day 1), the physical reopening of Hormuz is now FURTHER from reality than when the ceasefire began. Oil rebounding to $98+ reflects this. The Islamabad talks face extraordinarily difficult terrain: Iran wants permanent sanctions relief and Lebanon ceasefire; US wants unconditional Hormuz reopening; Israel refuses Lebanon ceasefire. Mojtaba Khamenei's apparent incapacitation raises questions about Iranian negotiating authority. Netanyahu's Lebanon negotiations announcement (after Witkoff pressure) is positive but explicitly excludes a ceasefire. Ground invasion probability: ZERO — now even more impossible given confirmed mines.",
+      "source": "Haaretz, Middle East Eye, JPost, Al Arabiya, Al Bawaba, Times of Israel, House of Saud, Mappr, CNBC, Al Jazeera, Washington Times, Newsweek, BSS News, Daily Post Nigeria, CNN, Axios, CSMonitor, ANI, Legal Insurrection, Daily Caller, Investing.com, Araweelo News, Brit Brief, RFE/RL, India TV, The Health Site, Religion Unplugged, Open The Magazine, NBC, CBS, OPB, PBS, Trading Economics, Fortune, Goldman Sachs via OilPrice.com, Tribune India, Pakistan Today, The National, Turkiye Today, FPIF, Asia Plus, The Week, OAN, Democracy Now, NPR, Euronews, Bloomberg, NK News, WCBE, KUNR, KCLU, Ukrinform, EMPR, Russia Matters, Wikipedia, Fox News"
+    },
+    {
+      "date": "2026-04-10",
+      "tags": [
+        "Ground Invasion Tracker"
+      ],
+      "summary": "GROUND INVASION PROBABILITY: ZERO. Day 42-43 — Ceasefire Day 3. Islamabad talks begin today (Apr 10). IRGC confirmed mines in Hormuz (Apr 9) — COMPLICATES ground operations even in theory (mine clearance prerequisite for naval approach). Trump: military 'loading forward to next Conquest' but no new deployments. All ceasefire violations (Lebanon strikes, Hezbollah rockets, Kuwait drones, Baghdad airport) are air/missile — ZERO ground force involvement. USS Boxer still transiting Pacific. No draft indicators. 43-day pattern conclusive: air campaign + diplomatic exit.",
+      "details": [
+        "ISLAMABAD TALKS BEGIN TODAY = GROUND OPS ZERO: Vance + Witkoff + Kushner at Serena Hotel meeting Qalibaf + Araghchi. Cannot launch ground operations during active face-to-face negotiations — the highest-level US-Iran meeting since 1979",
+        "IRGC MINES COMPLICATE GROUND OPS FURTHER: Iran confirmed mines in Hormuz main shipping lane (Apr 9). Any naval approach to Iranian coast for ground operations would first require mine clearance — adding weeks of prerequisite work. This is a DEFENSIVE measure that makes ground invasion even more impractical",
+        "TRUMP 'NEXT CONQUEST' ≠ GROUND INVASION: Rhetoric maintains military pressure but explicitly says forces are 'loading up and resting' — not deploying. No new troop orders. No new ship movements. Diplomatic delegation in Islamabad is the priority",
+        "ALL CEASEFIRE VIOLATIONS REMAIN AIR/MISSILE: Israel strikes Lebanon (17+ killed Apr 9); Hezbollah rockets at Israel (30+); Kuwait drone attacks; Baghdad airport hit by Iran-backed groups — ALL air/missile/drone events. Zero ground forces",
+        "Forces: USS Tripoli in CENTCOM (~3,500); 82nd Airborne (1,000-3,000); USS Boxer departed Pearl Harbor Apr 1, still in Pacific transit; ground-capable force ~7,000-8,500 but IRRELEVANT during ceasefire/talks/mines",
+        "No new troop deployments announced since ceasefire began Apr 8",
+        "No draft legislation, no Selective Service, no discussion at any level",
+        "Netanyahu's Lebanon negotiations announcement is DIPLOMATIC, not military escalation toward Iran ground ops"
+      ],
+      "prediction_impact": "Ground invasion question remains DEFINITIVELY RESOLVED. Three reinforcing factors now prevent ground operations: (1) active ceasefire, (2) face-to-face Islamabad negotiations, (3) IRGC-confirmed mines in Hormuz shipping lanes. Even if talks fail and ceasefire collapses, mine clearance would be prerequisite for any naval approach to Iranian coast — adding weeks of delay. The 43-day track record is conclusive: air/missile campaign + diplomatic exit. No ground troops have entered Iran at any point in this war.",
+      "source": "CNBC, Al Jazeera, Washington Times, Newsweek, Tribune India, Pakistan Today, CNN, Haaretz, Middle East Eye, JPost, NBC, CBS, OPB"
+    },
     {
       "date": "2026-04-09",
       "tags": [

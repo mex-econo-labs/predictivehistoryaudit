@@ -1,4 +1,4 @@
-# Prediction Calibration Reference — April 9, 2026 (Scored April 3, 2026)
+# Prediction Calibration Reference — April 10, 2026 (Scored April 3, 2026)
 
 Use this document when analyzing Predictive History lectures to accurately assess prediction statuses.
 
@@ -189,6 +189,17 @@ Use this document when analyzing Predictive History lectures to accurately asses
 | Ukraine destroys Russia's last Kerch Strait railway ferry | Apr 8, 2026 | DIU special forces neutralized; significant logistics disruption for Crimea supply |
 | HRANA: 3,597 killed in Iran | Apr 6, 2026 | Updated: 1,665 civilians, 1,221 military, 711 unclassified (up from 3,546/1,616) |
 | USS Boxer ARG arrives Hawaii | Mar 31, 2026 | USS Boxer + USS Portland + USS Comstock + 11th MEU (2,500 Marines) arrived Pearl Harbor; still ~3 weeks from CENTCOM theatre (Stars and Stripes) |
+| IRGC confirms mines in Strait of Hormuz | Apr 9, 2026 | IRGC published map showing anti-ship mines in main traffic zone — first official confirmation; strait 'will NEVER return to previous status' |
+| Israel announces direct negotiations with Lebanon | Apr 9, 2026 | Netanyahu announces talks at State Dept next week after Witkoff told him to 'calm down'; Israeli amb Leiter, Lebanese amb Moawad |
+| Israel 'Operation Eternal Darkness' kills 254 in Lebanon | Apr 8, 2026 | 50 IAF jets, 160 munitions, 100 targets in 10 minutes; largest attack since Mar 2; IDF dubbed it 'Operation Eternal Darkness' |
+| Khamenei 40-day mourning — mass rallies | Apr 9, 2026 | Hundreds of thousands in Tehran; arbaeen ceremonies at exact time of Feb 28 assassination; Mojtaba Khamenei absent |
+| Mojtaba Khamenei reportedly incapacitated | Apr 7+, 2026 | Intel memo: 'unconscious' in Qom; wounded in Feb 28 strike; not seen publicly; IRGC effectively managing war decisions |
+| NK confirms cluster-bomb warheads on Hwasong-11 | Apr 8-9, 2026 | KCNA: three-day tests included cluster-munition warheads on Hwasong-11, anti-aircraft weapons, electromagnetic weapons, carbon-fiber bombs |
+| Islamabad talks begin — highest US-Iran since 1979 | Apr 10, 2026 | Vance + Witkoff + Kushner vs Qalibaf + Araghchi at Serena Hotel; Pakistan mediating; deadline Apr 22 |
+| Trump: military 'looking forward to next Conquest' | Apr 9, 2026 | All forces remain near Iran until 'REAL AGREEMENT' honored; warns any breach triggers unprecedented response |
+| Lebanon total casualties surpass 1,739 killed | Apr 9, 2026 | 5,873+ wounded; national day of mourning declared; Hezbollah fires 30+ rockets at northern Israel (no injuries) |
+| Oil rebounds after ceasefire crash | Apr 9-10, 2026 | Brent futures $94.75→$98.27 (+3.7%); dated spot $124.68; IRGC mine confirmation dampens reopening hopes |
+| Baghdad airport hit by Iran-backed groups | Apr 9, 2026 | Drone attacks on diplomatic support center; US Embassy issued urgent security alert |
 | North Korea parliamentary elections | Mar 15, 2026 | 15th Supreme People's Assembly; Kim Jong Un reelected head of State Affairs Commission; Pak Thae Song reappointed Premier |
 | Israel forces nearing Litani River | Late Mar 2026 | IDF reached tributary of Litani near Qantara; some positions just hundreds of meters from river; FOUR divisions operating |
 | Germany Bundestag approves €108B defense budget | 2026 | €82.7B regular + €25.5B special fund; 4th highest funded military globally; targets 260K troops and 3.5% GDP by 2029 |
@@ -216,32 +227,33 @@ Use this document when analyzing Predictive History lectures to accurately asses
 ## Key Contextual Facts for Analysis
 
 ### US-Iran War
-- CEASEFIRE DAY 1 (Apr 8-9) — Day 41; NO ground troops deployed IN Iran; GROUND OPS PROBABILITY ZERO
-- CEASEFIRE IN EFFECT: Iran's SNSC formally accepted two-week ceasefire (Apr 8). US/Israeli strikes on Iran proper have stopped
-- CEASEFIRE IMMEDIATELY CRACKING: (1) Lavan Island refinery + Sirri Island export facilities struck ~06:30 GMT Apr 8 — no party claims responsibility; (2) Iran retaliates against 5 Gulf states; (3) Israel kills 254 in Lebanon; (4) Iran halts tanker transit citing Lebanon
-- VANCE + WITKOFF + KUSHNER heading to Islamabad for Saturday talks — Iran sending Qalibaf + Araghchi — HIGHEST-LEVEL US-IRAN MEETING SINCE 1979
-- LEBANON IS NOW THE PRIMARY THREAT TO CEASEFIRE: Netanyahu says ceasefire 'does not include Lebanon'; Iran threatens withdrawal if Lebanon attacks continue
-- HORMUZ PARTIALLY REOPENED: ~11 ships in 24 hrs (~8% of normal); bulk carriers only, NOT tankers; IRGC charging tolls up to $2M in crypto/yuan; tanker transit halted over Lebanon
-- Oil CRASHED 15%: Brent futures to ~$94/bbl (from ~$109); dated Brent spot still ~$120+ (physical scarcity)
+- CEASEFIRE DAY 3 (Apr 10) — Day 43; NO ground troops deployed IN Iran; GROUND OPS PROBABILITY ZERO
+- ISLAMABAD TALKS BEGIN TODAY (Apr 10): Vance + Witkoff + Kushner vs Qalibaf + Araghchi at Serena Hotel. Pakistan PM Sharif mediating. HIGHEST-LEVEL US-IRAN MEETING SINCE 1979. Ceasefire deadline Apr 22
+- IRGC CONFIRMS MINES IN HORMUZ (Apr 9): Published map showing anti-ship mines in main traffic zone — first official confirmation. Strait 'will NEVER return to previous status.' Mine clearance could take weeks-months
+- TRUMP: military 'loading up and resting, looking forward to next Conquest' (Apr 9). All forces remain near Iran until 'REAL AGREEMENT' honored
+- NETANYAHU ANNOUNCES DIRECT NEGOTIATIONS WITH LEBANON (Apr 9): After Witkoff told him to 'calm down.' Talks at State Dept next week. BUT: 'No ceasefire in Lebanon'
+- KHAMENEI 40-DAY MOURNING: Mass rallies across Iran (Apr 9). Mojtaba Khamenei ABSENT — intel reports 'unconscious' in Qom
+- HORMUZ: ~4-5 ships/day (down from 11 Day 1); bulk carriers only, NO tankers; IRGC tolls up to $2M in crypto/yuan; mines confirmed in shipping lanes
+- Oil REBOUNDS: Brent futures $94.75→$98.27 (+3.7%); dated Brent spot $124.68 — physical scarcity deepening
 - HRANA: 3,597+ killed (1,665 civilians, 1,221 military, 711 unclassified)
-- Israel: 26+ killed, 7,183+ wounded; ceasefire has stopped Iranian strikes on Israel for now
-- Lebanon: ~1,654+ killed / 5,165+ wounded (254 killed + 1,165 wounded on Apr 8 alone — largest single-day attack)
-- UAE cumulative intercepts: 515+ BMs, 2,176+ drones, 23+ CMs (17 BMs + 35 drones intercepted Apr 8 post-ceasefire)
+- Israel: 26+ killed, 7,183+ wounded; Hezbollah fired 30+ rockets at northern Israel (Apr 9) — no injuries
+- Lebanon: ~1,739+ killed / 5,873+ wounded; Apr 9 continued strikes (17+ killed); national day of mourning
 - US: 15 KIA, 380+ wounded; no change since ceasefire
-- USS BOXER ARG: still in Pacific transit (~1 week from CENTCOM)
+- USS BOXER ARG: departed Pearl Harbor Apr 1; transiting Pacific; estimated days from CENTCOM
 - Israel decapitation campaign: 10+ senior officials/commanders killed
-- Three-deadline pattern fully resolved: Mar 28 → Apr 6 → Apr 7 → ceasefire → Islamabad talks
+- Ceasefire violations continue: Kuwait drones, Baghdad airport, Lebanon strikes — all air/missile events
 
 ### Hormuz Blockade & Regional Fallout
-- PARTIAL REOPENING: ~11 ships in 24 hours (~8% of normal 60-135/day); bulk carriers only, NOT tankers
-- Iran HALTED tanker transit citing Israel's Lebanon strikes — key leverage linking Lebanon + Hormuz
+- IRGC CONFIRMS MINES IN HORMUZ (Apr 9): Published map showing anti-ship mines in main traffic zone — FIRST OFFICIAL CONFIRMATION. IRGC: strait 'will NEVER return to previous status.' Mine clearance could take weeks-months
+- Only ~4-5 ships/day transiting (down from 11 on Day 1); bulk carriers only, NO tankers. 800+ vessels still trapped
 - IRGC CHARGING TOLLS UP TO $2M/TANKER IN CRYPTO/YUAN — Trump demands open 'without limitation, including tolls'
-- 800+ vessels still trapped (down from 2,000) but most are waiting, not moving
-- IRAN RETALIATES AGAINST 5 GULF STATES POST-CEASEFIRE (Apr 8): UAE (17 BMs + 35 drones), Kuwait (28 drones), Qatar (7 BMs), Bahrain (2 injured), Saudi Arabia — all claimed as retaliation for Lavan/Sirri strikes
+- Iran HALTED tanker transit citing Israel's Lebanon strikes — key leverage linking Lebanon + Hormuz
+- IRAN RETALIATES AGAINST 5 GULF STATES POST-CEASEFIRE (Apr 8): UAE (17 BMs + 35 drones), Kuwait (28 drones), Qatar (7 BMs), Bahrain (2 injured), Saudi Arabia
+- Ceasefire violations continue (Apr 9): Kuwait drone attacks on vital facilities; Baghdad airport hit by Iran-backed groups
 - UN SECURITY COUNCIL HORMUZ VOTE — VETOED BY RUSSIA + CHINA (Apr 7): 11-2 vote blocked
-- OIL CRISIS: Brent futures crashed to ~$94/bbl (ceasefire relief); dated Brent spot still ~$120+. Physical scarcity persists. Large-scale shipping restart will take weeks
-- Lebanon is now the key variable for Hormuz: Iran links tanker passage to cessation of Lebanon attacks
-- Saturday Islamabad talks (Vance-Qalibaf) will determine whether Hormuz opens or remains blocked
+- OIL REBOUNDS: Brent futures $94.75→$98.27 (+3.7%); dated Brent spot $124.68. Market realizes Iran still controls Hormuz
+- Goldman: another month of closure means >$100 Brent throughout 2026
+- Islamabad talks (begin Apr 10) will determine whether Hormuz opens or remains blocked — but mine confirmation complicates even best-case scenario
 
 ### Venezuela, Cuba, Colombia
 - **Venezuela**: Maduro trial in pretrial phase; legal experts say trial unlikely this year. Rodriguez acting president; US recognized Mar 11; US Embassy resuming operations. Sea Horse tanker rerouted from Cuba to Venezuela (Apr 2)
@@ -251,15 +263,17 @@ Use this document when analyzing Predictive History lectures to accurately asses
 ### Russia-Ukraine War (April 2026)
 - War continues as grinding attritional conflict — Ukraine has NOT "lost"
 - Russia occupies ~20% of territory
-- Zelensky OFFERED EASTER CEASEFIRE — Russia appears unwilling to agree after overnight Black Sea attack
-- Ukraine DIU DESTROYED RUSSIA'S LAST RAILWAY FERRY IN KERCH STRAIT — significant logistics disruption for Crimea
-- Ukraine regained 480 sq km since late January per army chief (8 settlements Dnipropetrovsk, 4 Zaporizhzhia)
-- Russian military transporting equipment through Mariupol toward Huliaipole
-- Feb 2026 was first month since 2024 when Ukraine regained more territory than it lost
-- Russia total losses ~1,305,470+ per Ukraine
-- Pokrovsk direction remains heaviest; Russia pressing in northern Pokrovsk
-- Trump-Zelensky agreed on 90-95% of peace proposal; major gaps remain; Abu Dhabi talks postponed
-- Iran ceasefire may refocus attention/resources on Ukraine theatre
+- 164 combat engagements on Apr 9 — Pokrovsk sector most active (32 assault actions repelled)
+- Russian daily losses (Apr 9): 1,040 personnel, 1 tank, 2 APCs, 64 artillery, 1 MLRS, 2,238 UAVs
+- Russia deployed 10,100 kamikaze drones + 250 guided bombs + 3,625 shellings in single day
+- Mar 10-Apr 7: Russia gained only 17 sq mi — extremely slow advance
+- Ukraine counter-attacks in Hulyaipole/Oleksandrivka disrupting Russian operations
+- Ukraine DIU destroyed Russia's last Kerch Strait railway ferry — significant Crimea logistics disruption
+- Ukraine regained 480 sq km since late January per army chief
+- Feb 2026 first month since 2024 Ukraine regained more territory than lost
+- Russia total losses ~1,306,510+ per Ukraine
+- Zelensky offered Easter ceasefire — Russia unwilling
+- Abu Dhabi talks postponed; Iran ceasefire may refocus attention on Ukraine theatre
 
 ### US-China Trade
 - SCOTUS struck down IEEPA tariffs Feb 20, 2026 (6-3 decision); Trump shifted to 10% global tariff under Section 122 of Trade Act
@@ -286,7 +300,9 @@ Use this document when analyzing Predictive History lectures to accurately asses
 - GDP grew 3.1% (2023) and 3.7% (2024) — war profiteering from Russia
 - Arms sales returned $20B+; 11,000-15,000 troops deployed to Russia
 - But remains one of world's poorest per capita; windfall unsustainable
-- FIRED MULTIPLE SRBMs FROM WONSAN (Apr 8): ~240km + one 700km missile; second consecutive day; 4th launch event of 2026; declared South Korea 'most hostile enemy'
+- KCNA CONFIRMS CLUSTER-BOMB WARHEADS ON HWASONG-11 (Apr 8-9): Three-day testing spree included cluster-munition warhead systems on nuclear-capable Hwasong-11 missiles (Iskander-type), anti-aircraft weapons, electromagnetic weapons, carbon-fiber bombs. Missiles flew 240-700km. US: 'no immediate threat'
+- Working on carbon-fiber ICBM for multi-warhead delivery (MIRV) per Seoul lawmakers
+- Kim invoked Iran war to declare nuclear status 'irreversible'
 - WORKING ON CARBON-FIBER ICBM FOR MULTI-WARHEAD DELIVERY (Apr 6): Seoul lawmakers briefed; first sign of MIRV capability development
 - Ground-tested 'newly upgraded' solid-propellant rocket motor; max thrust 2,500 kN — 26% increase (KCNA, Mar 29; 38 North)
 - DEMOLISHING VILLAGES NEAR SOHAE MISSILE/SATELLITE SITE (Bloomberg, Apr 3): Hundreds of buildings razed
