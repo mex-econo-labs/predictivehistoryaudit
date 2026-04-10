@@ -1,6 +1,6 @@
-# Geopolitical Briefing: State of the World as of April 10, 2026
+# Geopolitical Briefing: State of the World as of April 11, 2026
 
-Compiled for evaluation of mid-2024 predictions. All information sourced from publicly available reporting through April 10, 2026. Last updated: April 10, 2026.
+Compiled for evaluation of mid-2024 predictions. All information sourced from publicly available reporting through April 11, 2026. Last updated: April 11, 2026.
 
 ---
 
@@ -102,16 +102,45 @@ Compiled for evaluation of mid-2024 predictions. All information sourced from pu
 - The apparent incapacitation of Iran's Supreme Leader raises questions about **who authorizes Iranian negotiating positions** at the Islamabad talks.
 - *Sources: Al Jazeera, Araweelo News, RFE/RL, Newsweek, India TV, The Health Site, Religion Unplugged, Open The Magazine, Asia Plus, The Week, OAN*
 
-### Islamabad Talks Begin (April 10, 2026)
-- The **highest-level US-Iran meeting since the 1979 revolution** begins on **Friday, April 10** at the **Serena Hotel** in Islamabad, Pakistan.
-- **US delegation**: Vice President **JD Vance** (leading), Special Envoy **Steve Witkoff**, and **Jared Kushner**.
-- **Iranian delegation**: Parliament Speaker **Mohammad Baqer Qalibaf** and Foreign Minister **Abbas Araghchi**.
-- **Pakistan PM Shehbaz Sharif** is mediating. Saudi, Turkish, and Egyptian representatives are also involved.
+### Islamabad Talks Begin (April 10-11, 2026)
+- The **highest-level US-Iran meeting since the 1979 revolution** begins at the **Serena Hotel** in Islamabad, Pakistan. Iranian delegation arrived **Friday, April 10**; talks commenced **Saturday, April 11**.
+- **INDIRECT FORMAT REVEALED**: The delegations will **NOT sit in the same room**. Pakistani officials **shuttle messages between separate rooms** — proximity talks, not face-to-face direct negotiations. This lowers expectations significantly.
+- **US delegation**: Vice President **JD Vance** (leading), Special Envoy **Steve Witkoff**, and **Jared Kushner**, plus officials from the National Security Council and departments of State and Defense.
+- **Iranian delegation** (expanded): Parliament Speaker **Mohammad Baqer Qalibaf**, Foreign Minister **Abbas Araghchi**, **SNSC Secretary Ali Akbar Ahmadian** (key security decision-maker), **Central Bank Governor Abdolnaser Hemmati** (signals sanctions/assets priority), plus several members of parliament.
+- **Pakistan PM Shehbaz Sharif** is mediating. He welcomed delegations and urged both sides to seize the **"historic opportunity"** for durable peace. Saudi, Turkish, and Egyptian representatives are also involved.
+- **Qalibaf preconditions** (April 10): **"Two measures mutually agreed upon between the parties have yet to be implemented: a ceasefire in Lebanon and the release of Iran's blocked assets prior to the commencement of negotiations."** He warned talks would **not start** until these are fulfilled — creating an impasse since Netanyahu has explicitly refused a Lebanon ceasefire.
+- **Vance warned Iran** on boarding Air Force Two: **"If the Iranians are prepared to negotiate sincerely, we are certainly ready to offer an open hand. If they intend to manipulate us, they will discover that the negotiating team is not particularly accommodating."** Trump added that Iran has **"no cards."**
+- **Pakistan's modest goal**: Pakistan FM set expectations low — aiming for **agreement on a framework for further negotiations**, NOT a comprehensive deal at these talks.
 - The ceasefire deadline is **April 22** — less than two weeks to reach agreement.
-- Key sticking points: Iran wants **permanent sanctions relief, Lebanon ceasefire, reconstruction**; US wants **unconditional Hormuz reopening**; Israel refuses **Lebanon ceasefire**.
+- Key sticking points: Iran wants **permanent sanctions relief, Lebanon ceasefire, reconstruction, frozen assets released**; US wants **unconditional Hormuz reopening**; Israel refuses **Lebanon ceasefire**.
 - Trump says Iran's published 10-point plan **differs** from the version given to the US — basis for talks already disputed.
 - The IRGC's mine confirmation (April 9) complicates even the most optimistic Hormuz reopening timeline.
-- *Sources: Tribune India, Al Jazeera, Pakistan Today, The National, CNN, Turkiye Today, FPIF*
+- *Sources: CBS, CNN, Al Jazeera, Axios, IBTimes, PressTV, Voice of Emirates, Daily Signal, India.com, WION, Daily Post Nigeria, Tribune India, Pakistan Today, The National, Turkiye Today, FPIF*
+
+### Saudi Oil Capacity Cut by Iranian Attacks (April 9, 2026)
+- Saudi Arabia confirmed on **April 9** that Iranian missile and drone strikes have **cut oil production capacity by approximately 600,000 barrels per day** and reduced flows through the **East-West pipeline (Petroline) by roughly 700,000 bpd**.
+- The **Manifa and Khurais** production facilities were affected — both critical Saudi Aramco assets.
+- The East-West pipeline is Saudi Arabia's **critical economic lifeline** during the war — the 750-mile network connects the Eastern Province to the Red Sea port of Yanbu, **bypassing the Strait of Hormuz**. It can pump up to **7 million barrels per day**.
+- Production, transportation, refining, petrochemicals, and power generation have all been targeted across **Riyadh, the Eastern Province, and Yanbu Industrial City** since February 28.
+- Saudi Arabia has been subject to **hundreds of missiles and drones** since the war began, though most have been intercepted. Cumulative damage is now significant.
+- *Sources: Bloomberg, The National, CNBC, OilPrice, Upstream, BSS News, Insurance Journal*
+
+### Lebanon Crisis Deepens (April 10, 2026)
+- Israeli air strikes on **April 10** killed at least **14 people** across southern Lebanon, continuing the pattern of daily strikes despite the Iran ceasefire.
+- **Human Rights Watch** published a report condemning **"devastating"** Israeli strikes and damage to a **vital bridge**.
+- **UN News**: Casualties **"still under the rubble"** — ambulances and hospitals face new threats from continued operations.
+- **Total casualties since March 2**: approximately **1,953+ killed** and **6,303+ wounded**, including **130+ children, 102 women, and 57 medical workers** (Lebanese Health Ministry figures as of April 10).
+- Israel-Lebanon talks planned for **next week at the State Department** (Israeli ambassador Leiter, Lebanese ambassador Moawad, US ambassador to Lebanon Issa), but **IDF military operations continue during negotiations**.
+- **HRW**, **Amnesty International**, and **UN Human Rights Chief** have all condemned the scale of killing in Lebanon.
+- *Sources: Al Jazeera, HRW, UN News, Wikipedia/Lebanese Health Ministry, Amnesty International*
+
+### Hormuz Traffic Drops Further (April 10, 2026)
+- On **Thursday, April 10**, just **6 vessels** passed through the Strait of Hormuz — **ZERO** were oil, chemical, or liquefied gas tankers. All were cargo ships.
+- This is **down from 11 vessels on ceasefire Day 1** (April 8), when 9 of the 11 were tankers.
+- **230+ tankers** are specifically waiting for Hormuz passage. **600+ vessels** including **325 tankers** remain stranded in the Gulf (CNBC).
+- For context, **100+ ships daily** transited the route before the conflict.
+- The Iran ceasefire's core premise — **Hormuz reopening** — remains unfulfilled. Mines are in the shipping lanes, the IRGC controls access via alternative routes, and large-scale oil shipping cannot restart until mine clearance operations begin.
+- *Sources: The Week India, CNBC, Al Jazeera, NBC News*
 
 ### Kharg Island Raid (March 13, 2026)
 - On **March 13**, the USAF conducted a **large-scale precision strike on Kharg Island**, Iran's key oil export hub (handles ~90% of exports).
@@ -1152,7 +1181,15 @@ Iran struck military and civilian targets across at least 9 countries plus Israe
 
 ---
 
-## 7. Russia-Ukraine War Status (March 2026)
+## 7. Russia-Ukraine War Status (April 2026)
+
+### Orthodox Easter Ceasefire (April 11-12, 2026)
+- **Putin declared a 32-hour ceasefire** from **16:00 (13:00 GMT) on April 11** until the end of the day on **April 12, 2026**, in connection with the Orthodox feast of Easter.
+- **Zelenskyy confirmed** Ukraine will **"act accordingly"** — honoring the ceasefire. He stated that **"people need an Easter without threats and real progress toward peace."**
+- Defense Minister **Belousov** and Chief of General Staff **Gerasimov** ordered to cease combat operations along **all fronts**, though troops must be prepared to thwart **"any possible provocations."**
+- This is the **first mutually agreed pause since the 2025 Easter truce**, which collapsed with both sides accusing each other of breaking it.
+- **However**: Even hours after the announcement, the governor of **Dnipropetrovsk region** reported that Russian artillery and aerial attacks had **killed 2 people** — raising doubts about compliance.
+- *Sources: NBC, Euronews, Al Jazeera, RFE/RL, Washington Times, Moscow Times, CNN, Xinhua, JPost*
 
 ### Territory
 - Russia occupies approximately **20% of Ukraine's territory** (~45,778 sq mi), including Crimea and parts of Donbas.
@@ -1170,7 +1207,7 @@ Iran struck military and civilian targets across at least 9 countries plus Israe
 - Earlier: Combat engagements rose to 157/day on April 7 (up from 120 on Apr 6; 213-230 peak on Apr 2-3). Russian **FPV drone** struck **passenger bus** in Nikopol, killing **3 people** and injuring **16**; **11-year-old boy** killed in separate attack. *(Ukrinform, Kyiv Independent)*
 - **Ukraine regained 12 settlements** on the **Oleksandrivka axis** (8 in Dnipropetrovsk region, 4 in Zaporizhzhia region) — significant counteroffensive gains. *(Russia Matters, EMPR)*
 - Russia launched **93 Shahed-type drones** overnight April 5 — Ukraine downed **76**; **Odesa** struck, residential building damaged, **3 injured**. *(Kyiv Independent, Ukrinform)*
-- Russia total combat losses since Feb 24, 2022 reached approximately **1,306,510 personnel** (+1,040 on Apr 9). Russia deploying **mobilized personnel on battlefield from April 1**. *(Ukrinform, Pravda France)*
+- Russia total combat losses since Feb 24, 2022 reached approximately **1,308,670 personnel** (as of April 10-11). Russia deploying **mobilized personnel on battlefield from April 1**. *(Ukrinform, Pravda France)*
 - **Zelensky visited Syria** (April 5) — **first Ukrainian president** to visit; met President **Ahmad al-Sharaa** in Damascus; trilateral meeting with Turkish FM **Hakan Fidan**; discussed **security cooperation, drone expertise exchange, and food security**. Part of broader regional tour seeking air defense missiles in exchange for Ukrainian drone technology. *(Al-Monitor, Daily Sabah, SANA, AA, Asharq Al-Awsat)* 
 - **Lt. Gen. Alexander Otroshchenko** killed in An-26 crash in Crimea (Apr 1) — 29 dead; 14th Russian general killed since Feb 2022; possible own air defense shootdown. *(United24, Euromaidan Press, Kyiv Independent)*
 - Ukraine struck Kirovske airfield in Crimea overnight Apr 2. Russian drones attacked Odesa port infrastructure. *(Kyiv Independent)*
@@ -1314,7 +1351,8 @@ Iran struck military and civilian targets across at least 9 countries plus Israe
 - **April 7**: **KMT Chairman Eric Chu** visited China for a **"peace mission"** — the latest cross-strait diplomatic overture ahead of the May Trump-Xi summit. *(Japan Times, SCMP)*
 - US-China **goods trade deficit declined 30%** in 2025 to **$202.1 billion** — lowest since the early 2000s, reflecting decoupling trend. *(SCMP)*
 - A **bipartisan group of US senators** visited Taiwan and urged lawmakers to approve a **$40 billion supplementary military budget** to deter Chinese invasion. *(WashPost)*
-- *Sources: Bloomberg, Military Times, Al Jazeera, SCMP, AEI, Supply Chain Dive, Washington Times, CNBC, USTR, The Diplomat, Taipei Times, UN News, PBS, Japan Times, WashPost*
+- **April 11**: **Taiwan Han Kuang 42 tabletop exercises begin** — **14-day unscripted** computer-assisted war games testing decentralized command and **24/7 operational conditions**. Scenario tests PLA attempts to **seize ports and airports** before advancing inland. Incorporates **lessons from US-Iran and Venezuela operations** — first time real-world US combat data from 2026 conflicts integrated into Taiwan's defensive planning. Live-force exercises planned for **August** (10 days, 9 nights). *(Taipei Times, TVBS, GlobalSecurity)*
+- *Sources: Bloomberg, Military Times, Al Jazeera, SCMP, AEI, Supply Chain Dive, Washington Times, CNBC, USTR, The Diplomat, Taipei Times, UN News, PBS, Japan Times, WashPost, TVBS, GlobalSecurity*
 
 ---
 
@@ -1360,7 +1398,7 @@ Iran struck military and civilian targets across at least 9 countries plus Israe
 - **April 2026**: **38 North** published analysis on **"Drones and Operational Shift: North Korea's Adaptation to a Changing Warfare Environment"** — NK studying and adapting drone tactics from Ukraine experience, with implications for future Korean Peninsula operations.
 - **April 6**: South Korean lawmakers briefed that North Korea is **working on a carbon-fiber ICBM** designed for **multi-warhead delivery** — the first indication of DPRK **MIRV capability development**. Carbon fiber would extend range and allow heavier/multiple warheads. *(US News)*
 - **April 2026**: Kim Jong Un **ordered a significant increase in missile and munitions production** for 2026, after factories were directed to step up production to meet growing demand from both domestic forces and Russian clients. *(Euronews)*
-- **April 6-8**: North Korea conducted a **three-day testing spree**: multiple SRBMs from Wonsan area (240-700km range), plus demonstrations of **cluster-munition warhead systems on nuclear-capable Hwasong-11 missiles** (resemble Russia's Iskander), **anti-aircraft weapons**, purported **electromagnetic weapons systems**, and **carbon-fiber bombs**. **KCNA** confirmed the tests. South Korea's Joint Chiefs: 4th launch event of 2026. US military: launches posed **"no immediate threat to the United States or its allies."** Japan: none entered EEZ. *(NPR, Euronews, Bloomberg, NK News, KCNA)*
+- **April 6-8**: North Korea conducted a **three-day testing spree**: multiple SRBMs from Wonsan area (240-700km range), plus demonstrations of **cluster-munition warhead systems on nuclear-capable Hwasong-11 missiles** (resemble Russia's Iskander), **anti-aircraft weapons**, purported **electromagnetic weapons systems**, and **carbon-fiber bombs**. The strike package included a **non-nuclear electromagnetic weapon system** designed to **disrupt or damage radars, communications relays, fire-control systems, data centers, missile seekers, and command networks** — a significant electronic warfare capability if operational. **KCNA** confirmed the tests. South Korea's Joint Chiefs: 4th launch event of 2026. US military: launches posed **"no immediate threat to the United States or its allies."** Japan: none entered EEZ. No new launches since Apr 8 — testing window appears concluded. *(NPR, Euronews, Bloomberg, NK News, KCNA, The Defense News, USNI)*
 - **April 8**: DPRK declared South Korea **"most hostile enemy"** following the testing spree — second consecutive day of launches coinciding with Seoul's efforts to repair ties.
 - *Sources: CNN, Japan Times, Anadolu Agency, Al Jazeera, US News, NK News, Stimson Center, Pravda, Daily NK, KCNA, 38 North, Arms Control Association, UPI, Bloomberg, Euronews, NPR*
 
@@ -1409,6 +1447,7 @@ Iran struck military and civilian targets across at least 9 countries plus Israe
 - **March 7**: Trump acknowledged recognition at Shield of the Americas Summit.
 - **March 11**: US formally recognized Rodriguez as **"sole" head of state** via court filing. White House argued it would create conditions for "a peaceful transition toward a democratically elected government."
 - Opposition leader **Maria Corina Machado** stated US recognition would speed democratic transition.
+- **April 10, 2026**: **US lifts sanctions on Rodriguez** — signaling deepening normalization of the post-Maduro government. *(Foreign Policy)*
 
 ---
 
@@ -1438,7 +1477,9 @@ Iran struck military and civilian targets across at least 9 countries plus Israe
 - **April 2, 2026**: Russia announced a **second oil tanker** is being loaded for Cuba. Russian Energy Minister confirmed; Moscow stated it **"will not leave Cubans alone in trouble."** US Embassy in Venezuela formally resuming operations (Apr 2026).
 - **Late March-April 2026**: Crisis ESCALATING further — protesters **torched a local communist party office** in **Moron** (Ciego de Avila province); authorities arrested **5 people** for "vandalism." **Costa Rica** announced it was **closing its embassy in Cuba** and told the country to withdraw its diplomats. Several **Latin American nations** are ending or rolling back Cuba's famed **medical cooperation programs** under US pressure — further isolating the regime. Protests continue daily across multiple provinces.
 - **April 3, 2026**: Cuba announced the release of **2,010 prisoners** — the **largest prisoner release in years**. The government cited the inmates' **good conduct, health status**, and **nature of acts committed**; excluded those convicted of murder, sexual assault, or "crimes against authority." Officially framed as a gesture for **"the religious celebrations of Holy Week"** (Easter), but experts widely view it as a significant concession under **US pressure**. The pardon includes young people, women, people over 60, and foreigners. The **Washington Post** reported the release alongside the broader context of US pressure on the island. The Hong Kong-flagged fuel tanker **Sea Horse**, originally bound for Cuba, was **rerouted to Venezuela** on April 2 — further reducing Cuba's fuel options.
-- *Sources: Democracy Now, Al Jazeera, NPR, CNN, CBS News, Havana Times, The New Humanitarian, Time, Wikipedia (2026 Cuban crisis), CiberCuba, Washington Post, Fox News, JURIST, OAN*
+- **April 7, 2026**: **Women's march in Havana** — hundreds of Cuban women rallied against US energy embargo; Diaz-Canel joined bike demonstrations outside US Embassy. *(Al Jazeera, Euronews)*
+- **April 2026**: US-Cuba talks described as **"very preliminary, very initial phase"** by diplomat **Josefina Vidal** — **"there are still no structured negotiations between the two governments."** *(AFP)*
+- *Sources: Democracy Now, Al Jazeera, NPR, CNN, CBS News, Havana Times, The New Humanitarian, Time, Wikipedia (2026 Cuban crisis), CiberCuba, Washington Post, Fox News, JURIST, OAN, Euronews, AFP, Foreign Policy*
 
 ---
 
@@ -1463,6 +1504,14 @@ Iran struck military and civilian targets across at least 9 countries plus Israe
 - Colombia **decertified by the US** for failing to meet drug control obligations.
 - Novel approach: Defense Minister disclosed efforts to **chemically modify the gasoline supply** to reduce cocaine potency during processing.
 
+### FARC Dissident Clashes Intensify (March-April 2026)
+- Colombian military **ramped up operations** against FARC dissidents' General Central General Staff (EMC), led by **"Iván Mordisco"**.
+- Military carried out **airstrikes and ground operations** in at least **six departments** in March.
+- Killed the **leader of the 18th FARC dissidents** — a close ally of Mordisco — in **Ituango, Antioquia**.
+- Killed **six members of Mordisco's security ring** in **Vaupés**.
+- In response, the EMC launched **retaliatory attacks** against police and military targets, particularly in **Cauca** (a key EMC stronghold), driving a **35% increase in violent incidents** compared to February.
+- *Sources: ACLED Latin America and Caribbean Overview, April 2026*
+
 ### Constituent Assembly
 - December 26, 2025: Petro's administration registered a committee to promote a **Constituent Assembly** to reform the 1991 Constitution. Must collect 5% of electoral roll in signatures.
 
@@ -1470,19 +1519,22 @@ Iran struck military and civilian targets across at least 9 countries plus Israe
 
 ## Summary of Key Developments for Prediction Evaluation
 
-| Topic | Status as of April 5, 2026 |
+| Topic | Status as of April 11, 2026 |
 |-------|------------------------|
-| US military strike on Iran | YES -- Day 37; BUSHEHR NUCLEAR PLANT HIT 350m from reactor (Apr 4, 1 killed, IAEA 'deeply concerned'); MAHSHAHR PETROCHEMICAL ZONE struck (5 plants, 5 wounded); Trump 48-hour 'all Hell' ultimatum — Apr 6 deadline ~24 hours away |
-| Israel-Iran direct conflict | YES -- continuing; Israel killed Hezbollah commander Hashem (Apr 1-2); 10+ senior officials/commanders killed total; Bushehr + Mahshahr = economic destruction campaign |
-| Khamenei killed | YES -- Assassinated Feb 28, 2026; son Mojtaba succeeded him |
+| US military strike on Iran | YES — Day 44; TWO-WEEK CEASEFIRE in effect since Apr 8; Islamabad proximity talks begin Apr 11; no strikes on Iran proper since ceasefire |
+| Israel-Iran direct conflict | CEASEFIRE on Iran; Israel continues Lebanon strikes (14 killed Apr 10); 10+ senior officials/commanders killed total |
+| Khamenei killed | YES — Assassinated Feb 28, 2026; son Mojtaba succeeded but reportedly incapacitated/unconscious in Qom |
 | Israeli decapitation campaign | 10+ officials: Khamenei, Larijani, Soleimani, Khatib, Tangsiri, Eshaghi, Nasirzadeh, Pakpour, Vafaei, Atimi + Hezbollah's Hashem |
-| Iran nuclear breakout | Near-zero breakout time pre-strikes; warhead development authorized Oct 2025; Natanz/Arak/Ardakan/BUSHEHR all struck |
-| Strait of Hormuz closed | PARTIALLY REOPENED under ceasefire — ~11 ships/day (8% of normal); bulk carriers only, NOT tankers; IRGC charging tolls up to $2M in crypto/yuan; tankers HALTED over Lebanon strikes; 800+ vessels still trapped |
-| Hormuz blockade casualties | 9+ countries struck; 15 US KIA; 380+ wounded; Gulf states attacked EVEN AFTER ceasefire (Apr 8: UAE 17 BMs + 35 drones, Kuwait 28 drones, Qatar 7 BMs, Bahrain 2 injured) |
-| Kharg Island | GROUND SEIZURE PROBABILITY ZERO; ceasefire in effect; Vance heading to Islamabad talks; Kharg struck twice from air with no ground component; war transitioning to diplomacy |
+| Iran nuclear breakout | Near-zero breakout time pre-strikes; warhead development authorized Oct 2025; Natanz/Arak/Ardakan/Bushehr all struck |
+| Strait of Hormuz closed | CEASEFIRE BUT STILL BLOCKED: Only 6 ships/day (Apr 10), ZERO tankers; 230+ tankers waiting; 600+ vessels/325 tankers stranded; IRGC mines confirmed in lanes; tolls up to $2M in crypto/yuan |
+| Hormuz blockade casualties | 9+ countries struck; 15 US KIA; 380+ wounded; Saudi capacity cut 600K bpd; Gulf states attacked even after ceasefire |
+| Kharg Island | GROUND SEIZURE PROBABILITY ZERO; ceasefire + Islamabad talks ongoing; Kharg struck twice from air, no ground component |
 | South Pars gas field | Israel struck processing facilities (Mar 18); ~12% of Iran's gas production damaged |
-| Energy/nuclear infrastructure spiral | Now includes nuclear (Arak, Ardakan, BUSHEHR 350m from reactor) + industrial (steel plants, MAHSHAHR PETROCHEMICALS) + energy; Apr 6 deadline ~24 hours away |
-| Trump peace plan — contested diplomacy | TWO-WEEK CEASEFIRE IN EFFECT (Apr 8). Vance + Witkoff + Kushner heading to Islamabad Saturday. Iran sending Qalibaf + Araghchi. Highest-level US-Iran meeting since 1979. Ceasefire already cracking: Lavan/Sirri strikes, Lebanon massacre, Gulf retaliations |
+| Energy/nuclear infrastructure spiral | All strikes paused under ceasefire; cumulative damage: ~85% petrochemical exports disrupted, steel plants hit, Bushehr hit 350m from reactor |
+| Trump peace plan — contested diplomacy | ISLAMABAD TALKS BEGIN APR 11 — indirect format, separate rooms, Pakistani mediators shuttle. Qalibaf demands Lebanon ceasefire + frozen assets as preconditions. Pakistan's modest goal: framework for further talks. Deadline Apr 22 |
+| Saudi oil infrastructure | NEW: Iran attacks cut Saudi capacity 600K bpd; East-West pipeline down 700K bpd (Bloomberg, Apr 9) |
+| Ukraine-Russia | Easter ceasefire Apr 11-12 (32 hours); Putin declared, Zelenskyy agreed; total Russian losses ~1,308,670 |
+| Taiwan | Han Kuang 42 tabletop exercises begin Apr 11 — incorporating lessons from Iran/Venezuela wars |
 | Ground operation planning | PROBABILITY ZERO; ceasefire in effect; diplomatic talks beginning Saturday; USS Boxer still in Pacific; no new deployments; war transitioning to diplomatic phase |
 | Diego Garcia missile attack | Iran fired 2 IRBMs at US-UK base 4,000km away (Mar 21) — reveals doubled missile range capability |
 | Turkey hit by Iran missiles | 3 ballistic missiles entered airspace (Mar 4, 9, 13) -- all intercepted by NATO |
