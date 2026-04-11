@@ -1,4 +1,4 @@
-# Prediction Calibration Reference — April 11, 2026 (Scored April 3, 2026)
+# Prediction Calibration Reference — April 12, 2026 (Scored April 3, 2026)
 
 Use this document when analyzing Predictive History lectures to accurately assess prediction statuses.
 
@@ -201,6 +201,10 @@ Use this document when analyzing Predictive History lectures to accurately asses
 | Oil rebounds after ceasefire crash | Apr 9-10, 2026 | Brent futures $94.75→$98.27 (+3.7%); dated spot $124.68; IRGC mine confirmation dampens reopening hopes |
 | Saudi oil capacity cut by Iran attacks | Apr 9, 2026 | Manifa + Khurais production facilities hit; capacity reduced 600,000 bpd; East-West pipeline throughput down 700,000 bpd (Bloomberg, The National, CNBC) |
 | Islamabad talks begin — indirect format | Apr 11, 2026 | Highest-level US-Iran meeting since 1979 BUT in SEPARATE ROOMS — Pakistani mediators shuttle between Vance/Witkoff/Kushner and Qalibaf/Araghchi/Ahmadian/Hemmati at Serena Hotel (CBS, CNN, Al Jazeera) |
+| Islamabad talks upgraded to FACE-TO-FACE | Apr 11-12, 2026 | White House confirmed Saturday afternoon that delegations began direct face-to-face discussions — first direct US-Iran talks since 1979. Talks stretched past midnight into Sunday. Tone 'largely positive' but Hormuz stalemate persists (CNN, WashPost, CBS, ABC7) |
+| US Navy mine-clearing begins in Strait of Hormuz | Apr 11, 2026 | USS Frank E. Peterson (DDG-121) + USS Michael Murphy (DDG-112) transited Hormuz; CENTCOM announced mine clearance mission; Adm. Cooper: 'establishing a new passage.' Iran DENIED transit — IRGC claims destroyer 'turned back' (CENTCOM, Naval News, Bloomberg, Al Jazeera) |
+| Lebanon casualties surpass 2,020 killed | Apr 11, 2026 | 6,436+ wounded since Mar 2; 18 more killed in southern Lebanon Apr 11; Lebanese Health Ministry figures (Al Jazeera) |
+| Ukraine Easter ceasefire violated | Apr 12, 2026 | Both sides accusing each other of breaking 32-hour truce; Russia says Ukraine struck Nova Kakhovka; Ukrainian drone hit Kursk gas station injuring 3 incl child (CNN, TASS, Washington Times) |
 | Qalibaf sets preconditions for talks | Apr 10, 2026 | Demands Lebanon ceasefire + release of Iran's frozen assets BEFORE negotiations begin (PressTV, Voice of Emirates, Daily Signal) |
 | Lebanon casualties surpass 1,953 killed | Apr 10, 2026 | 6,303+ wounded since Mar 2; 14 more killed in southern Lebanon Apr 10; HRW condemns strikes; 130+ children among dead (Al Jazeera, HRW, UN News) |
 | Putin declares 32-hour Easter ceasefire in Ukraine | Apr 11, 2026 | 16:00 Apr 11 to end of Apr 12; Zelenskyy confirms Ukraine will honor it; first mutually agreed pause since 2025 (NBC, Euronews, Al Jazeera, RFE/RL) |
@@ -234,33 +238,33 @@ Use this document when analyzing Predictive History lectures to accurately asses
 ## Key Contextual Facts for Analysis
 
 ### US-Iran War
-- CEASEFIRE DAY 4 (Apr 11) — Day 44; NO ground troops deployed IN Iran; GROUND OPS PROBABILITY ZERO
-- ISLAMABAD TALKS UNDERWAY (Apr 11): INDIRECT format — separate rooms, Pakistani mediators shuttling. Vance + Witkoff + Kushner vs Qalibaf + Araghchi + SNSC Secretary Ahmadian + CB Governor Hemmati. Pakistan PM Sharif: 'historic opportunity.' Ceasefire deadline Apr 22
-- QALIBAF PRECONDITIONS (Apr 10): Demands Lebanon ceasefire + release of frozen assets BEFORE negotiations begin — could delay or derail talks (PressTV, Voice of Emirates)
-- VANCE: 'If they intend to manipulate us, they will discover that the negotiating team is not particularly accommodating' (Axios)
-- IRGC MINES IN HORMUZ (confirmed Apr 9): Map showing anti-ship mines in main traffic zone. Strait 'will NEVER return to previous status.' Mine clearance could take weeks-months
-- HORMUZ: Thursday saw just 6 vessels — ZERO tankers; 230+ tankers waiting; 600+ vessels/325 tankers stranded; mines confirmed
+- CEASEFIRE DAY 5 (Apr 12) — Day 45; NO ground troops deployed IN Iran; GROUND OPS PROBABILITY ZERO
+- ISLAMABAD TALKS UPGRADED TO FACE-TO-FACE (Apr 11-12): White House confirmed direct talks began Saturday afternoon — first since 1979 revolution. Talks stretched past midnight into Sunday. Tone 'largely positive' but HORMUZ STALEMATE persists — 'serious disagreement.' Some progress on Lebanon framework + asset unfreezing (CNN, WashPost, CBS, ABC7)
+- TRUMP: negotiations 'very deep'; 'regardless of what happens, we win' (Al Jazeera)
+- US NAVY MINE-CLEARING BEGINS (Apr 11): USS Frank E. Peterson + USS Michael Murphy transited Hormuz; CENTCOM: 'establishing a new passage.' Iran DENIED transit — IRGC claims destroyer 'turned back.' US says both ships completed full transit (CENTCOM, Naval News, Bloomberg)
+- IRGC MINES IN HORMUZ (confirmed Apr 9): Map showing anti-ship mines in main traffic zone. US officials say Iran may have lost track of where some mines were placed (BusinessToday India)
+- HORMUZ: Traffic still single digits; ZERO tankers; 230+ tankers waiting; 600+ vessels/325 tankers stranded; mines confirmed
 - SAUDI: Iran attacks cut Saudi oil capacity by 600,000 bpd; East-West pipeline down 700,000 bpd (Bloomberg, Apr 9)
-- Oil: Brent futures ~$96.76 (slight pullback from $98.27)
+- Oil: Brent futures ~$96.66-96.69 (Apr 10 close; markets closed Saturday)
 - HRANA: 3,597+ killed (1,665 civilians, 1,221 military, 711 unclassified) — no update since ceasefire
 - Israel: 26+ killed, 7,183+ wounded; no change since ceasefire
-- Lebanon: ~1,953+ killed / 6,303+ wounded; 14 more killed Apr 10 in southern Lebanon; HRW condemns strikes
+- Lebanon: ~2,020+ killed / 6,436+ wounded; 18 more killed Apr 11; strikes continue daily despite Iran ceasefire
 - US: 15 KIA, 380+ wounded; no change since ceasefire
-- USS BOXER ARG: transiting Pacific; ~2.5 weeks from CENTCOM
+- USS BOXER ARG: approaching CENTCOM; expected mid-April
 - Israel decapitation campaign: 10+ senior officials/commanders killed
-- Ceasefire violations continue: Lebanon strikes (14 killed Apr 10), Hormuz still blocked — all air/missile events
+- Ceasefire violations continue: Lebanon strikes (18 killed Apr 11), Hormuz still blocked — all air/missile events
 - Mojtaba Khamenei still absent/incapacitated — questions about who authorizes Iranian negotiating positions
 
 ### Hormuz Blockade & Regional Fallout
-- IRGC MINES CONFIRMED (Apr 9): Map showing anti-ship mines in main traffic zone. Strait 'will NEVER return to previous status.' Mine clearance could take weeks-months
-- TRAFFIC DROPS FURTHER: Thursday (Apr 10) saw just 6 vessels — ZERO oil/chemical/LNG tankers. Down from 11 on ceasefire Day 1. 230+ tankers waiting; 600+ vessels including 325 tankers stranded (The Week India, CNBC)
+- US NAVY MINE-CLEARING BEGINS (Apr 11): USS Frank E. Peterson (DDG-121) + USS Michael Murphy (DDG-112) transited Hormuz; CENTCOM announced mine clearance; Adm. Cooper: 'establishing a new passage.' Iran DENIED transit — IRGC says destroyer 'turned back.' US says both completed full transit (CENTCOM, Naval News, Bloomberg)
+- IRGC MINES CONFIRMED (Apr 9): Map showing anti-ship mines in main traffic zone. Strait 'will NEVER return to previous status.' US officials say Iran may have lost track of some mine positions (BusinessToday India)
+- TRAFFIC: Still single digits/day; ZERO oil/chemical/LNG tankers. 230+ tankers waiting; 600+ vessels including 325 tankers stranded
 - IRGC TOLLS UP TO $2M/TANKER IN CRYPTO/YUAN — Trump demands open 'without limitation, including tolls'
-- Iran HALTED tanker transit citing Israel's Lebanon strikes — key leverage linking Lebanon + Hormuz
 - SAUDI CAPACITY CUT: Iran attacks reduced Saudi production capacity by 600,000 bpd (Manifa + Khurais); East-West pipeline throughput down 700,000 bpd (Bloomberg, Apr 9)
 - IRAN RETALIATES AGAINST 5 GULF STATES POST-CEASEFIRE (Apr 8): UAE (17 BMs + 35 drones), Kuwait (28 drones), Qatar (7 BMs), Bahrain (2 injured), Saudi Arabia
 - UN SECURITY COUNCIL HORMUZ VOTE — VETOED BY RUSSIA + CHINA (Apr 7): 11-2 vote blocked
-- Oil: Brent futures ~$96.76 (pullback from $98.27). Goldman: >$100 if Hormuz stays closed another month
-- Islamabad proximity talks underway (Apr 11) — indirect format, Qalibaf preconditions complicate. Mine confirmation + zero tanker traffic mean reopening remains weeks away minimum
+- Oil: Brent futures ~$96.66-96.69 (flat). Goldman: >$100 if Hormuz stays closed another month
+- Islamabad face-to-face talks (Apr 11-12) — Hormuz is the 'serious disagreement.' US mine-clearing is unilateral attempt to bypass Iranian control. Commercial restart still weeks away minimum
 
 ### Venezuela, Cuba, Colombia
 - **Venezuela**: Maduro trial in pretrial phase; legal experts say trial unlikely this year. Rodriguez acting president; US lifts sanctions on Rodriguez (Foreign Policy, Apr 10); US Embassy resuming operations
@@ -270,9 +274,8 @@ Use this document when analyzing Predictive History lectures to accurately asses
 ### Russia-Ukraine War (April 2026)
 - War continues as grinding attritional conflict — Ukraine has NOT "lost"
 - Russia occupies ~20% of territory
-- PUTIN DECLARES 32-HOUR EASTER CEASEFIRE (Apr 11): 16:00 Apr 11 to end of Apr 12. Zelenskyy confirms Ukraine will honor it. First mutually agreed pause since 2025 Easter truce (which collapsed with mutual accusations of violations)
-- BUT: Dnipropetrovsk governor reported 2 killed by Russian strikes even AFTER announcement
-- 164 combat engagements on Apr 9 — Pokrovsk sector most active (32 assault actions repelled)
+- EASTER CEASEFIRE VIOLATED (Apr 12): 32-hour truce from 16:00 Apr 11 to end of Apr 12 — both sides accusing each other of breaking it. Russia says Ukraine struck Nova Kakhovka (occupied Kherson). Ukrainian drone hit gas station in Kursk — 2 adults + 1-year-old child injured (TASS). Pattern mirrors 2025 Easter truce collapse
+- Pre-ceasefire: 164 combat engagements on Apr 9 — Pokrovsk sector most active (32 assault actions repelled)
 - Russian daily losses (Apr 9): 1,040 personnel, 1 tank, 2 APCs, 64 artillery, 1 MLRS, 2,238 UAVs
 - Russia deployed 10,100 kamikaze drones + 250 guided bombs + 3,625 shellings in single day
 - Mar 10-Apr 7: Russia gained only 17 sq mi — extremely slow advance
@@ -315,6 +318,7 @@ Use this document when analyzing Predictive History lectures to accurately asses
 - Kim visited new CEMETERY FOR SOLDIERS KILLED IN UKRAINE — burials mid-April
 - Kim looking to Trump-Xi May 14-15 summit as pivotal window
 - No new launches since Apr 8 testing spree — 3-day testing window appears concluded
+- China FM WANG YI VISITED PYONGYANG (Apr 9): Met NK FM Choe Son Hui — Beijing 'prepared to strengthen bilateral ties' with DPRK (AEI, Bloomberg)
 
 ### Plaza Accord
 - Multilateral agreement (US, Japan, France, West Germany, UK) — not unilateral US diktat

@@ -1,5 +1,5 @@
 {
-  "briefing_date": "2026-04-11",
+  "briefing_date": "2026-04-12",
   "last_scoring_date": "2026-04-03",
   "next_scoring_date": "2026-05-03",
   "theatres": [
@@ -7,7 +7,7 @@
       "name": "Iran / Strait of Hormuz",
       "status": "disconfirmed",
       "status_label": "active war",
-      "summary": "Day 44 — CEASEFIRE DAY 4: ISLAMABAD TALKS BEGIN — INDIRECT FORMAT. Qalibaf + Araghchi + SNSC Secretary Ahmadian + CB Governor Hemmati in one room; Vance + Witkoff + Kushner in another. Pakistani mediators shuttle between. Qalibaf PRECONDITIONS: Lebanon ceasefire + frozen assets released BEFORE negotiations begin. Vance: 'don't play us.' Pakistan's modest goal: 'a deal to keep talks going.' HORMUZ: Thursday saw just 6 vessels — ZERO tankers; 230+ tankers waiting; 600+ vessels/325 tankers stranded; mines in lanes. SAUDI: Iran attacks cut Saudi oil capacity by 600,000 bpd; East-West pipeline down 700,000 bpd (Bloomberg). LEBANON: ~1,953 killed / 6,303 wounded since Mar 2; 14 more killed Apr 10 in southern Lebanon; HRW condemns strikes; UN: 'still under the rubble.' Oil: Brent ~$96.76. Ceasefire deadline Apr 22. Mojtaba Khamenei still absent/incapacitated.",
+      "summary": "Day 45 — CEASEFIRE DAY 5: ISLAMABAD TALKS GO FACE-TO-FACE — STRETCH PAST MIDNIGHT. Talks upgraded from indirect shuttle to DIRECT face-to-face Saturday afternoon (White House confirmed). Tone 'largely positive' but STALEMATE over Hormuz control (CNN). Some progress on Lebanon framework + asset unfreezing. Trump: negotiations 'very deep.' US NAVY MINE-CLEARING BEGINS: USS Frank E. Peterson + USS Michael Murphy (DDG) transited Hormuz Saturday; CENTCOM announced mine clearance mission; Adm. Cooper: 'establishing a new passage.' Iran DENIED any US vessel crossed — IRGC claims destroyer 'turned back' after 30-min warning; US officials say both ships completed full transit. LEBANON: 18 more killed Apr 11 in southern Lebanon; total now ~2,020 killed / 6,436 wounded since Mar 2 (Health Ministry). UKRAINE: Easter ceasefire VIOLATED — mutual accusations; Russia accused Ukraine of striking Nova Kakhovka; Ukrainian drone hit Kursk gas station injuring 3 incl child. Oil: Brent ~$96.66-96.69. Ceasefire deadline Apr 22. Mojtaba Khamenei still absent/incapacitated.",
       "countries": [
         "Iran",
         "Israel",
@@ -29,8 +29,8 @@
     {
       "name": "Russia-Ukraine War",
       "status": "untested",
-      "status_label": "grinding war — Easter ceasefire Apr 11-12",
-      "summary": "PUTIN DECLARES 32-HOUR EASTER CEASEFIRE: From 16:00 Apr 11 to end of Apr 12 — Zelenskyy confirms Ukraine will honor it. Defense Minister Belousov + Gen. Gerasimov ordered to cease combat on all fronts. First mutually agreed pause since 2025 Easter truce (which collapsed with mutual accusations). BUT: Dnipropetrovsk governor reported 2 killed by Russian strikes even AFTER announcement. Pre-ceasefire: 164 combat engagements Apr 9; Pokrovsk most active. Russia holds ~20%. Russia total losses ~1,308,670. Ukraine regained 480 sq km since late January. Abu Dhabi talks still postponed.",
+      "status_label": "grinding war — Easter ceasefire violated",
+      "summary": "EASTER CEASEFIRE VIOLATED — MUTUAL ACCUSATIONS: Both sides accusing each other of breaking 32-hour truce (Apr 11-12). Russia accused Ukraine of striking Nova Kakhovka in occupied Kherson. Ukrainian drone hit gas station in Russia's Kursk region — 2 adults and 1-year-old child injured (TASS). Pattern mirrors 2025 Easter truce collapse. Pre-ceasefire: 164 combat engagements Apr 9; Pokrovsk most active. Russia holds ~20%. Russia total losses ~1,308,670. Ukraine regained 480 sq km since late January. Abu Dhabi talks still postponed.",
       "countries": [
         "Russia",
         "Ukraine"
@@ -73,17 +73,17 @@
   "metrics": [
     {
       "name": "Brent Crude ($/bbl)",
-      "value": "~$96.76 futures",
-      "change": "SLIGHT PULLBACK from $98.27: Brent futures eased to ~$96.76 as market digests ceasefire optimism vs. Hormuz reality. ZERO tankers transited Thursday. Saudi confirmed 600K bpd capacity cut from Iranian attacks (Bloomberg). Goldman: >$100 Brent if Hormuz stays closed another month. Physical scarcity deepening — 230+ tankers waiting for Hormuz passage.",
-      "change_color": "var(--score-2)",
-      "as_of": "2026-04-11"
+      "value": "~$96.66-96.69 futures",
+      "change": "ESSENTIALLY FLAT: Brent futures ~$96.66-96.69 (Apr 10 close; markets closed Apr 12 Saturday). US mine-clearing operation in Hormuz could ease pressure if successful, but IRGC denies US ships transited and vows 'strong response.' Physical scarcity persists — zero tankers transiting, mines in lanes. Goldman: >$100 Brent if Hormuz stays closed another month. Islamabad talks 'largely positive' but Hormuz stalemate persists.",
+      "change_color": "var(--text-muted)",
+      "as_of": "2026-04-12"
     },
     {
       "name": "Hormuz Tanker Traffic",
-      "value": "~6 ships/day (ZERO tankers); MINES CONFIRMED; 230+ tankers waiting",
-      "change": "DOWN from ~11 on Day 1: Thursday (Apr 10) saw just 6 vessels pass — ZERO oil, chemical, or LNG tankers. All cargo ships. 230+ tankers waiting for passage. 600+ vessels including 325 tankers stranded in Gulf (The Week India, CNBC). IRGC continues to control access via alternative routes and toll system. Mine clearance timeline unknown. Hormuz reopening — the ceasefire's core premise — remains unfulfilled.",
-      "change_color": "var(--score-1)",
-      "as_of": "2026-04-11"
+      "value": "~single digits/day (ZERO tankers); US MINE-CLEARING BEGINS; 230+ tankers waiting",
+      "change": "US MINE-CLEARING LAUNCHED: USS Frank E. Peterson + USS Michael Murphy transited Hormuz Saturday; CENTCOM announced mine clearance mission; Adm. Cooper: 'establishing a new passage.' Iran DENIED transit occurred — IRGC claimed destroyer 'turned back' after warning; US says both ships completed full transit. Traffic still in single digits, ZERO oil/LNG tankers. 230+ tankers waiting; 600+ vessels/325 tankers stranded. Mine clearance could take weeks even with cooperation — and Iran is NOT cooperating.",
+      "change_color": "var(--score-2)",
+      "as_of": "2026-04-12"
     },
     {
       "name": "US Military KIA (Iran theatre)",
@@ -115,10 +115,10 @@
     },
     {
       "name": "Lebanon Casualties (since Mar 2)",
-      "value": "~1,953+ killed / 6,303+ wounded / 1.2M+ displaced / 3 UNIFIL peacekeepers killed / 10+ IDF soldiers killed",
-      "change": "UP from 1,739: Continued strikes on Apr 10 — at least 14 more killed in southern Lebanon (al-Abbassieh, other towns). HRW published report condemning 'devastating' strikes and damaged vital bridge. UN: casualties 'still under the rubble' — ambulances and hospitals face new threats. Total since Mar 2: ~1,953 killed, 6,303 wounded, including 130+ children, 102 women, 57 medical workers. Israel-Lebanon talks planned for next week at State Dept but IDF operations continue during negotiations (Al Jazeera, HRW, UN News, Wikipedia/Lebanese Health Ministry).",
+      "value": "~2,020+ killed / 6,436+ wounded / 1.2M+ displaced / 3 UNIFIL peacekeepers killed / 10+ IDF soldiers killed",
+      "change": "UP from 1,953: Israeli strikes killed at least 18 people across southern Lebanon on Apr 11 (Al Jazeera). Lebanese Health Ministry total as of Apr 11: ~2,020 killed, 6,436 wounded since Mar 2. Strikes continue daily despite Iran ceasefire. Israel-Lebanon talks planned at State Dept this coming week. Some progress reported at Islamabad talks on a framework to limit strikes to southern Lebanon, but no ceasefire agreed.",
       "change_color": "var(--score-1)",
-      "as_of": "2026-04-11"
+      "as_of": "2026-04-12"
     },
     {
       "name": "UAE Casualties",
@@ -130,9 +130,9 @@
     {
       "name": "Ships Trapped in Gulf",
       "value": "~600+ (including 325 tankers); 230+ tankers waiting for Hormuz",
-      "change": "UPDATED: 600+ vessels including 325 tankers stranded in Gulf (CNBC). 230+ tankers specifically waiting for Hormuz passage (The Week India). Down from 800+ estimate but more precise count now available. Thursday saw only 6 vessels transit — ZERO tankers. Iran's mine confirmation and IRGC-controlled alternative routes mean large-scale restart remains weeks away even with full cooperation.",
+      "change": "US MINE-CLEARING MAY HELP: CENTCOM launched mine clearance mission Saturday with 2 destroyers + underwater drones joining soon. But Iran DENIES US ships transited and IRGC vows 'strong response' to unauthorized military vessels. 600+ vessels/325 tankers still stranded. Traffic remains single digits. Even with US mine-clearing, commercial restart weeks away — insurance, Iran cooperation, and IRGC toll system still barriers.",
       "change_color": "var(--score-2)",
-      "as_of": "2026-04-11"
+      "as_of": "2026-04-12"
     },
     {
       "name": "Qatar Gas Production",
@@ -144,9 +144,9 @@
     {
       "name": "Ukraine Territory Occupied",
       "value": "~20%",
-      "change": "EASTER CEASEFIRE: Putin declares 32-hour ceasefire from 16:00 Apr 11 to end of Apr 12. Zelenskyy confirms Ukraine will honor it. Pre-ceasefire: 164 combat engagements Apr 9; Pokrovsk sector most active. Russia total losses ~1,308,670. Similar 2025 Easter truce collapsed with mutual accusations. Dnipropetrovsk governor reported 2 killed by Russian strikes even after announcement.",
+      "change": "EASTER CEASEFIRE VIOLATED: Both sides accusing each other of breaking truce. Russia says Ukraine struck Nova Kakhovka (occupied Kherson). Ukrainian drone hit gas station in Kursk region — 2 adults + 1-year-old child injured (TASS). Pattern mirrors 2025 Easter truce collapse. Ceasefire expires end of Apr 12. Pre-ceasefire: 164 combat engagements Apr 9. Russia total losses ~1,308,670.",
       "change_color": "var(--text-muted)",
-      "as_of": "2026-04-11"
+      "as_of": "2026-04-12"
     },
     {
       "name": "Cuba Fuel Imports",
@@ -171,33 +171,90 @@
     }
   ],
   "ground_invasion_tracker": {
-    "last_updated": "2026-04-11",
+    "last_updated": "2026-04-12",
     "status": "no_ground_troops",
-    "troop_count_in_theatre": "~53,500+ (CENTCOM confirmed 50,000+; USS Tripoli ARG ~3,500 in theatre; 82nd Airborne 1,000-3,000 in theatre; USS Boxer ARG ~2.5 weeks from CENTCOM — transiting Pacific). CEASEFIRE DAY 4. Islamabad proximity talks UNDERWAY. No new deployments announced. Force posture unchanged.",
+    "troop_count_in_theatre": "~53,500+ (CENTCOM confirmed 50,000+; USS Tripoli ARG ~3,500 in theatre; 82nd Airborne 1,000-3,000 in theatre; USS Boxer ARG approaching CENTCOM — expected mid-April; USS Frank E. Peterson + USS Michael Murphy now in Arabian Gulf for mine-clearing). CEASEFIRE DAY 5. Islamabad face-to-face talks ongoing past midnight into Sunday. No new ground force deployments.",
     "key_developments": [
-      "ISLAMABAD TALKS BEGIN — INDIRECT FORMAT (Apr 11): Delegations in SEPARATE ROOMS at Serena Hotel, Pakistani mediators shuttling messages. Not face-to-face. Vance + Witkoff + Kushner vs Qalibaf + Araghchi + SNSC Secretary Ahmadian + CB Governor Hemmati. Ground operations IMPOSSIBLE during active proximity talks (CBS, CNN, Al Jazeera, Axios, IBTimes)",
-      "QALIBAF SETS PRECONDITIONS (Apr 10): Demands Lebanon ceasefire + frozen assets released before negotiations begin. These are DIPLOMATIC demands, not military escalation signals. Seeking political/economic concessions (PressTV, Voice of Emirates, Daily Signal, Times of Israel)",
-      "VANCE: 'DON'T PLAY US' (Apr 10): Vance warned Iran boarding AF2: 'If they intend to manipulate us, they will discover that the negotiating team is not particularly accommodating.' Rhetoric focused on DIPLOMACY, not military threats. No Pentagon statements about ground operations (Axios, WION, Daily Post Nigeria)",
-      "NO NEW MILITARY DEPLOYMENTS (Apr 11): Zero new troop movement announcements. No additional ships, aircraft, or personnel ordered to theatre. Force posture unchanged since ceasefire began Apr 8",
-      "USS BOXER ARG STILL IN TRANSIT (Apr 11): Departed Pearl Harbor Apr 1. At ~12,000 nautical miles from Gulf of Oman, estimated ~2.5 weeks from CENTCOM theatre at standard transit speed. Not yet combat-available (Stars and Stripes, USNI, TWZ)",
-      "ISLAMABAD TALKS BEGIN TODAY (Apr 10): Vance + Witkoff + Kushner arriving at Serena Hotel, Islamabad. Iran's Qalibaf + Araghchi leading Iranian delegation. Pakistan PM Sharif mediating. HIGHEST-LEVEL US-IRAN MEETING SINCE 1979. Ceasefire deadline Apr 22. Diplomatic process fully engaged — ground operations cannot occur during active negotiations (Tribune India, Al Jazeera, Pakistan Today, The National, CNN)",
-      "TRUMP: MILITARY 'LOOKING FORWARD TO NEXT CONQUEST' (Apr 9): Truth Social: 'Our great Military is Loading Up and Resting, looking forward, actually, to its next Conquest.' All ships, aircraft, personnel remain near Iran until 'REAL AGREEMENT' honored. Rhetoric maintains military pressure but NO new deployments announced — diplomatic track dominant (CNBC, Al Jazeera, Washington Times, Newsweek, Daily Post Nigeria)",
-      "IRAN CONFIRMS MINES IN HORMUZ (Apr 9): IRGC published map showing anti-ship mines in main traffic zone. This is a DEFENSIVE/DETERRENT measure, not a ground invasion indicator. Makes Hormuz mine clearance a prerequisite for any naval operations near Iranian coast — COMPLICATES rather than enables ground ops (Haaretz, Middle East Eye, JPost, Al Arabiya, Al Bawaba)"
+      "ISLAMABAD TALKS GO FACE-TO-FACE (Apr 12): Upgraded from indirect shuttle format to DIRECT face-to-face discussions Saturday afternoon (White House confirmed). Talks stretched past midnight into Sunday morning. Tone 'largely positive' per Pakistani sources (CNN). Some progress on Lebanon framework and asset unfreezing. BUT Hormuz stalemate persists — 'serious disagreement' (Tasnim). Ground operations IMPOSSIBLE during active face-to-face negotiations with VP Vance personally leading (CNN, WashPost, Al Jazeera, CBS, ABC7)",
+      "US NAVY MINE-CLEARING = NAVAL OPERATION, NOT GROUND INVASION (Apr 11): USS Frank E. Peterson (DDG-121) + USS Michael Murphy (DDG-112) transited Hormuz; CENTCOM announced mine clearance mission. Adm. Brad Cooper: 'establishing a new passage.' This is a MINE-CLEARING operation — destroyers + underwater drones, NOT amphibious assault or ground troops. Iran denied transit occurred; IRGC claims destroyer 'turned back.' US says both ships completed full transit (CENTCOM, Naval News, Bloomberg, Stars and Stripes, Al Jazeera)",
+      "TRUMP: NEGOTIATIONS 'VERY DEEP' (Apr 11-12): Trump said US engaged in 'very deep' negotiations with Iran, 'regardless of what happens, we win.' Rhetoric focused entirely on DIPLOMACY, not military escalation. No Pentagon statements about ground operations (Al Jazeera, ABC7)",
+      "NO NEW GROUND FORCE DEPLOYMENTS (Apr 12): Zero new troop movement announcements. Only new military activity is mine-clearing (naval, not ground). Force posture unchanged. All ceasefire obligations being honored on direct US-Iran axis",
+      "USS BOXER ARG APPROACHING CENTCOM (Apr 12): Departed Pearl Harbor Apr 1. Expected to reach CENTCOM theatre mid-April. Will add ~2,500 Marines when it arrives — but arrival during active face-to-face negotiations is a scheduled deployment, not an escalation signal (Stars and Stripes, USNI, TWZ)",
+      "LEBANON: 18 KILLED APR 11 (Apr 11): Israeli strikes continued in southern Lebanon — 18 killed. Total now ~2,020 killed / 6,436 wounded. Some progress at Islamabad on limiting strikes to southern Lebanon — NOT a ground invasion indicator (Al Jazeera, Lebanese Health Ministry)",
+      "EASTER CEASEFIRE IN UKRAINE (Apr 12): Both sides accusing each other of violations — Ukraine struck Nova Kakhovka; Ukrainian drone hit Kursk gas station injuring 3. Separate theatre entirely — no implications for Iran ground ops"
     ],
     "kharg_island": {
       "status": "struck_twice_air_only",
-      "naval_activity": "No new naval activity near Kharg since ceasefire. USS Tripoli ARG in CENTCOM but no Kharg-specific positioning reported. Ceasefire precludes military operations.",
-      "notes": "Kharg struck by US air forces twice (Mar 13, Apr 7) — oil infrastructure deliberately spared both times. No ground troops deployed. Iran fortifying defenses. Ceasefire halts all offensive operations. War on the Rocks published analysis 'The Folly of Seizing Kharg Island' arguing against ground seizure."
+      "naval_activity": "No naval activity near Kharg since ceasefire. US Navy mine-clearing ops focused on Strait of Hormuz shipping lanes, NOT Kharg Island approaches. USS Tripoli ARG in CENTCOM but no Kharg-specific positioning.",
+      "notes": "Kharg struck by US air forces twice (Mar 13, Apr 7) — oil infrastructure deliberately spared both times. No ground troops deployed. Iran fortifying defenses. Ceasefire halts all offensive operations. Face-to-face talks at Islamabad make any Kharg operation impossible during diplomatic engagement."
     },
     "marine_movements": [
       "USS Tripoli ARG (31st MEU, ~3,500): In CENTCOM theatre since late March. No new positioning reported during ceasefire.",
-      "USS Boxer ARG (11th MEU, ~2,500): Departed Pearl Harbor Apr 1. Transiting Pacific. ~2.5 weeks from CENTCOM at standard transit speed. Not combat-available.",
-      "82nd Airborne (1,000-3,000): In theatre. No new deployment orders."
+      "USS Boxer ARG (11th MEU, ~2,500): Approaching CENTCOM theatre. Expected mid-April arrival. Scheduled deployment, not escalation.",
+      "82nd Airborne (1,000-3,000): In theatre. No new deployment orders.",
+      "USS Frank E. Peterson (DDG-121) + USS Michael Murphy (DDG-112): Transited Hormuz Saturday for mine-clearing mission. NOT ground/amphibious assets."
     ],
-    "draft_indicators": "NONE. Zero domestic signals regarding draft, conscription, or selective service activation. No Congressional debate on ground operations authorization. No public Pentagon testimony on ground invasion plans. All political energy focused on Islamabad diplomatic track.",
-    "assessment": "Ground invasion probability remains at ABSOLUTE ZERO. Day 44 with zero US ground troops deployed in Iran. Islamabad proximity talks now underway with highest-level US and Iranian delegations since 1979. All military activity frozen under ceasefire. The 44-day pattern is conclusive: air campaign + diplomatic exit."
+    "draft_indicators": "NONE. Zero domestic signals regarding draft, conscription, or selective service activation. No Congressional debate on ground operations authorization. No public Pentagon testimony on ground invasion plans. All political energy focused on Islamabad face-to-face diplomatic talks.",
+    "assessment": "Ground invasion probability remains at ABSOLUTE ZERO. Day 45 with zero US ground troops deployed IN Iran. Face-to-face talks at Islamabad (upgraded from indirect format) represent deepest diplomatic engagement since 1979. US Navy mine-clearing is a naval/mine-countermeasures operation, not a ground invasion precursor. The 45-day pattern is conclusive: air campaign + diplomatic exit via Islamabad face-to-face talks."
   },
   "daily_entries": [
+    {
+      "date": "2026-04-12",
+      "tags": [
+        "Iran",
+        "Ceasefire Day 5",
+        "Islamabad Talks Day 2",
+        "Talks Go Face-to-Face",
+        "Talks Stretch Past Midnight",
+        "Hormuz Stalemate Persists",
+        "US Navy Mine-Clearing Begins",
+        "USS Frank E Peterson DDG-121",
+        "USS Michael Murphy DDG-112",
+        "Iran Denies US Transit",
+        "IRGC Claims Destroyer Turned Back",
+        "Trump Very Deep Negotiations",
+        "Lebanon 2020 Killed 6436 Wounded",
+        "Lebanon 18 Killed Apr 11",
+        "Ukraine Easter Ceasefire Violated",
+        "Nova Kakhovka Struck",
+        "Kursk Gas Station Droned",
+        "China FM Wang Yi NK Pyongyang",
+        "Peru Elections Apr 12",
+        "Oil Flat $96.66",
+        "Day 45"
+      ],
+      "summary": "Day 45 — CEASEFIRE DAY 5: ISLAMABAD TALKS GO FACE-TO-FACE — STRETCH PAST MIDNIGHT INTO SUNDAY. (1) TALKS UPGRADED FROM INDIRECT TO DIRECT: White House confirmed face-to-face discussions began Saturday afternoon — first direct US-Iran talks since 1979 revolution. Earlier Saturday was indirect (separate rooms, Pakistani shuttling). Talks stretched past midnight into Sunday morning with new round of trilateral talks (CNN, WashPost, CBS, ABC7). (2) TONE 'LARGELY POSITIVE' BUT HORMUZ STALEMATE: Pakistani sources say overall positive; some progress on Lebanon framework (possible understanding to limit strikes to southern Lebanon) and asset unfreezing. BUT 'serious disagreement' persists on Hormuz control — the central issue (CNN, Tasnim). (3) TRUMP: NEGOTIATIONS 'VERY DEEP': Said US in 'very deep' negotiations; 'regardless of what happens, we win' (Al Jazeera). (4) US NAVY MINE-CLEARING BEGINS IN HORMUZ: USS Frank E. Peterson (DDG-121) + USS Michael Murphy (DDG-112) transited Strait of Hormuz Saturday. CENTCOM announced mine clearance mission. Adm. Brad Cooper: 'Today, we began the process of establishing a new passage.' More forces + underwater drones joining soon. Iran DENIED any US vessel crossed — IRGC issued 30-min warning, claims destroyer 'turned back.' US officials say both ships completed full transit (CENTCOM, Naval News, Bloomberg, Al Jazeera, JPost, Stars and Stripes). (5) LEBANON: Israeli strikes killed 18 people across southern Lebanon on Apr 11. Health Ministry total: ~2,020 killed / 6,436 wounded since Mar 2 (Al Jazeera). (6) UKRAINE EASTER CEASEFIRE VIOLATED: Both sides accusing each other of breaking 32-hr truce. Russia says Ukraine struck Nova Kakhovka (occupied Kherson). Ukrainian drone hit gas station in Kursk — 2 adults + 1-year-old child injured (TASS, CNN, Washington Times). (7) CHINA-NK: FM Wang Yi met NK FM Choe Son Hui in Pyongyang (Apr 9) — Beijing 'prepared to strengthen bilateral ties' with DPRK (AEI, Bloomberg). (8) PERU: First-round presidential election held Apr 12 — 35 candidates, Fujimori leading polls ~18.5%; runoff expected June 7 (NPR, AS/COA). (9) Oil: Brent ~$96.66-96.69 (Apr 10 close; markets closed Saturday).",
+      "details": [
+        "ISLAMABAD TALKS UPGRADED TO FACE-TO-FACE (Apr 11-12): White House confirmed Saturday afternoon that delegations began DIRECT face-to-face discussions — a major upgrade from the morning's indirect shuttle format. This represents the first direct high-level US-Iran engagement since the 1979 Islamic revolution. Talks continued past midnight into early Sunday morning, with a new round of trilateral talks beginning Sunday local time. Pakistani officials continue mediating (CNN, WashPost, CBS, Al Jazeera, ABC7, NPR, PBS)",
+        "TONE 'LARGELY POSITIVE' BUT STALEMATE ON HORMUZ (Apr 12): Pakistani sources told CNN overall tone and outcome are 'largely positive.' Some progress reported on Lebanon — possible understanding to limit strikes to southern Lebanon rather than a full ceasefire. Reports of movement on unfreezing Iranian assets. BUT critical sticking point remains: control of Strait of Hormuz. Iran's Tasnim reported Hormuz among main points of 'serious disagreement.' A source close to Tehran's team said US made 'unacceptable demands' over the strait (CNN, Tasnim, ABC7)",
+        "TRUMP: 'VERY DEEP' NEGOTIATIONS (Apr 11-12): Trump said US engaged in 'very deep' negotiations with Iran — 'regardless of what happens, we win.' Rhetoric entirely diplomatic, no military escalation signals. Ceasefire deadline remains Apr 22 — 10 days away (Al Jazeera, ABC7)",
+        "US NAVY MINE-CLEARING BEGINS — IRAN DENIES TRANSIT (Apr 11): Two Arleigh Burke-class destroyers USS Frank E. Peterson (DDG-121) and USS Michael Murphy (DDG-112) transited the Strait of Hormuz Saturday. CENTCOM statement: ships 'transited the Strait of Hormuz and operated in the Arabian Gulf.' Adm. Brad Cooper: 'Today, we began the process of establishing a new passage, and we will share this safe pathway with the maritime industry soon to encourage the free flow of commerce.' More US forces including underwater drones to join in coming days. HOWEVER: Iran's IRIB broadcaster DENIED any US vessel crossed — IRGC Navy claims it issued 30-minute warning to one approaching destroyer, threatening attack if it crossed, and that the vessel 'turned back.' US officials told WSJ/Axios both ships completed full transit. IRGC vowed 'strong response' to any military ships passing through the strait. Contradicting narratives create flashpoint risk (CENTCOM, Naval News, Bloomberg, Stars and Stripes, Al Jazeera, JPost, Gulf Times, HotAir, RedState, BusinessToday India)",
+        "IRAN'S OWN MINES BECOMING A PROBLEM (Apr 11): BusinessToday India published 'Strategic Backfire: Iran's Own Mines Turn Into Barrier in Hormuz Reopening' — US officials told media that Iran may have lost track of where some mines were placed, complicating even its own reopening efforts. Iran unable to reopen strait even if it wanted to without mine clearance assistance (BusinessToday, Meaww, PJMedia)",
+        "LEBANON: 18 KILLED ON APR 11 (Apr 11): Israeli air strikes killed at least 18 people across southern Lebanon on Friday. Lebanese Health Ministry updated total: ~2,020 killed and 6,436 wounded since March 2. Strikes continue daily despite Iran ceasefire. Israel-Lebanon talks planned at State Department this coming week (Israeli amb Leiter, Lebanese amb Moawad). Some progress at Islamabad on Lebanon framework but no ceasefire agreed (Al Jazeera)",
+        "UKRAINE EASTER CEASEFIRE VIOLATED — MUTUAL ACCUSATIONS (Apr 12): 32-hour ceasefire (16:00 Apr 11 to end Apr 12) immediately challenged. Russia accused Ukraine of striking Nova Kakhovka in occupied Kherson region. TASS reported a Ukrainian drone attacked a gas station in Russia's Kursk region, injuring 2 adults and a 1-year-old child. Pattern mirrors the 2025 Easter truce, which collapsed with both sides blaming each other (CNN, Washington Times, The National, TASS, Jang)",
+        "CHINA FM WANG YI VISITS PYONGYANG (Apr 9): Wang Yi met North Korean FM Choe Son Hui during a visit to Pyongyang — said Beijing 'prepared to work with North Korea to strengthen bilateral ties and maintain positive momentum.' Visit comes after NK's three-day testing spree and amid heightened tensions (AEI, Bloomberg)",
+        "PERU FIRST-ROUND PRESIDENTIAL ELECTION (Apr 12): Peru held its most fragmented election in modern history — 35 candidates on ballot. Pre-election polls: Keiko Fujimori (Fuerza Popular) leading ~18.5%, Rafael López Aliaga (Renovación Popular) ~13.3%. No candidate expected to clear 50%; runoff expected June 7. Significant regional development (NPR, AS/COA, CSIS, Americas Quarterly)"
+      ],
+      "prediction_impact": "Islamabad talks upgrading to face-to-face is the most significant diplomatic development since the ceasefire. The 'largely positive' tone and progress on Lebanon and assets suggests real negotiations are occurring — NOT just posturing. However, the Hormuz stalemate is fundamental: the US demands unconditional reopening while Iran seeks permanent control via a 'new legal regime.' The US mine-clearing operation is a unilateral attempt to bypass this impasse — but Iran's denial and threatened 'strong response' means mine-clearing could become a flashpoint. The mine-clearing is a NAVAL operation (destroyers + underwater drones), NOT a ground invasion indicator. Ground invasion probability: ZERO — now even more impossible with face-to-face diplomatic talks underway.",
+      "source": "CNN, WashPost, CBS, Al Jazeera, ABC7, NPR, PBS, CENTCOM, Naval News, Bloomberg, Stars and Stripes, JPost, Gulf Times, HotAir, RedState, BusinessToday India, Meaww, PJMedia, Tasnim, TASS, Washington Times, The National, Jang, AEI, AS/COA, CSIS, Americas Quarterly"
+    },
+    {
+      "date": "2026-04-12",
+      "tags": [
+        "Ground Invasion Tracker"
+      ],
+      "summary": "GROUND INVASION PROBABILITY: ZERO. Day 45 — Ceasefire Day 5. Islamabad talks UPGRADED to FACE-TO-FACE (White House confirmed) — stretching past midnight into Sunday. Tone 'largely positive.' Trump: negotiations 'very deep.' The ONLY new military activity is US Navy mine-clearing in Hormuz (USS Frank E. Peterson + USS Michael Murphy) — this is a MINE COUNTERMEASURES operation using destroyers and underwater drones, NOT an amphibious assault or ground force deployment. Iran denies US ships transited; IRGC claims destroyer 'turned back.' USS Boxer ARG approaching CENTCOM (expected mid-April). No new ground force deployments. No draft indicators. 45-day pattern conclusive: air campaign + diplomatic exit via face-to-face talks.",
+      "details": [
+        "FACE-TO-FACE TALKS = GROUND OPS ABSOLUTE ZERO: Talks upgraded from indirect shuttle to direct face-to-face Saturday afternoon (White House confirmed). VP Vance personally in room with Iranian delegation. Cannot launch ground operations during face-to-face negotiations — this is the deepest US-Iran diplomatic engagement since 1979 (CNN, WashPost, CBS, Al Jazeera)",
+        "US MINE-CLEARING ≠ GROUND INVASION: USS Frank E. Peterson (DDG-121) + USS Michael Murphy (DDG-112) transited Hormuz for mine clearance. These are Arleigh Burke-class DESTROYERS performing mine countermeasures — NOT amphibious assault ships, NOT Marine landing craft, NOT ground troops. Adm. Cooper described the mission as 'establishing a new passage' for commercial shipping. Underwater drones joining — again, mine-clearing technology, not invasion assets (CENTCOM, Naval News, Bloomberg, Stars and Stripes)",
+        "IRAN'S DENIAL CREATES TENSION BUT NOT INVASION: Iran denied US ships transited; IRGC claims it warned a destroyer which 'turned back.' US says both completed full transit. This is a naval standoff/mine-clearing dispute — NOT a ground invasion development. The disagreement is about PASSAGE RIGHTS and mine-clearing, not troop landings (Al Jazeera, JPost, Gulf Times)",
+        "TRUMP RHETORIC ENTIRELY DIPLOMATIC (Apr 12): 'Very deep' negotiations. 'Regardless of what happens, we win.' Zero references to ground operations, troops, or military escalation. All focus on negotiating table (Al Jazeera, ABC7)",
+        "USS BOXER ARG: Approaching CENTCOM theatre, expected mid-April arrival. This is a SCHEDULED deployment that departed Pearl Harbor Apr 1 — NOT a response to talks or escalation. Arrival during face-to-face negotiations further reduces (not increases) ground ops probability",
+        "NO NEW GROUND FORCE DEPLOYMENTS: Zero announcements of additional troops, staging, logistics, or ground force movements. Force posture unchanged except for mine-clearing destroyers"
+      ],
+      "prediction_impact": "45 consecutive days with ZERO US ground troops deployed IN Iran. Face-to-face talks represent deepest diplomatic engagement since 1979 — the strongest anti-ground-invasion signal yet. US mine-clearing is a naval operation to facilitate commercial shipping, not a ground invasion precursor. Ground invasion probability remains at absolute zero.",
+      "source": "CNN, WashPost, CBS, Al Jazeera, ABC7, CENTCOM, Naval News, Bloomberg, Stars and Stripes, JPost, Gulf Times, NPR, PBS"
+    },
     {
       "date": "2026-04-11",
       "tags": [
