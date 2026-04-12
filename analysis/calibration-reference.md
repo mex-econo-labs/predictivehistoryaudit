@@ -1,4 +1,4 @@
-# Prediction Calibration Reference — April 12, 2026 (Scored April 3, 2026)
+# Prediction Calibration Reference — April 13, 2026 (Scored April 3, 2026)
 
 Use this document when analyzing Predictive History lectures to accurately assess prediction statuses.
 
@@ -196,6 +196,12 @@ Use this document when analyzing Predictive History lectures to accurately asses
 | Mojtaba Khamenei reportedly incapacitated | Apr 7+, 2026 | Intel memo: 'unconscious' in Qom; wounded in Feb 28 strike; not seen publicly; IRGC effectively managing war decisions |
 | NK confirms cluster-bomb warheads on Hwasong-11 | Apr 8-9, 2026 | KCNA: three-day tests included cluster-munition warheads on Hwasong-11, anti-aircraft weapons, electromagnetic weapons, carbon-fiber bombs |
 | Islamabad talks begin — highest US-Iran since 1979 | Apr 10, 2026 | Vance + Witkoff + Kushner vs Qalibaf + Araghchi at Serena Hotel; Pakistan mediating; deadline Apr 22 |
+| Islamabad talks upgraded to face-to-face | Apr 11-12, 2026 | First direct US-Iran talks since 1979 revolution; stretched past midnight; tone 'largely positive' but Hormuz stalemate (CNN, WashPost) |
+| Islamabad talks COLLAPSE after 21 hours | Apr 12, 2026 | Vance departed: 'They have chosen not to accept our terms.' Key sticking points: nuclear commitment, Hormuz, Lebanon, sanctions. Iran blamed US for 'failing to gain trust' (Al Jazeera, NPR, CNN, Time) |
+| Trump orders naval blockade of Iranian ports | Apr 12-13, 2026 | 'Effective immediately' — US Navy to blockade all ships to/from Iranian ports. CENTCOM implementation began Apr 13 10AM ET. Non-Iran-bound ships may transit Hormuz freely (CENTCOM, Bloomberg, NPR, CNN) |
+| IRGC declares blockade = ceasefire violation | Apr 13, 2026 | Military vessels approaching Hormuz 'dealt with harshly and decisively'; warns of 'deadly vortex' for warships (Pakistan Today, Al Jazeera, The Week India) |
+| Oil surges on blockade — Brent toward $103 | Apr 13, 2026 | Brent +7.8%; WTI +7%; European gas +18%. SPR drawdowns approaching mid-April limits (Bloomberg, CoinDesk, CNBC) |
+| Ukraine Easter ceasefire violated by both sides | Apr 11-13, 2026 | 32-hour truce: Ukraine recorded 2,299 Russian violations; Russia recorded 1,971 Ukrainian violations. Expired midnight Apr 12-13 (Al Jazeera, PBS, Euronews) |
 | Trump: military 'looking forward to next Conquest' | Apr 9, 2026 | All forces remain near Iran until 'REAL AGREEMENT' honored; warns any breach triggers unprecedented response |
 | Lebanon total casualties surpass 1,739 killed | Apr 9, 2026 | 5,873+ wounded; national day of mourning declared; Hezbollah fires 30+ rockets at northern Israel (no injuries) |
 | Oil rebounds after ceasefire crash | Apr 9-10, 2026 | Brent futures $94.75→$98.27 (+3.7%); dated spot $124.68; IRGC mine confirmation dampens reopening hopes |
@@ -238,33 +244,35 @@ Use this document when analyzing Predictive History lectures to accurately asses
 ## Key Contextual Facts for Analysis
 
 ### US-Iran War
-- CEASEFIRE DAY 5 (Apr 12) — Day 45; NO ground troops deployed IN Iran; GROUND OPS PROBABILITY ZERO
-- ISLAMABAD TALKS UPGRADED TO FACE-TO-FACE (Apr 11-12): White House confirmed direct talks began Saturday afternoon — first since 1979 revolution. Talks stretched past midnight into Sunday. Tone 'largely positive' but HORMUZ STALEMATE persists — 'serious disagreement.' Some progress on Lebanon framework + asset unfreezing (CNN, WashPost, CBS, ABC7)
-- TRUMP: negotiations 'very deep'; 'regardless of what happens, we win' (Al Jazeera)
-- US NAVY MINE-CLEARING BEGINS (Apr 11): USS Frank E. Peterson + USS Michael Murphy transited Hormuz; CENTCOM: 'establishing a new passage.' Iran DENIED transit — IRGC claims destroyer 'turned back.' US says both ships completed full transit (CENTCOM, Naval News, Bloomberg)
-- IRGC MINES IN HORMUZ (confirmed Apr 9): Map showing anti-ship mines in main traffic zone. US officials say Iran may have lost track of where some mines were placed (BusinessToday India)
-- HORMUZ: Traffic still single digits; ZERO tankers; 230+ tankers waiting; 600+ vessels/325 tankers stranded; mines confirmed
+- CEASEFIRE DAY 6 (Apr 13) — Day 46; NO ground troops deployed IN Iran; GROUND OPS PROBABILITY ZERO
+- ISLAMABAD TALKS COLLAPSED AFTER 21 HOURS (Apr 12): Vance departed Pakistan — 'They have chosen not to accept our terms.' Key sticking points: nuclear commitment, Hormuz, Lebanon, sanctions. Iran blamed US for 'failing to gain trust.' Ghalibaf: US must 'earn our trust.' Pakistan/Oman urge continued diplomacy (Al Jazeera, NPR, CNN, Time, NBC)
+- TRUMP ORDERS NAVAL BLOCKADE OF IRANIAN PORTS (Apr 12-13): 'Effective immediately' — US Navy to blockade all ships to/from Iranian ports. CENTCOM began implementation Apr 13 10AM ET. Non-Iran-bound ships may transit Hormuz freely. Trump warned ships firing on US vessels will be 'BLOWN TO HELL' (CENTCOM, Bloomberg, NPR, CNN, Al Jazeera)
+- IRGC: BLOCKADE = CEASEFIRE VIOLATION (Apr 13): Military vessels 'dealt with harshly and decisively.' IRGC warns of 'deadly vortex.' Strait 'open for non-military vessels' per IRGC regulations (Pakistan Today, Al Jazeera)
+- CEASEFIRE IN JEOPARDY: Apr 22 deadline technically still in effect but IRGC says blockade violates it. Diplomatic track not dead but on-site engagement ended
+- US NAVY MINE-CLEARING CONTINUES (Apr 11+): USS Frank E. Peterson + USS Michael Murphy in Arabian Gulf; now part of blockade force posture
+- IRGC MINES IN HORMUZ (confirmed Apr 9): Anti-ship mines in main traffic zone. Iran may have lost track of some mine positions (BusinessToday India)
+- HORMUZ: US BLOCKADE now active alongside IRGC control. Traffic single digits; ZERO tankers; 230+ tankers waiting; 600+ vessels/325 tankers stranded
+- Oil: Brent surging ~7.8% toward ~$103/bbl; European gas +18%. SPR drawdowns approaching limits (Bloomberg, CoinDesk)
 - SAUDI: Iran attacks cut Saudi oil capacity by 600,000 bpd; East-West pipeline down 700,000 bpd (Bloomberg, Apr 9)
-- Oil: Brent futures ~$96.66-96.69 (Apr 10 close; markets closed Saturday)
 - HRANA: 3,597+ killed (1,665 civilians, 1,221 military, 711 unclassified) — no update since ceasefire
 - Israel: 26+ killed, 7,183+ wounded; no change since ceasefire
-- Lebanon: ~2,020+ killed / 6,436+ wounded; 18 more killed Apr 11; strikes continue daily despite Iran ceasefire
+- Lebanon: ~2,020+ killed / 6,436+ wounded; Battle of Bint Jbeil ongoing; 2 civil defense killed Apr 13
 - US: 15 KIA, 380+ wounded; no change since ceasefire
-- USS BOXER ARG: approaching CENTCOM; expected mid-April
+- USS BOXER ARG: in western Pacific transit; expected CENTCOM mid-April
 - Israel decapitation campaign: 10+ senior officials/commanders killed
-- Ceasefire violations continue: Lebanon strikes (18 killed Apr 11), Hormuz still blocked — all air/missile events
-- Mojtaba Khamenei still absent/incapacitated — questions about who authorizes Iranian negotiating positions
+- Mojtaba Khamenei still absent/incapacitated — questions about who authorizes Iranian positions
 
 ### Hormuz Blockade & Regional Fallout
-- US NAVY MINE-CLEARING BEGINS (Apr 11): USS Frank E. Peterson (DDG-121) + USS Michael Murphy (DDG-112) transited Hormuz; CENTCOM announced mine clearance; Adm. Cooper: 'establishing a new passage.' Iran DENIED transit — IRGC says destroyer 'turned back.' US says both completed full transit (CENTCOM, Naval News, Bloomberg)
-- IRGC MINES CONFIRMED (Apr 9): Map showing anti-ship mines in main traffic zone. Strait 'will NEVER return to previous status.' US officials say Iran may have lost track of some mine positions (BusinessToday India)
-- TRAFFIC: Still single digits/day; ZERO oil/chemical/LNG tankers. 230+ tankers waiting; 600+ vessels including 325 tankers stranded
-- IRGC TOLLS UP TO $2M/TANKER IN CRYPTO/YUAN — Trump demands open 'without limitation, including tolls'
-- SAUDI CAPACITY CUT: Iran attacks reduced Saudi production capacity by 600,000 bpd (Manifa + Khurais); East-West pipeline throughput down 700,000 bpd (Bloomberg, Apr 9)
-- IRAN RETALIATES AGAINST 5 GULF STATES POST-CEASEFIRE (Apr 8): UAE (17 BMs + 35 drones), Kuwait (28 drones), Qatar (7 BMs), Bahrain (2 injured), Saudi Arabia
-- UN SECURITY COUNCIL HORMUZ VOTE — VETOED BY RUSSIA + CHINA (Apr 7): 11-2 vote blocked
-- Oil: Brent futures ~$96.66-96.69 (flat). Goldman: >$100 if Hormuz stays closed another month
-- Islamabad face-to-face talks (Apr 11-12) — Hormuz is the 'serious disagreement.' US mine-clearing is unilateral attempt to bypass Iranian control. Commercial restart still weeks away minimum
+- US NAVAL BLOCKADE OF IRANIAN PORTS BEGINS APR 13: CENTCOM implementing blockade 10AM ET. All maritime traffic to/from Iranian ports targeted. 'Enforced impartially against vessels of all nations.' Non-Iran-bound ships may transit Hormuz freely. This is on TOP of IRGC's existing blockade — now BOTH sides blocking traffic (CENTCOM, Bloomberg, NPR, CNN)
+- IRGC: BLOCKADE = CEASEFIRE VIOLATION (Apr 13): Military vessels 'dealt with harshly and decisively.' Warns of 'deadly vortex' for warships. Strait 'open for non-military vessels' per IRGC regulations
+- US NAVY MINE-CLEARING (Apr 11+): USS Frank E. Peterson + USS Michael Murphy in Arabian Gulf; now part of blockade force. Trump claims UK + other countries sending minesweepers (unconfirmed)
+- IRGC MINES CONFIRMED (Apr 9): Anti-ship mines in main traffic zone. Strait 'will NEVER return to previous status.' Iran may have lost track of some mine positions
+- TRAFFIC: Single digits/day; ZERO oil/LNG tankers. 230+ tankers waiting; 600+ vessels/325 tankers stranded
+- IRGC TOLLS UP TO $2M/TANKER IN CRYPTO/YUAN
+- SAUDI CAPACITY CUT: Production capacity -600,000 bpd; East-West pipeline -700,000 bpd (Bloomberg, Apr 9)
+- UN SECURITY COUNCIL HORMUZ VOTE — VETOED BY RUSSIA + CHINA (Apr 7)
+- Oil: Brent surging toward ~$103/bbl (+7.8%); European gas +18%. SPR approaching limits. Goldman $100 warning now realized on futures
+- ISLAMABAD TALKS COLLAPSED (Apr 12): Diplomatic path to Hormuz reopening has failed — blockade is now the dominant dynamic. Ceasefire deadline Apr 22 but in jeopardy
 
 ### Venezuela, Cuba, Colombia
 - **Venezuela**: Maduro trial in pretrial phase; legal experts say trial unlikely this year. Rodriguez acting president; US lifts sanctions on Rodriguez (Foreign Policy, Apr 10); US Embassy resuming operations
@@ -274,7 +282,7 @@ Use this document when analyzing Predictive History lectures to accurately asses
 ### Russia-Ukraine War (April 2026)
 - War continues as grinding attritional conflict — Ukraine has NOT "lost"
 - Russia occupies ~20% of territory
-- EASTER CEASEFIRE VIOLATED (Apr 12): 32-hour truce from 16:00 Apr 11 to end of Apr 12 — both sides accusing each other of breaking it. Russia says Ukraine struck Nova Kakhovka (occupied Kherson). Ukrainian drone hit gas station in Kursk — 2 adults + 1-year-old child injured (TASS). Pattern mirrors 2025 Easter truce collapse
+- EASTER CEASEFIRE EXPIRED MIDNIGHT APR 12-13 WITH MASSIVE VIOLATIONS: 32-hour truce from 16:00 Apr 11 to end of Apr 12. Ukraine recorded 2,299 Russian violations by 7 AM Sunday (28 assaults, 479 shellings, 747 attack drones, 1,045 FPV drones). Russia recorded 1,971 Ukrainian violations. Zelenskyy called for longer ceasefire in Saturday evening address. Pattern mirrors 2025 Easter truce collapse (Al Jazeera, PBS, Euronews, Spokesman)
 - Pre-ceasefire: 164 combat engagements on Apr 9 — Pokrovsk sector most active (32 assault actions repelled)
 - Russian daily losses (Apr 9): 1,040 personnel, 1 tank, 2 APCs, 64 artillery, 1 MLRS, 2,238 UAVs
 - Russia deployed 10,100 kamikaze drones + 250 guided bombs + 3,625 shellings in single day
@@ -282,7 +290,7 @@ Use this document when analyzing Predictive History lectures to accurately asses
 - Ukraine counter-attacks in Hulyaipole/Oleksandrivka disrupting Russian operations
 - Ukraine regained 480 sq km since late January per army chief
 - Russia total losses ~1,308,670+ per Ukraine
-- Abu Dhabi talks postponed; Iran ceasefire may refocus attention on Ukraine theatre
+- Abu Dhabi talks still postponed; Iran talks collapse + blockade may further delay Ukraine diplomacy
 
 ### US-China Trade
 - SCOTUS struck down IEEPA tariffs Feb 20, 2026 (6-3 decision); Trump shifted to 10% global tariff under Section 122 of Trade Act

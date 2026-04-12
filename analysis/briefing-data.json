@@ -1,13 +1,13 @@
 {
-  "briefing_date": "2026-04-12",
+  "briefing_date": "2026-04-13",
   "last_scoring_date": "2026-04-03",
   "next_scoring_date": "2026-05-03",
   "theatres": [
     {
       "name": "Iran / Strait of Hormuz",
       "status": "disconfirmed",
-      "status_label": "active war",
-      "summary": "Day 45 — CEASEFIRE DAY 5: ISLAMABAD TALKS GO FACE-TO-FACE — STRETCH PAST MIDNIGHT. Talks upgraded from indirect shuttle to DIRECT face-to-face Saturday afternoon (White House confirmed). Tone 'largely positive' but STALEMATE over Hormuz control (CNN). Some progress on Lebanon framework + asset unfreezing. Trump: negotiations 'very deep.' US NAVY MINE-CLEARING BEGINS: USS Frank E. Peterson + USS Michael Murphy (DDG) transited Hormuz Saturday; CENTCOM announced mine clearance mission; Adm. Cooper: 'establishing a new passage.' Iran DENIED any US vessel crossed — IRGC claims destroyer 'turned back' after 30-min warning; US officials say both ships completed full transit. LEBANON: 18 more killed Apr 11 in southern Lebanon; total now ~2,020 killed / 6,436 wounded since Mar 2 (Health Ministry). UKRAINE: Easter ceasefire VIOLATED — mutual accusations; Russia accused Ukraine of striking Nova Kakhovka; Ukrainian drone hit Kursk gas station injuring 3 incl child. Oil: Brent ~$96.66-96.69. Ceasefire deadline Apr 22. Mojtaba Khamenei still absent/incapacitated.",
+      "status_label": "active war — talks collapse — US BLOCKADE ORDERED",
+      "summary": "Day 46 — CEASEFIRE DAY 6: ISLAMABAD TALKS COLLAPSE AFTER 21 HOURS — TRUMP ORDERS NAVAL BLOCKADE. Vance departed Pakistan declaring no deal: 'They have chosen not to accept our terms.' Key sticking points: nuclear commitment, Hormuz control, Lebanon ceasefire, sanctions/reparations. Iran blamed US for 'failing to gain trust.' Trump immediately ordered US Navy to BLOCKADE all ships entering/leaving Iranian ports — CENTCOM began implementation Apr 13 at 10 AM ET. Blockade targets all vessels to/from Iranian ports but allows non-Iran-bound shipping through Hormuz. IRGC warns blockade = CEASEFIRE VIOLATION; military vessels 'dealt with harshly.' OIL SURGES: Brent rallied ~7.8% toward ~$103/bbl; European gas futures +18%. Pakistan urges continued diplomacy. LEBANON: Battle of Bint Jbeil continues — IDF trying to take remaining neighborhoods; 2 civil defense members killed Apr 13. UKRAINE: Easter ceasefire expired midnight Apr 12-13 after massive violations (Ukraine counted 2,299 Russian violations; Russia counted 1,971 Ukrainian violations). Ceasefire deadline still Apr 22 but blockade fundamentally changes dynamics. Mojtaba Khamenei still absent/incapacitated.",
       "countries": [
         "Iran",
         "Israel",
@@ -29,8 +29,8 @@
     {
       "name": "Russia-Ukraine War",
       "status": "untested",
-      "status_label": "grinding war — Easter ceasefire violated",
-      "summary": "EASTER CEASEFIRE VIOLATED — MUTUAL ACCUSATIONS: Both sides accusing each other of breaking 32-hour truce (Apr 11-12). Russia accused Ukraine of striking Nova Kakhovka in occupied Kherson. Ukrainian drone hit gas station in Russia's Kursk region — 2 adults and 1-year-old child injured (TASS). Pattern mirrors 2025 Easter truce collapse. Pre-ceasefire: 164 combat engagements Apr 9; Pokrovsk most active. Russia holds ~20%. Russia total losses ~1,308,670. Ukraine regained 480 sq km since late January. Abu Dhabi talks still postponed.",
+      "status_label": "grinding war — Easter ceasefire expired with massive violations",
+      "summary": "EASTER CEASEFIRE EXPIRED MIDNIGHT APR 12-13 AFTER MASSIVE VIOLATIONS: Ukraine's General Staff recorded 2,299 Russian ceasefire violations by 7 AM Sunday including 28 assaults, 479 shellings, 747 attack drone strikes, 1,045 FPV drone strikes. Russia's Defence Ministry recorded 1,971 Ukrainian violations. Zelenskyy called for longer ceasefire in Saturday evening address, said 'ball is in Moscow's court.' Pattern mirrors 2025 Easter truce collapse. Pre-ceasefire: 164 combat engagements Apr 9; Pokrovsk most active. Russia holds ~20%. Russia total losses ~1,308,670. Ukraine regained 480 sq km since late January. Abu Dhabi talks still postponed.",
       "countries": [
         "Russia",
         "Ukraine"
@@ -73,17 +73,17 @@
   "metrics": [
     {
       "name": "Brent Crude ($/bbl)",
-      "value": "~$96.66-96.69 futures",
-      "change": "ESSENTIALLY FLAT: Brent futures ~$96.66-96.69 (Apr 10 close; markets closed Apr 12 Saturday). US mine-clearing operation in Hormuz could ease pressure if successful, but IRGC denies US ships transited and vows 'strong response.' Physical scarcity persists — zero tankers transiting, mines in lanes. Goldman: >$100 Brent if Hormuz stays closed another month. Islamabad talks 'largely positive' but Hormuz stalemate persists.",
-      "change_color": "var(--text-muted)",
-      "as_of": "2026-04-12"
+      "value": "~$103/bbl futures (surging)",
+      "change": "SURGING ON BLOCKADE: Brent rallied ~7.8% toward ~$103/bbl after Islamabad talks collapsed and Trump ordered naval blockade of Iranian ports. WTI up ~7%. European gas futures spiked 18%. Markets had priced in diplomatic progress during ceasefire — blockade announcement reversed that. Physical scarcity worsening: IEA warned SPR drawdowns (offsetting 4.5-5M bpd shortfall) approaching limits in mid-April. Dated Brent spot likely well above futures. Goldman warning of >$100 now realized on futures side (Bloomberg, CoinDesk, CNBC).",
+      "change_color": "var(--score-1)",
+      "as_of": "2026-04-13"
     },
     {
       "name": "Hormuz Tanker Traffic",
-      "value": "~single digits/day (ZERO tankers); US MINE-CLEARING BEGINS; 230+ tankers waiting",
-      "change": "US MINE-CLEARING LAUNCHED: USS Frank E. Peterson + USS Michael Murphy transited Hormuz Saturday; CENTCOM announced mine clearance mission; Adm. Cooper: 'establishing a new passage.' Iran DENIED transit occurred — IRGC claimed destroyer 'turned back' after warning; US says both ships completed full transit. Traffic still in single digits, ZERO oil/LNG tankers. 230+ tankers waiting; 600+ vessels/325 tankers stranded. Mine clearance could take weeks even with cooperation — and Iran is NOT cooperating.",
-      "change_color": "var(--score-2)",
-      "as_of": "2026-04-12"
+      "value": "US NAVAL BLOCKADE OF IRANIAN PORTS BEGINS; ~single digits/day transit; 230+ tankers waiting",
+      "change": "US BLOCKADE BEGINS APR 13 10AM ET: CENTCOM implementing blockade of ALL maritime traffic to/from Iranian ports. Blockade 'enforced impartially against vessels of all nations entering or departing Iranian ports and coastal areas.' Non-Iran-bound vessels may still transit Hormuz freely. IRGC warns military vessels approaching = ceasefire violation, will be 'dealt with harshly and decisively.' This is a fundamentally different situation from mine-clearing — a declared naval blockade of a sovereign nation. Traffic remains single digits; 230+ tankers waiting; 600+ vessels/325 tankers stranded. Mine clearance continues alongside blockade operations (CENTCOM, NPR, Bloomberg, CNN, Al Jazeera).",
+      "change_color": "var(--score-1)",
+      "as_of": "2026-04-13"
     },
     {
       "name": "US Military KIA (Iran theatre)",
@@ -129,10 +129,10 @@
     },
     {
       "name": "Ships Trapped in Gulf",
-      "value": "~600+ (including 325 tankers); 230+ tankers waiting for Hormuz",
-      "change": "US MINE-CLEARING MAY HELP: CENTCOM launched mine clearance mission Saturday with 2 destroyers + underwater drones joining soon. But Iran DENIES US ships transited and IRGC vows 'strong response' to unauthorized military vessels. 600+ vessels/325 tankers still stranded. Traffic remains single digits. Even with US mine-clearing, commercial restart weeks away — insurance, Iran cooperation, and IRGC toll system still barriers.",
-      "change_color": "var(--score-2)",
-      "as_of": "2026-04-12"
+      "value": "~600+ (including 325 tankers); 230+ tankers waiting for Hormuz; US BLOCKADE NOW ACTIVE",
+      "change": "US BLOCKADE COMPLICATES FURTHER: CENTCOM blockade of Iranian ports began Apr 13. While non-Iran-bound ships can still transit Hormuz, the blockade adds a new layer of restriction. IRGC declares blockade a ceasefire violation and threatens military vessels. 600+ vessels/325 tankers still stranded. The diplomatic path to reopening via Islamabad talks has COLLAPSED — the blockade is now the dominant dynamic. Mine-clearing continues but is now part of a broader military posture, not a standalone commercial facilitation effort.",
+      "change_color": "var(--score-1)",
+      "as_of": "2026-04-13"
     },
     {
       "name": "Qatar Gas Production",
@@ -144,9 +144,9 @@
     {
       "name": "Ukraine Territory Occupied",
       "value": "~20%",
-      "change": "EASTER CEASEFIRE VIOLATED: Both sides accusing each other of breaking truce. Russia says Ukraine struck Nova Kakhovka (occupied Kherson). Ukrainian drone hit gas station in Kursk region — 2 adults + 1-year-old child injured (TASS). Pattern mirrors 2025 Easter truce collapse. Ceasefire expires end of Apr 12. Pre-ceasefire: 164 combat engagements Apr 9. Russia total losses ~1,308,670.",
+      "change": "EASTER CEASEFIRE EXPIRED MIDNIGHT APR 12-13: 32-hour truce massively violated by both sides. Ukraine recorded 2,299 Russian violations (28 assaults, 479 shellings, 747 attack drones, 1,045 FPV drones). Russia recorded 1,971 Ukrainian violations. Zelenskyy called for longer ceasefire. Combat presumably resumed after midnight expiration. Russia total losses ~1,308,670. Pattern mirrors 2025 Easter truce collapse.",
       "change_color": "var(--text-muted)",
-      "as_of": "2026-04-12"
+      "as_of": "2026-04-13"
     },
     {
       "name": "Cuba Fuel Imports",
@@ -171,33 +171,91 @@
     }
   ],
   "ground_invasion_tracker": {
-    "last_updated": "2026-04-12",
+    "last_updated": "2026-04-13",
     "status": "no_ground_troops",
-    "troop_count_in_theatre": "~53,500+ (CENTCOM confirmed 50,000+; USS Tripoli ARG ~3,500 in theatre; 82nd Airborne 1,000-3,000 in theatre; USS Boxer ARG approaching CENTCOM — expected mid-April; USS Frank E. Peterson + USS Michael Murphy now in Arabian Gulf for mine-clearing). CEASEFIRE DAY 5. Islamabad face-to-face talks ongoing past midnight into Sunday. No new ground force deployments.",
+    "troop_count_in_theatre": "~53,500+ (CENTCOM confirmed 50,000+; USS Tripoli ARG ~3,500 in theatre; 82nd Airborne 1,000-3,000 in theatre; USS Boxer ARG in western Pacific transit, expected CENTCOM mid-April; USS Frank E. Peterson + USS Michael Murphy in Arabian Gulf for mine-clearing/blockade ops). CEASEFIRE DAY 6. Islamabad talks COLLAPSED. BLOCKADE BEGINS. No new ground force deployments.",
     "key_developments": [
-      "ISLAMABAD TALKS GO FACE-TO-FACE (Apr 12): Upgraded from indirect shuttle format to DIRECT face-to-face discussions Saturday afternoon (White House confirmed). Talks stretched past midnight into Sunday morning. Tone 'largely positive' per Pakistani sources (CNN). Some progress on Lebanon framework and asset unfreezing. BUT Hormuz stalemate persists — 'serious disagreement' (Tasnim). Ground operations IMPOSSIBLE during active face-to-face negotiations with VP Vance personally leading (CNN, WashPost, Al Jazeera, CBS, ABC7)",
-      "US NAVY MINE-CLEARING = NAVAL OPERATION, NOT GROUND INVASION (Apr 11): USS Frank E. Peterson (DDG-121) + USS Michael Murphy (DDG-112) transited Hormuz; CENTCOM announced mine clearance mission. Adm. Brad Cooper: 'establishing a new passage.' This is a MINE-CLEARING operation — destroyers + underwater drones, NOT amphibious assault or ground troops. Iran denied transit occurred; IRGC claims destroyer 'turned back.' US says both ships completed full transit (CENTCOM, Naval News, Bloomberg, Stars and Stripes, Al Jazeera)",
-      "TRUMP: NEGOTIATIONS 'VERY DEEP' (Apr 11-12): Trump said US engaged in 'very deep' negotiations with Iran, 'regardless of what happens, we win.' Rhetoric focused entirely on DIPLOMACY, not military escalation. No Pentagon statements about ground operations (Al Jazeera, ABC7)",
-      "NO NEW GROUND FORCE DEPLOYMENTS (Apr 12): Zero new troop movement announcements. Only new military activity is mine-clearing (naval, not ground). Force posture unchanged. All ceasefire obligations being honored on direct US-Iran axis",
-      "USS BOXER ARG APPROACHING CENTCOM (Apr 12): Departed Pearl Harbor Apr 1. Expected to reach CENTCOM theatre mid-April. Will add ~2,500 Marines when it arrives — but arrival during active face-to-face negotiations is a scheduled deployment, not an escalation signal (Stars and Stripes, USNI, TWZ)",
-      "LEBANON: 18 KILLED APR 11 (Apr 11): Israeli strikes continued in southern Lebanon — 18 killed. Total now ~2,020 killed / 6,436 wounded. Some progress at Islamabad on limiting strikes to southern Lebanon — NOT a ground invasion indicator (Al Jazeera, Lebanese Health Ministry)",
-      "EASTER CEASEFIRE IN UKRAINE (Apr 12): Both sides accusing each other of violations — Ukraine struck Nova Kakhovka; Ukrainian drone hit Kursk gas station injuring 3. Separate theatre entirely — no implications for Iran ground ops"
+      "ISLAMABAD TALKS COLLAPSE — NO GROUND OPS ANNOUNCED (Apr 12-13): Vance departed Pakistan after 21 hours: 'They have chosen not to accept our terms.' Iran blamed US for 'failing to gain trust.' Despite talks failing, Trump's response was a NAVAL BLOCKADE — not ground operations. No Pentagon statement on ground troops. No new troop deployments ordered. The escalation path is maritime/naval, NOT ground invasion (NPR, Al Jazeera, CNN, Bloomberg, Time, Fox News)",
+      "US NAVAL BLOCKADE = NAVAL OPERATION, NOT GROUND INVASION (Apr 13): Trump ordered blockade of ALL ships to/from Iranian ports. CENTCOM began implementation 10 AM ET April 13. Blockade 'enforced impartially against vessels of all nations entering or departing Iranian ports.' Non-Iran-bound ships transit freely. This is a NAVAL BLOCKADE using existing destroyer and carrier assets — NOT amphibious assault, NOT Marines, NOT ground troops (CENTCOM, NPR, Bloomberg, Al Jazeera, Axios)",
+      "IRGC DECLARES BLOCKADE = CEASEFIRE VIOLATION (Apr 13): IRGC warned any military vessels approaching Hormuz will be 'dealt with harshly and decisively' and constitute a ceasefire breach. IRGC says strait 'open for safe passage of non-military vessels.' This creates a naval standoff — NOT a ground confrontation (Pakistan Today, The Week India, Al Jazeera)",
+      "TRUMP: 'BLOWN TO HELL' RHETORIC BUT NO GROUND OPS (Apr 12-13): Trump warned Iranian forces firing at US vessels would be 'BLOWN TO HELL.' Said 'we're not going to let Iran make money on selling oil.' All rhetoric focused on naval/maritime action. ZERO references to ground troops, Marines, invasion, or occupation (Al Jazeera, CNBC, Time, Bloomberg)",
+      "NO NEW GROUND FORCE DEPLOYMENTS (Apr 13): Zero new troop movement announcements despite talks collapsing. Force posture unchanged except for blockade implementation by existing naval assets. Trump claims UK + other countries sending minesweepers (unconfirmed)",
+      "USS BOXER ARG STILL IN TRANSIT (Apr 13): In western Pacific, expected CENTCOM mid-April. Scheduled deployment. Even when it arrives, all indicators point to naval/maritime operations, not ground assault",
+      "BATTLE OF BINT JBEIL = IDF IN LEBANON, NOT IRAN (Apr 12-13): IDF ground ops continue in Bint Jbeil — trying to take remaining neighborhoods. Two civil defense members killed. This is Israeli ground operations in LEBANON, not US ground operations in Iran — separate theatre"
     ],
     "kharg_island": {
       "status": "struck_twice_air_only",
-      "naval_activity": "No naval activity near Kharg since ceasefire. US Navy mine-clearing ops focused on Strait of Hormuz shipping lanes, NOT Kharg Island approaches. USS Tripoli ARG in CENTCOM but no Kharg-specific positioning.",
-      "notes": "Kharg struck by US air forces twice (Mar 13, Apr 7) — oil infrastructure deliberately spared both times. No ground troops deployed. Iran fortifying defenses. Ceasefire halts all offensive operations. Face-to-face talks at Islamabad make any Kharg operation impossible during diplomatic engagement."
+      "naval_activity": "No naval activity near Kharg since ceasefire. US blockade operations focused on Strait of Hormuz shipping lanes and Iranian ports generally, NOT Kharg Island specifically. USS Tripoli ARG in CENTCOM but no Kharg-specific positioning.",
+      "notes": "Kharg struck by US air forces twice (Mar 13, Apr 7) — oil infrastructure deliberately spared both times. No ground troops deployed. Iran fortifying defenses. Ceasefire technically still in effect but blockade creates new dynamic. Trump's response to talks collapsing was a naval blockade, NOT a Kharg Island ground operation."
     },
     "marine_movements": [
-      "USS Tripoli ARG (31st MEU, ~3,500): In CENTCOM theatre since late March. No new positioning reported during ceasefire.",
-      "USS Boxer ARG (11th MEU, ~2,500): Approaching CENTCOM theatre. Expected mid-April arrival. Scheduled deployment, not escalation.",
+      "USS Tripoli ARG (31st MEU, ~3,500): In CENTCOM theatre since late March. No new positioning reported. Now part of blockade enforcement force posture.",
+      "USS Boxer ARG (11th MEU, ~2,500): In western Pacific transit. Expected CENTCOM mid-April. Scheduled deployment.",
       "82nd Airborne (1,000-3,000): In theatre. No new deployment orders.",
-      "USS Frank E. Peterson (DDG-121) + USS Michael Murphy (DDG-112): Transited Hormuz Saturday for mine-clearing mission. NOT ground/amphibious assets."
+      "USS Frank E. Peterson (DDG-121) + USS Michael Murphy (DDG-112): In Arabian Gulf for mine-clearing; now part of blockade enforcement beginning Apr 13."
     ],
-    "draft_indicators": "NONE. Zero domestic signals regarding draft, conscription, or selective service activation. No Congressional debate on ground operations authorization. No public Pentagon testimony on ground invasion plans. All political energy focused on Islamabad face-to-face diplomatic talks.",
-    "assessment": "Ground invasion probability remains at ABSOLUTE ZERO. Day 45 with zero US ground troops deployed IN Iran. Face-to-face talks at Islamabad (upgraded from indirect format) represent deepest diplomatic engagement since 1979. US Navy mine-clearing is a naval/mine-countermeasures operation, not a ground invasion precursor. The 45-day pattern is conclusive: air campaign + diplomatic exit via Islamabad face-to-face talks."
+    "draft_indicators": "NONE. Zero domestic signals regarding draft, conscription, or selective service activation. No Congressional debate on ground operations authorization. Despite talks collapsing, Trump's escalation was naval blockade — no ground operations discussed.",
+    "assessment": "Ground invasion probability remains at ABSOLUTE ZERO. Day 46 with zero US ground troops deployed IN Iran. Despite Islamabad talks collapsing after 21 hours, Trump's response was a NAVAL BLOCKADE of Iranian ports — not ground operations. The 46-day pattern is conclusive: air campaign + naval operations. The escalation ladder is maritime (blockade), not terrestrial (invasion). No Marines, no paratroopers, no ground assault announced or implied."
   },
   "daily_entries": [
+    {
+      "date": "2026-04-13",
+      "tags": [
+        "Iran",
+        "Ceasefire Day 6",
+        "Islamabad Talks COLLAPSE",
+        "21 Hours No Deal",
+        "Vance Departs Pakistan",
+        "Trump Orders Naval Blockade",
+        "CENTCOM Blockade 10AM ET",
+        "Blockade All Iranian Ports",
+        "IRGC Blockade Is Ceasefire Violation",
+        "Oil Surges 7.8% Toward $103",
+        "European Gas +18%",
+        "SPR Approaching Limits",
+        "Lebanon Bint Jbeil Battle Continues",
+        "2 Civil Defense Killed Apr 13",
+        "Lebanon 2020 Killed 6436 Wounded",
+        "Ukraine Easter Ceasefire Expired",
+        "2299 Russian Violations",
+        "1971 Ukrainian Violations",
+        "Zelenskyy Calls For Longer Ceasefire",
+        "Peru Election Held Apr 12",
+        "Day 46"
+      ],
+      "summary": "Day 46 — CEASEFIRE DAY 6: ISLAMABAD TALKS COLLAPSE AFTER 21 HOURS — TRUMP ORDERS NAVAL BLOCKADE OF IRAN. (1) TALKS FAIL: VP Vance departed Pakistan declaring 'they have chosen not to accept our terms.' Key demands unmet: nuclear commitment, Hormuz control, Lebanon ceasefire, sanctions. Iran blamed US for 'failing to gain trust'; spokesman Baghaei said 'no one expected agreement in a single session.' Ghalibaf: US must 'decide whether they can earn our trust.' (2) TRUMP ORDERS BLOCKADE: 'Effective immediately, the United States Navy will begin the process of BLOCKADING any and all Ships trying to enter, or leave, the Strait of Hormuz.' Ships paying tolls to Iran will be intercepted. Ships 'BLOWN TO HELL' if they fire on US vessels. Claims UK + other countries sending minesweepers (unconfirmed). (3) CENTCOM IMPLEMENTS BLOCKADE APR 13 10AM ET: Blockade of all maritime traffic to/from Iranian ports. 'Enforced impartially against vessels of all nations entering or departing Iranian ports and coastal areas.' Non-Iran-bound ships may transit freely. (4) IRGC: BLOCKADE = CEASEFIRE VIOLATION: Military vessels approaching Hormuz will be 'dealt with harshly and decisively.' Strait 'open for safe passage of non-military vessels.' (5) OIL SURGES: Brent rallied ~7.8% toward ~$103/bbl; WTI +7%; European gas futures +18%. SPR drawdowns approaching mid-April limits. (6) PAKISTAN URGES CONTINUED DIPLOMACY: FM Dar urged both sides to 'continue with a positive spirit.' Oman FM also urged extension of talks. (7) LEBANON: Battle of Bint Jbeil continues — IDF trying to take remaining neighborhoods; 2 civil defense members killed. IDF 300-400m from stadium. Hezbollah inflicting losses. Total: ~2,020+ killed / 6,436+ wounded since Mar 2. (8) UKRAINE: Easter ceasefire expired midnight. Ukraine recorded 2,299 Russian violations; Russia recorded 1,971 Ukrainian violations. Zelenskyy called for longer ceasefire. Combat resumed. (9) PERU: First-round election held Apr 12 — Fujimori led polls ~18.5%; 35 candidates; runoff expected June 7.",
+      "details": [
+        "ISLAMABAD TALKS COLLAPSE AFTER 21 HOURS (Apr 12-13): VP Vance departed Pakistan, declaring: 'The bad news is that we have not reached an agreement. And I think that's bad news for Iran much more than it's bad news for the United States. They have chosen not to accept our terms.' He demanded a 'fundamental commitment' that Iran will not develop nuclear weapons or acquire enabling tools. Iran FM spokesperson Baghaei countered: 'no one had expected to reach an agreement in a single session.' Ghalibaf said US 'failed to gain the trust' of Iran's team. Sticking points: nuclear program (US demands total renunciation including medical), Hormuz control, Lebanon ceasefire, sanctions relief, reparations. Talks may continue remotely but on-site diplomacy is over (Al Jazeera, NPR, CNN, Time, NBC, Fox News, WashPost)",
+        "TRUMP ORDERS NAVAL BLOCKADE OF IRANIAN PORTS (Apr 12-13): Trump via social media: 'Effective immediately, the United States Navy, the Finest in the World, will begin the process of BLOCKADING any and all Ships trying to enter, or leave, the Strait of Hormuz.' Also said: 'We're not going to let Iran make money on selling oil to people that they like. It's going to be all or none.' Warned Iranian forces would be 'BLOWN TO HELL' if they fire on US vessels. Claimed UK + other countries sending minesweepers (unconfirmed). Called Iran's control 'world extortion' (Al Jazeera, CNBC, Bloomberg, Axios, Time, NPR, CNN, CBS)",
+        "CENTCOM BLOCKADE BEGINS APR 13 10AM ET: CENTCOM posted on X that blockade implementation begins Monday (adjusted to Sunday — some reports say Apr 13 10AM ET). Blockade covers all Iranian ports on Arabian Gulf and Gulf of Oman. 'Enforced impartially against vessels of all nations entering or departing Iranian ports and coastal areas.' Ships transiting Hormuz to non-Iranian ports may pass freely. Additional information to be provided to commercial vessels prior to start (CENTCOM, Bloomberg, NPR, CNN)",
+        "IRGC: BLOCKADE IS CEASEFIRE VIOLATION (Apr 13): IRGC stated any military vessels approaching Hormuz 'will be considered a violation of the ceasefire and will be met with severe force.' Warned US of 'deadly vortex' if warships deployed. IRGC maintains strait 'open for safe passage of non-military vessels in accordance with specific regulations.' The ceasefire (deadline Apr 22) is now in serious jeopardy — both sides potentially violating it (IRGC via Al Jazeera, Pakistan Today, The Week India)",
+        "OIL SURGES ON BLOCKADE ANNOUNCEMENT (Apr 13): Brent rallied ~7.8% toward ~$103/bbl. WTI up ~7%. European gas futures spiked up to 18%. IEA had warned mid-April is critical — SPR emergency releases (offsetting 4.5-5M bpd shortfall since Feb 28) approaching limits. WTI trading volume on decentralized platforms hit $1.53B. Markets had priced in ceasefire diplomatic progress — blockade reverses that entirely (Bloomberg, CoinDesk, CNBC, Investing.com)",
+        "PAKISTAN AND OMAN URGE CONTINUED DIPLOMACY (Apr 13): Pakistan FM Ishaq Dar: 'We hope the two sides will continue with a positive spirit to achieve durable peace and prosperity for the entire region and beyond.' Oman FM urged both parties to extend talks, noting success 'may require everyone to make painful concessions.' Diplomatic track not fully dead but on-site engagement has ended (Al Jazeera, NPR)",
+        "LEBANON: BATTLE OF BINT JBEIL CONTINUES (Apr 12-13): IDF still trying to take remaining neighborhoods of Bint Jbeil. IDF using artillery from outskirts to support offensive. Israeli armored units advanced along Bint Jbeil highway near Al-Awaini neighborhood, approaching within 300-400m of local stadium before Hezbollah resistance. Hezbollah fired rockets at IDF positions at Mouthallath al-Tahrir site (3 attacks). Two civil defense members killed Apr 13 in clashes and airstrikes. IDF allegedly sustaining 'significant losses.' Total Lebanon casualties: ~2,020+ killed / 6,436+ wounded since Mar 2. 13 IDF soldiers killed, 411 wounded (Wikipedia, LiveUAMap, L'Orient Today, Ynetnews, JPost, RTE)",
+        "UKRAINE: EASTER CEASEFIRE EXPIRED WITH MASSIVE VIOLATIONS (Apr 12-13): 32-hour ceasefire expired midnight. Ukraine's General Staff recorded 2,299 Russian violations by 7 AM Sunday: 28 assault actions, 479 shellings, 747 attack drone strikes, 1,045 FPV drone strikes. Russia's Defence Ministry recorded 1,971 Ukrainian violations. In Saturday evening address, Zelenskyy called for longer ceasefire, saying 'ball is in Moscow's court.' Pattern mirrors 2025 Easter truce collapse (Al Jazeera, PBS, Euronews, Spokesman, Manila Times)",
+        "PERU: FIRST-ROUND ELECTION HELD APR 12: ~27 million eligible voters chose from 35 presidential candidates. Keiko Fujimori led polls at ~18.5%. No candidate expected to clear 50%; runoff likely June 7. Peru also electing new bicameral legislature (60-seat Senate + 130-seat Chamber). Ninth president in less than a decade (NPR, Al Jazeera, WashPost, AS/COA, CSIS)"
+      ],
+      "prediction_impact": "Islamabad talks collapse is the most significant diplomatic setback since the ceasefire. Trump's immediate response — a naval blockade of Iranian ports — represents a MAJOR ESCALATION from the ceasefire posture. However, the escalation is NAVAL, not ground-based. No ground troops announced. The IRGC's declaration that the blockade constitutes a ceasefire violation creates a potential pathway back to active hostilities before the Apr 22 deadline. Oil surging toward $103 signals markets pricing in extended/escalating conflict. Ground invasion probability: ZERO — the escalation path is maritime blockade.",
+      "source": "Al Jazeera, NPR, CNN, Time, NBC, Fox News, WashPost, CNBC, Bloomberg, Axios, CBS, CENTCOM, Pakistan Today, The Week India, CoinDesk, Investing.com, LiveUAMap, L'Orient Today, Ynetnews, JPost, RTE, Wikipedia, PBS, Euronews, Spokesman, Manila Times, AS/COA, CSIS, Israel Hayom"
+    },
+    {
+      "date": "2026-04-13",
+      "tags": [
+        "Ground Invasion Tracker"
+      ],
+      "summary": "GROUND INVASION PROBABILITY: ZERO. Day 46 — Ceasefire Day 6. Islamabad talks COLLAPSED after 21 hours — Vance departed, no deal. Trump's response: NAVAL BLOCKADE of Iranian ports, NOT ground operations. CENTCOM implementing blockade Apr 13 10AM ET — targeting all maritime traffic to/from Iranian ports. IRGC says blockade = ceasefire violation, military vessels will be 'dealt with harshly.' The escalation is MARITIME, not TERRESTRIAL. No new ground force deployments. No draft indicators. No Pentagon statements on ground ops. USS Boxer ARG still in western Pacific transit. 46-day pattern conclusive: air campaign + naval blockade. Even when talks fail, the US response is naval, not ground.",
+      "details": [
+        "TALKS COLLAPSE → NAVAL BLOCKADE, NOT GROUND INVASION: Despite 21-hour talks failing, Trump's escalation was a NAVAL BLOCKADE — not ground troops, not Marines, not paratroopers, not Kharg Island assault. This is the strongest indicator yet that ground invasion is off the table: even when diplomacy fails, the response is maritime (NPR, Al Jazeera, CNN, Bloomberg, CENTCOM)",
+        "CENTCOM BLOCKADE = NAVAL OPERATION: Blockade uses existing destroyer and carrier assets to interdict shipping to/from Iranian ports. This is a naval interdiction mission — boarding teams, maritime patrol, possibly submarine operations. NOT amphibious assault ships, NOT Marine landing craft (CENTCOM, Bloomberg)",
+        "IRGC COUNTER-THREAT IS ALSO NAVAL: IRGC warns of 'deadly vortex' for warships and threatens 'severe force' against military vessels. The confrontation axis is entirely maritime — fast boats vs destroyers, mines vs minesweepers. Not ground combat (Pakistan Today, The Week India, Al Jazeera)",
+        "TRUMP RHETORIC: 'BLOWN TO HELL' = NAVAL THREAT: Trump's threat to 'blow to hell' Iranian forces is specifically about ships firing on US naval vessels. All escalation rhetoric is maritime. Zero references to ground troops, invasion, occupation, or boots on the ground (Al Jazeera, CNBC, Time)",
+        "NO NEW GROUND DEPLOYMENTS: Zero new troop movement announcements. Force posture unchanged except blockade enforcement by existing naval assets. No 10,000 additional troops discussion resumed.",
+        "USS BOXER ARG: Still in western Pacific. Even when it arrives, context is now naval blockade enforcement — not amphibious assault",
+        "CEASEFIRE STATUS: Technically still in effect (deadline Apr 22) but IRGC says blockade violates it. If ceasefire collapses, next escalation likely air strikes resume — NOT ground invasion. The 46-day air-only pattern will continue"
+      ],
+      "prediction_impact": "46 consecutive days with ZERO US ground troops deployed IN Iran. Even when face-to-face talks collapse completely, Trump's response is a naval blockade — the strongest possible confirmation that ground invasion was never on the table. The escalation ladder goes: air campaign → ceasefire → failed talks → naval blockade. Ground troops are not on this ladder.",
+      "source": "NPR, Al Jazeera, CNN, Bloomberg, CENTCOM, CNBC, Time, Axios, Pakistan Today, The Week India, Fox News, Israel Hayom"
+    },
     {
       "date": "2026-04-12",
       "tags": [

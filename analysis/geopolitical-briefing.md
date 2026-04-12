@@ -1,6 +1,6 @@
-# Geopolitical Briefing: State of the World as of April 12, 2026
+# Geopolitical Briefing: State of the World as of April 13, 2026
 
-Compiled for evaluation of mid-2024 predictions. All information sourced from publicly available reporting through April 12, 2026. Last updated: April 12, 2026.
+Compiled for evaluation of mid-2024 predictions. All information sourced from publicly available reporting through April 13, 2026. Last updated: April 13, 2026.
 
 ---
 
@@ -127,6 +127,57 @@ Compiled for evaluation of mid-2024 predictions. All information sourced from pu
 - **Trump** said the US is engaged in **"very deep"** negotiations with Iran, but **"regardless of what happens, we win."**
 - The ceasefire deadline remains **April 22** — 10 days away.
 - *Sources: CNN, Washington Post, CBS, Al Jazeera, ABC7, NPR, PBS, Tasnim*
+
+### Islamabad Talks Collapse After 21 Hours — No Deal (April 12, 2026)
+- After **21 hours of negotiations** — including both indirect shuttle talks and direct face-to-face sessions — **VP JD Vance departed Pakistan** declaring the talks had failed.
+- **Vance** stated at a press conference in Islamabad: **"The bad news is that we have not reached an agreement. And I think that's bad news for Iran much more than it's bad news for the United States. They have chosen not to accept our terms."**
+- Vance demanded a **"fundamental commitment"** that Iran will **not develop nuclear weapons** or acquire the tools to quickly achieve one — broader than previous negotiations, which focused on enrichment limits rather than total renunciation.
+- Iran's **Foreign Ministry spokesperson Esmaeil Baghaei** countered: **"No one had expected to reach an agreement in a single session."** He said talks concluded with **"gaps between the sides on several major issues."**
+- Parliament Speaker **Ghalibaf** said the US **"failed to gain the trust"** of his delegation: **"It's now time for Washington to decide whether they can earn our trust or not."**
+- **Key sticking points**: (1) Nuclear: US demands total renunciation including medical uses; (2) Hormuz: Iran seeks permanent control; (3) Lebanon: Iran demands ceasefire include Hezbollah; US/Israel refuse; (4) Sanctions: Iran seeks frozen asset release + reparations.
+- **Pakistan FM Ishaq Dar** urged both sides to **"continue with a positive spirit to achieve durable peace and prosperity for the entire region and beyond."**
+- **Oman's FM** urged both parties to extend talks, noting success **"may require everyone to make painful concessions."**
+- Talks **may continue remotely** — Al Jazeera's correspondent noted **"leaving those talks may simply be a hard stance."** The two-week ceasefire (deadline April 22) remains technically in effect.
+- *Sources: Al Jazeera, NPR, CNN, Time, NBC, Fox News, Washington Post, IAAN Express*
+
+### Trump Orders Naval Blockade of Iranian Ports (April 12-13, 2026)
+- **Hours after** the Islamabad talks collapsed, **President Trump** announced via social media: **"Effective immediately, the United States Navy, the Finest in the World, will begin the process of BLOCKADING any and all Ships trying to enter, or leave, the Strait of Hormuz."**
+- Trump characterized Iran's control of the strait as **"world extortion"** and warned that Iranian forces firing at US vessels would be **"BLOWN TO HELL."**
+- Trump stated: **"We're not going to let Iran make money on selling oil to people that they like. It's going to be all or none, and that's the way it is."**
+- Trump claimed the **UK** and **"a couple of other countries"** are sending minesweeper vessels — though this remained **unconfirmed** as of April 13.
+- **US Central Command (CENTCOM)** posted on **X** late Sunday that the US military would **begin implementing the blockade on Monday at 10 a.m. ET** (April 13, as adjusted). CENTCOM said additional information would be provided to commercial vessels prior to the start.
+- **Scope**: The blockade will be **"enforced impartially against vessels of all nations entering or departing Iranian ports and coastal areas"**, including all Iranian ports on the Arabian Gulf and Gulf of Oman. Ships **not traveling to or from Iranian ports** will be able to pass freely through the Strait of Hormuz — CENTCOM stated the blockade will **"not impede freedom of navigation"** for those vessels.
+- **IRGC response**: The Islamic Revolutionary Guard Corps warned that **any military vessels attempting to approach the Strait of Hormuz** would be considered a **violation of the two-week ceasefire** and **"will be dealt with harshly and decisively."** The IRGC warned the US of a **"deadly vortex"** and maintained the strait is **"open for the safe passage of non-military vessels in accordance with specific regulations."**
+- The blockade represents a **major escalation** from the ceasefire posture — effectively imposing a US counter-blockade on top of Iran's existing blockade. The ceasefire (deadline April 22) is now in serious jeopardy.
+- *Sources: Al Jazeera, NPR, CNN, CNBC, Bloomberg, Axios, Time, CBS, CENTCOM, Pakistan Today, The Week India, Israel Hayom, Euronews*
+
+### Oil Surges on Blockade Announcement (April 13, 2026)
+- **Brent crude** rallied as much as **7.8%** toward **~$103/bbl**, while **WTI** rose approximately **7%** and **European gas futures** spiked up to **18%**.
+- The surge reversed the ceasefire-era decline from ~$103 to ~$96 and pushed oil back above $100 on futures.
+- The **IEA** had previously warned that mid-April is a **critical period** for the oil market: the large-scale drawdown of **strategic petroleum reserves** — coordinated since the war began on February 28 — is **approaching its limit**. Those emergency releases have been offsetting a supply shortfall of roughly **4.5 to 5 million barrels per day** caused by disrupted Hormuz flows.
+- **WTI trading volume** on **Hyperliquid** (a decentralized exchange) reached **$1.53 billion**, underscoring growing use of alternative platforms for price discovery when traditional markets are shut.
+- The **blockade fundamentally changes** the oil market calculus: even if a diplomatic deal were reached on Hormuz reopening, the US blockade adds a new layer of restriction that must be lifted. The combination of Iran's mine-laden strait, IRGC toll system, and now a US naval blockade creates an unprecedented triple barrier to oil flows.
+- *Sources: Bloomberg, CoinDesk, CNBC, Investing.com*
+
+### Easter Ceasefire in Ukraine Expires With Massive Violations (April 11-13, 2026)
+- The **32-hour ceasefire** for Orthodox Easter — from 16:00 local time (13:00 GMT) April 11 to the end of April 12 — expired at **midnight April 12-13**.
+- The ceasefire was **extensively violated** by both sides throughout its duration:
+  - **Ukraine's General Staff** recorded **2,299 Russian violations** by 7:00 AM Sunday, including: **28 enemy assault actions**, **479 shellings**, **747 attack drone strikes**, and **1,045 FPV drone strikes**.
+  - **Russia's Defence Ministry** recorded **1,971 Ukrainian violations**, including drone strikes.
+- In his **Saturday evening address**, President **Zelenskyy** called for a **longer ceasefire**, saying **"the ball is in Moscow's court."**
+- Thousands of Ukrainians gathered at an **open-air national heritage park** to celebrate Easter despite the violations — carrying dyed eggs and **paska** cakes.
+- The pattern mirrors the **2025 Easter truce**, which also collapsed with mutual accusations of violations.
+- Combat is presumed to have **resumed in full** after the midnight expiration.
+- *Sources: Al Jazeera, PBS, Euronews, Spokesman-Review, Manila Times, CNN, Washington Times, RFE/RL*
+
+### Battle of Bint Jbeil Continues (April 12-13, 2026)
+- The **IDF** was still attempting to **"take control of the remaining neighborhoods"** of **Bint Jbeil** in southern Lebanon as of April 12-13.
+- The IDF is using **artillery positioned on the outskirts** of the town to support its offensive, and allegedly sustaining **"significant losses"** from Hezbollah resistance.
+- **Israeli armored units** advanced along the **Bint Jbeil highway** near the **Al-Awaini neighborhood**, approaching within approximately **300-400 meters** of the local stadium before being confronted by Hezbollah forces.
+- **Hezbollah fired rockets** at IDF positions at the **Mouthallath al-Tahrir** site — three attacks, the latest at around 5:00 PM local time. At 5:10 PM, Hezbollah attacked IDF troops on the outskirts and their vehicles.
+- **Two civil defense members** were killed on April 13 in the ongoing clashes and airstrikes.
+- Bint Jbeil has **symbolic importance** for Israel dating back to the 2006 Lebanon war. The IDF has adopted a strategy of encirclement rather than direct urban confrontation.
+- *Sources: Wikipedia, LiveUAMap, L'Orient Today, Ynetnews, JPost, RTE, NNA, Times of Israel*
 
 ### US Navy Mine-Clearing Operation Begins in Strait of Hormuz (April 11, 2026)
 - **US Central Command (CENTCOM)** announced on April 11 that two Arleigh Burke-class guided-missile destroyers — **USS Frank E. Peterson (DDG-121)** and **USS Michael Murphy (DDG-112)** — had **transited the Strait of Hormuz** and begun setting conditions for a **mine clearance mission** in the Arabian Gulf.
@@ -1212,14 +1263,17 @@ Iran struck military and civilian targets across at least 9 countries plus Israe
 
 ## 7. Russia-Ukraine War Status (April 2026)
 
-### Orthodox Easter Ceasefire — Violated (April 11-12, 2026)
+### Orthodox Easter Ceasefire — Expired With Massive Violations (April 11-13, 2026)
 - **Putin declared a 32-hour ceasefire** from **16:00 (13:00 GMT) on April 11** until the end of the day on **April 12, 2026**, in connection with the Orthodox feast of Easter.
 - **Zelenskyy confirmed** Ukraine will **"act accordingly"** — honoring the ceasefire. He stated that **"people need an Easter without threats and real progress toward peace."**
 - Defense Minister **Belousov** and Chief of General Staff **Gerasimov** ordered to cease combat operations along **all fronts**, though troops must be prepared to thwart **"any possible provocations."**
 - This is the **first mutually agreed pause since the 2025 Easter truce**, which collapsed with both sides accusing each other of breaking it.
 - **However**: Even hours after the announcement, the governor of **Dnipropetrovsk region** reported that Russian artillery and aerial attacks had **killed 2 people** — raising doubts about compliance.
-- **April 12 — CEASEFIRE VIOLATED**: Both sides accused each other of breaking the truce. **Russian authorities** accused Ukraine of striking **Nova Kakhovka**, a city in occupied **Kherson region**. A **Ukrainian drone** attacked a **gas station** in Russia's **Kursk region**, injuring **two adults and a one-year-old child** according to **TASS**, citing the regional governor. The pattern mirrors the **2025 Easter truce collapse**, which similarly devolved into mutual accusations.
-- *Sources: NBC, Euronews, Al Jazeera, RFE/RL, Washington Times, Moscow Times, CNN, Xinhua, JPost, TASS, The National, Jang*
+- **MASSIVE VIOLATIONS — BOTH SIDES**: Ukraine's **General Staff** recorded **2,299 Russian ceasefire violations** by 7:00 AM Sunday, including: **28 enemy assault actions**, **479 shellings**, **747 attack drone strikes**, and **1,045 FPV drone strikes**. Russia's **Defence Ministry** recorded **1,971 Ukrainian violations**, including drone strikes. Russia accused Ukraine of striking **Nova Kakhovka** (occupied Kherson). A **Ukrainian drone** hit a **gas station** in Russia's **Kursk region** — **2 adults and a 1-year-old child** injured (TASS).
+- **Zelenskyy called for longer ceasefire** in his **Saturday evening address**, saying **"the ball is in Moscow's court."**
+- The ceasefire **expired at midnight April 12-13**. Combat is presumed to have **resumed in full**.
+- The pattern mirrors the **2025 Easter truce collapse**, which similarly devolved into mutual accusations.
+- *Sources: Al Jazeera, PBS, Euronews, Spokesman-Review, Manila Times, NBC, CNN, Washington Times, RFE/RL, Moscow Times, TASS, The National*
 
 ### Territory
 - Russia occupies approximately **20% of Ukraine's territory** (~45,778 sq mi), including Crimea and parts of Donbas.
