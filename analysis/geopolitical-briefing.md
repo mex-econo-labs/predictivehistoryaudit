@@ -1,6 +1,6 @@
-# Geopolitical Briefing: State of the World as of April 13, 2026
+# Geopolitical Briefing: State of the World as of April 14, 2026
 
-Compiled for evaluation of mid-2024 predictions. All information sourced from publicly available reporting through April 13, 2026. Last updated: April 13, 2026.
+Compiled for evaluation of mid-2024 predictions. All information sourced from publicly available reporting through April 14, 2026. Last updated: April 14, 2026.
 
 ---
 
@@ -158,6 +158,67 @@ Compiled for evaluation of mid-2024 predictions. All information sourced from pu
 - **WTI trading volume** on **Hyperliquid** (a decentralized exchange) reached **$1.53 billion**, underscoring growing use of alternative platforms for price discovery when traditional markets are shut.
 - The **blockade fundamentally changes** the oil market calculus: even if a diplomatic deal were reached on Hormuz reopening, the US blockade adds a new layer of restriction that must be lifted. The combination of Iran's mine-laden strait, IRGC toll system, and now a US naval blockade creates an unprecedented triple barrier to oil flows.
 - *Sources: Bloomberg, CoinDesk, CNBC, Investing.com*
+
+### US Blockade Day 2 — Tankers Test Enforcement (April 14, 2026)
+- On the **first full day** of the US naval blockade (April 14), several tankers **tested enforcement**:
+  - A **Comoros-registered tanker Elpis** — sanctioned by the US in 2025 as part of Iran's **shadow fleet** for transporting Iranian petroleum — **passed through** the Strait of Hormuz on Monday afternoon, directly challenging the blockade.
+  - A **Botswana-registered tanker Ostria** turned back **41 minutes** after Trump's deadline, changing its intended destination from Oman to the UAE.
+  - The tanker **Rich Starry** broadcast its status as **"drifting"** off the coast of Qeshm Island, apparently stalling its voyage.
+  - **Three tankers** attempted to transit by **sailing close to the Iranian coast**, testing whether the US Navy would interdict vessels in Iranian coastal waters.
+- Shipping, which had been moving at reduced levels, **"immediately halted"** after the blockade announcement, with some vessels turning back.
+- Trump stated Iranian ships approaching the blockade would be **"eliminated."**
+- Oil prices continued surging: **Brent crude ~$103/bbl**; **WTI May delivery jumped 8% to $104.93/bbl**; **Brent June delivery at $102.17**. Both benchmarks above $100.
+- The blockade's credibility is being tested early — the passage of the sanctioned Elpis raises questions about enforcement capability against Iran's shadow fleet.
+- *Sources: CNN, Bloomberg, gCaptain, Washington Post, CNBC, Al Jazeera, Wikipedia/2026 Strait of Hormuz crisis*
+
+### UK Refuses to Support US Blockade (April 13-14, 2026)
+- UK Prime Minister **Keir Starmer** stated: **"We are not supporting the blockade"** — telling BBC radio the UK **"is not getting dragged in"** to the US-Israel war on Iran.
+- Washington had sought British support, including **minesweeper deployment** to help secure the area. UK officials clarified that British naval assets with mine-hunting capabilities are present in the region but will **not be used to support the blockade** — they are focused on **"getting the Strait fully open."**
+- **France** and the **UK** announced they would hold a **conference in the coming days** aimed at restoring freedom of navigation in the strait — an independent track from the US blockade.
+- **France, Spain, Turkey, and China** also condemned the blockade. The **NATO rift deepened** significantly — key US allies openly rejecting a major US military operation.
+- The blockade is now a **unilateral US operation** with no coalition support — a significant limitation on its long-term sustainability and legitimacy.
+- *Sources: Al Jazeera, Washington Times, BBC, Euronews, Al Bawaba, Spokesman-Review, Mezha*
+
+### Hezbollah Rejects Israel-Lebanon Talks (April 13-14, 2026)
+- Hezbollah leader **Naim Qassem** declared that the militant group **rejects direct talks with Israel**, calling proposed negotiations **"absurd"** and amounting to **"submission and surrender."**
+- Qassem urged Lebanon's government to **cancel** the planned Washington meeting with Israeli representatives, saying the talks as described by Israeli officials aim to **"disarm Hezbollah and reach peace with Israel"** — both unacceptable to the group.
+- Despite Hezbollah's rejection, **Israel-Lebanon ambassador talks** are still set for **Tuesday, April 15** in Washington: Israeli ambassador **Yechiel Leiter**, Lebanese ambassador **Nada Hamadeh-Moawad**, and US ambassador to Lebanon **Michel Issa**.
+- Lebanon's **President Joseph Aoun** hopes the talks will result in a ceasefire.
+- The split between Lebanon's government (willing to talk) and Hezbollah (refusing) complicates any diplomatic resolution — Hezbollah remains the dominant military force in southern Lebanon and any agreement without its buy-in may be unenforceable.
+- *Sources: Al Jazeera, NBC News, Haaretz, profilenews, bignewsnetwork*
+
+### IDF 98th Division Encircles and Assaults Bint Jbeil (April 13-14, 2026)
+- The Israeli military's **98th Division** announced it has **"completed the encirclement of the town of Bint Jbeil and has begun an assault on it"** — an upgrade from the encirclement strategy of previous days.
+- The IDF claimed to have killed **more than 100 Hezbollah fighters** in Bint Jbeil over the past week in air strikes and **"face-to-face"** confrontations.
+- At least **6 people** were killed in a new wave of Israeli strikes across southern Lebanon on April 13, including in the towns of **Bazouriyeh, Nabatiyeh El Faouqa, Sir el Gharbiyeh, and Choukine**.
+- Updated Lebanese casualties: approximately **2,030+ killed** and **6,450+ wounded** since March 2.
+- Bint Jbeil holds **symbolic importance** dating back to the 2006 Lebanon war, where it was the site of fierce fighting between Hezbollah and the IDF.
+- *Sources: Al Jazeera, Times of Israel, CBC, IBTimes Australia, Anadolu Agency*
+
+### Iran FM Blames US "Greed" for Talks Failure (April 14, 2026)
+- Iran's Foreign Minister **Abbas Araghchi** told his **Saudi counterpart** that the US showed **"greed"** in negotiations, which **"caused the failure to reach a result"** at the Islamabad talks.
+- Araghchi emphasized **"Iran's good-faith approach in accepting the ceasefire"** — framing Iran as the reasonable party.
+- Separately, **Trump officials** are internally discussing details for a **potential second in-person meeting** with Iranian officials before the April 22 ceasefire deadline. **Turkey** is working to bridge gaps between the two sides. **Geneva** and **Islamabad** are under consideration as potential venues.
+- However, Trump himself appeared **dismissive** of new talks, saying he **"doesn't care"** about another meeting.
+- The ceasefire deadline of **April 22** remains technically in effect — **8 days away** — but the IRGC has declared the blockade a ceasefire violation.
+- *Sources: NBC News, CNN, Al Jazeera*
+
+### FAO Warns of Global Food Crisis From Hormuz Disruption (April 2026)
+- The **UN News** reported the **"clock is ticking"** on a potential global food crisis caused by the Hormuz disruption.
+- The **FAO Chief Economist** warned that global **fertilizer prices** could average **15-20% higher** in the first half of 2026 if the crisis persists — natural gas, the primary feedstock for nitrogen fertilizers, has seen a **20% production drop** and price increases up to **70%**.
+- The **International Rescue Committee (IRC)** warned of a **"food security timebomb"** that threatens to outstrip the Ukraine shock.
+- In **Yemen**, **17 million people** are already experiencing high levels of acute food insecurity, bordering on catastrophic levels.
+- If disruption persists for **three months or longer**, risks escalate significantly, affecting **global planting decisions for 2026 and beyond**.
+- The Strait normally carries approximately **30% of internationally traded fertilizers** in addition to oil and LNG.
+- *Sources: FAO, UN News, Fortune, IRC, Al-Monitor*
+
+### Kremlin Rejects Easter Ceasefire Extension (April 14, 2026)
+- Kremlin spokesman **Dmitry Peskov** rejected any extension of the Easter ceasefire, stating the **"special military operation will continue after the truce expires"** unless Ukrainian leader Zelenskyy accepts Russia's **"well-known"** terms.
+- On April 14, Russia accused the Ukrainian military of launching **"three nighttime attacks"** against Russian positions and **"four attempts to advance"** along the frontline — claiming it thwarted each one.
+- The **Pokrovsk sector** remains the most active, with **53 Russian attacks** recorded since the start of April 13.
+- Russia's total losses since February 2022 reached approximately **1,312,140 personnel** per Ukrainian estimates.
+- The pattern mirrors the 2025 Easter truce, which similarly collapsed with no extension — the brief pauses serve as propaganda opportunities rather than genuine de-escalation.
+- *Sources: Al Jazeera, Euronews, RTE, PBS, RFE/RL*
 
 ### Easter Ceasefire in Ukraine Expires With Massive Violations (April 11-13, 2026)
 - The **32-hour ceasefire** for Orthodox Easter — from 16:00 local time (13:00 GMT) April 11 to the end of April 12 — expired at **midnight April 12-13**.
@@ -1604,36 +1665,36 @@ Iran struck military and civilian targets across at least 9 countries plus Israe
 
 ## Summary of Key Developments for Prediction Evaluation
 
-| Topic | Status as of April 12, 2026 |
+| Topic | Status as of April 14, 2026 |
 |-------|------------------------|
-| US military strike on Iran | YES — Day 45; TWO-WEEK CEASEFIRE in effect since Apr 8; Islamabad FACE-TO-FACE talks (upgraded from indirect) stretching past midnight; no strikes on Iran proper since ceasefire |
-| Israel-Iran direct conflict | CEASEFIRE on Iran; Israel continues Lebanon strikes (18 killed Apr 11; total 2,020 killed); 10+ senior officials/commanders killed total |
+| US military strike on Iran | YES — Day 47; TWO-WEEK CEASEFIRE in effect since Apr 8 (deadline Apr 22); Islamabad talks COLLAPSED after 21 hours; Trump ordered US NAVAL BLOCKADE of Iranian ports; no strikes on Iran proper since ceasefire |
+| Israel-Iran direct conflict | CEASEFIRE on Iran; Israel continues Lebanon strikes; 98th Division assaults Bint Jbeil; ~2,030+ killed in Lebanon; 10+ senior officials/commanders killed total |
 | Khamenei killed | YES — Assassinated Feb 28, 2026; son Mojtaba succeeded but reportedly incapacitated/unconscious in Qom |
 | Israeli decapitation campaign | 10+ officials: Khamenei, Larijani, Soleimani, Khatib, Tangsiri, Eshaghi, Nasirzadeh, Pakpour, Vafaei, Atimi + Hezbollah's Hashem |
 | Iran nuclear breakout | Near-zero breakout time pre-strikes; warhead development authorized Oct 2025; Natanz/Arak/Ardakan/Bushehr all struck |
-| Strait of Hormuz closed | CEASEFIRE BUT STILL BLOCKED: Traffic single digits, ZERO tankers; US MINE-CLEARING BEGINS (USS Frank E. Peterson + USS Michael Murphy); Iran DENIES US transit; 230+ tankers waiting; 600+ vessels/325 tankers stranded; IRGC mines in lanes |
+| Strait of Hormuz closed | US BLOCKADE DAY 2: Tankers testing enforcement (Elpis passed through, Ostria turned back); UK + allies REFUSE to support blockade; blockade is unilateral US operation; triple barrier: IRGC mines + IRGC tolls + US blockade |
 | Hormuz blockade casualties | 9+ countries struck; 15 US KIA; 380+ wounded; Saudi capacity cut 600K bpd; Gulf states attacked even after ceasefire |
-| Kharg Island | GROUND SEIZURE PROBABILITY ZERO; ceasefire + face-to-face talks ongoing; Kharg struck twice from air, no ground component |
+| Kharg Island | GROUND SEIZURE PROBABILITY ZERO; no naval activity near Kharg; Kharg struck twice from air only; allies refuse blockade, no coalition forming |
 | South Pars gas field | Israel struck processing facilities (Mar 18); ~12% of Iran's gas production damaged |
 | Energy/nuclear infrastructure spiral | All strikes paused under ceasefire; cumulative damage: ~85% petrochemical exports disrupted, steel plants hit, Bushehr hit 350m from reactor |
-| Trump peace plan — contested diplomacy | ISLAMABAD TALKS GO FACE-TO-FACE APR 11-12 — upgraded from indirect; talks stretch past midnight; tone 'largely positive' but HORMUZ STALEMATE; some progress on Lebanon + assets. Deadline Apr 22 |
+| Trump peace plan — contested diplomacy | TALKS COLLAPSED Apr 12. Trump officials discussing potential SECOND meeting before Apr 22 deadline; Turkey mediating; Geneva/Islamabad considered. Trump dismissive. Ceasefire in jeopardy — IRGC says blockade violates it |
 | Saudi oil infrastructure | Iran attacks cut Saudi capacity 600K bpd; East-West pipeline down 700K bpd (Bloomberg, Apr 9) |
-| Ukraine-Russia | Easter ceasefire VIOLATED — mutual accusations; Russia says Ukraine struck Nova Kakhovka; Ukrainian drone hit Kursk gas station injuring 3; ~20% occupied; total Russian losses ~1,308,670 |
+| Ukraine-Russia | COMBAT RESUMED after Easter ceasefire. Kremlin REJECTS extension: 'special military operation will continue.' Russia accuses Ukraine of nighttime attacks Apr 14. ~20% occupied; total losses ~1,312,140 |
 | Taiwan | Han Kuang 42 tabletop exercises ongoing (began Apr 11) — incorporating lessons from Iran/Venezuela wars |
-| Ground operation planning | PROBABILITY ZERO; face-to-face talks (deepest diplomatic engagement since 1979); US mine-clearing is naval op, not ground invasion; USS Boxer approaching mid-April; no new ground deployments |
+| Ground operation planning | PROBABILITY ABSOLUTE ZERO; blockade is naval; UK + allies refuse to join; no coalition ground force; Trump officials discussing diplomacy, not ground ops; USS Boxer still in Pacific |
 | Diego Garcia missile attack | Iran fired 2 IRBMs at US-UK base 4,000km away (Mar 21) — reveals doubled missile range capability |
 | Turkey hit by Iran missiles | 3 ballistic missiles entered airspace (Mar 4, 9, 13) -- all intercepted by NATO |
-| Commercial shipping attacked | 23+ attacks on commercial vessels since Feb 28; 11 crew deaths; Iran authorized essential goods passage (Apr 4) |
-| Gulf state damage | UAE: 515+ BMs + 23+ CMs + 2,176+ drones intercepted (17 BMs + 35 drones Apr 8 post-ceasefire); Kuwait: 28 drones Apr 8; Qatar: 7 BMs Apr 8; Bahrain: 2 injured; ceasefire did NOT stop Gulf attacks |
-| Oil price impact | Brent futures ~$96.66-96.69 (flat; markets closed Sat); US mine-clearing could ease pressure if successful; physical scarcity persists; large-scale shipping restart weeks away |
-| Lebanon ground operations | FOUR divisions; ~2,020+ killed / 6,436+ wounded (18 killed Apr 11); 3 UNIFIL killed; 10+ IDF killed; some progress at Islamabad on limiting strikes to southern Lebanon but no ceasefire |
+| Commercial shipping attacked | 23+ attacks on commercial vessels since Feb 28; 11 crew deaths; US blockade now adds new interdiction layer |
+| Gulf state damage | UAE: 515+ BMs + 23+ CMs + 2,176+ drones intercepted; Kuwait/Qatar/Bahrain struck post-ceasefire; IRGC now threatens ALL Gulf ports |
+| Oil price impact | Brent ~$103/bbl; WTI $104.93. Both above $100 on blockade. SPR approaching mid-April limits. FAO warns food crisis 'clock ticking' |
+| Lebanon ground operations | FOUR+ divisions; 98th Division encircles/assaults Bint Jbeil; ~2,030+ killed / 6,450+ wounded; Hezbollah REJECTS Israel talks; ambassador talks still set for Apr 15 Washington |
 | Iran Gulf mining threat | Iran threatens moored/drifting mines across entire Persian Gulf if coasts/islands attacked |
 | Israeli air defense failures | David's Sling malfunction Mar 25 (Tel Aviv); interceptor failures at Dimona Mar 21-22 |
 | 82,000+ structures destroyed in Iran | Iranian Red Crescent figure (Mar 24); 2,076+ killed (Health Ministry); 26,500+ wounded |
 | Houthi Red Sea attacks | HOUTHIS IN WAR since Mar 28; Bab al-Mandeb remains OPEN; Houthis say 'no current plans' to close |
 | IRGC tech company threat | PARTIALLY followed through — Amazon data center Bahrain, Oracle Dubai struck; 16 of 18 companies NOT struck |
-| Ukraine war outcome | Ukraine regained 480 sq km since late Jan; DIU destroyed Russia's last Kerch Strait railway ferry; Zelensky offered Easter ceasefire — Russia unwilling; ~20% occupied |
-| Ukraine-Russia peace talks | Trump-Zelensky agreed 90-95% of peace proposal; gaps remain; trilateral talks paused; unlikely to end in 2026 |
+| Ukraine war outcome | Ukraine regained 480 sq km since late Jan; combat resumed after Easter truce; Kremlin rejects extension; ~20% occupied |
+| Ukraine-Russia peace talks | Trump-Zelensky agreed 90-95% of peace proposal; gaps remain; trilateral talks paused; Iran blockade further delays Ukraine diplomacy |
 | Ukraine average soldier age | ~43 years old |
 | NATO troops to Ukraine | UK/France committed in principle for peacekeeping; Russia rejects |
 | 232:1 shipbuilding ratio | Confirmed by ONI (China 23.25M tons vs. US <100K tons) |
@@ -1645,15 +1706,16 @@ Iran struck military and civilian targets across at least 9 countries plus Israe
 | European conscription | Denmark (expanded), Croatia (restored), Germany (voluntary/possible mandatory) |
 | US-China rapprochement | No -- fragile truce; summit May 14-15; fundamental issues unresolved; Taiwan arms deal complicates |
 | Germany-Russia rapprochement | No -- relations remain frozen; economic decoupling continues |
-| North Korea | FIRED MULTIPLE SRBMs FROM WONSAN (Apr 8, second consecutive day, 4th launch of 2026); declared South Korea 'most hostile enemy'; carbon-fiber ICBM for MIRV; upgraded solid-fuel motor 2,500 kN; demolished Sohae villages; Kim demands nuclear recognition; China FM Wang Yi visited Pyongyang Apr 9 — strengthening NK ties |
+| North Korea | No new launches since Apr 8 testing spree. China FM Wang Yi visited Pyongyang Apr 9 — strengthening NK ties. Carbon-fiber ICBM for MIRV development continues. Kim demands nuclear recognition |
 | Russia-DPRK alliance | Deepened significantly; mutual defense treaty; 11,000-15,000 DPRK troops in Russia; Lukashenko-Kim friendship treaty |
 | Russia as nuclear guarantor | Did NOT prevent strikes on Iran; treaty lacks mutual defense clause |
 | Trump third term | Constitutional amendment proposed but no real progress; Trump walked back rhetoric |
 | Venezuela — Maduro trial | Case in pretrial; defense funding blocked by sanctions; legal experts say trial unlikely this year |
 | Venezuela — Rodriguez govt | Acting president; US recognized as sole leader Mar 11; US Embassy formally resuming operations |
-| Cuba crisis | UN: needs 'acute,' conditions 'worsened' (Apr 6); women's march Havana (Apr 7); US lawmakers visit denouncing 'economic bombing'; Russia 2nd tanker loading; protests ongoing; US-Cuba talks |
-| Colombia | Economic emergency; peace process collapsed; US drug decertification |
-| Pakistan mediation | BREAKTHROUGH: Pakistan successfully mediated ceasefire AND face-to-face talks. Islamabad hosting — Vance + Qalibaf + Araghchi in direct talks (upgraded from indirect). Talks stretch past midnight. Pakistan's PM Sharif is now key broker |
+| Cuba crisis | UN: needs 'acute,' conditions 'worsened'; women's march Havana (Apr 7); Russia 2nd tanker loading; protests ongoing; US-Cuba talks 'very preliminary' |
+| Colombia | Economic emergency; FARC dissident clashes intensified; military killed 18th Front leader + Mordisco security ring; 35% violence increase in Cauca |
+| Pakistan mediation | TALKS COLLAPSED after 21 hours despite upgrade to face-to-face (first since 1979). Vance: 'they chose not to accept our terms.' Pakistan/Oman urge continued diplomacy. Turkey now working on potential second meeting |
+| Global food security | NEW: FAO warns 'clock is ticking' on food crisis; fertilizer 15-20% higher; IRC: 'food security timebomb'; 17M Yemen at risk |
 
 ---
 
