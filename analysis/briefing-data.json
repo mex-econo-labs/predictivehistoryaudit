@@ -1,13 +1,13 @@
 {
-  "briefing_date": "2026-04-15",
+  "briefing_date": "2026-04-16",
   "last_scoring_date": "2026-04-15",
   "next_scoring_date": "2026-05-15",
   "theatres": [
     {
       "name": "Iran / Strait of Hormuz",
       "status": "disconfirmed",
-      "status_label": "active war — US BLOCKADE DAY 3 — oil crashes on talk hopes — Israel-Lebanon historic talks",
-      "summary": "Day 48 — CEASEFIRE DAY 8: US BLOCKADE DAY 3 — OIL CRASHES ON TALK HOPES — ISRAEL-LEBANON HISTORIC FIRST DIRECT TALKS. Blockade enforcement continues: 10,000+ US personnel, 12+ warships, 100+ aircraft. CENTCOM: no ships breached blockade to Iranian ports in first 24 hrs; 6 merchant vessels turned back Day 1; 9+ commercial vessels crossed strait to non-Iranian ports (permitted). OIL CRASHES: WTI dropped below $92/bbl (-8%); Brent fell to ~$94.79/bbl (-4%) as markets price in resumed talks. US gas $4.12/gal. DIPLOMACY: Trump hints 'something could be happening over next two days' in Pakistan; UN SecGen Guterres: talks 'highly probable' to resume; Pakistan 'not giving up.' Key sticking point: US demands 20-year enrichment suspension; Iran offered 3-5 years. ISRAEL-LEBANON HISTORIC TALKS: First direct diplomatic meeting since 1993 at State Dept — Rubio mediating, ambassadors Leiter + Hamadeh Moawad. Agreed to further negotiations at 'mutually agreed time and venue.' No ceasefire agreed. 17 nations call for Lebanon inclusion in ceasefire. BINT JBEIL: IDF soldier Sgt. Maj. Ayal Uriel Bianco killed; 10 paratroopers wounded in clashes with Hezbollah; 13 IDF total wounded. Lebanon total: 2,124+ killed since Mar 2. US WOUNDED UPDATED: 399 (up from 380+). Iran using ceasefire to excavate blocked missile tunnel entrances (satellite imagery). IMF cuts Middle East growth to 1.1%; Iran economy projected -6.1%. Russia oil revenues nearly doubled ($19B March).",
+      "status_label": "active war — US BLOCKADE DAY 4 — blockade 'fully implemented' — ceasefire extension 'in principle' — Pakistan army chief in Tehran — Iran threatens Red Sea",
+      "summary": "Day 49 — CEASEFIRE DAY 9: US BLOCKADE DAY 4 — BLOCKADE 'FULLY IMPLEMENTED' — CEASEFIRE EXTENSION 'IN PRINCIPLE' — PAKISTAN ARMY CHIEF IN TEHRAN — IRAN THREATENS RED SEA SHIPPING. BLOCKADE FULLY IMPLEMENTED: CENTCOM confirms blockade 'completely' halts Iran's seaborne trade; 9 vessels turned back in first 48 hours; zero ships breached to Iranian ports. Estimated cost to Iran: ~$435M/day ($13B/month). TRUMP: War 'very close to over'; 'we've beaten them militarily, totally' (Fox Business). PAKISTAN ARMY CHIEF IN TEHRAN: Field Marshal Asim Munir + Interior Minister Naqvi arrived in Tehran carrying 'new message' from US; will 'outline plan for second round of talks.' VP Vance expected to lead US side. CEASEFIRE EXTENSION: AP reports 'in principle agreement' to extend ceasefire past Apr 22; senior US official says US 'has not formally agreed.' IRAN THREATENS RED SEA: IRGC warns it will block Red Sea, Gulf of Oman AND Persian Gulf shipping unless US lifts blockade — signals possible Houthi reactivation; two senior Houthi officials say group decided to restart maritime attacks. BINT JBEIL: IDF reports taking control; Grand Mosque destroyed; Nasrallah's 2000 stadium captured. Lebanon total: 2,160+ killed since Mar 2. UN experts urge member states to suspend arms transfers to Israel. Oil: Brent ~$95-97; WTI ~$93 — holding near crash levels. Ceasefire expires Apr 22 — 6 days remain.",
       "countries": [
         "Iran",
         "Israel",
@@ -29,8 +29,8 @@
     {
       "name": "Russia-Ukraine War",
       "status": "untested",
-      "status_label": "grinding war — Dnipro struck — Ukraine-Germany €4B defense deal",
-      "summary": "COMBAT RESUMED POST-EASTER. DNIPRO STRUCK APR 14: Russian missile hit highway — 5 killed, 24 wounded (civilians in cars); Apr 15 declared day of mourning. Russia total losses ~1,312,960. UKRAINE-GERMANY €4B DEFENSE DEAL (Apr 14): Joint drone production (5,000 AI-enabled strike drones initially), Patriot missiles funded, 'Build with Ukraine' initiative. Zelenskyy in Berlin. UKRAINE ATTACKS CRIMEA OVERNIGHT: Explosions in Simferopol, Feodosia, Kerch. Kremlin rejected Easter ceasefire extension. Easter truce massively violated by both sides. Russia holds ~20%. Ukraine regained 480 sq km since late January. Abu Dhabi talks postponed; Iran dynamics delay Ukraine diplomacy.",
+      "status_label": "grinding war — 212 combat engagements daily — 1,010 Russian losses/day",
+      "summary": "COMBAT CONTINUES POST-EASTER. 212 combat engagements in 24 hrs (Apr 15). Russia lost 1,010 personnel, 50 artillery systems, 1,388 drones in single day. Total Russian losses ~1,313,970+. Pokrovsk sector most active. DNIPRO day of mourning Apr 15 for missile strike victims (5 killed, 24 wounded Apr 14). UKRAINE-GERMANY €4B defense deal signed Apr 14: joint drone production, Patriot missiles funded. Ukraine attacks on Crimea continue. Russia holds ~20%. Abu Dhabi peace talks still postponed due to Iran dynamics.",
       "countries": [
         "Russia",
         "Ukraine"
@@ -39,8 +39,8 @@
     {
       "name": "Latin America — Venezuela / Cuba / Colombia",
       "status": "partially_confirmed",
-      "status_label": "in flux",
-      "summary": "MADURO PLEADS NOT GUILTY to terrorism/drug charges in new Apr 13 court appearance; next hearing Mar 17, 2027. Rodriguez acting president; US Embassy resuming operations. CUBA: MASSIVE BLACKOUTS CONTINUE — 1,180 MW available vs 2,340 MW demand (50% deficit); peak deficit 1,670 MW; 100+ demonstrations in March (highest since ACLED coverage began 2018); worst crisis since 1990s 'Special Period.' US-Cuba talks 'very preliminary.' Colombia: FARC dissident clashes intensified — military killed 18th Front leader + 6 of Mordisco's security ring; EMC attacks drove 35% increase in violence in Cauca.",
+      "status_label": "in flux — Cuba crisis deepens — Colombia sends solar panels",
+      "summary": "MADURO PLEADS NOT GUILTY to terrorism/drug charges; next hearing Mar 17, 2027. Rodriguez acting president; US Embassy resuming operations. CUBA: CRISIS DEEPENS — blackouts affecting up to 55% of territory simultaneously; peak deficit 1,945 MW (Apr 1). Colombia's Petro announces first shipment of solar panels to Cuba amid energy crisis. Study finds $8B solar investment could cover 93.4% of Cuba's demand. May Day mobilization called under 'The Homeland is Defended' slogan. 100+ demonstrations in March (highest since ACLED coverage began 2018). GDP forecast -7.2%. US-Cuba talks 'very preliminary.' Colombia: FARC dissident clashes intensified; EMC attacks drove 35% increase in violence in Cauca.",
       "countries": [
         "Venezuela",
         "Cuba",
@@ -73,17 +73,17 @@
   "metrics": [
     {
       "name": "Brent Crude ($/bbl)",
-      "value": "~$91-95/bbl futures (crashing on talk hopes)",
-      "change": "OIL CRASHES ON TALK RESUMPTION HOPES: WTI May dropped below $92/bbl (-8% to $91.28); Brent June fell to ~$94.79/bbl (-4%). Sharpest daily decline since ceasefire announcement. Markets pricing in resumed US-Iran talks — Trump hinted 'something could be happening over next two days.' Physical spot prices still elevated above futures. US gas $4.12/gallon (up from $4.02). 103 empty tankers heading to US ports (54 VLCCs). IMF cut Middle East growth to 1.1% for 2026. Russia oil export revenues nearly doubled to $19B in March — profiting from crisis (CNBC, TradingEconomics, CBS, Fortune, IMF).",
+      "value": "~$93-97/bbl futures (stabilizing after crash; volatile on diplomacy signals)",
+      "change": "OIL STABILIZING AFTER CRASH: Brent rose to $96.80 on Apr 15 (+2.13%) before settling ~$94-95; WTI ~$93 on Wed as traders anticipate second round of talks. Holding near post-crash levels. Iran Red Sea threat adds upside risk. Blockade 'fully implemented' adds supply pressure. US gas $4.12/gallon. 103 empty tankers heading to US ports. Blockade costing Iran ~$435M/day ($13B/month). Markets still pricing in diplomatic resolution — 'in principle' ceasefire extension supports this (TradingEconomics, OilPriceAPI, CNBC, Fortune, NBC, Open The Magazine).",
       "change_color": "var(--score-3)",
-      "as_of": "2026-04-15"
+      "as_of": "2026-04-16"
     },
     {
       "name": "Hormuz Tanker Traffic",
-      "value": "US NAVAL BLOCKADE DAY 3; CENTCOM: no ships breached to Iranian ports; 9+ transited to non-Iranian ports; shipping down 90%+",
-      "change": "US BLOCKADE DAY 3: 10,000+ US personnel, 12+ warships, 100+ aircraft enforcing blockade of 'entirety of Iranian coastline.' CENTCOM: no ships made it past blockade to Iranian ports in first 24 hrs. 6 merchant vessels turned back Day 1. 9+ commercial vessels crossed strait to non-Iranian ports (permitted under blockade rules). Blockade enforced 'impartially against vessels of all nations' entering/leaving Iranian ports. Humanitarian shipments permitted subject to inspection. Shipping through Hormuz down 90%+ from pre-conflict levels (100+ vessels daily, now fewer than 10). UK-led 40+ nation coalition focused on Hormuz REOPENING (not blockade support). Iran accuses US of 'piracy' (CENTCOM, CBS, CNN, Bloomberg, Al Jazeera, CNBC).",
+      "value": "US NAVAL BLOCKADE DAY 4; blockade 'FULLY IMPLEMENTED'; 9 vessels turned back in 48 hrs; Iran's sea trade 'completely' halted",
+      "change": "US BLOCKADE DAY 4 — 'FULLY IMPLEMENTED': CENTCOM confirms blockade has 'completely' halted Iran's seaborne trade. 9 vessels turned back in first 48 hours (up from 6 in first 24 hrs); at least 5 carrying oil. No shots fired; no boardings — vessels complied after warnings. Zero ships breached to Iranian ports. 10,000+ US personnel, 12+ warships, 100+ aircraft enforcing. Blockade costing Iran ~$435M/day ($13B/month per FDD). Iran threatens to extend disruption to RED SEA + GULF OF OMAN if blockade continues — signals possible Houthi reactivation. Two senior Houthi officials say group decided to restart maritime attacks. 'In principle' ceasefire extension may de-escalate but blockade status unclear (NBC, CENTCOM, CNBC, Al Jazeera, Ynet, Middle East Eye, TRT World, Seoul Economic Daily).",
       "change_color": "var(--score-1)",
-      "as_of": "2026-04-15"
+      "as_of": "2026-04-16"
     },
     {
       "name": "US Military KIA (Iran theatre)",
@@ -115,10 +115,10 @@
     },
     {
       "name": "Lebanon Casualties (since Mar 2)",
-      "value": "~2,124+ killed / 6,588+ wounded / 1.2M+ displaced / 3 UNIFIL peacekeepers killed / 11+ IDF soldiers killed / 168 children / 88 health workers",
-      "change": "UP from 2,030+: 35 killed in Lebanon in 24 hours ending Apr 15. Total now 2,124+ killed (168 children, 88 health workers), 6,588+ wounded since Mar 2. IDF SOLDIER KILLED: Sgt. Maj. Ayal Uriel Bianco (30, Katzrin), 188th Brigade, killed in Humvee crash in southern Lebanon overnight. 10 paratroopers wounded in Bint Jbeil clashes with 3 Hezbollah fighters; 13 IDF soldiers wounded total in separate incidents. First IDF death since ceasefire began. HISTORIC TALKS: First Israel-Lebanon direct diplomatic meeting since 1993 at State Dept — Rubio mediating. Agreed to further talks. But no ceasefire; Israel refused to commit. 17 nations call for Lebanon ceasefire inclusion. Hezbollah escalated fire on northern Israel during talks (CNN, CBS, JPost, Naharnet, Al Jazeera, State Dept, Axios, NPR).",
+      "value": "~2,160+ killed / 6,700+ wounded / 1.2M+ displaced / 3 UNIFIL peacekeepers killed / 12+ IDF soldiers killed / 170+ children / 88+ health workers",
+      "change": "UP from 2,124+: IDF 'TAKES CONTROL' OF BINT JBEIL — i24NEWS reports IDF has taken control and is expanding ground operations. Grand Mosque of Bint Jbeil destroyed ('basically flattened' per Democracy Now). Nasrallah's 2000 'spider web' stadium captured by IDF. 'Scorched-earth campaign' — Democracy Now reports Israel using 'Gaza playbook' in southern Lebanon. 16 killed on Apr 15 including 4 paramedics (Al Jazeera). UN EXPERTS URGE ARMS TRANSFER SUSPENSION to Israel over Lebanon operations. Total: ~2,160+ killed, 6,700+ wounded since Mar 2. 5 IDF divisions in southern Lebanon. IDF soldier Bianco killed Apr 15. Continued strikes despite ceasefire. 17 nations demanding Lebanon inclusion (i24NEWS, Times of Israel, JNS, Democracy Now, Al Jazeera, UN).",
       "change_color": "var(--score-1)",
-      "as_of": "2026-04-15"
+      "as_of": "2026-04-16"
     },
     {
       "name": "UAE Casualties",
@@ -129,10 +129,10 @@
     },
     {
       "name": "Ships Trapped in Gulf",
-      "value": "~600+ (including 325 tankers); US BLOCKADE DAY 3; shipping down 90%+ from pre-war levels",
-      "change": "US BLOCKADE DAY 3: Blockade enforced across entirety of Iranian coastline. 6 merchant ships turned back Day 1; 9+ transited to non-Iranian ports (permitted). 600+ vessels/325 tankers still stranded. Shipping through Hormuz down 90%+ (fewer than 10 ships daily vs 100+ pre-conflict). Oil price crash suggests markets expect talks to resume — but physical shipping remains paralyzed. UK-led 40+ nation coalition pursuing Hormuz reopening independent of US blockade. Iran calls blockade 'piracy.' Humanitarian shipments permitted subject to inspection (CENTCOM, CBS, CNN, Bloomberg, Al Jazeera).",
+      "value": "~600+ (including 325 tankers); US BLOCKADE DAY 4; blockade 'fully implemented'; Iran's sea trade 'completely' halted",
+      "change": "US BLOCKADE DAY 4 — FULLY IMPLEMENTED: CENTCOM says blockade has 'completely' halted Iran's seaborne trade. 9 vessels turned back in first 48 hrs. Zero ships breached to Iranian ports. Iran THREATENS to extend disruption to Red Sea + Gulf of Oman — signals possible Houthi reactivation. 600+ vessels/325 tankers still stranded. 'In principle' ceasefire extension may open path to de-escalation but blockade status unclear. Physical shipping remains paralyzed (NBC, CENTCOM, CNBC, Al Jazeera, Ynet, Middle East Eye).",
       "change_color": "var(--score-1)",
-      "as_of": "2026-04-15"
+      "as_of": "2026-04-16"
     },
     {
       "name": "Qatar Gas Production",
@@ -144,16 +144,16 @@
     {
       "name": "Ukraine Territory Occupied",
       "value": "~20%",
-      "change": "DNIPRO STRUCK — DAY OF MOURNING: Russian missile hit highway in Dnipro Apr 14 — 5 killed, 24 wounded (civilians in cars); Apr 15 declared day of mourning. Ukraine attacked Crimea overnight — explosions in Simferopol, Feodosia, Kerch. UKRAINE-GERMANY €4B DEFENSE DEAL: Joint drone production (5,000 AI-enabled strike drones), Patriot missiles funded, 'Build with Ukraine' initiative. Russia total losses ~1,312,960. Combat ongoing post-Easter truce. Pokrovsk sector most active. Ukraine regained 480 sq km since late January. In past 4 weeks (Mar 10-Apr 7) Russia gained only 17 sq mi; lost 1 sq mi in last week of that period (Al Jazeera, Kyiv Independent, Ukrinform, AP, KyivPost, russiamatters.org).",
+      "change": "212 COMBAT ENGAGEMENTS IN 24 HRS (Apr 15-16): Russia lost 1,010 personnel, 50 artillery systems, 1,388 drones in single day. Russia deployed 6,672 kamikaze drones and 2,917 shelling attacks. Total Russian losses ~1,313,970+. Pokrovsk sector most active. Dnipro day of mourning Apr 15. Ukraine-Germany €4B defense deal in effect. Ukraine continues Crimea strikes. Russia holds ~20%. Abu Dhabi talks still postponed (Ukrinform, EMPR, Kyiv Independent, AP).",
       "change_color": "var(--score-1)",
-      "as_of": "2026-04-15"
+      "as_of": "2026-04-16"
     },
     {
       "name": "Cuba Fuel Imports",
-      "value": "-90% (Russian tankers providing partial relief; massive blackouts continue)",
-      "change": "CUBA BLACKOUTS DEEPENING: Apr 14 — 1,180 MW available vs 2,340 MW demand (50% deficit); peak deficit projected 1,670 MW. 24-hour electric service interruption on Monday. Deficit range 1,609-1,945 MW in recent days. 100+ demonstrations in March — highest since ACLED began coverage in 2018. Three nationwide blackouts in March. Worst crisis since 1990s 'Special Period.' Tourism collapsed — hotel closures, record-low arrivals. GDP projected -7.2% for 2026. US-Cuba talks in 'very preliminary' phase (CiberCuba, ACLED, Travel and Tour World, PBS, UN News).",
+      "value": "-90% (Russian tankers providing partial relief; blackouts affecting up to 55% of territory; Colombia solar panels arriving)",
+      "change": "CUBA CRISIS DEEPENS — SOLAR LIFELINE EMERGING: Blackouts affecting up to 55% of territory simultaneously (Apr 12 forecast). Peak deficit reached 1,945 MW on Apr 1. Colombia's Petro announces first shipment of solar panels to Cuba. Study finds $8B solar investment could cover 93.4% of Cuba's electricity demand. May Day mobilization called under 'The Homeland is Defended' slogan (warlike, anti-American tone). 100+ demonstrations in March (highest since ACLED 2018). GDP -7.2%. Tourism collapsed. New solar park (5 MW) synchronized in Granma province. China helping Cuba triple solar power in one year (CiberCuba, ACLED, CubaHeadlines, WashPost, CorporateKnights, Granma).",
       "change_color": "var(--score-1)",
-      "as_of": "2026-04-15"
+      "as_of": "2026-04-16"
     },
     {
       "name": "Iranian Officials Assassinated",
@@ -171,34 +171,98 @@
     }
   ],
   "ground_invasion_tracker": {
-    "last_updated": "2026-04-15",
+    "last_updated": "2026-04-16",
     "status": "no_ground_troops",
-    "troop_count_in_theatre": "~53,500+ (CENTCOM confirmed 50,000+; 10,000+ executing blockade across 12+ warships + 100+ aircraft; USS Tripoli ARG ~3,500 in theatre; 82nd Airborne 1,000-3,000 in theatre; USS Boxer ARG near Guam, expected CENTCOM arrival Apr 23-28; USS Frank E. Peterson + USS Michael Murphy in Arabian Gulf). CEASEFIRE DAY 8. BLOCKADE DAY 3. No new ground force deployments. Diplomatic track reopening — talks may resume within days.",
+    "troop_count_in_theatre": "~53,500+ (CENTCOM confirmed 50,000+; 10,000+ executing blockade across 12+ warships + 100+ aircraft; USS Tripoli ARG ~3,500 in theatre; 82nd Airborne 1,000-3,000 in theatre; USS Boxer ARG near Guam, expected CENTCOM arrival Apr 23-28; USS Frank E. Peterson + USS Michael Murphy in Arabian Gulf). CEASEFIRE DAY 9. BLOCKADE DAY 4. No new ground force deployments. Pakistan army chief in Tehran; ceasefire extension 'in principle'; Trump says war 'very close to over.'",
     "key_developments": [
-      "US BLOCKADE DAY 3 — PURELY NAVAL, NO GROUND COMPONENT (Apr 15): 10,000+ US personnel, 12+ warships, 100+ aircraft enforcing blockade of Iranian coastline. CENTCOM: no ships breached blockade to Iranian ports in first 24 hrs. 6 merchant ships turned back. Blockade enforced 'impartially against vessels of all nations' — humanitarian shipments permitted with inspection. This remains NAVAL INTERDICTION — zero ground troops, zero amphibious operations, zero Marine landings (CENTCOM, CBS, CNN, Bloomberg)",
-      "DIPLOMATIC TRACK REOPENING — NOT MILITARY ESCALATION (Apr 15): Trump hints 'something could be happening over next two days' in Pakistan. UN SecGen Guterres: talks 'highly probable' to resume. Pakistan 'not giving up.' VP Vance expected to lead second round. The pressure vector is DIPLOMATIC + NAVAL — zero discussion of ground operations by any official (NBC News, CNN, Time, CBS)",
-      "IRAN USING CEASEFIRE TO DIG OUT MISSILE TUNNELS (Apr 15): Satellite imagery shows Iran excavating blocked tunnel entrances at underground missile bases near Khomeyn and Tabriz. Front-end loaders and dump trucks removing debris. Expert assessment: ~50% of Iran's missile launchers remain intact underground. This is DEFENSIVE preparation by Iran, not offensive. No ground engagement indicators (CNN, Times of Israel)",
-      "OIL CRASH SIGNALS MARKET EXPECTS DE-ESCALATION (Apr 15): WTI dropped below $92 (-8%); Brent to $94.79 (-4%). Markets pricing in diplomatic resolution — the opposite of ground invasion expectations. If ground invasion were imminent, oil would surge, not crash",
-      "USS BOXER ARG NEAR GUAM — STILL 1-2 WEEKS FROM CENTCOM (Apr 15): USS Boxer + Portland + Comstock + 11th MEU near Guam per USNI Apr 13 tracker. Expected CENTCOM arrival Apr 23-28. Context remains blockade enforcement — not amphibious assault (USNI, TWZ, Pravda EN)",
-      "IDF SOLDIER KILLED IN BINT JBEIL — LEBANON, NOT IRAN (Apr 15): Sgt. Maj. Ayal Uriel Bianco killed in Humvee crash; 10 paratroopers wounded in clash with Hezbollah. ISRAELI ground ops in LEBANON — separate from US-Iran theatre. First IDF death since ceasefire (JPost, Naharnet, Times of Israel)",
-      "ISRAEL-LEBANON HISTORIC TALKS — DIPLOMATIC NOT MILITARY (Apr 15): First direct talks since 1993 at State Dept. Rubio mediating. Agreed to further negotiations. Even Lebanon theatre moving toward diplomacy (State Dept, CNN, Axios, NPR)"
+      "BLOCKADE 'FULLY IMPLEMENTED' — NAVAL ONLY (Apr 16): CENTCOM confirms blockade 'completely' halts Iran's seaborne trade. 9 vessels turned back in first 48 hours; zero breached. 10,000+ personnel, 12+ warships, 100+ aircraft. All engagement is ship-to-ship — NO ground component, NO boarding operations (all vessels complied after warnings), NO amphibious operations. Costing Iran ~$435M/day — economic pressure, not military ground escalation (NBC, CENTCOM, CNBC, Al Jazeera)",
+      "TRUMP: WAR 'VERY CLOSE TO OVER' (Apr 16): Fox Business interview — 'we've beaten them militarily, totally'; thinks deal close; stock market will boom. This is EXIT rhetoric, not invasion rhetoric. No official at any level discussing ground operations (CNBC, Fox Business, Washington Times, Euronews)",
+      "PAKISTAN ARMY CHIEF IN TEHRAN — MEDIATION INTENSIFIES (Apr 16): Field Marshal Asim Munir + Interior Minister Naqvi in Tehran carrying 'new message' from US. Will 'outline plan for second round of talks.' VP Vance expected to lead. Diplomatic track ACCELERATING — the opposite of ground escalation (Al Jazeera, Bloomberg, Tribune India, Outlook India)",
+      "CEASEFIRE EXTENSION 'IN PRINCIPLE' (Apr 16): AP reports both sides have 'in principle agreement' to extend ceasefire past Apr 22. Senior US official says 'not formally agreed.' Even without formal agreement, the DIRECTION is de-escalation, not ground invasion (AP/Mediaite, CNBC, Bloomberg, Baltimore Sun)",
+      "IRAN THREATENS RED SEA — PROXY ESCALATION, NOT GROUND WAR (Apr 16): Iran warns it will block Red Sea + Gulf of Oman + Persian Gulf unless US lifts blockade. Two senior Houthi officials say group decided to restart maritime attacks. This signals PROXY escalation through Houthis — maritime, not ground-based. Iran fighting via sea denial, not preparing for ground engagement (NBC, Ynet, Middle East Eye, TRT World, gCaptain)",
+      "USS BOXER ARG STILL ~1 WEEK FROM CENTCOM (Apr 16): Near Guam; expected arrival Apr 23-28. Context: blockade reinforcement. No amphibious assault indicators (USNI)",
+      "IDF CAPTURES BINT JBEIL — ISRAEL IN LEBANON, NOT US IN IRAN (Apr 16): IDF reports taking control of Bint Jbeil; Grand Mosque destroyed; 5 divisions in southern Lebanon. Israeli ground ops in LEBANON — completely separate from US-Iran theatre (i24NEWS, Times of Israel)"
     ],
     "kharg_island": {
       "status": "struck_twice_air_only",
-      "naval_activity": "No naval activity near Kharg. US blockade focused on Hormuz shipping lanes and Iranian port approaches. USS Tripoli ARG in CENTCOM but no Kharg-specific positioning. Oil market crash suggests markets do NOT expect Kharg seizure.",
-      "notes": "Kharg struck by US air forces twice (Mar 13, Apr 7) — oil infrastructure deliberately spared both times. No ground troops deployed. Ceasefire Day 8. Diplomatic track reopening — talks may resume within days. No coalition forming for any ground operation. Iran using ceasefire for defensive preparations (fortifying sites, excavating tunnels)."
+      "naval_activity": "No naval activity near Kharg. US blockade focused on Hormuz shipping lanes and Iranian port approaches. Oil prices stabilizing ($93-97) — markets do NOT expect Kharg seizure.",
+      "notes": "Kharg struck twice by US air forces (Mar 13, Apr 7) — oil infrastructure deliberately spared both times. No ground troops deployed. Ceasefire Day 9, Blockade Day 4. Pakistan army chief in Tehran mediating. Trump says war 'very close to over.' 'In principle' ceasefire extension. Zero coalition forming for any ground operation."
     },
     "marine_movements": [
-      "USS Tripoli ARG (31st MEU, ~3,500): In CENTCOM theatre since late March. Part of blockade enforcement posture. No ground deployment indicators.",
-      "USS Boxer ARG (11th MEU, ~2,500): Near Guam per USNI Apr 13 tracker. Expected CENTCOM arrival Apr 23-28. Context: blockade enforcement upon arrival.",
-      "82nd Airborne (1,000-3,000): In theatre. No new deployment orders. No repositioning reported.",
-      "USS Frank E. Peterson (DDG-121) + USS Michael Murphy (DDG-112): In Arabian Gulf for mine-clearing/blockade enforcement.",
-      "10,000+ US personnel across 12+ warships + 100+ aircraft executing blockade operations."
+      "USS Tripoli ARG (31st MEU, ~3,500): In CENTCOM theatre since late March. Blockade enforcement posture. No ground deployment indicators.",
+      "USS Boxer ARG (11th MEU, ~2,500): Near Guam per USNI Apr 13 tracker. Expected CENTCOM arrival Apr 23-28. Context: blockade reinforcement.",
+      "82nd Airborne (1,000-3,000): In theatre. No new deployment orders. No repositioning.",
+      "USS Frank E. Peterson (DDG-121) + USS Michael Murphy (DDG-112): Arabian Gulf — mine-clearing/blockade enforcement.",
+      "10,000+ US personnel across 12+ warships + 100+ aircraft executing naval blockade."
     ],
-    "draft_indicators": "NONE. Zero domestic signals regarding draft, conscription, or selective service activation. No Congressional debate on ground operations authorization. Diplomatic track reopening — talks may resume within days. Blockade is the escalation/pressure vector — no ground operations discussed by any US official.",
-    "assessment": "Ground invasion probability remains at ABSOLUTE ZERO. Day 48 with zero US ground troops deployed IN Iran. US blockade Day 3 — enforcement is entirely naval (10,000+ personnel, 12+ warships, 100+ aircraft). Oil price CRASH (-8% WTI) signals markets expect diplomatic resolution, not military escalation. Trump hints talks resuming in Pakistan within two days. UN SecGen says talks 'highly probable.' Even Israel-Lebanon is moving toward diplomacy (first direct talks since 1993). The 48-day pattern remains conclusive: air campaign → ceasefire → failed talks → naval blockade → diplomatic reopening. Ground troops are not on this ladder."
+    "draft_indicators": "NONE. Zero domestic signals. No Congressional debate on ground authorization. Trump saying war 'very close to over' — exit rhetoric. Ceasefire extension 'in principle.' No ground operations discussed by any US official at any level.",
+    "assessment": "Ground invasion probability remains at ABSOLUTE ZERO. Day 49 with zero US ground troops deployed IN Iran. US blockade Day 4 — enforcement entirely naval. Trump says war 'very close to over' — EXIT rhetoric, not invasion rhetoric. Pakistan army chief in Tehran mediating second round of talks. Ceasefire extension 'in principle.' Oil stabilizing ($93-97) — markets continue pricing in diplomatic resolution. Iran's new escalation vector is RED SEA threats via Houthis — maritime proxy, not ground engagement. The 49-day pattern is now beyond conclusive: air campaign → ceasefire → failed talks → naval blockade → ceasefire extension → second talks. Ground troops have never been on this escalation ladder and will not be."
   },
   "daily_entries": [
+    {
+      "date": "2026-04-16",
+      "tags": [
+        "Iran",
+        "Ceasefire Day 9",
+        "US Blockade Day 4",
+        "Blockade Fully Implemented",
+        "9 Vessels Turned Back 48 Hours",
+        "Iran Sea Trade Completely Halted",
+        "Trump War Very Close To Over",
+        "Pakistan Army Chief In Tehran",
+        "Asim Munir New Message From US",
+        "Ceasefire Extension In Principle",
+        "Iran Threatens Red Sea Blockade",
+        "Houthis Restart Maritime Attacks",
+        "IRGC Red Sea Gulf Oman Persian Gulf",
+        "IDF Takes Control Bint Jbeil",
+        "Grand Mosque Destroyed",
+        "Nasrallah Stadium Captured",
+        "Democracy Now Scorched Earth Gaza Playbook",
+        "UN Experts Urge Arms Suspension Israel",
+        "Lebanon 2160 Killed",
+        "Brent $95-97 WTI $93",
+        "Blockade Costs Iran $435M Per Day",
+        "Colombia Solar Panels Cuba",
+        "Ukraine 212 Combat Engagements",
+        "Russia 1010 Losses Day",
+        "Cuba 55% Territory Blackouts",
+        "Day 49"
+      ],
+      "summary": "Day 49 — CEASEFIRE DAY 9: US BLOCKADE DAY 4 — BLOCKADE 'FULLY IMPLEMENTED' — CEASEFIRE EXTENSION 'IN PRINCIPLE' — PAKISTAN ARMY CHIEF IN TEHRAN — IRAN THREATENS RED SEA — IDF CAPTURES BINT JBEIL. (1) BLOCKADE 'FULLY IMPLEMENTED': CENTCOM confirms blockade 'completely' halts Iran's seaborne trade; 9 vessels turned back in first 48 hrs; zero breached. Costing Iran ~$435M/day ($13B/month). (2) TRUMP: War 'very close to over'; 'we've beaten them militarily, totally' (Fox Business). Stock market will 'boom.' (3) PAKISTAN ARMY CHIEF IN TEHRAN: Field Marshal Asim Munir + Interior Minister Naqvi carrying 'new message' from US; will 'outline plan for second round of talks.' VP Vance expected to lead. IRIB: delegation carrying Washington's latest position. (4) CEASEFIRE EXTENSION 'IN PRINCIPLE': AP reports both sides have 'in principle agreement' to extend ceasefire past Apr 22; senior US official says 'not formally agreed.' Mediators pushing to extend. (5) IRAN THREATENS RED SEA: IRGC warns it will block Red Sea, Gulf of Oman AND Persian Gulf shipping unless US lifts blockade. Two senior Houthi officials say group decided to restart maritime attacks — major escalation risk. (6) IDF CAPTURES BINT JBEIL: i24NEWS reports IDF has taken control and is expanding ground ops. Grand Mosque of Bint Jbeil destroyed ('basically flattened'). Nasrallah's 2000 'spider web' stadium captured. Democracy Now: Israel using 'Gaza playbook' in southern Lebanon. (7) UN EXPERTS urge member states to suspend arms transfers to Israel. (8) OIL: Brent ~$95-97; WTI ~$93 — stabilizing after crash; volatile on diplomacy signals. (9) LEBANON: ~2,160+ killed since Mar 2. 16 killed Apr 15 including 4 paramedics. 5 IDF divisions in southern Lebanon. (10) UKRAINE: 212 combat engagements; Russia lost 1,010 personnel + 1,388 drones in 24 hrs. Total Russian losses ~1,313,970+. (11) CUBA: Blackouts affecting 55% of territory; Colombia's Petro sends solar panels. (12) Ceasefire expires Apr 22 — 6 days remain.",
+      "details": [
+        "BLOCKADE 'FULLY IMPLEMENTED' — IRAN SEA TRADE 'COMPLETELY' HALTED (Apr 16): CENTCOM confirms US naval blockade has 'completely' halted Iran's seaborne trade that powers ~90% of its economy. In first 48 hours: 9 vessels issued warnings and turned back (up from 6 in first 24 hrs); at least 5 carrying oil. No shots fired; no physical boardings — all vessels complied after radio warnings. Zero ships breached to Iranian ports. 10,000+ US personnel, 12+ warships, 100+ aircraft enforcing across 'entirety of Iranian coastline.' FDD analyst Miad Maleki calculates blockade costs Iran ~$435 million/day ($13B/month) — including ~$276M in lost exports primarily crude oil and petrochemicals. Based on 1.5M bbl/day at ~$87/bbl wartime price (NBC, CENTCOM, CNBC, Al Jazeera, Open The Magazine, Fortune)",
+        "TRUMP: WAR 'VERY CLOSE TO OVER' (Apr 15-16): Fox Business 'Mornings with Maria' prerecorded interview: 'We've beaten them militarily, totally' — 'I think it's close to over, I view it as very close to over.' Said Iran wants deal 'very badly.' Claimed stock market will 'boom' when deal reached. Also told NY Post second round of talks 'could be happening over next two days' in Pakistan. Exit rhetoric intensifying — Trump framing war as already won (CNBC, Fox Business, Washington Times, Euronews, Breitbart, CBS)",
+        "PAKISTAN ARMY CHIEF IN TEHRAN — 'NEW MESSAGE' FROM US (Apr 15-16): Field Marshal Asim Munir and Interior Minister Mohsin Naqvi arrived in Tehran carrying 'new message' from US administration. Iran's state-run IRIB News: delegation will 'outline a plan for a second round of talks.' Pakistani mediators hopeful about breakthrough on Iran's nuclear programme. VP Vance expected to lead US delegation in second round. Urgency driven by Apr 22 ceasefire expiry. Pakistan hoping to get ceasefire extended (Al Jazeera, Bloomberg, Tribune India, Outlook India, The Quint)",
+        "CEASEFIRE EXTENSION 'IN PRINCIPLE' — BUT NOT FORMALLY AGREED (Apr 15-16): AP reports regional officials said US and Iran gave 'in principle agreement' to extend ceasefire to allow more diplomacy. However, senior US official told CNBC: US 'has not formally agreed' to extension. Three main sticking points for mediators: Iran's nuclear program, Strait of Hormuz, compensation for wartime damages. Ceasefire set to expire Apr 22. Extension would allow time for second round of talks (AP/Mediaite, CNBC, Bloomberg, Baltimore Sun, Spectrum)",
+        "IRAN THREATENS RED SEA + GULF OF OMAN SHIPPING — HOUTHI REACTIVATION SIGNALED (Apr 15-16): IRGC warns it will block import/export of goods through Persian Gulf, Gulf of Oman AND Red Sea unless US lifts blockade. Ali Abdollahi (commander of Khatam al-Anbiya emergency HQ): measures will be 'firm and decisive.' Iran does NOT border Red Sea — threat signals possible reactivation of Yemen's Houthi rebels. TWO senior Houthi officials told gCaptain group 'decided to restart missile and drone operations against maritime traffic.' This would create DOUBLE CHOKEPOINT scenario — Hormuz + Bab al-Mandeb — threatening global shipping on both ends (NBC, Ynet, Middle East Eye, TRT World, Seoul Economic Daily, Newsweek, gCaptain)",
+        "IDF 'TAKES CONTROL' OF BINT JBEIL — GRAND MOSQUE DESTROYED (Apr 15-16): i24NEWS reports IDF has taken control of Bint Jbeil and is expanding ground operation in southern Lebanon. Grand Mosque of Bint Jbeil — hundreds of years old — 'basically flattened' (Democracy Now imagery). IDF captured Bint Jbeil stadium — site of Nasrallah's infamous 2000 'spider web' speech after Israel withdrew from Lebanon. 98th Division Paratroopers Brigade, Commando units and Givati Infantry Brigade led assault. 'Full operational control within days.' Democracy Now reports Israel using 'scorched-earth campaign' and 'Gaza playbook' in southern Lebanon (i24NEWS, Times of Israel, JNS, Democracy Now, VINnews)",
+        "UN EXPERTS URGE ARMS TRANSFER SUSPENSION TO ISRAEL (Apr 15-16): UN experts called on member states to suspend arms transfers to Israel over Lebanon operations. Follows pattern of increasing international condemnation. 17 nations had already called for Lebanon inclusion in ceasefire (Al Jazeera, UN)",
+        "OIL STABILIZING AFTER CRASH — VOLATILE ON DIPLOMACY SIGNALS (Apr 16): Brent rose to $96.80 Apr 15 (+2.13%) before settling; WTI ~$93 Wednesday. Holding near post-crash levels. Markets still pricing in diplomatic resolution. Iran Red Sea threat adds upside risk. Ceasefire extension 'in principle' adds downside risk. Physical spot prices still elevated above futures. Blockade costing Iran $435M/day adds economic pressure for deal (TradingEconomics, OilPriceAPI, CNBC)",
+        "LEBANON: ~2,160+ KILLED SINCE MAR 2 (Apr 16): 16 killed on Apr 15 including 4 paramedics (Al Jazeera). Total approximately 2,160+ killed (170+ children, 88+ health workers), 6,700+ wounded since Mar 2. 5 IDF divisions in southern Lebanon. Bint Jbeil falling. IDF soldier Bianco killed Apr 15 — first since ceasefire. UN experts urge arms suspension. Israel-Lebanon talks agreed to continue at 'mutually agreed time and venue' — but no ceasefire committed (Al Jazeera, i24NEWS, CNN, Democracy Now, UN)",
+        "UKRAINE: 212 COMBAT ENGAGEMENTS — 1,010 RUSSIAN LOSSES IN DAY (Apr 15-16): 212 combat engagements in 24 hrs. Russia lost 1,010 personnel, 1 tank, 1 armored vehicle, 50 artillery systems, 4 MLRS, 1,388 drones, 253 automotive units, 2 special equipment in single day. Russia deployed 6,672 kamikaze drones and 2,917 shelling attacks (including 48 MLRS). Total Russian losses ~1,313,970+. Pokrovsk sector most active. 1,512th day of full-scale war (Ukrinform, EMPR)",
+        "CUBA: BLACKOUTS 55% TERRITORY — COLOMBIA SENDS SOLAR PANELS (Apr 16): Blackouts forecast to affect up to 55% of territory simultaneously. Peak deficit reached 1,945 MW on Apr 1 — equivalent to 55% without electricity. Colombia's President Petro announces first shipment of solar panels to Cuba. Study by Transition Security Project: $8B solar investment could cover 93.4% of Cuba's electricity demand. New 5 MW solar park synchronized in Granma province. China helping Cuba triple solar power in one year. May Day mobilization under 'The Homeland is Defended' slogan (CiberCuba, CubaHeadlines, CorporateKnights, WashPost, Granma)"
+      ],
+      "prediction_impact": "Strongest DIPLOMATIC signals yet: Trump says war 'very close to over'; Pakistan army chief IN TEHRAN with 'new message' from US; ceasefire extension 'in principle.' Blockade 'fully implemented' creates maximum economic pressure ($435M/day) — but Iran's Red Sea threat (Houthi reactivation) introduces NEW escalation vector. Double chokepoint (Hormuz + Bab al-Mandeb) would be unprecedented. IDF capture of Bint Jbeil marks symbolic turning point in Lebanon campaign. Ground invasion probability: ABSOLUTE ZERO — Day 49, all escalation is maritime/proxy, diplomatic track accelerating, Trump framing exit narrative.",
+      "source": "NBC, CENTCOM, CNBC, Al Jazeera, Fortune, Open The Magazine, Fox Business, Washington Times, Euronews, Breitbart, CBS, Bloomberg, Tribune India, Outlook India, The Quint, AP/Mediaite, Baltimore Sun, Spectrum, Ynet, Middle East Eye, TRT World, Seoul Economic Daily, Newsweek, gCaptain, i24NEWS, Times of Israel, JNS, Democracy Now, VINnews, UN, TradingEconomics, OilPriceAPI, Ukrinform, EMPR, CiberCuba, CubaHeadlines, CorporateKnights, WashPost, Granma"
+    },
+    {
+      "date": "2026-04-16",
+      "tags": [
+        "Ground Invasion Tracker"
+      ],
+      "summary": "GROUND INVASION PROBABILITY: ABSOLUTE ZERO. Day 49 — Ceasefire Day 9 — Blockade Day 4. Trump says war 'VERY CLOSE TO OVER' — EXIT rhetoric, not invasion rhetoric. Pakistan army chief IN TEHRAN carrying 'new message' from US — DIPLOMATIC acceleration. Ceasefire extension 'in principle' — DE-ESCALATION trajectory. Blockade 'fully implemented' — entirely NAVAL (9 vessels turned back, zero breached, no shots fired, no boardings). Iran's NEW escalation is Red Sea threat via Houthis — MARITIME PROXY, not ground engagement. Oil holding $93-97 — markets expect deal. IDF captures Bint Jbeil — Israeli ground ops in LEBANON, separate from US-Iran theatre. USS Boxer ARG still ~1 week from CENTCOM. No new ground force deployments. No draft indicators. 49-day pattern irrefutable.",
+      "details": [
+        "TRUMP EXIT RHETORIC = ANTI-INVASION SIGNAL (Apr 16): 'Very close to over'; 'beaten them militarily, totally'; stock market will 'boom.' A president planning a ground invasion does not tell Fox Business the war is almost over and the stock market will boom. This is framing for exit, not escalation (CNBC, Fox Business)",
+        "PAKISTAN ARMY CHIEF IN TEHRAN = DIPLOMATIC NOT MILITARY (Apr 16): Carrying 'new message' from US. Outlining plan for second round of talks. VP Vance to lead. Pakistan hopeful on nuclear breakthrough. Zero discussion of ground operations. The pressure vector is ECONOMIC (blockade $435M/day) + DIPLOMATIC (second talks) — not military ground operations (Al Jazeera, Bloomberg, Tribune India)",
+        "CEASEFIRE EXTENSION 'IN PRINCIPLE' = DE-ESCALATION (Apr 16): AP reports both sides agree in principle to extend past Apr 22. Even without formal agreement, the TRAJECTORY is de-escalation. Ground invasions don't happen during ceasefire extensions (AP/Mediaite, CNBC, Bloomberg)",
+        "IRAN'S RED SEA THREAT = PROXY MARITIME ESCALATION (Apr 16): Iran threatens to block Red Sea + Gulf of Oman via Houthis. Two Houthi officials confirm restart of maritime attacks. This is PROXY warfare at sea — confirming the escalation ladder remains maritime, not terrestrial. Iran fighting through sea denial, not ground preparation (NBC, Ynet, Middle East Eye, gCaptain)",
+        "BLOCKADE = NAVAL INTERDICTION, NOT AMPHIBIOUS OPERATION (Apr 16): 9 vessels turned back via RADIO WARNINGS — no physical boardings, no shots fired. This is economic strangulation through naval presence, not amphibious staging. All 10,000+ personnel focused on ship interdiction (NBC, CENTCOM, CNBC)",
+        "IDF BINT JBEIL CAPTURE = ISRAELI OPS IN LEBANON (Apr 16): IDF takes control of Bint Jbeil; Grand Mosque destroyed. 5 divisions in southern Lebanon. Israeli ground operations in LEBANON are distinct from US-Iran theatre. No US ground troops involved in Lebanon (i24NEWS, Times of Israel)"
+      ],
+      "prediction_impact": "49 consecutive days with ZERO US ground troops deployed IN Iran. Today's signals are the STRONGEST anti-invasion indicators yet: (1) Trump says war 'very close to over' — framing exit; (2) Pakistan army chief in Tehran mediating — diplomatic acceleration; (3) ceasefire extension 'in principle' — de-escalation trajectory; (4) Iran's escalation is Red Sea/Houthi proxy — maritime not terrestrial; (5) blockade enforcement entirely naval — radio warnings, no boardings. The 49-day pattern is beyond irrefutable. The war's trajectory is: blockade pressure → ceasefire extension → second round of talks → potential deal. Ground troops have never appeared on this ladder.",
+      "source": "CNBC, Fox Business, Washington Times, Euronews, Al Jazeera, Bloomberg, Tribune India, Outlook India, AP/Mediaite, Baltimore Sun, NBC, Ynet, Middle East Eye, gCaptain, CENTCOM, i24NEWS, Times of Israel"
+    },
     {
       "date": "2026-04-15",
       "tags": [
