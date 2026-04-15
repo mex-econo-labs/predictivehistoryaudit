@@ -1,0 +1,90 @@
+{% extends "base.html" %}
+{% block title %}Open Questions — Predictive History Audit{% endblock %}
+{% block description %}A register of publicly contested questions the open-source record cannot presently resolve — neither endorsed nor dismissed.{% endblock %}
+{% block og_title %}Open Questions — Predictive History Audit{% endblock %}
+{% block tw_title %}Open Questions — Predictive History Audit{% endblock %}
+
+{% block content %}
+<section class="page-hero">
+  <div class="container">
+    <h1 class="fade-up">Open Questions</h1>
+    <p class="lead fade-up">Publicly contested questions where the documented record and a circulating counter&#8209;reading both remain in play — and open&#8209;source evidence cannot presently decide between them.</p>
+  </div>
+</section>
+
+<div class="container" style="padding-top: var(--space-xl); padding-bottom: var(--space-2xl);">
+
+  <div class="card fade-up" style="border-left: 3px solid var(--accent);">
+    <div class="card-header">
+      <span class="card-title">Why this page exists</span>
+    </div>
+    <div style="padding: var(--space-md) 0; color: var(--text-secondary); line-height: 1.7; font-size: 0.92rem;">
+      <p style="margin-bottom: var(--space-md);">{{ preamble }}</p>
+      <p style="margin-bottom: var(--space-md);">An entry lives here only when three conditions hold together:</p>
+      <ol style="padding-left: var(--space-lg); margin-bottom: var(--space-md);">
+        <li style="margin-bottom: var(--space-xs);">The counter&#8209;reading is built from facts this project already treats as documented.</li>
+        <li style="margin-bottom: var(--space-xs);">Non&#8209;fringe actors are publicly asserting it &mdash; we name them.</li>
+        <li style="margin-bottom: var(--space-xs);">Resolution would require evidence not currently in the open record &mdash; we say what would move it.</li>
+      </ol>
+      <p>Entries leave this page when new evidence promotes them to <em>confirmed</em> or <em>disconfirmed</em>. Nothing listed here is an endorsement. The purpose is the opposite: to avoid the failure mode where absence of documentation silently becomes proof of the negative &mdash; what this project calls the <em>October Surprise trap</em>.</p>
+    </div>
+  </div>
+
+  {% for q in questions %}
+  <div id="{{ q.id }}" class="card fade-up" style="margin-top: var(--space-lg);">
+    <div class="card-header" style="flex-wrap: wrap; gap: var(--space-sm);">
+      <span class="card-title">{{ q.title }}</span>
+      {% if q.status_label %}
+      <span class="briefing-tag" style="background: var(--accent-glow); color: var(--accent); border: 1px solid var(--accent);">{{ q.status_label }}</span>
+      {% endif %}
+    </div>
+
+    <div style="padding: var(--space-md) 0; color: var(--text-primary); line-height: 1.7;">
+      <p style="margin-bottom: var(--space-lg); font-size: 0.95rem;">{{ q.synopsis }}</p>
+
+      <h3 style="font-size: 0.85rem; text-transform: uppercase; letter-spacing: 0.08em; color: var(--text-muted); margin-bottom: var(--space-sm);">Documented facts</h3>
+      <ul style="padding-left: var(--space-lg); margin-bottom: var(--space-lg); color: var(--text-secondary); font-size: 0.88rem;">
+        {% for f in q.documented_facts %}<li style="line-height: 1.6; margin-bottom: var(--space-xs);">{{ f }}</li>{% endfor %}
+      </ul>
+
+      <h3 style="font-size: 0.85rem; text-transform: uppercase; letter-spacing: 0.08em; color: var(--text-muted); margin-bottom: var(--space-sm);">Alternate reading in public discourse</h3>
+      <div style="padding: var(--space-sm) var(--space-md); border-left: 2px solid var(--accent); background: var(--accent-glow); margin-bottom: var(--space-lg); color: var(--text-secondary); font-size: 0.9rem; line-height: 1.7;">
+        {{ q.alternate_reading }}
+      </div>
+
+      {% if q.public_assertion_by %}
+      <h3 style="font-size: 0.85rem; text-transform: uppercase; letter-spacing: 0.08em; color: var(--text-muted); margin-bottom: var(--space-sm);">Being asserted publicly by</h3>
+      <ul style="padding-left: var(--space-lg); margin-bottom: var(--space-lg); color: var(--text-secondary); font-size: 0.88rem;">
+        {% for a in q.public_assertion_by %}<li style="line-height: 1.6; margin-bottom: var(--space-xs);">{{ a }}</li>{% endfor %}
+      </ul>
+      {% endif %}
+
+      {% if q.what_would_resolve %}
+      <h3 style="font-size: 0.85rem; text-transform: uppercase; letter-spacing: 0.08em; color: var(--text-muted); margin-bottom: var(--space-sm);">What would resolve it</h3>
+      <ul style="padding-left: var(--space-lg); margin-bottom: var(--space-lg); color: var(--text-secondary); font-size: 0.88rem;">
+        {% for r in q.what_would_resolve %}<li style="line-height: 1.6; margin-bottom: var(--space-xs);">{{ r }}</li>{% endfor %}
+      </ul>
+      {% endif %}
+
+      {% if q.current_assessment %}
+      <h3 style="font-size: 0.85rem; text-transform: uppercase; letter-spacing: 0.08em; color: var(--text-muted); margin-bottom: var(--space-sm);">Our honest assessment</h3>
+      <div style="padding: var(--space-sm) var(--space-md); border: 1px dashed var(--border); color: var(--text-secondary); font-size: 0.88rem; line-height: 1.7; margin-bottom: var(--space-sm);">
+        {{ q.current_assessment }}
+      </div>
+      {% endif %}
+
+      <div class="mono muted" style="font-size: 0.7rem; margin-top: var(--space-md);">
+        First listed: {{ q.first_listed }}
+      </div>
+    </div>
+  </div>
+  {% endfor %}
+
+  {% if not questions %}
+  <div class="card fade-up" style="margin-top: var(--space-lg);">
+    <div style="padding: var(--space-lg); color: var(--text-secondary); text-align: center;">No open questions currently listed. New entries are added as they arise.</div>
+  </div>
+  {% endif %}
+
+</div>
+{% endblock %}

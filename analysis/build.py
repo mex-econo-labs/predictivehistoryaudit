@@ -333,7 +333,7 @@ def load_analyses(base_dir: str) -> list:
     """Load all analysis JSON files."""
     analyses = []
     for path in sorted(glob.glob(os.path.join(base_dir, '*.json'))):
-        if os.path.basename(path) in ('schema.json', 'briefing-data.json', 'channel-data.json', 'channel-editorial.json'):
+        if os.path.basename(path) in ('schema.json', 'briefing-data.json', 'channel-data.json', 'channel-editorial.json', 'open-questions.json'):
             continue
         with open(path) as f:
             data = json.load(f)
@@ -695,6 +695,23 @@ def build(base_dir: str, output_dir: str):
     with open(os.path.join(output_dir, 'mirrors.html'), 'w') as f:
         f.write(html)
     print(f"  Built: mirrors.html ({len(ironic_mirrors)} mirrors)")
+
+    # Open Questions
+    oq_path = os.path.join(base_dir, 'open-questions.json')
+    if os.path.exists(oq_path):
+        with open(oq_path) as f:
+            oq = json.load(f)
+        tmpl = env.get_template('open-questions.html')
+        html = tmpl.render(
+            page='open-questions',
+            root='',
+            preamble=oq.get('preamble', ''),
+            questions=oq.get('questions', []),
+            last_updated=oq.get('last_updated', ''),
+        )
+        with open(os.path.join(output_dir, 'open-questions.html'), 'w') as f:
+            f.write(html)
+        print(f"  Built: open-questions.html ({len(oq.get('questions', []))} questions)")
 
     # Briefing
     briefing_path = os.path.join(base_dir, 'briefing-data.json')

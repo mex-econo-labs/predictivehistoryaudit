@@ -148,6 +148,31 @@
         <div style="margin-top: 2px;">{{ entry.prediction_impact }}</div>
       </div>
       {% endif %}
+      {% if entry.alternate_readings %}
+      <div style="margin-top: var(--space-sm); padding: var(--space-sm); border: 1px dashed var(--border); background: rgba(255,255,255,0.015); font-size: 0.8rem;">
+        <div style="display: flex; align-items: baseline; gap: var(--space-sm); margin-bottom: var(--space-xs);">
+          <span class="mono" style="font-size: 0.65rem; color: var(--text-muted); font-weight: 600; letter-spacing: 0.08em; text-transform: uppercase;">Alternate Readings in Public Discourse</span>
+          <span class="muted" style="font-size: 0.7rem;">— noted, not endorsed</span>
+        </div>
+        {% for alt in entry.alternate_readings %}
+        <div style="margin-top: var(--space-xs); padding-left: var(--space-sm); border-left: 2px solid var(--border);">
+          <div style="color: var(--text-primary); font-weight: 500;">{{ alt.reading }}</div>
+          {% if alt.evidentiary_status %}
+          <div class="muted" style="font-size: 0.72rem; margin-top: 2px;"><span class="mono">status:</span> {{ alt.evidentiary_status }}</div>
+          {% endif %}
+          {% if alt.public_assertion_by %}
+          <div class="muted" style="font-size: 0.72rem; margin-top: 2px;"><span class="mono">asserted by:</span> {{ alt.public_assertion_by }}</div>
+          {% endif %}
+          {% if alt.why_unresolvable %}
+          <div class="muted" style="font-size: 0.72rem; margin-top: 2px;"><span class="mono">why unresolvable:</span> {{ alt.why_unresolvable }}</div>
+          {% endif %}
+          {% if alt.open_question_ref %}
+          <div style="font-size: 0.72rem; margin-top: 4px;"><a href="{{ root }}open-questions.html#{{ alt.open_question_ref }}" style="color: var(--accent);">See Open Questions &rarr;</a></div>
+          {% endif %}
+        </div>
+        {% endfor %}
+      </div>
+      {% endif %}
       {% if entry.source %}
       <div class="mono muted" style="font-size: 0.65rem; margin-top: var(--space-xs);">Source: {{ entry.source }}</div>
       {% endif %}

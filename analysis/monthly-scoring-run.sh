@@ -54,7 +54,9 @@ STEP 4: Update the geopolitical briefing (${GP_BRIEFING}) with all new developme
 STEP 5: Read EVERY analysis JSON file in ${ANALYSIS_DIR}/*.json (except schema.json, channel-data.json, channel-editorial.json, briefing-data.json). For each file, review all predictions and claims in thesis.predictions[]. For each prediction/claim:
 - Check if the status should be updated based on current events
 - If status changes: update 'status' and add/update 'status_note' explaining what happened
-- Status values: confirmed, partially_confirmed, disconfirmed, untested, unfalsifiable
+- Status values: confirmed, partially_confirmed, disconfirmed, untested, unfalsifiable, contested_unresolved
+- contested_unresolved is a deliberately narrow category: use ONLY when the claim cannot be confirmed from open sources AND cannot be ruled out from open sources AND is being publicly asserted by non-fringe actors. It exists to avoid the October Surprise failure mode (where absence of documentation silently becomes proof of the negative). When you assign it, the status_note must name the documented facts the claim rests on, who is asserting it, and what evidence would resolve it.
+- If a lecture's verdict lacks a 'steelman' field and the lecture's concerns survive charitable reading (the underlying intuition points at something legitimate even when the specific reasoning fails), populate verdict.steelman. Leave existing steelman fields alone unless the record has materially changed.
 - Be rigorous — only change status when events clearly warrant it
 - PAY SPECIAL ATTENTION to ground invasion predictions — update status_note with current ground troop situation
 - For EVERY file you review (whether or not statuses changed), set meta.last_scoring_date to '${TODAY}'

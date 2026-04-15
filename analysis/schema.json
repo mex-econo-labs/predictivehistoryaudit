@@ -43,8 +43,8 @@
               "type": { "type": "string", "enum": ["prediction", "claim"], "description": "prediction = forward-looking statement about future events; claim = assertion about the past, present, or analytical framework" },
               "timestamp": { "type": "string" },
               "falsifiable": { "type": "boolean" },
-              "status": { "type": "string", "enum": ["untested", "confirmed", "partially_confirmed", "disconfirmed", "unfalsifiable"] },
-              "status_note": { "type": "string", "description": "Brief explanation of why this status was assigned, with key facts and dates." }
+              "status": { "type": "string", "enum": ["untested", "confirmed", "partially_confirmed", "disconfirmed", "unfalsifiable", "contested_unresolved"], "description": "contested_unresolved = claim cannot be confirmed from open sources AND cannot be ruled out AND is being publicly asserted by non-fringe actors; used sparingly to avoid either endorsing rumor or reflexively dismissing unverifiable-but-live hypotheses (the Carter/October-Surprise failure mode)" },
+              "status_note": { "type": "string", "description": "Brief explanation of why this status was assigned, with key facts and dates. For contested_unresolved: list the documented facts the claim draws on, who is publicly asserting it, and what open-source evidence would resolve it." }
             },
             "required": ["claim", "type", "timestamp", "falsifiable"]
           }
@@ -205,7 +205,8 @@
       "properties": {
         "strengths": { "type": "string" },
         "weaknesses": { "type": "string" },
-        "viewer_advisory": { "type": "string", "description": "What a critical viewer should watch out for" }
+        "viewer_advisory": { "type": "string", "description": "What a critical viewer should watch out for" },
+        "steelman": { "type": ["string", "null"], "description": "Optional. The strongest honest reading of the lecture's underlying concern, even where the specific claims and reasoning fail. Written for a viewer who senses something real beneath the flawed argument and needs a rigorous frame for that intuition. Omit if the lecture's concerns do not survive steelmanning." }
       },
       "required": ["strengths", "weaknesses", "viewer_advisory"]
     }

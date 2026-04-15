@@ -243,7 +243,7 @@
           {% if p.falsifiable %}Falsifiable{% else %}Not falsifiable{% endif %}
         </div>
       </div>
-      <span class="status-badge status-{{ p.status|default('untested') }}" data-tip="{% if p.status == 'confirmed' %}Events matched this prediction{% elif p.status == 'disconfirmed' %}Events contradicted this prediction{% elif p.status == 'partially_confirmed' %}Partially correct — see notes{% elif p.status == 'unfalsifiable' %}Cannot be tested or verified{% else %}Not yet testable or tested{% endif %}">{{ p.status|default('untested')|replace('_', ' ') }}</span>
+      <span class="status-badge status-{{ p.status|default('untested') }}" data-tip="{% if p.status == 'confirmed' %}Events matched this prediction{% elif p.status == 'disconfirmed' %}Events contradicted this prediction{% elif p.status == 'partially_confirmed' %}Partially correct — see notes{% elif p.status == 'unfalsifiable' %}Cannot be tested or verified{% elif p.status == 'contested_unresolved' %}Publicly contested — cannot be confirmed or ruled out from open sources{% else %}Not yet testable or tested{% endif %}">{{ p.status|default('untested')|replace('_', ' ') }}</span>
     </div>
     {% if p.status_note %}
     <div class="prediction-note">{{ p.status_note }}</div>
@@ -267,6 +267,15 @@
         <p>{{ d.verdict.weaknesses }}</p>
       </div>
     </div>
+    {% if d.verdict.steelman %}
+    <div class="verdict-box steelman" style="margin-top: var(--space-md); border-left: 3px solid var(--accent); background: var(--accent-glow); padding: var(--space-md);">
+      <h4 style="display: flex; align-items: baseline; gap: var(--space-sm);">
+        <span>Steelman</span>
+        <span class="mono muted" style="font-size: 0.7rem; font-weight: 400; text-transform: none; letter-spacing: 0;">&mdash; the strongest honest reading of the underlying concern, even where the specific argument fails</span>
+      </h4>
+      <p>{{ d.verdict.steelman }}</p>
+    </div>
+    {% endif %}
   </div>
 
   <!-- CROSS-REFERENCES -->

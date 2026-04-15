@@ -1,0 +1,64 @@
+{
+  "last_updated": "2026-04-15",
+  "preamble": "A register of questions where the documented record and a publicly-circulating counter-reading both remain in play, and open-source evidence cannot presently adjudicate between them. Entries here are not endorsements. The purpose is the opposite: to name unresolvable questions honestly instead of silently treating the absence of documentation as proof of the negative — the failure mode this project calls the October Surprise trap. An entry is added only when three conditions are met: (1) the counter-reading draws on facts the project already treats as documented; (2) non-fringe actors are asserting it publicly; (3) resolution would require evidence that is not currently in the open record. Entries are retired when new evidence moves the question into confirmed or disconfirmed territory.",
+  "questions": [
+    {
+      "id": "october-surprise-1980",
+      "title": "The 1980 October Surprise (historical template)",
+      "status": "historical_parallel",
+      "status_label": "Historical — partially vindicated",
+      "synopsis": "Allegations that Ronald Reagan's 1980 campaign negotiated with the Islamic Republic of Iran to delay release of the US embassy hostages until after the election, to prevent an October breakthrough that might re-elect Jimmy Carter. Dismissed as conspiracy theory for a decade, partially corroborated across the 1990s and again in 2023.",
+      "documented_facts": [
+        "Hostages released on January 20, 1981, minutes after Reagan's inauguration — 444 days after capture",
+        "Gary Sick (Carter's NSC Iran director) published 'October Surprise' in 1991 documenting circumstantial evidence of back-channel contacts",
+        "1992 US Senate investigation (Foley) found 'credible evidence' of back-channel contact, inconclusive overall",
+        "1993 House Task Force (Hamilton) concluded allegations 'not supported' but was criticized for evidentiary gaps",
+        "March 2023: Ben Barnes told the New York Times, on the record, that he accompanied former Texas Gov. John Connally on a 1980 Middle East tour delivering the message to Arab leaders that Reagan would win and Iran should wait"
+      ],
+      "alternate_reading": "Reagan campaign figures (alleged: William Casey, Connally via Barnes, George H.W. Bush — the last strongly disputed) coordinated with Iranian intermediaries to hold hostages until after the election in exchange for later arms shipments. Some version of this reading is now treated as plausible by multiple mainstream historians; the full extent and involvement of specific principals remain unresolved.",
+      "public_assertion_by": [
+        "Gary Sick (Columbia University, former Carter NSC)",
+        "Robert Parry (investigative journalist, d. 2018)",
+        "Ben Barnes (former Texas Lt. Governor, 2023 NYT interview)",
+        "Peter Baker and contemporary mainstream journalism (post-2023)"
+      ],
+      "what_would_resolve": [
+        "Declassification of relevant CIA and Mossad cable traffic from October 1980",
+        "Primary-source documents from the Iranian side (unlikely under current regime)",
+        "Additional on-the-record testimony from surviving principals"
+      ],
+      "current_assessment": "The specific allegation remains unproven; the category of allegation has shifted from 'conspiracy theory' to 'plausible, partially supported, incompletely documented.' Included here as the canonical example of why an audit project should maintain a space between 'confirmed' and 'disconfirmed' — and why reflexive dismissal of unverifiable claims has a known failure mode.",
+      "first_listed": "2026-04-15"
+    },
+    {
+      "id": "isar-f15-uranium-2026",
+      "title": "The ISAR mission and the uranium-exfiltration hypothesis",
+      "status": "contested_unresolved",
+      "status_label": "Contested — unresolvable from open sources",
+      "synopsis": "Whether the April 3–5 2026 Combat Search and Rescue operation recovering the missing F-15E Weapons Systems Officer was solely a CSAR mission, or whether it coincided with — or provided cover for — a covert Israeli–US effort to remove fissile material in the wake of the April 2 strike on the Ardakan yellowcake facility.",
+      "documented_facts": [
+        "F-15E Strike Eagle shot down over Iran on April 3; pilot rescued same day; WSO missing for ~36 hours",
+        "Israel struck the Ardakan yellowcake production plant in Yazd Province (uranium extraction, pre-enrichment) in the preceding days",
+        "CIA ran a deception campaign inside Iran stating that 'US forces are working on exfiltration' of the crew — the word 'exfiltration' appears in the official operational record",
+        "Two MC-130J Commando II aircraft and four MH-6 Little Bird helicopters were deliberately destroyed in Iran to prevent capture after becoming stuck; three replacement aircraft flew in for final extraction",
+        "WSO recovered alive, 'seriously injured'; described publicly as the most complex CSAR since the 2003 Iraq invasion",
+        "Total material cost of deliberately destroyed airframes: ~$200M+"
+      ],
+      "alternate_reading": "The recovery of the WSO was real and successful, but the operation's scope, airframe composition, and geographic footprint are consistent with a parallel or primary objective of recovering fissile material or sensitive nuclear documentation from proximity to the Ardakan strike. In this reading, the CSAR mission provided political cover and a legible public narrative; the destroyed MC-130Js (cargo-capable) and the CIA 'exfiltration' language are treated as tell-tales rather than coincidences.",
+      "public_assertion_by": [
+        "Online defense-OSINT communities (Twitter/X, specialty Discord/Telegram channels)",
+        "Alternative-media commentators across the political spectrum",
+        "Some Iranian and adversary-state media outlets (note: these have an interest in the framing; weight accordingly)",
+        "A smaller number of mainstream defense writers who have raised the 'unusual airframe mix' question without endorsing the full hypothesis"
+      ],
+      "what_would_resolve": [
+        "Declassified mission orders specifying the objective and the cargo (if any) carried by MC-130J airframes",
+        "IAEA accounting anomalies consistent with material removal from Ardakan post-strike",
+        "Leaked or released flight manifests, loadmaster records, or post-mission debriefs",
+        "Testimony from personnel involved, under oath or on the record"
+      ],
+      "current_assessment": "The documented elements the counter-reading invokes — CIA 'exfiltration' language, MC-130J destruction, Ardakan strike proximity — are real and first-party. The counter-reading cannot be verified from open sources; it also cannot be ruled out from open sources. We are not endorsing it. We are noting that classifying it as 'disconfirmed' would require evidence we do not have, and classifying it as 'unfalsifiable' would misstate what kinds of evidence could resolve it. The October Surprise precedent is the honest reason this question is not closed.",
+      "first_listed": "2026-04-15"
+    }
+  ]
+}

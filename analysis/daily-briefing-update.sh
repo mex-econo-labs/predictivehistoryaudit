@@ -88,6 +88,8 @@ STEP 3: Update briefing-data.json:
     - draft_indicators: any domestic draft/conscription signals
     - assessment: 1-2 sentence current assessment
   - For each daily entry, include prediction_impact if it relates to any tracked prediction
+  - OPTIONAL: For each daily entry, populate 'alternate_readings' array when a documented event is being read differently in public discourse AND the counter-reading draws on the same documented facts AND the dispute cannot be resolved from open sources. Each entry: { reading, evidentiary_status, public_assertion_by, why_unresolvable, open_question_ref (slug from open-questions.json if applicable) }. Do not manufacture counter-readings — only note ones that are actually circulating publicly. Noted, not endorsed. If no such reading exists for a given event, omit the field entirely.
+  - If a contested question is substantive and recurring, add or update an entry in ${ANALYSIS_DIR}/open-questions.json with: id (kebab-case slug), title, status ('contested_unresolved' or 'historical_parallel'), status_label, synopsis, documented_facts[], alternate_reading, public_assertion_by[], what_would_resolve[], current_assessment, first_listed. Retire entries (remove) when new evidence promotes them to confirmed or disconfirmed.
 
 STEP 4: Update calibration-reference.md:
   - Add any NEW confirmed events to the 'Confirmed Events' table

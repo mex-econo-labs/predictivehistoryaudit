@@ -40,6 +40,7 @@
   --status-untested: #e5e0d8;
   --status-partial: #fff4a6;
   --status-unfalsifiable: #e2d8f8;
+  --status-contested: #ffc99a;
 
   /* Type */
   --font-body: 'Source Serif 4', Georgia, serif;
@@ -891,6 +892,7 @@ img { max-width: 100%; display: block; }
 .status-untested { background: rgba(229,224,216,0.12); color: var(--status-untested); border: 1px solid rgba(229,224,216,0.25); }
 .status-partially_confirmed { background: rgba(255,244,166,0.12); color: var(--status-partial); border: 1px solid rgba(255,244,166,0.3); }
 .status-unfalsifiable { background: rgba(226,216,248,0.12); color: var(--status-unfalsifiable); border: 1px solid rgba(226,216,248,0.3); }
+.status-contested_unresolved { background: rgba(255,201,154,0.10); color: var(--status-contested); border: 1px dashed rgba(255,201,154,0.45); }
 
 /* --- Verdict Panel --- */
 .verdict-grid {
