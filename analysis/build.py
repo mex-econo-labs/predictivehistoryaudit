@@ -598,7 +598,7 @@ def build(base_dir: str, output_dir: str):
     score_distributions = compute_score_distributions(analyses)
 
     # Prediction timeline data (grouped by upload_date)
-    prediction_timeline = defaultdict(lambda: {'confirmed': 0, 'disconfirmed': 0, 'partially_confirmed': 0, 'untested': 0, 'unfalsifiable': 0})
+    prediction_timeline = defaultdict(lambda: {'confirmed': 0, 'disconfirmed': 0, 'partially_confirmed': 0, 'untested': 0, 'unfalsifiable': 0, 'contested_unresolved': 0})
     for p in all_predictions:
         date = p.get('upload_date', '')
         if date:

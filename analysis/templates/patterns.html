@@ -330,12 +330,13 @@ document.addEventListener('DOMContentLoaded', function() {
       partially_confirmed: { bg: 'rgba(255,244,166,0.7)', label: 'Partial' },
       untested: { bg: 'rgba(229,224,216,0.5)', label: 'Untested' },
       unfalsifiable: { bg: 'rgba(226,216,248,0.5)', label: 'Unfalsifiable' },
+      contested_unresolved: { bg: 'rgba(255,201,154,0.6)', label: 'Contested' },
     };
     const datasets = [];
     for (const [status, meta] of Object.entries(statusColors)) {
       datasets.push({
         label: meta.label,
-        data: [{% for date, counts in prediction_timeline.items() %}{{ counts.get(status, 0) if status in ['confirmed','disconfirmed','partially_confirmed','untested','unfalsifiable'] else 0 }},{% endfor %}],
+        data: [],
         backgroundColor: meta.bg,
       });
     }
@@ -345,6 +346,7 @@ document.addEventListener('DOMContentLoaded', function() {
     datasets[2].data = [{% for date, counts in prediction_timeline.items() %}{{ counts.partially_confirmed }},{% endfor %}];
     datasets[3].data = [{% for date, counts in prediction_timeline.items() %}{{ counts.untested }},{% endfor %}];
     datasets[4].data = [{% for date, counts in prediction_timeline.items() %}{{ counts.unfalsifiable }},{% endfor %}];
+    datasets[5].data = [{% for date, counts in prediction_timeline.items() %}{{ counts.contested_unresolved }},{% endfor %}];
 
     new Chart(tlCtx, {
       type: 'bar',
