@@ -136,6 +136,14 @@ else
   UPLOAD_DATE_FMT="$UPLOAD_DATE"
 fi
 
+if [[ -z "$UPLOAD_DATE_FMT" || "$VIEW_COUNT" == "0" || "$VIEW_COUNT" == "NA" ]]; then
+  echo "WARNING: yt-dlp returned incomplete metadata (upload_date='$UPLOAD_DATE_FMT' view_count='$VIEW_COUNT')." >&2
+  echo "         The analysis will sort incorrectly on the dashboard until metadata is backfilled." >&2
+  echo "         Common cause: missing JS runtime (see 'yt-dlp --help EJS'). Continue? [Y/n]" >&2
+  read -r md_ok
+  [[ "$md_ok" =~ ^[Nn] ]] && exit 1
+fi
+
 echo "  Posted: $UPLOAD_DATE_FMT"
 echo "  Views:  $VIEW_COUNT"
 
