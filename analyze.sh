@@ -7,9 +7,24 @@ cd "$(dirname "$0")"
 
 ANALYSIS_DIR="analysis"
 TRANSCRIPT_DIR="transcripts"
+PIPELINE_LOG="${ANALYSIS_DIR}/pipeline.log"
+RUN_ID=$(cat /proc/sys/kernel/random/uuid 2>/dev/null || date +%s%N)
 
-URL="$1"
+# Log one phase transition to pipeline.log. Never fails the caller.
+log_phase() {
+  local phase="$1"; shift || true
+  python3 "${ANALYSIS_DIR}/log-pipeline.py" \
+    --run-id "$RUN_ID" --phase "$phase" --log-file "$PIPELINE_LOG" \
+    "$@" 2>/dev/null || true
+}
+
+# Capture the final exit code whether success, error, or set -e abort
+trap 'log_phase exit code=$?' EXIT
+
+URL="${1:-}"
 shift || { echo "Usage: $0 <youtube_url_or_id> [--no-screencaps] [--no-build]"; exit 1; }
+
+log_phase start "argv=$0 ${URL} $*" "url=${URL}"
 
 DO_SCREENCAPS=true
 DO_BUILD=true
@@ -60,6 +75,8 @@ else
   TRANSCRIPT_FILE="$(basename "$EXISTING_SRT")"
   echo "  Downloaded: $TRANSCRIPT_FILE"
 fi
+
+log_phase transcript "video_id=${VIDEO_ID}" "transcript_file=${TRANSCRIPT_FILE}"
 
 # --- 2. Parse metadata from filename ---
 echo "[2/6] Parsing metadata..."
@@ -117,6 +134,8 @@ echo "  Series:  $SERIES"
 echo "  Episode: ${EPISODE:-none}"
 echo "  Title:   $TITLE"
 echo "  Slug:    $SLUG"
+
+log_phase metadata "series=${SERIES}" "episode=${EPISODE:-}" "slug=${SLUG}" "output_file=${OUTPUT_FILE}"
 
 # --- 3. Check if already analyzed ---
 if [[ -f "$OUTPUT_FILE" ]]; then
@@ -208,24 +227,31 @@ claude -p \
 # Validate JSON
 if ! python3 -c "import json; json.load(open('$OUTPUT_FILE'))" 2>/dev/null; then
   echo "ERROR: Generated file is not valid JSON: $OUTPUT_FILE" >&2
+  log_phase warn "reason=invalid_json" "output_file=${OUTPUT_FILE}"
   exit 1
 fi
 echo "  Analysis written: $OUTPUT_FILE"
+
+log_phase claude_done "output_file=${OUTPUT_FILE}"
 
 # --- 6. Screencaps ---
 if $DO_SCREENCAPS && [[ -f "${ANALYSIS_DIR}/screencap.py" ]]; then
   echo "[5/6] Extracting screencaps..."
   python3 "${ANALYSIS_DIR}/screencap.py" --input "$OUTPUT_FILE" --caps-dir caps
+  log_phase screencaps "video_id=${VIDEO_ID}"
 else
   echo "[5/6] Skipping screencaps."
+  log_phase screencaps "skipped=true"
 fi
 
 # --- Build site ---
 if $DO_BUILD; then
   echo "[6/6] Building site..."
   python3 "${ANALYSIS_DIR}/build.py"
+  log_phase built
 else
   echo "[6/6] Skipping build."
+  log_phase built "skipped=true"
 fi
 
 # --- Commit and push ---
@@ -238,7 +264,10 @@ git add "$OUTPUT_FILE" "$TRANSCRIPT_DIR/$TRANSCRIPT_FILE" "${CAPS[@]}" "${CARDS[
 git commit -m "${SERIES} #${EPISODE}: ${TITLE} (${VIDEO_ID})
 
 Co-Authored-By: Claude Opus 4.6 (1M context) <noreply@anthropic.com>"
+COMMIT_SHA=$(git rev-parse HEAD)
+log_phase committed "sha=${COMMIT_SHA}" "slug=${SLUG}"
 git push
+log_phase pushed "sha=${COMMIT_SHA}"
 
 echo ""
 echo "=== Done: ${SERIES} #${EPISODE}: ${TITLE} ==="
