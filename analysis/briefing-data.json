@@ -1,7 +1,7 @@
 {
   "briefing_date": "2026-04-15",
-  "last_scoring_date": "2026-04-03",
-  "next_scoring_date": "2026-05-03",
+  "last_scoring_date": "2026-04-15",
+  "next_scoring_date": "2026-05-15",
   "theatres": [
     {
       "name": "Iran / Strait of Hormuz",
@@ -266,6 +266,32 @@
       ],
       "prediction_impact": "48 consecutive days with ZERO US ground troops deployed IN Iran. The oil price crash is the most significant new anti-invasion indicator: global markets with billions at stake are betting on diplomatic resolution. All vectors — Trump hints, UN SecGen, Pakistan mediation, Israel-Lebanon talks — point toward diplomacy, not ground escalation. The 48-day pattern is irrefutable: air campaign → ceasefire → failed talks → naval blockade → diplomatic reopening → potential second talks. Ground troops have never been on this escalation ladder.",
       "source": "CNBC, TradingEconomics, CBS, CNN, NBC News, Time, CENTCOM, State Dept, Axios, NPR, USNI, TWZ, Times of Israel"
+    },
+    {
+      "date": "2026-04-15",
+      "tags": [
+        "Monthly Scoring Run",
+        "Prediction Status Changes"
+      ],
+      "summary": "MONTHLY PREDICTION SCORING RUN — April 15, 2026. Reviewed all 873 predictions across 162 analysis files. 15 prediction status changes made. 1 new confirmation (Pakistan talks failure), 6 new partial confirmations (Kharg flashpoint, Iranian population united, Hormuz tolls, Marines from Okinawa, Larijani offramp, famine warnings, Kharg seizure attempt), 6 new disconfirmations (Larijani=no ceasefire, mid-April oil depletion, 40% Russian oil offline x2, ground troops for Hormuz, no off-ramp). 1 status correction (82nd Airborne deployment: disconfirmed→partially_confirmed). All files updated with last_scoring_date 2026-04-15.",
+      "details": [
+        "CONFIRMED: game-theory-20.json — Pakistan ceasefire talks will go nowhere. Islamabad talks collapsed Apr 12 after 21 hours; Vance departed.",
+        "PARTIALLY_CONFIRMED: game-theory-14.json — Kharg Island flashpoint. Struck twice by US air forces (Mar 13 + Apr 7). Trump discussed seizing/destroying.",
+        "PARTIALLY_CONFIRMED: geo-strategy-08.json — Iranian population won't rise up. Mass Khamenei mourning rallies; nationalism galvanized; no popular support for US.",
+        "PARTIALLY_CONFIRMED: interview-x-2K2nQsTT.json — Iran charging Hormuz toll. IRGC charged up to $2M/tanker in crypto/yuan.",
+        "PARTIALLY_CONFIRMED: interview-x-2K2nQsTT.json — Marines from Okinawa heading to ME. USS Tripoli ARG/31st MEU arrived (~3,500 Marines).",
+        "PARTIALLY_CONFIRMED: interview-x-2K2nQsTT.json — Larijani assassination removing offramp. Assassination confirmed but ceasefire still achieved.",
+        "PARTIALLY_CONFIRMED: game-theory-19.json — Global famine from fertilizer shortages. FAO warned 'clock is ticking'; fertilizer 15-20% higher.",
+        "PARTIALLY_CONFIRMED: prof-jiang-x-uP9Fnq23.json — US will seize/destroy Kharg. Struck twice but no ground seizure; oil infrastructure spared.",
+        "STATUS CORRECTION: interview-x-6rTlI_Qw.json — 82nd Airborne deployment. Changed disconfirmed→partially_confirmed: 82nd WAS deployed to ME (Mar 24-25).",
+        "DISCONFIRMED: game-theory-14.json — With Larijani dead, ceasefire impossible. Ceasefire achieved Apr 7-8; Islamabad talks held.",
+        "DISCONFIRMED: game-theory-18.json — Mid-April world runs out of oil. Oil at $91-95/bbl; SPR functioning; 103 tankers heading to US.",
+        "DISCONFIRMED: game-theory-19.json + interview-x-n44OF1Y7.json — 40% of Russian oil exports offline. Russia revenues doubled to $19B March.",
+        "DISCONFIRMED: game-theory-20.json — US positioning ground troops to seize Hormuz. US imposed naval blockade, not ground seizure.",
+        "DISCONFIRMED: interview-x-6rTlI_Qw.json — War has no off-ramp. Multiple off-ramps attempted: ceasefire, Islamabad talks, Israel-Lebanon talks."
+      ],
+      "prediction_impact": "15 status changes reflect the war's evolution from pure air campaign to ceasefire→diplomacy→blockade cycle. Key pattern: predictions about ground invasion and total economic collapse are being systematically disconfirmed, while predictions about diplomatic complexity and economic disruption are being partially confirmed. Channel's hit rate on specific tactical/economic predictions is mixed — gets the big picture (war, disruption) right but overestimates ground escalation and underestimates diplomatic capacity.",
+      "source": "Calibration reference, geopolitical briefing, analysis files"
     },
     {
       "date": "2026-04-14",

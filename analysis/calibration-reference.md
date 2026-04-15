@@ -1,4 +1,4 @@
-# Prediction Calibration Reference — April 15, 2026 (Scored April 3, 2026)
+# Prediction Calibration Reference — April 15, 2026 (Scored April 15, 2026)
 
 Use this document when analyzing Predictive History lectures to accurately assess prediction statuses.
 
@@ -218,6 +218,9 @@ Use this document when analyzing Predictive History lectures to accurately asses
 | Iran excavating missile tunnel entrances during ceasefire | Apr 15, 2026 | Satellite imagery: front-end loaders at Khomeyn and Tabriz underground bases; ~50% of launchers intact underground. Also fortifying Isfahan nuclear site (CNN, Times of Israel) |
 | Maduro pleads not guilty to terrorism charges | Apr 13, 2026 | New court appearance; pleaded not guilty to narco-terrorism and drug charges; next hearing Mar 17, 2027 (NYC Today, NPR) |
 | Cuba blackouts — 50% power deficit | Apr 14-15, 2026 | 1,180 MW available vs 2,340 MW demand; 100+ demonstrations in March (highest ever per ACLED); worst since 1990s 'Special Period' (CiberCuba, ACLED) |
+| NK Choe Hyon destroyer missile tests | Apr 14, 2026 | Kim supervised 2 strategic cruise missiles + 3 anti-ship missiles from 5,000-ton Choe Hyon destroyer. Cruise missiles flew 2h12m; anti-ship 33min. 6th missile test of 2026. Kim: nuclear war deterrent 'most important priority' (NBC, Stars and Stripes, Military.com) |
+| Russia-Ukraine 175 POW exchange | Apr 12, 2026 | 175 prisoners exchanged each side; UAE mediated. Among few concrete results of US-brokered peace process (Al Jazeera, PBS) |
+| Russia claims full Luhansk control | Apr 1, 2026 | Russia's Defense Ministry: 'completed liberation' of Luhansk oblast — but Ukraine only controlled 0.2% at time of claim (Al Jazeera, CNN) |
 | Trump: military 'looking forward to next Conquest' | Apr 9, 2026 | All forces remain near Iran until 'REAL AGREEMENT' honored; warns any breach triggers unprecedented response |
 | Lebanon total casualties surpass 1,739 killed | Apr 9, 2026 | 5,873+ wounded; national day of mourning declared; Hezbollah fires 30+ rockets at northern Israel (no injuries) |
 | Oil rebounds after ceasefire crash | Apr 9-10, 2026 | Brent futures $94.75→$98.27 (+3.7%); dated spot $124.68; IRGC mine confirmation dampens reopening hopes |
@@ -298,6 +301,8 @@ Use this document when analyzing Predictive History lectures to accurately asses
 - UKRAINE ATTACKS CRIMEA OVERNIGHT (Apr 14-15): Explosions in Simferopol, Feodosia, Kerch
 - UKRAINE-GERMANY €4B DEFENSE DEAL (Apr 14): Joint drone production (5,000 AI-enabled strike drones initially), Patriot missiles funded, 'Build with Ukraine' initiative. Zelenskyy in Berlin (AP, KyivPost, Al Jazeera)
 - Combat resumed after Easter ceasefire expired midnight Apr 12-13. Kremlin rejected extension
+- RUSSIA-UKRAINE 175 POW EXCHANGE (Apr 12): UAE mediated; among few concrete results of peace process (Al Jazeera, PBS)
+- RUSSIA CLAIMS FULL LUHANSK CONTROL (Apr 1): Defense Ministry declared 'completed liberation' — but Ukraine only controlled 0.2% at time of claim (Al Jazeera, CNN)
 - Pokrovsk sector most active; Ukraine regained 480 sq km since late January
 - Mar 10-Apr 7: Russia gained only 17 sq mi; lost 1 sq mi in last week — extremely slow advance
 - Abu Dhabi talks still postponed; Iran blockade delaying Ukraine diplomacy
@@ -335,7 +340,8 @@ Use this document when analyzing Predictive History lectures to accurately asses
 - DEMOLISHING VILLAGES NEAR SOHAE MISSILE/SATELLITE SITE (Bloomberg, Apr 3): Hundreds of buildings razed
 - Kim visited new CEMETERY FOR SOLDIERS KILLED IN UKRAINE — burials mid-April
 - Kim looking to Trump-Xi May 14-15 summit as pivotal window
-- No new launches since Apr 8 testing spree — 3-day testing window appears concluded
+- CHOE HYON DESTROYER MISSILE TESTS (Apr 14): Kim supervised launch of 2 strategic cruise missiles + 3 anti-ship missiles from 5,000-ton destroyer. Cruise missiles flew 2h12m. Kim: nuclear war deterrent 'most important priority.' 6th missile test of 2026 (NBC, Stars and Stripes, Military.com)
+- No new ballistic missile launches since Apr 8 testing spree — but Choe Hyon destroyer tests on Apr 14 continue the weapons development tempo
 - APR 15 = DAY OF THE SUN — Kim Il Sung's 114th birthday (DPRK's biggest holiday). NK dropping 'Day of the Sun' terminology — Kim Jong Un personality cult growing over grandfather's. Tourism expo opened. No missile tests on holiday (KCNA, sedaily.com)
 - China FM WANG YI VISITED PYONGYANG (Apr 9): Met NK FM Choe Son Hui — Beijing 'prepared to strengthen bilateral ties' with DPRK (AEI, Bloomberg)
 

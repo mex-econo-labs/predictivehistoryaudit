@@ -11,7 +11,8 @@
     "schema_version": "1.0",
     "upload_date": "2026-04-13",
     "view_count": 182566,
-    "view_count_updated": "2026-04-15"
+    "view_count_updated": "2026-04-15",
+    "last_scoring_date": "2026-04-15"
   },
   "synopsis": "This is a three-way livestream interview between SNEAKO (a Filipino-American Muslim YouTuber), Professor Xueqin Jiang (a Chinese geopolitics lecturer), and Aleksandr Dugin (a Russian philosopher and political theorist). The conversation spans approximately 1 hour 52 minutes, covering eschatology across religious traditions (Protestant dispensationalism, Zionism, Shia Islam, Russian Orthodoxy), the philosophical roots of Western civilization traced back to the Bank of England (1694) and Calvinism, the Russian Orthodox concept of the Katechon (the force that restrains the Antichrist), Eurasian unity as an alternative to American hegemony, and the geopolitics of the current US-Iran war. All three participants broadly converge on a critique of Western/American civilization as spiritually and morally bankrupt, with Dugin characterizing the modern West as the Antichrist system and Jiang framing Western philosophy from Locke through Bentham as the root of societal decay.",
   "thesis": {
@@ -97,8 +98,8 @@
         "type": "claim",
         "timestamp": "00:54:08",
         "falsifiable": true,
-        "status": "untested",
-        "status_note": "Ukraine has conducted drone strikes on Russian oil infrastructure, but the 40% figure is likely an exaggeration. Russia's March 2026 oil revenues nearly doubled, suggesting export capacity was not catastrophically impaired.",
+        "status": "disconfirmed",
+        "status_note": "Russia's oil export revenues NEARLY DOUBLED to $19 billion in March 2026 (CNBC, TradingEconomics). Russia is profiting enormously from the Hormuz crisis. While Ukrainian drone strikes have damaged some Russian oil infrastructure, export capacity has been maintained and expanded. The 40% figure is categorically false.",
         "screencap": "n44OF1Y7zgo_005408_27.jpg"
       },
       {

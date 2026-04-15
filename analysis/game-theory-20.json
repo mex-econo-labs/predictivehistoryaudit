@@ -10,7 +10,8 @@
     "analysis_date": "2026-04-09",
     "schema_version": "1.0",
     "upload_date": "2026-04-09",
-    "view_count": 27577
+    "view_count": 27577,
+    "last_scoring_date": "2026-04-15"
   },
   "synopsis": "This lecture is framed as a midterm examination in which the speaker answers audience-submitted questions about his analytical framework. It opens with an assessment of the US-Iran ceasefire announced April 7, 2026, which the speaker dismisses as theater unlikely to hold. The bulk of the lecture presents the speaker's theory of how the world works: occultists create eschatological narratives, secret societies propagate them, the rich and powerful join for advantage, and 'agents' like Trump and Putin are appointed to move history toward these endpoints. China is characterized as 'not a civilization' but a 'construct of empire' and 'vassal state,' analogous to the GCC. The speaker addresses questions on individual survival strategy, Trump's unpredictability, a coming American civil war, nuclear weapons policy, Saudi Arabia's strategy, the dollar system, technology vs. human will in warfare, and predicts 90% of humanity will be 'wiped out' in 50 years. Throughout, the speaker explicitly rejects mathematical game theory in favor of intuition, doubt, and imagination.",
   "thesis": {
@@ -42,8 +43,8 @@
         "type": "prediction",
         "timestamp": "01:09:29",
         "falsifiable": true,
-        "status": "untested",
-        "status_note": "As of Apr 9, Vance/Witkoff/Kushner are heading to Islamabad for Saturday talks; Iran sending Qalibaf + Araghchi. Mediators reported standstill on Apr 5-6, but talks are ongoing. Too early to declare them failed.",
+        "status": "confirmed",
+        "status_note": "The Islamabad talks COLLAPSED after 21 hours on April 12, 2026. VP Vance departed declaring: 'They have chosen not to accept our terms.' Key sticking points: nuclear enrichment (US: 20-year suspension; Iran: 3-5 years), Hormuz control, Lebanon ceasefire, sanctions relief. Trump then ordered a naval blockade of Iranian ports. While the reasoning (Kushner/CIA/Pakistan vassalage) is wrong, the core prediction that talks would fail was correct.",
         "screencap": "ue8y5e3HnHE_010929_21.jpg"
       },
       {
@@ -51,8 +52,8 @@
         "type": "prediction",
         "timestamp": "00:03:39",
         "falsifiable": true,
-        "status": "untested",
-        "status_note": "US military buildup continued during ceasefire — 82nd Airborne ordered to Middle East, ~50,000 US troops in region, 3 carrier strike groups deployed. However, no ground operation to seize the Strait has been launched. Trump vowed Apr 1 only '2-3 more weeks of strikes.'",
+        "status": "disconfirmed",
+        "status_note": "The US used the ceasefire period to conduct genuine negotiations in Islamabad (Apr 11-12) and then imposed a NAVAL blockade (Apr 13) — not a ground seizure. Zero US ground troops on Iranian soil. Day 48 with no ground deployment. The escalation path was diplomatic → naval blockade, not ground troop positioning. 10,000+ US personnel enforce the blockade from 12+ warships and 100+ aircraft — entirely naval, zero ground component.",
         "screencap": "ue8y5e3HnHE_000339_22.jpg"
       },
       {

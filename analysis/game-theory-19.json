@@ -11,7 +11,8 @@
     "schema_version": "1.0",
     "upload_date": "2026-04-07",
     "view_count": 13269,
-    "view_count_updated": "2026-04-07"
+    "view_count_updated": "2026-04-07",
+    "last_scoring_date": "2026-04-15"
   },
   "synopsis": "This lecture, delivered during the active US-Iran war (Day 39), argues that the F-15E pilot rescue operation in Iran was actually a cover story for a failed ground invasion intended to steal Iran's enriched uranium. The speaker uses this incident to develop a broader thesis about the 'Hollywood-Pentagon Complex' — a symbiotic relationship between Hollywood and the US military that has caused American war-fighting to prioritize optics and narrative over economics, organization, and logistics. Historical examples from Saving Private Ryan, Black Hawk Down, and the Jessica Lynch incident are presented as evidence of this pattern. The lecture also provides a war update covering Trump's ultimatums, escalating strikes on Iranian infrastructure, economic impacts including fuel and fertilizer crises, and a strategic analysis of both nations' war objectives.",
   "thesis": {
@@ -114,8 +115,8 @@
         "type": "prediction",
         "timestamp": "00:06:33",
         "falsifiable": true,
-        "status": "untested",
-        "status_note": "Hormuz blockade has disrupted energy supplies and IEA warns April will be 'much worse.' Fertilizer impacts on global food production are a real concern but full famine effects would take months to materialize.",
+        "status": "partially_confirmed",
+        "status_note": "FAO warned (Apr 14) that 'clock is ticking' on global food crisis. Fertilizer prices 15-20% higher in H1 2026. Natural gas production down 20%, prices up 70%. IRC warned of 'food security timebomb.' 17M in Yemen at acute food insecurity. Strait carries ~30% of globally traded fertilizers. Direction correct — severe disruption to food supply chain underway — but full famine has not yet materialized as of April 15.",
         "screencap": "0HYET47Cc-E_000633_29.jpg"
       },
       {
@@ -131,8 +132,8 @@
         "type": "claim",
         "timestamp": "00:07:37",
         "falsifiable": true,
-        "status": "untested",
-        "status_note": "Ukrainian drone strikes have hit Russian oil infrastructure, but 40% is a very high figure. Russian oil exports have been disrupted but Russia has rerouted significant volumes. The exact percentage is difficult to verify independently.",
+        "status": "disconfirmed",
+        "status_note": "Russia's oil export revenues NEARLY DOUBLED to $19 billion in March 2026 (CNBC), profiting enormously from the Hormuz crisis and higher global oil prices. Ukrainian drone strikes have hit some Russian oil infrastructure but Russia has rerouted volumes and maintained export capacity. The 40% figure is categorically wrong.",
         "screencap": "0HYET47Cc-E_000737_31.jpg"
       }
     ]

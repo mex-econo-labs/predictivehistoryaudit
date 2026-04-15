@@ -12,7 +12,7 @@
     "upload_date": "2026-03-09",
     "view_count": 877389,
     "view_count_updated": "2026-04-03",
-    "last_scoring_date": "2026-04-03"
+    "last_scoring_date": "2026-04-15"
   },
   "synopsis": "In this interview recorded approximately 10 days after the US-Israeli strikes on Iran (Feb 28, 2026), Xueqin Jiang discusses the ongoing war with host Glenn Diesen. Jiang argues that the US has failed to articulate a purpose or strategy for the war, that Iran is fighting a war of attrition by closing the Strait of Hormuz while the US pursues destructive bombing of civilian infrastructure. He predicts the war will engulf the entire Middle East, destroy the GCC states, and ultimately end American empire. He forecasts three post-war trends: de-industrialization, mercantilism, and remilitarization. The interview covers the war's implications for Europe (described as hopeless), Russia (Putin praised as the only leader with a grand strategy), and East Asia (Japan identified as best positioned to adapt). Jiang expresses pessimism about his own country China, saying it is stuck in the old global order.",
   "thesis": {
@@ -34,8 +34,8 @@
         "claim": "The war will have no off-ramp and cannot be de-escalated.",
         "timestamp": "00:27:02",
         "falsifiable": true,
-        "status": "untested",
-        "status_note": "Day 35. Trump vowed 2-3 more weeks of strikes (Apr 1 primetime address) but also signaled willingness to end war without reopening Hormuz (WSJ, Mar 31). Diplomatic channels active via Pakistan, Oman. Not yet clear if war will de-escalate or continue.",
+        "status": "disconfirmed",
+        "status_note": "Multiple off-ramps have been attempted: two-week ceasefire (Apr 7-8), Islamabad talks (Apr 11-12, highest-level US-Iran meeting since 1979), Israel-Lebanon historic direct talks (Apr 15, first since 1993), diplomatic track reopening with second round expected. Oil crashed 8% on Apr 15 as markets priced in resumed talks. The war CAN be de-escalated — the challenge is implementing lasting agreements, not the absence of off-ramps.",
         "type": "prediction"
       },
       {
@@ -75,7 +75,7 @@
         "timestamp": "00:32:00",
         "falsifiable": true,
         "status": "partially_confirmed",
-        "status_note": "North Korea conducted a solid-fuel engine test (2,500 kN thrust, 26% increase) and Kim Jong Un demands nuclear recognition. However, this appears to be ongoing weapons development rather than specific exploitation of the Iran war distraction. No extortion of concessions from South Korea or Japan reported.",
+        "status_note": "North Korea has exploited America's Iran distraction: Kim invoked Iran war to declare nuclear status 'irreversible' (Mar 25-27). KCNA confirmed cluster-bomb warheads on Hwasong-11 missiles (Apr 8-9). Kim supervised Choe Hyon destroyer missile tests — 2 strategic cruise + 3 anti-ship missiles (Apr 14). Carbon-fiber ICBM for MIRV development. Solid-propellant motor 2,500 kN (26% increase). NK declared South Korea 'most hostile enemy.' However, direct military threats against South Korea or extortion of concessions from Seoul/Tokyo remain limited — this is weapons development, not operational threats.",
         "type": "prediction"
       },
       {
@@ -130,8 +130,8 @@
         "claim": "The 82nd Airborne Division has received deployment orders and Americans may airdrop soldiers into the middle of Iran.",
         "timestamp": "00:03:56",
         "falsifiable": true,
-        "status": "disconfirmed",
-        "status_note": "As of March 2026, the US-Iran war remains an air/missile campaign. No ground troops have been deployed to Iran.",
+        "status": "partially_confirmed",
+        "status_note": "The 82nd Airborne Division DID receive deployment orders to the Middle East on March 24-25, 2026 — 1,000-3,000 paratroopers including division HQ and Maj. Gen. Tegtmeier. This is confirmed. However, no airdrop into Iran has occurred. The troops serve as a 'ready unit' in the region, not an invasion force. Day 48 with zero US ground troops in Iran.",
         "type": "prediction"
       }
     ]
