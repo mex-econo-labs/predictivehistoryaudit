@@ -224,7 +224,7 @@ fi
 echo "[7/7] Committing and pushing..."
 shopt -s nullglob
 CAPS=( "${ANALYSIS_DIR}/caps/${VIDEO_ID}_"*.jpg )
-CARDS=( "${ANALYSIS_DIR}/static/cards/"*"${VIDEO_ID:0:8}".png "${ANALYSIS_DIR}/static/cards/${SLUG}.png" )
+CARDS=( "${ANALYSIS_DIR}/static/cards/"*"${VIDEO_ID:0:8}"*.png )
 shopt -u nullglob
 git add "$OUTPUT_FILE" "$TRANSCRIPT_DIR/$TRANSCRIPT_FILE" "${CAPS[@]}" "${CARDS[@]}"
 git commit -m "${SERIES} #${EPISODE}: ${TITLE} (${VIDEO_ID})
