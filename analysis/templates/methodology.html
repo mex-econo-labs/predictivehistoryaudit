@@ -22,6 +22,74 @@
     <li><strong>Publication</strong> &mdash; JSON is rendered to static HTML. No editorial intervention beyond the rubric design.</li>
   </ol>
 
+  <h2 style="font-size: 1.4rem; margin-bottom: var(--space-md);">Prediction Tracking &amp; Calibration</h2>
+  <p style="color: var(--text-secondary); line-height: 1.7; margin-bottom: var(--space-lg);">
+    Every falsifiable prediction and claim extracted from the corpus carries a status &mdash; <em>confirmed</em>, <em>partially_confirmed</em>, <em>disconfirmed</em>, <em>untested</em>, or <em>unfalsifiable</em> &mdash; re&#8209;evaluated against real&#8209;world events. The reference document that drives scoring is <code class="mono" style="font-size: 0.85em; color: var(--accent);">briefing-data.json</code>, accompanied by a human&#8209;readable calibration reference and a long&#8209;form geopolitical briefing. None of these files are hand&#8209;edited; they are machine&#8209;maintained by Claude Opus 4.6 under two scheduled runs.
+  </p>
+
+  <h3 style="font-size: 1.1rem; margin: var(--space-lg) 0 var(--space-sm); color: var(--text-primary);">Update cadence</h3>
+  <div class="data-table-wrap">
+  <table class="rubric-table">
+    <thead>
+      <tr>
+        <th style="width: 22%;">Script</th>
+        <th style="width: 18%;">Schedule</th>
+        <th>Scope</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td style="font-weight: 600; color: var(--text-primary);"><code class="mono" style="font-size: 0.85em;">daily-briefing-update.sh</code></td>
+        <td>06:00 daily</td>
+        <td>Prepends a new entry to <code class="mono" style="font-size: 0.85em;">daily_entries</code>, refreshes theatre summaries, metrics, and the ground&#8209;invasion tracker. Also edits the calibration reference and the geopolitical briefing.</td>
+      </tr>
+      <tr>
+        <td style="font-weight: 600; color: var(--text-primary);"><code class="mono" style="font-size: 0.85em;">monthly-scoring-run.sh</code></td>
+        <td>07:00 on the 1st</td>
+        <td>Same daily refresh, <em>plus</em> walks every analysis file and rewrites <code class="mono" style="font-size: 0.85em;">thesis.predictions[*].status</code> / <code class="mono" style="font-size: 0.85em;">status_note</code> against current events.</td>
+      </tr>
+    </tbody>
+  </table>
+  </div>
+
+  <h3 style="font-size: 1.1rem; margin: var(--space-lg) 0 var(--space-sm); color: var(--text-primary);">How subject matter enters the briefing</h3>
+  <p style="color: var(--text-secondary); line-height: 1.7; margin-bottom: var(--space-md);">
+    The daily script's prompt hard&#8209;codes a tracking list: Iran / Strait of Hormuz, dedicated ground&#8209;invasion indicators (troop movements, Kharg Island, amphibious assets, draft signals, logistics staging), Gulf states, the Russia&ndash;Ukraine war, Latin America (Venezuela / Cuba / Colombia), US&ndash;China and Taiwan, the Korean peninsula, and countries exposed to a Hormuz blockade (Japan, South Korea, India, Pakistan, Bangladesh, Europe). For each theatre Claude runs web searches for the day's developments and decides what's material.
+  </p>
+  <p style="color: var(--text-secondary); line-height: 1.7; margin-bottom: var(--space-md);">Subject matter broadens three ways:</p>
+  <ol style="color: var(--text-secondary); line-height: 1.8; margin-bottom: var(--space-lg); padding-left: var(--space-lg);">
+    <li><strong>A new daily entry.</strong> Each record carries its own <code class="mono" style="font-size: 0.85em;">date / tags / summary / details / prediction_impact / source</code> &mdash; additive, no schema change.</li>
+    <li><strong>A new theatre.</strong> The prompt explicitly allows Claude to add new theatre sections when a story grows large enough to warrant separate tracking.</li>
+    <li><strong>A new metric.</strong> The <code class="mono" style="font-size: 0.85em;">metrics</code> array is free&#8209;form; entries are added or retired as the situation evolves (e.g. <em>Ships Trapped in Gulf</em>, <em>Qatar Gas Production</em> were added after the Gulf crisis escalated).</li>
+  </ol>
+  <p style="color: var(--text-secondary); line-height: 1.7; margin-bottom: var(--space-lg);">
+    The <code class="mono" style="font-size: 0.85em;">prediction_impact</code> field on each daily entry is the bridge to the predictions tables &mdash; it's the claim&#8209;to&#8209;evidence linkage the monthly run consumes when re&#8209;scoring statuses.
+  </p>
+
+  <h3 style="font-size: 1.1rem; margin: var(--space-lg) 0 var(--space-sm); color: var(--text-primary);">Sources used to monitor falsifiable claims</h3>
+  <p style="color: var(--text-secondary); line-height: 1.7; margin-bottom: var(--space-md);">
+    Sources are cited <em>per entry</em> in the <code class="mono" style="font-size: 0.85em;">source</code> field of each daily record, not a fixed global list. Recurring outlets across recent entries:
+  </p>
+  <ul style="color: var(--text-secondary); line-height: 1.8; margin-bottom: var(--space-lg); padding-left: var(--space-lg);">
+    <li><strong>Wires &amp; general news:</strong> Reuters, AP, Bloomberg, CNN, CBS, NBC, ABC, Fox News, NPR, PBS, Washington Post, The Hill, Axios, Time, Newsweek, Fortune, CNBC, BBC, Al Jazeera, RFE/RL, Euronews, CBC, Globe and Mail, Irish Times.</li>
+    <li><strong>Regional / language&#8209;of&#8209;record:</strong> Haaretz, Times of Israel, Ynetnews, JPost, Israel Hayom, i24, Middle East Eye, Al Arabiya, Al Bawaba, The National, Gulf Times, Naharnet, L'Orient Today, PressTV, Tasnim, TASS, South Front, Turkiye Today, Arab Times, Pakistan Today, Express Tribune, Tribune India, ANI, WION, The Week India, BSS, Manila Times, Taipei Times, TVBS.</li>
+    <li><strong>Defense &amp; maritime specialist:</strong> USNI News, The War Zone (TWZ), Naval News, Stars and Stripes, Navy Times, SOFREP, SOF News, The Aviationist, gCaptain, SimpleFlying, FlightGlobal.</li>
+    <li><strong>Official / primary:</strong> CENTCOM releases, U.S. State Department, UN News, Human Rights Watch, Amnesty International, IMF, HRANA, Iran International.</li>
+    <li><strong>Markets &amp; commodities:</strong> TradingEconomics, Bloomberg, Investing.com, CoinDesk.</li>
+    <li><strong>Geolocation / OSINT:</strong> LiveUAMap, Mezha, Mappr.</li>
+  </ul>
+  <p style="color: var(--text-secondary); line-height: 1.7; margin-bottom: var(--space-lg);">
+    The baseline anchor set used for the calibration reference is narrower &mdash; Al Jazeera, BBC, Reuters, NPR, CNN, Washington Post, CNBC, plus institutional research from CRS, CSIS, Atlantic Council, Chatham House, Carnegie Endowment, and the Arms Control Association &mdash; but the tooling does not enforce an allow&#8209;list.
+  </p>
+
+  <h3 style="font-size: 1.1rem; margin: var(--space-lg) 0 var(--space-sm); color: var(--text-primary);">What the tooling does not do</h3>
+  <ul style="color: var(--text-secondary); line-height: 1.8; margin-bottom: var(--space-xl); padding-left: var(--space-lg);">
+    <li>No source&#8209;quality filter, no automated deduplication, no independent fact&#8209;checker in the loop &mdash; source weighting is delegated to Claude's judgment on each run.</li>
+    <li>No RSS or API ingestion. Every source is pulled ad hoc via web search during the run; the list of outlets above is descriptive of recent behavior, not prescriptive.</li>
+    <li>If the daily run produces invalid JSON, the script reverts <code class="mono" style="font-size: 0.85em;">briefing-data.json</code> from git. Bad runs are self&#8209;healing, but nothing is automatically retried.</li>
+    <li>Broadening what's monitored means editing the tracking list in the daily script's prompt. The current list reflects the theatres the project judged most consequential for the tracked predictions; it is not a claim of global coverage.</li>
+  </ul>
+
   <h2 style="font-size: 1.4rem; margin-bottom: var(--space-md);">Scoring Rubric</h2>
   <p style="color: var(--text-secondary); line-height: 1.7; margin-bottom: var(--space-lg);">
     Each lecture is evaluated on seven axes, scored 1&ndash;5. Higher is better. Click any score on a lecture page to read the full justification.
