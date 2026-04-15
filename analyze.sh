@@ -219,7 +219,11 @@ fi
 
 # --- Commit and push ---
 echo "[7/7] Committing and pushing..."
-git add "$OUTPUT_FILE" "$TRANSCRIPT_DIR/$TRANSCRIPT_FILE" "${ANALYSIS_DIR}/caps/${VIDEO_ID}_"*.jpg "${ANALYSIS_DIR}/static/cards/"*.png 2>/dev/null
+shopt -s nullglob
+CAPS=( "${ANALYSIS_DIR}/caps/${VIDEO_ID}_"*.jpg )
+CARDS=( "${ANALYSIS_DIR}/static/cards/"*"${VIDEO_ID:0:8}".png "${ANALYSIS_DIR}/static/cards/${SLUG}.png" )
+shopt -u nullglob
+git add "$OUTPUT_FILE" "$TRANSCRIPT_DIR/$TRANSCRIPT_FILE" "${CAPS[@]}" "${CARDS[@]}"
 git commit -m "${SERIES} #${EPISODE}: ${TITLE} (${VIDEO_ID})
 
 Co-Authored-By: Claude Opus 4.6 (1M context) <noreply@anthropic.com>"

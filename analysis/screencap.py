@@ -32,7 +32,8 @@ def get_stream_url(video_id: str) -> str | None:
         result = subprocess.run(
             [YTDLP, "-f", "worst[ext=mp4]/worst", "--get-url",
              f"https://www.youtube.com/watch?v={video_id}"],
-            capture_output=True, text=True, timeout=30
+            capture_output=True, text=True, timeout=30,
+            stdin=subprocess.DEVNULL,
         )
         url = result.stdout.strip()
         return url if url and url.startswith("http") else None
@@ -45,9 +46,10 @@ def grab_frame(stream_url: str, timestamp: str, output_path: str) -> bool:
     """Seek to timestamp in stream and extract one frame as JPEG."""
     try:
         result = subprocess.run(
-            [FFMPEG, "-y", "-ss", timestamp, "-i", stream_url,
+            [FFMPEG, "-nostdin", "-y", "-ss", timestamp, "-i", stream_url,
              "-frames:v", "1", "-update", "1", "-q:v", "2", output_path],
-            capture_output=True, text=True, timeout=30
+            capture_output=True, text=True, timeout=30,
+            stdin=subprocess.DEVNULL,
         )
         return os.path.exists(output_path) and os.path.getsize(output_path) > 0
     except (subprocess.TimeoutExpired, Exception) as e:
