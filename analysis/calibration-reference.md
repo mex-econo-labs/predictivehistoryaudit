@@ -1,4 +1,4 @@
-# Prediction Calibration Reference — April 16, 2026 (Scored April 15, 2026)
+# Prediction Calibration Reference — April 17, 2026 (Scored April 15, 2026)
 
 Use this document when analyzing Predictive History lectures to accurately assess prediction statuses.
 
@@ -225,6 +225,14 @@ Use this document when analyzing Predictive History lectures to accurately asses
 | Ceasefire extension 'in principle' | Apr 15-16, 2026 | AP: US and Iran gave 'in principle agreement' to extend ceasefire past Apr 22; US official says 'not formally agreed' — mediators pushing for extension (AP/Mediaite, CNBC, Bloomberg) |
 | Iran threatens Red Sea shipping blockade | Apr 15-16, 2026 | IRGC warns it will block Red Sea, Gulf of Oman AND Persian Gulf unless US lifts blockade — signals Houthi reactivation; two senior Houthi officials confirm restart of maritime attacks (NBC, Ynet, Middle East Eye, gCaptain) |
 | IDF takes control of Bint Jbeil | Apr 15-16, 2026 | i24NEWS reports IDF has taken control; Grand Mosque destroyed ('basically flattened'); Nasrallah's 2000 stadium captured; 98th Division Paratroopers, Commando, Givati led assault (i24NEWS, Times of Israel, JNS, Democracy Now) |
+| Israel-Lebanon 10-day ceasefire — Trump announced | Apr 16, 2026 | Trump announced 10-day ceasefire took effect 5pm ET (21:00 GMT) Apr 16. Followed Tuesday Rubio trilateral with Israeli/Lebanese ambs, Wed Trump-Netanyahu phone, overnight Wed Rubio-Aoun call. Hezbollah will 'abide if Israeli attacks stop'; halted attacks. May extend by mutual agreement (NBC, France24, Axios, Bloomberg, CNN, Manila Times, PBS) |
+| Trump claims Iran 'nuclear dust' deal | Apr 16, 2026 | Trump (Truth Social): US will 'work with' Iran to 'dig up and remove all of the deeply buried nuclear Dust' at Fordow/Natanz/Isfahan; Iran 'won't enrich uranium.' Iran DENIED receiving new US proposal — disputed framing (WaPo, ABC News, The Hill, Bulletin of Atomic Scientists) |
+| Macron + Starmer 40-nation Hormuz summit | Apr 17, 2026 | Macron + Starmer co-chair virtual summit on 'defensive multilateral mission' to restore Hormuz freedom of navigation; agenda: Iran sanctions + industry coordination. ~40 countries. US NOT ATTENDING (Bloomberg, Times of Israel, Al-Monitor, Tribune India, Arab News, France24) |
+| US blockade — 13 vessels turned back by Day 5 | Apr 16-17, 2026 | Bloomberg/CENTCOM: 13 ships turned back since Apr 13 (up from 10 on Apr 15); zero breached. Sanctioned Elpis cut engines in Gulf of Oman; Rich Starry reversed in Hormuz. P-8 Poseidon patrols intercepting via radio (Bloomberg, NBC, CENTCOM, WashPost) |
+| Pakistan confirmed as 'sole mediator' US-Iran talks | Apr 16-17, 2026 | White House confirms Pakistan is 'sole mediator.' Munir continues meetings with Araghchi in Tehran. Pakistani officials expect 'major breakthrough on nuclear front.' Pakistan PM and Dar travel to Antalya Apr 17 for Saudi/Turkey/Egypt sidelines. NO date set for second round (The Week, Al Jazeera, Bloomberg, CBS) |
+| Russia's deadliest overnight strike of 2026 | Apr 15-16, 2026 | 659 drones + 44 missiles on Kyiv, Odesa, Dnipro overnight; 16 killed (incl 12-yr-old in Kyiv), 100+ wounded. Air force shot down 636 drones + 31 missiles. Odesa: 9 killed; Dnipro: 3 killed; Kyiv: 4 killed (Euronews, NPR, ABC News, Al Jazeera, PBS, EMPR) |
+| Ukraine struck Tuapse Oil Refinery | Apr 16, 2026 | Ukraine hit Rosneft Tuapse Oil Refinery in Krasnodar Krai — top-10 largest refinery in Russia. Continues energy infrastructure strike pattern (EMPR, Kyiv Independent) |
+| Iran restores Google Search | Apr 17, 2026 | Google Search accessible on fixed-line and mobile internet in Iran per Iranian media; other Google services like Gmail still blocked — apparent normalization gesture |
 | Russia-Ukraine 175 POW exchange | Apr 12, 2026 | 175 prisoners exchanged each side; UAE mediated. Among few concrete results of US-brokered peace process (Al Jazeera, PBS) |
 | Russia claims full Luhansk control | Apr 1, 2026 | Russia's Defense Ministry: 'completed liberation' of Luhansk oblast — but Ukraine only controlled 0.2% at time of claim (Al Jazeera, CNN) |
 | Trump: military 'looking forward to next Conquest' | Apr 9, 2026 | All forces remain near Iran until 'REAL AGREEMENT' honored; warns any breach triggers unprecedented response |
@@ -269,20 +277,22 @@ Use this document when analyzing Predictive History lectures to accurately asses
 ## Key Contextual Facts for Analysis
 
 ### US-Iran War
-- CEASEFIRE DAY 9 (Apr 16) — Day 49; NO ground troops deployed IN Iran; GROUND OPS PROBABILITY ABSOLUTE ZERO
-- US BLOCKADE DAY 4 (Apr 16): Blockade 'FULLY IMPLEMENTED' — CENTCOM says 'completely' halts Iran's seaborne trade. 9 vessels turned back in first 48 hrs; zero breached; no shots fired; no boardings. Costing Iran ~$435M/day ($13B/month per FDD). (NBC, CENTCOM, CNBC, Al Jazeera)
-- TRUMP: WAR 'VERY CLOSE TO OVER' (Apr 16): Fox Business — 'beaten them militarily, totally'; stock market will 'boom.' Exit rhetoric intensifying (CNBC, Fox Business, Washington Times)
-- PAKISTAN ARMY CHIEF IN TEHRAN (Apr 15-16): Field Marshal Asim Munir carrying 'new message' from US; will 'outline plan for second round of talks.' VP Vance to lead US side (Al Jazeera, Bloomberg, Tribune India)
-- CEASEFIRE EXTENSION 'IN PRINCIPLE' (Apr 16): AP reports both sides agree in principle to extend past Apr 22; US official: 'not formally agreed.' Mediators pushing (AP/Mediaite, CNBC, Bloomberg)
+- CEASEFIRE DAY 10 (Apr 17) — Day 50; NO ground troops deployed IN Iran; GROUND OPS PROBABILITY ABSOLUTE ZERO
+- ISRAEL-LEBANON 10-DAY CEASEFIRE TAKES EFFECT (Apr 16, 5pm ET / 21:00 GMT): Trump-announced after Tuesday Rubio trilateral with Israeli/Lebanese ambassadors; Wed Trump-Netanyahu phone; overnight Wed Rubio-Aoun call. Hezbollah will 'abide if Israeli attacks stop'; halted attacks. Removes Iran's primary precondition. May extend by mutual agreement (NBC, France24, CNN, Bloomberg, Manila Times)
+- TRUMP CLAIMS IRAN 'NUCLEAR DUST' DEAL (Apr 16): Trump on Truth Social: US will work with Iran to 'dig up and remove all of the deeply buried nuclear Dust' at Fordow/Natanz/Isfahan; Iran 'won't enrich uranium.' Iran DENIES new US proposal — disputed framing but framing itself is end-of-war (WaPo, ABC, The Hill, Bulletin of Atomic Scientists)
+- PARIS/LONDON 40-NATION HORMUZ SUMMIT (Apr 17): Macron + Starmer co-chair virtual summit on 'defensive multilateral mission' to restore Hormuz freedom of navigation; agenda: Iran sanctions + industry coordination. ~40 countries. US NOT ATTENDING — confirms parallel tracks (Bloomberg, Al-Monitor, Times of Israel, Tribune India)
+- US BLOCKADE DAY 5 (Apr 17): 13 vessels turned back since Apr 13 (up from 10 Apr 15); zero breached. Sanctioned tanker Elpis cut engines in Gulf of Oman; Rich Starry reversed course; P-8 Poseidon patrols intercepting via radio. Costing Iran ~$435M/day. (Bloomberg, NBC, CENTCOM, WashPost)
+- PAKISTAN 'SOLE MEDIATOR' (Apr 17): White House confirms. Munir still in Tehran; met Araghchi. Pakistani officials expect 'major breakthrough on nuclear front.' Pakistan PM and Dar travel to Antalya Apr 17 for Saudi/Turkey/Egypt sideline meetings. NO date set for second round (The Week, Al Jazeera, Bloomberg, CBS)
+- WHITE HOUSE: 'CEASEFIRE EXTENSION NOT TRUE AT THIS MOMENT' (Apr 16-17): Leavitt says US 'has not formally requested an extension' but 'feels good about prospects of deal.' Ceasefire still expires Apr 22 (Washington Times, CGTN, Tribune India)
 - IRAN THREATENS RED SEA (Apr 15-16): IRGC warns it will block Red Sea + Gulf of Oman + Persian Gulf unless US lifts blockade. Two senior Houthi officials confirm restart of maritime attacks. DOUBLE CHOKEPOINT risk (Hormuz + Bab al-Mandeb) (NBC, Ynet, Middle East Eye, gCaptain)
-- OIL STABILIZING: Brent ~$95-97; WTI ~$93. Markets still pricing in diplomatic resolution (TradingEconomics, CNBC)
-- KEY STICKING POINTS: US demands 20-year enrichment suspension; Iran offered 3-5 years. Also: Hormuz control, Lebanon ceasefire, compensation for damages
-- IDF TAKES CONTROL OF BINT JBEIL (Apr 16): Grand Mosque destroyed; Nasrallah's stadium captured; 'scorched-earth campaign' per Democracy Now (i24NEWS, Times of Israel, JNS)
-- Lebanon: ~2,160+ killed / 6,700+ wounded / 170+ children / 88+ health workers; 5 IDF divisions in southern Lebanon
+- OIL: Brent ~$95/bbl, WTI $93+ (Apr 17). Markets still pricing in deal probability (TradingEconomics, Bloomberg, TradingKey)
+- IRAN: GOOGLE SEARCH RESTORED (Apr 17): Apparent normalization gesture; other Google services still blocked
+- KEY STICKING POINTS: US demands 20-year enrichment suspension; Iran offered 3-5 years. Hormuz control + compensation. Lebanon now partly addressed via 10-day ceasefire
+- Lebanon: ~2,160+ killed / 6,700+ wounded / 170+ children / 88+ health workers; 10-day ceasefire in effect; IDF still finishing Bint Jbeil clearance
 - US: 15 KIA, 399 wounded (354 returned to duty); no new combat injuries during ceasefire
-- HRANA: 3,597+ killed — no update since ceasefire
+- HRANA: 3,597+ killed — no update since ceasefire (HRANA per Apr 7 reported 3,636)
 - Israel: 26+ killed, 7,183+ wounded; no change since ceasefire
-- USS BOXER ARG: near Guam; expected CENTCOM arrival Apr 23-28
+- USS BOXER ARG: near Guam per Apr 13 USNI tracker; expected CENTCOM arrival Apr 23-28; USS New Orleans arrives Friday
 - Mojtaba Khamenei still absent/incapacitated
 
 ### Hormuz Blockade & Regional Fallout

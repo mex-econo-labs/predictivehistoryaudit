@@ -1,10 +1,55 @@
-# Geopolitical Briefing: State of the World as of April 16, 2026
+# Geopolitical Briefing: State of the World as of April 17, 2026
 
-Compiled for evaluation of mid-2024 predictions. All information sourced from publicly available reporting through April 16, 2026. Last updated: April 16, 2026.
+Compiled for evaluation of mid-2024 predictions. All information sourced from publicly available reporting through April 17, 2026. Last updated: April 17, 2026.
 
 ---
 
 ## 1. US-Iran Military Actions
+
+### Israel-Lebanon 10-Day Ceasefire Takes Effect (April 16, 2026)
+- **Trump announced** a **10-day Israel-Lebanon ceasefire** that took effect at **5pm ET (21:00 GMT) on April 16, 2026** — removing what had been Iran's primary public precondition for sustaining the broader US-Iran ceasefire.
+- The deal was the product of three days of choreographed diplomacy: a **Tuesday Rubio trilateral** with Israeli Ambassador **Yechiel Leiter** and Lebanese Ambassador **Nada Hamadeh-Moawad** at the State Department; a **Wednesday Trump-Netanyahu phone call**; and an **overnight Wednesday Rubio-Aoun call** with Lebanese President Joseph Aoun.
+- **Hezbollah** said it would **"abide if Israeli attacks stop"** and **halted attacks** following the announcement. Both sides may **extend by mutual agreement** at the end of the 10-day window (by April 26).
+- The ceasefire freezes — but does not formally end — IDF operations in southern Lebanon. **Five IDF divisions** remain deployed; the **98th Division** had just completed its assault on **Bint Jbeil**, with the **Grand Mosque "basically flattened"** and **Nasrallah's 2000 stadium captured** in the days before the truce.
+- Net Lebanon casualty figures at ceasefire entry: approximately **2,160+ killed** (170+ children, 88+ health workers) and **6,700+ wounded** since March 2.
+- **Trump-Netanyahu tension** is the visible subtext: Witkoff had told Netanyahu earlier in the week to **"calm down"** strikes in Lebanon. Netanyahu had previously insisted the US-Iran ceasefire **"does not include Lebanon"** — that line is now superseded.
+- *Sources: NBC, France24, Axios, Bloomberg, CNN, Manila Times, PBS*
+
+### Trump Claims Iran "Nuclear Dust" Deal — Iran Denies (April 16, 2026)
+- Trump posted on **Truth Social** that the US would **"work with"** Iran to **"dig up and remove all of the deeply buried nuclear Dust"** at the **Fordow, Natanz, and Isfahan** facilities, and that Iran **"won't enrich uranium."**
+- The framing — characterizing post-strike radioactive debris and centrifuge wreckage as **"nuclear Dust"** — was **denied by Iran**, which said it had **received no new US proposal**. Tehran's denial covers the existence of the deal as Trump described it, not the existence of negotiations as such.
+- The **Bulletin of the Atomic Scientists** and arms-control specialists noted the implication: any cooperative excavation/removal program at Fordow/Natanz/Isfahan would amount to a US-supervised end-state for the program, even if no formal agreement document exists yet.
+- Whether or not the substance of the framing is accurate, the **rhetorical posture is end-of-war** — Trump publicly describing a non-enrichment future and a cooperative cleanup, not threats of further strikes. This is consistent with the pattern of the past 10 days (ceasefire, blockade replacing kinetic ops, "war very close to over").
+- This entry should be read against `open-questions.json` — the public dispute between Trump and Tehran over what was actually offered may merit later inclusion as a contested-unresolved item if it does not converge.
+- *Sources: Washington Post, ABC News, The Hill, Bulletin of the Atomic Scientists*
+
+### Paris/London 40-Nation Hormuz Summit (April 17, 2026)
+- **President Macron** and **PM Starmer** co-chaired a **virtual summit of approximately 40 countries** on a **"defensive multilateral mission"** to restore freedom of navigation through the Strait of Hormuz.
+- The agenda combined **Iran sanctions coordination** with **shipping-industry coordination** — insurance, convoy planning, mine-clearance logistics, and a successor framework to the UK-led 41-nation conference of April 2.
+- The **United States did not attend**. The summit thus runs a **parallel track** to Trump's unilateral naval blockade — European-led, multilateral, focused on reopening (not enforcing closure) — and confirms an emerging two-track structure: US blockade + allied reopening coalition.
+- The non-attendance is consistent with the **NATO rift** that opened after Trump's April 1 "paper tiger" remarks and the UK's April 13–14 refusal to support the US blockade.
+- *Sources: Bloomberg, Times of Israel, Al-Monitor, Tribune India, Arab News, France24*
+
+### US Blockade Day 5 — 13 Vessels Turned Back (April 16-17, 2026)
+- By **Day 5** of the unilateral US naval blockade of Iranian ports, **13 vessels had been turned back** since enforcement began April 13 — up from 10 reported on April 15. **Zero have breached.**
+- Notable interceptions: the sanctioned tanker **Elpis** (Comoros-flagged, Iran shadow fleet) cut engines in the **Gulf of Oman**; **Rich Starry** reversed course inside the Strait of Hormuz; **Ostria** turned back at the perimeter.
+- **P-8 Poseidon** maritime patrol aircraft are conducting the intercepts via **radio challenge** rather than boarding — no shots fired, no boardings, consistent with the pattern of the first 48 hours.
+- **CENTCOM** and **FDD** estimate the blockade is costing Iran approximately **$435M/day (~$13B/month)** in foregone seaborne trade.
+- Mid-April **SPR drawdown limits** are approaching; **IEA** continues to warn that physical oil scarcity will worsen as pre-war Hormuz cargoes finish unloading.
+- *Sources: Bloomberg, NBC, CENTCOM, Washington Post*
+
+### Pakistan Confirmed as "Sole Mediator" — Munir Still in Tehran (April 16-17, 2026)
+- The **White House publicly confirmed** that **Pakistan is the "sole mediator"** of US-Iran talks — a status consolidated after the April 12 Islamabad collapse and the failure of Egypt-Turkey-Saudi parallel tracks to deliver an alternative venue.
+- **Field Marshal Asim Munir** (Pakistan's army chief) and **Interior Minister Mohsin Naqvi** remained in **Tehran** on April 17, continuing meetings with **FM Araghchi**. Munir is reportedly carrying a **"new message"** from Washington.
+- Pakistani officials told Bloomberg they expect a **"major breakthrough on the nuclear front"** — language that aligns with Trump's "nuclear Dust" framing of April 16, though no party has confirmed substantive convergence.
+- **PM Sharif** and Foreign Minister **Ishaq Dar** travel to **Antalya** on April 17 for sideline meetings with Saudi, Turkish, and Egyptian counterparts — keeping the regional quadrilateral active alongside the Pakistan-only track.
+- **No date** has been set for a second formal round of US-Iran talks. The current ceasefire still expires **April 22**; **Leavitt** said the US **"has not formally requested an extension"** but **"feels good about prospects of a deal."**
+- *Sources: The Week, Al Jazeera, Bloomberg, CBS, Washington Times, CGTN, Tribune India*
+
+### Iran Restores Google Search (April 17, 2026)
+- **Google Search** became accessible on both **fixed-line and mobile internet** in Iran on April 17, per Iranian media. **Other Google services** (Gmail, YouTube, Drive) **remain blocked**.
+- The selective restoration is widely read as a **normalization gesture** during the ceasefire window — partial reopening of the public information space rather than a full lifting of internet restrictions that have been in place since the Feb 28 strikes.
+- *Sources: Iranian state and semi-official media as relayed via international outlets*
 
 ### The Twelve-Day War (June 13-24, 2025)
 - Israel launched surprise strikes on Iranian nuclear facilities, military bases, and infrastructure on **June 13, 2025**, using 200+ fighter jets dropping 330+ munitions on ~100 targets in five waves.
@@ -1498,6 +1543,8 @@ Iran struck military and civilian targets across at least 9 countries plus Israe
 ### Ukraine Has NOT "Lost"
 - The war continues as a grinding attritional conflict. Ukraine maintains significant territory and fighting capability.
 - Ukraine has become a **drone superpower**, with its drone technology being noted in context of the Iran war.
+- **RUSSIA'S DEADLIEST OVERNIGHT STRIKE OF 2026 (April 15-16)**: Russia launched **659 drones + 44 missiles** at **Kyiv, Odesa, and Dnipro** overnight — Ukraine's air force shot down **636 drones and 31 missiles**. **16 killed** (including a **12-year-old in Kyiv**) and **100+ wounded**. Breakdown: **Odesa 9 killed**, **Dnipro 3 killed**, **Kyiv 4 killed**. The salvo was the largest single overnight package since the start of the year and signals Russia is using the diplomatic window around the US-Iran ceasefire to surge strikes on Ukrainian cities. *(Euronews, NPR, ABC News, Al Jazeera, PBS, EMPR)*
+- **UKRAINE STRUCK TUAPSE OIL REFINERY (April 16)**: Ukrainian forces hit Rosneft's **Tuapse Oil Refinery** in **Krasnodar Krai** — a top-10 Russian refinery — continuing the pattern of deep-strike targeting of Russian energy infrastructure as both leverage and as price-pressure on Russian war financing. *(EMPR, Kyiv Independent)*
 - **Zelensky says frontline "best for Ukraine in 10 months"** (Apr 3) — **British intelligence concurs**. First time since mid-2025 that Ukraine's position assessed as improving. *(US News, Ukrinform)*
 - **164 combat engagements** on April 9 — **Pokrovsk sector most active** with **32 assault actions repelled** in Rodynske, Pokrovsk, Kotlyne, Muravka, Hryshyne, Udachne, Filiia areas. Russian daily losses (Apr 9): **1,040 personnel**, 1 tank, 2 APCs, **64 artillery systems**, 1 MLRS, **2,238 UAVs**, 229 vehicles. Russia deployed **10,100 kamikaze drones** + **250 guided aerial bombs** + **3,625 shellings** (107 MLRS) in single day. *(Ukrinform, EMPR)*
 - **March 10-April 7**: Russia gained only **17 square miles** — extremely slow territorial advance.
