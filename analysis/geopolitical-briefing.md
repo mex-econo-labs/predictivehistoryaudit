@@ -1,10 +1,59 @@
-# Geopolitical Briefing: State of the World as of April 17, 2026
+# Geopolitical Briefing: State of the World as of April 18, 2026
 
-Compiled for evaluation of mid-2024 predictions. All information sourced from publicly available reporting through April 17, 2026. Last updated: April 17, 2026.
+Compiled for evaluation of mid-2024 predictions. All information sourced from publicly available reporting through April 18, 2026. Last updated: April 18, 2026.
 
 ---
 
 ## 1. US-Iran Military Actions
+
+### Iran Declares Strait of Hormuz "Completely Open" — Oil Crashes 9-11% (April 17, 2026)
+- **FM Abbas Araghchi** announced on **April 17 afternoon** on X and via Iranian state media that **"passage for all commercial vessels through Strait of Hormuz is declared completely open for the remaining period of ceasefire."** Duration is tied explicitly to the **Israel-Lebanon 10-day ceasefire** (running to April 26).
+- Conditions: ships must use **Iranian-designated shipping routes** and act **"in coordination with Iranian authorities."**
+- This is Iran **voluntarily dismantling the closure** that has defined the conflict for 7 weeks. It is the **single most consequential concession** since the April 8 ceasefire — Iran relinquishing its central leverage chip ahead of the Monday April 21 Islamabad talks.
+- **Trump** responded almost immediately on **Truth Social**: the strait is **"COMPLETELY OPEN AND READY FOR BUSINESS."** Minutes later, he declared the US naval blockade **"WILL CONTINUE UNTIL SUCH TIME AS OUR TRANSACTION WITH IRAN IS 100% COMPLETE"** — and told reporters **"as soon as the agreement gets signed, that's when the blockade ends."** The dual message preserves maximum pressure through deal closure.
+- **Markets priced the Apr 21 deal as near-certain:**
+  - **WTI** fell **-11.45% to $83.85/bbl** — lowest since March 10 and the **second-largest daily drop of the entire war** (only the April 8 ceasefire announcement drop was larger).
+  - **Brent** fell **-9.07% to $90.38/bbl**.
+  - **S&P 500** hit a **new record high**; **Dow +869 (+1.79%)**; **Nasdaq +2.12%**.
+  - **Bond yields fell** on the oil crash; the **dollar weakened** against the euro.
+- The Malta-registered cruise ship **Celestyal Discovery** became the **first passenger vessel through Hormuz since the war began** — it had been stranded in Dubai for 47 days. BBC tracking showed **"few ships moving"** in the strait as of April 17 evening: insurance underwriters, mine-clearance verification, and the new "Iranian coordination" requirement all continue to suppress commercial volumes.
+- *Sources: NBC, NYT, BBC, Reuters, PBS, Politico, CBS, CNBC, WSJ, Bloomberg, TradingEconomics, Travel Weekly, Al Arabiya*
+
+### Second Round of Talks Confirmed — Monday April 21, Islamabad (April 17-18, 2026)
+- **Pakistan-brokered second round** of US-Iran talks **confirmed for Monday, April 21** at **Islamabad** — same venue as the April 11-12 first round (Serena Hotel). Both delegations **arrive Sunday April 20**.
+- **VP JD Vance** is again expected to **lead the US delegation**; Iran's **FM Araghchi** confirmed the Iranian delegation.
+- Pakistan's **FM Ishaq Dar** said publicly that an agreement is **"more than 80 percent complete"** but will require **"flexibility from both sides."**
+- **Field Marshal Munir** and Interior Minister **Naqvi** returned from Tehran with Iranian agreement to proceed. Timing — one day before the April 22 ceasefire expiry — is engineered so the round can either extend the ceasefire or produce an announcement.
+- *Sources: Dawn, Al Jazeera, The News Pakistan, Bloomberg, ARY News, Tribune India*
+
+### Iran Rejects Trump "Nuclear Dust" Framing (April 17-18, 2026)
+- FM spokesperson **Esmail Baghaei**, responding to Trump's April 16 Truth Social posts: the US framing is **"alternative facts."** Baghaei stated flatly: **"Iran's enriched uranium is not going to be transferred anywhere; transferring uranium to the United States has not been an option."**
+- **Araghchi** on X: Iran was **"inches away"** from a deal at the Islamabad first round when it **"encountered maximalism, shifting goalposts, and blockade."** He accused the US of trying **"to achieve at the negotiating table what it could not achieve through war."**
+- Iran's position going into Monday: it retains the right to enrich uranium at **3.67%** for civilian use. The **20-year US suspension demand** versus Iran's **3-5 year offer** remains the key structural gap.
+- *Sources: Washington Post, BBC, Al Jazeera, Tehran Times, Al Mayadeen, Bulletin of the Atomic Scientists*
+
+### Israel-Lebanon Ceasefire Holds at 48-Hour Mark (April 17-18, 2026)
+- **UNIFIL spokesman Tilak Pokharel** confirmed at the 48-hour mark that **Israeli airstrikes have stopped** in southern Lebanon and **no projectiles** have been fired into Israel from Lebanese territory since the 5pm ET April 16 start.
+- **Exceptions** (real but contained): an **Israeli strike in Kounine village** on April 17 afternoon hit a motorcycle and vehicle, **killing 1**. The **Lebanese Army** reports violations by Israel in **Khiam** (mortar/artillery shelling, low-altitude flights), **Bint Jbeil**, and **Dibbin**.
+- **Hezbollah**'s parliamentary bloc issued a statement on April 17: **"cautious commitment"** to the ceasefire, with a scathing criticism of the Lebanese government for **"failure to exercise sovereignty."**
+- **Thousands of displaced Lebanese** began returning to homes in the south. The **IDF** is warning civilians to **remain north of the Litani River**.
+- The 10-day window runs to **April 26** and may be **extended by mutual agreement** if "progress is demonstrated." Net effect: the Lebanon spoiler that Iran has consistently linked to broader ceasefire durability is **functionally neutralized**.
+- *Sources: NYT, UNIFIL, Al Jazeera, The Hindu, CNN*
+
+### US Blockade Day 6 — Continues Despite Hormuz Reopening (April 17-18, 2026)
+- The US naval blockade is in its **6th day** and **continues** despite Iran's voluntary Hormuz reopening.
+- **CENTCOM Adm. Bradley Cooper**: the blockade will continue **"as long as the president says it will remain in effect."** Trump: blockade ends **"when the agreement gets signed."** Posture: blockade as deal-closure leverage, not as opening move to further escalation.
+- Since April 13, **13+ vessels** have been turned back — all via **radio challenge**, zero boardings, zero shots fired.
+- **IRGC commander Ali Abdollahi** (Khatam al-Anbiya emergency HQ) issued a contingent threat: the blockade is an **"illegal" ceasefire violation**; if it continues, Iran **"would not allow any exports or imports to continue in Persian Gulf, Sea of Oman, and Red Sea under such conditions."** This is positioning ahead of Monday's talks, paralleling the April 15-16 Houthi-reactivation signals.
+- *Sources: Reuters, Politico, CENTCOM, CBS, Ynet, TRT World, Newsweek*
+
+### US Carrier Group Posture — Strain, Not Surge (April 17-18, 2026)
+- **USS George H.W. Bush (CVN-77)** carrier strike group continues to **transit around Africa** to avoid Suez / Red Sea — currently reported off **Namibia**. The routing reflects Houthi threat plus operational security concerns and adds ~2 weeks to any CENTCOM repositioning.
+- **USS Gerald R. Ford (CVN-78)** has now surpassed **296 days** of continuous deployment — the **longest continuous US aircraft carrier deployment since the Vietnam War era**. This is a **strain indicator**, not a surge indicator.
+- **USS Boxer ARG** (11th MEU, ~2,500 Marines) is still transiting; ETA CENTCOM is **April 23-28** — **after** the Monday April 21 Islamabad talks.
+- **USS New Orleans (LPD-18)** arrived in the region on April 17 per The Hill — blockade reinforcement, not amphibious assault posture.
+- Combined picture: naval posture around Iran is now at the edge of sustainability, consistent with drawdown pressure rather than ground-phase preparation. See §3 Ground Invasion Tracker.
+- *Sources: USNI, Stars and Stripes, The Hill, Breaking Defense*
 
 ### Israel-Lebanon 10-Day Ceasefire Takes Effect (April 16, 2026)
 - **Trump announced** a **10-day Israel-Lebanon ceasefire** that took effect at **5pm ET (21:00 GMT) on April 16, 2026** — removing what had been Iran's primary public precondition for sustaining the broader US-Iran ceasefire.
