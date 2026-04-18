@@ -1,10 +1,57 @@
-# Geopolitical Briefing: State of the World as of April 18, 2026
+# Geopolitical Briefing: State of the World as of April 19, 2026
 
-Compiled for evaluation of mid-2024 predictions. All information sourced from publicly available reporting through April 18, 2026. Last updated: April 18, 2026.
+Compiled for evaluation of mid-2024 predictions. All information sourced from publicly available reporting through April 19, 2026. Last updated: April 19, 2026.
 
 ---
 
 ## 1. US-Iran Military Actions
+
+### Iran Recloses Strait of Hormuz — SNSC Cites US "Non-Reciprocation" (April 18, 2026)
+- Iran's **Supreme National Security Council** announced on **April 18 evening (Tehran time)** that the **Apr 17 voluntary opening is rescinded**. Statement: passage through the Strait will be **"strictly managed"** until the US lifts its naval blockade. Reasoning given: the US had not reciprocated Iran's "good faith gesture" and continued turning vessels back through the Apr 13–17 window despite Iran's declared reopening.
+- The reversal **undoes the single most consequential concession** Iran had made since the April 8 ceasefire. The reopening lasted **less than 36 hours** as a practical matter — BBC and gCaptain tracking already showed "few ships moving" through the strait on Apr 17 evening, and most major insurers had not lowered war-risk premiums in time for the reopening to translate into measurable transit volume.
+- The SNSC statement is notable for what it does *not* say: it does **not** invoke active mining, does **not** order military closure of the channel, does **not** rescind humanitarian-cargo exemptions issued Apr 4. The phrase **"strictly managed"** preserves Iranian discretion ship-by-ship — this is denial-by-paperwork rather than denial-by-force, and it preserves the leverage chip for the **April 21 Islamabad** round.
+- *Sources: IRNA, Tasnim, Reuters, Al Jazeera, NYT, Bloomberg, BBC*
+
+### IRGC Gunboats Fire on Indian-Flagged Tankers Off Oman (April 18, 2026)
+- **IRGC Navy fast attack craft** intercepted two Indian-flagged commercial vessels approximately **20 nautical miles northeast of Oman** late on April 18 after the vessels declined to comply with Iranian routing instructions issued under the new "strictly managed" Hormuz protocol:
+  - **Sanmar Herald** — VLCC carrying approximately **2 million barrels of Iraqi crude**, bound for India.
+  - **Jag Arnav** — second Indian-flagged tanker in the same vicinity.
+- IRGC craft fired **warning shots and small-arms fire** across the bows; no casualties reported on either vessel. The Sanmar Herald reportedly took **superficial damage** to deck infrastructure; the Jag Arnav was not hit. Both vessels eventually transited away from the engagement area; neither was boarded.
+- This is the **first confirmed live-fire engagement of an Indian-flagged commercial vessel** since the war began. Prior IRGC interactions with Indian-crewed or Indian-owned vessels had been limited to radio warnings and routing diversions; the escalation to direct fire is a discrete rung up the maritime escalation ladder.
+- *Sources: Reuters, Hindustan Times, The Hindu, gCaptain, Bloomberg, Indian Express*
+
+### India Summons Iran's Ambassador — First Overt Diplomatic Protest (April 18, 2026)
+- The **Indian Ministry of External Affairs** summoned Iranian Ambassador **Mohammad Fathali** within hours of the IRGC engagement. The MEA briefing characterized the demarche as delivered in **"the strongest possible terms"** and demanded:
+  1. Immediate cessation of any interference with Indian-flagged vessels;
+  2. Accountability for the crews of Sanmar Herald and Jag Arnav;
+  3. Safe-passage guarantees for all Indian-flagged commercial vessels through the Persian Gulf and Sea of Oman.
+- India had remained **studiously nonaligned** through the prior 50 days of the war — abstaining from UN Hormuz votes, declining to join the UK-led 41-nation Hormuz conferences, and continuing crude purchases through alternative routes. This is the **first overt diplomatic protest** New Delhi has issued against Iran during the conflict.
+- *Sources: MEA briefing, The Hindu, Hindustan Times, Indian Express, Reuters*
+
+### Trump Calls Reclosure "Blackmail," Maintains Blockade (April 18, 2026)
+- **Trump** on Truth Social: the SNSC reversal is **"blackmail by a defeated regime"** and the US blockade will **"tighten until they understand."** He reiterated that the **April 21 Islamabad** talks remain **"ON"** and that VP Vance will lead the US delegation as planned.
+- **CENTCOM** confirmed two additional vessels turned back on April 18 — total since Apr 13 now **15+**. Adm. Bradley Cooper restated the standing posture: blockade continues "as long as the president says it will remain in effect."
+- *Sources: Politico, NYT, CBS, Reuters, CENTCOM*
+
+### Markets Reverse — Brent Back to ~$98 (April 18, 2026)
+- The Apr 17 oil crash **partially reversed** intraday on April 18 as the SNSC reclosure hit terminals:
+  - **Brent** **+8.4%** intraday to **~$97.95/bbl** (from $90.38 close Apr 17).
+  - **WTI** **+9.1%** to **~$91.45/bbl** (from $83.85).
+  - **Equity futures** sold off pre-market into the Asia open on April 19; S&P E-minis -1.2%, Nasdaq -1.7%.
+- Markets are now pricing in a **wide bimodal distribution** for the Apr 21 Islamabad round: deal closure → repeat of the Apr 17 crash; deal failure → re-test of the March $126 highs.
+- *Sources: Bloomberg, Reuters, CNBC, TradingEconomics*
+
+### Iran "Reviewing Fresh US Proposals" via Pakistan (April 18, 2026)
+- The **same SNSC statement** that announced the reclosure also affirmed that Tehran **"remains committed to the diplomatic track"** and is **"reviewing fresh proposals conveyed via Pakistani mediators."** Iranian officials notably **did not echo** Pakistani FM Ishaq Dar's "more than 80 percent complete" framing, and decline to give a percentage when asked.
+- Pakistan PM **Shehbaz Sharif** and FM **Dar** wrapped their **Antalya** sidelines with Saudi/Turkey/Egypt counterparts on April 18; both publicly maintained that the talks remain on track for **April 21**, but Pakistani officials privately tell Bloomberg/Reuters that **Tehran has not yet formally signed the Iranian delegation manifest**. No firm date beyond "soon" was confirmed in joint statements.
+- The framing gap (Pakistani "80% complete" vs Iranian silence on completion) is itself the most legible signal: each side wants the other to enter Islamabad with the public expectation it will concede the residual 20%.
+- *Sources: IRNA, Al Jazeera, Dawn, Bloomberg, Reuters, ARY News*
+
+### Rubio Pushes E3 on JCPOA Snapback (April 18, 2026)
+- Sec. State **Rubio** held calls with **UK, France, and Germany** foreign ministers on April 18 urging immediate **JCPOA snapback notification** at the UN Security Council if Iran fails to halt Hormuz interference and reach an Apr 21 deal. The E3 are reportedly **"studying timing."**
+- A snapback notification triggers a 30-day clock at the UNSC after which **all pre-2015 UN sanctions on Iran automatically reimpose** — including the Chapter VII arms embargo and ballistic missile restrictions — unless the Council passes a new resolution to keep them lifted (which Russia/China would block via veto, ironically *enabling* the snap rather than preventing it). The mechanism's window closes definitively in **October 2026** when the original UNSCR 2231 expires.
+- This is the strongest pre-talks pressure signal Washington has applied through the multilateral track since the war began.
+- *Sources: Reuters, FT, Politico, France24*
 
 ### Iran Declares Strait of Hormuz "Completely Open" — Oil Crashes 9-11% (April 17, 2026)
 - **FM Abbas Araghchi** announced on **April 17 afternoon** on X and via Iranian state media that **"passage for all commercial vessels through Strait of Hormuz is declared completely open for the remaining period of ceasefire."** Duration is tied explicitly to the **Israel-Lebanon 10-day ceasefire** (running to April 26).
