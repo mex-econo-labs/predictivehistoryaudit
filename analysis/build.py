@@ -75,13 +75,23 @@ def parse_advisory_points(text: str) -> list:
 
 
 def ts_to_seconds(ts: str) -> int:
-    """Convert HH:MM:SS or MM:SS timestamp to seconds for YouTube links."""
+    """Convert HH:MM:SS or MM:SS timestamp to seconds for YouTube links.
+
+    Returns 0 for non-numeric timestamps like "throughout" — valid in the
+    analysis JSON for rhetoric/patterns that span the whole video, but with
+    no meaningful seek offset.
+    """
+    if not ts:
+        return 0
     ts = ts.strip().split(',')[0]  # strip SRT millis
     parts = ts.split(':')
-    if len(parts) == 3:
-        return int(parts[0]) * 3600 + int(parts[1]) * 60 + int(parts[2])
-    elif len(parts) == 2:
-        return int(parts[0]) * 60 + int(parts[1])
+    try:
+        if len(parts) == 3:
+            return int(parts[0]) * 3600 + int(parts[1]) * 60 + int(parts[2])
+        elif len(parts) == 2:
+            return int(parts[0]) * 60 + int(parts[1])
+    except ValueError:
+        return 0
     return 0
 
 

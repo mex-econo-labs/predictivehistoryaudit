@@ -138,11 +138,19 @@ echo "  Slug:    $SLUG"
 log_phase metadata "series=${SERIES}" "episode=${EPISODE:-}" "slug=${SLUG}" "output_file=${OUTPUT_FILE}"
 
 # --- 3. Check if already analyzed ---
+REUSE_ANALYSIS=false
 if [[ -f "$OUTPUT_FILE" ]]; then
   echo ""
-  echo "WARNING: $OUTPUT_FILE already exists. Overwrite? (y/N)"
+  echo "WARNING: $OUTPUT_FILE already exists."
+  echo "  [y] re-run Claude analysis (overwrites the JSON)"
+  echo "  [n] reuse existing JSON, continue to screencaps/build/commit (default)"
+  echo "  [a] abort"
   read -r answer
-  [[ "$answer" =~ ^[Yy] ]] || exit 0
+  case "$answer" in
+    [Yy]*) ;;
+    [Aa]*) exit 0 ;;
+    *) REUSE_ANALYSIS=true ;;
+  esac
 fi
 
 # --- 4. Fetch YouTube metadata ---
@@ -167,6 +175,10 @@ echo "  Posted: $UPLOAD_DATE_FMT"
 echo "  Views:  $VIEW_COUNT"
 
 # --- 5. Run Claude analysis ---
+if $REUSE_ANALYSIS; then
+  echo "[4/6] Reusing existing analysis: $OUTPUT_FILE"
+  log_phase claude_done "output_file=${OUTPUT_FILE}" "reused=true"
+else
 echo "[4/6] Running Claude analysis..."
 
 PROMPT="You are performing a systematic content analysis of a YouTube lecture from the \"Predictive History\" channel by Xueqin Jiang. Produce a complete JSON analysis following the schema exactly.
@@ -233,6 +245,7 @@ fi
 echo "  Analysis written: $OUTPUT_FILE"
 
 log_phase claude_done "output_file=${OUTPUT_FILE}"
+fi  # end !REUSE_ANALYSIS
 
 # --- 6. Screencaps ---
 if $DO_SCREENCAPS && [[ -f "${ANALYSIS_DIR}/screencap.py" ]]; then
