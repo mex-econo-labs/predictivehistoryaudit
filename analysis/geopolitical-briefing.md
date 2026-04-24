@@ -1,10 +1,73 @@
-# Geopolitical Briefing: State of the World as of April 24, 2026
+# Geopolitical Briefing: State of the World as of April 25, 2026
 
-Compiled for evaluation of mid-2024 predictions. All information sourced from publicly available reporting through April 24, 2026. Last updated: April 24, 2026.
+Compiled for evaluation of mid-2024 predictions. All information sourced from publicly available reporting through April 25, 2026. Last updated: April 25, 2026.
 
 ---
 
-## 1. US-Iran Military Actions — Apr 23-24 Escalation Stack Cycle
+## 1. US-Iran Military Actions — Apr 23-25 Escalation Stack + Diplomatic Reopening Cycle
+
+### Hegseth/Caine Pentagon Press Briefing — "Operation Epic Fury" — Hegseth Does Not Foreclose "Boots on the Ground" (April 24, 2026)
+- **Defense Secretary Pete Hegseth** and **Joint Chiefs Chairman Gen. Dan Caine** held a press briefing Friday April 24 at the Pentagon on **"Operation Epic Fury"** — apparent US operational name for the campaign since Feb 28.
+- Asked directly about US ground troops in Iran, Hegseth declined to foreclose the option: **"We're not going to foreclose any option. You can't fight and win a war if you tell your adversary what you are willing to do or what you are not willing to do, to include boots on the ground."**
+- Elaborated: **"Our adversary right now thinks there are 15 different ways we could come at them with boots on the ground. And guess what: There are. So if we needed to, we could execute those options on behalf of the president of the United States and this department."**
+- Strategy explicitly framed as **"unpredictable."** Blockade will continue **"as long as it takes."**
+- Caine confirmed **34 vessels turned back** since blockade began Apr 13 (up from 31 Apr 23); formally confirmed Apr 21 M/T Tifani boarding in Indian Ocean.
+- Hegseth on European allies: **"We are not counting on Europe. But they need the Strait of Hormuz much more than we do, and might want to start doing less talking, having less fancy conferences in Europe and get in a boat."**
+- **Significance**: **first explicit Pentagon-level public non-foreclosure of ground option in the war**. Prior cabinet-level public communications (Trump, Rubio Mar 28, Hegseth) consistently stayed in the air/blockade/strike register. The rhetorical floor on ground operations has lifted from "never discussed at cabinet level" to "explicitly not foreclosed" — a genuine posture shift. **BUT** accompanied by NO deployment orders, no third ARG surge, no additional LHA/LHD deck-space, no prepositioned sealift, no AUMF language, no draft signals. Strategy is explicitly deterrence communication ("unpredictable" + "15 different ways") during a window in which Witkoff + Kushner are simultaneously being dispatched to Pakistan Saturday Apr 25 for direct talks. Posture is **two-track deterrence-plus-negotiation**, not mobilization-plus-invasion.
+- *Sources: ABC7, Task and Purpose, The Hill, Stars and Stripes, CSPAN, The National, Military.com, theconservativetreehouse, Washington Examiner, thestar.com.my*
+
+### Witkoff + Kushner Dispatched to Pakistan; Araghchi Arrives Islamabad (April 24-25, 2026)
+- **White House press secretary Karoline Leavitt** announced Apr 24 that US special envoy **Steve Witkoff** and senior adviser **Jared Kushner** will travel to Pakistan **Saturday morning Apr 25** for "direct talks" with Iranian counterparts.
+- **Iran FM Abbas Araghchi landed in Islamabad Friday Apr 24**, received by **Deputy PM/FM Ishaq Dar** + **Army Chief Field Marshal Asim Munir** + other senior officials.
+- **Iran FM spokesperson Esmaeil Baghaei** posted on X: **"No meeting is planned to take place between Iran and the US"** — Araghchi's mission is framed as meetings with Pakistani officials only, "in concert with their ongoing mediation and good offices for ending (the) American imposed war of aggression and the restitution of peace in our region."
+- **Al Jazeera sourced**: possible US-Iran meeting could take place **Monday** after Witkoff/Kushner bilateral consultations with Pakistan.
+- **VP Vance** — who led the Apr 11-12 first-round Islamabad Talks — **remains in Washington**. Leavitt: "The vice president remains deeply involved in this entire process, and he'll be standing by here in the United States."
+- **Significance**: the **single most important de-escalation datum** of the Apr 22-25 cycle and the strongest counter-indicator to any ground-invasion reading. A presidency preparing for ground invasion does NOT simultaneously dispatch its top diplomatic negotiators to a mediator's capital while the adversary's foreign minister is physically present in the same city. **Reverses the Apr 22 full cancellation** pattern. The war's direction of travel on the diplomatic axis is **restart, not collapse**.
+- *Sources: CNBC, Axios, Wikipedia, Al Jazeera, CP24, Anchorage Daily News, NPR, Dawn, CNN, Newsweek, Military.com*
+
+### Trump: "They're Making an Offer and We'll Have to See" — "Time Is Not on Their Side" (April 24, 2026)
+- **Trump in a Reuters phone interview Apr 24** said Iran plans to make an offer aimed at satisfying US demands: **"They're making an offer and we'll have to see,"** adding that he does not yet know the details.
+- **Truth Social**: **"Time is not on their side."**
+- **Significance**: publicly naming an Iranian offer before seeing its content is **preparatory diplomatic positioning** — building an expectation of Iranian concession that will generate political room for acceptance. The posture of a president leaning into a deal close, not a president preparing ground operations. "Time is not on their side" substitutes economic pressure for military urgency, re-emphasizing the blockade-attrition theory over cross-domain escalation.
+- *Sources: Reuters, U.S. News, WHBL, MarketScreener, Investing.com, Times of Israel, Newsweek*
+
+### Israel Defense Minister Katz "Stone Age" Threat — Awaits US Green Light (April 23-24, 2026)
+- **Israeli Defense Minister Israel Katz** on Thursday Apr 23 said Israel was **"prepared to resume the war against Iran,"** adding that Israel was **"awaiting a green light from the United States — first and foremost to complete the elimination of the Khamenei dynasty… and additionally to return Iran to the Dark Age and the Stone Age by destroying key energy and electricity facilities and dismantling its national economic infrastructure."**
+- Katz: **"The IDF is ready both defensively and offensively, and the targets have been marked."**
+- **Significance**: target category Katz names ("energy and electricity facilities," "national economic infrastructure") is **AIR-STRIKE register** — inherits from South Pars (Mar 18), Tabriz petrochemical (Mar 29), Kharg US strikes (Mar 13, Apr 7) — all air-delivered. Decapitation language ("complete the elimination of the Khamenei dynasty") is air/missile/cyber-delivered in modern Israeli doctrine (Mar 17 Larijani, Mar 18 Khatib, Mar 26-27 Tangsiri precedents all air-delivered). Katz explicitly **subordinates Israeli action to US "green light"** — Israel is not taking unilateral escalation. Rhetorical escalation at the existing rung, NOT cross-rung expansion.
+- *Sources: Times of Israel, FMT, Voice of Emirates, Jerusalem Post, Yahoo, Pravda USA*
+
+### Israel Strikes Kunin + Bint Jbeil Outskirts Hours After Ceasefire Extension (April 24, 2026)
+- Hours after Trump's **Apr 23 Oval Office 3-week extension** of the Israel-Lebanon ceasefire, **Israel carried out airstrikes on several towns in southern Lebanon Apr 24**, including **Kunin** and the **outskirts of Bint Jbeil** per Lebanese media.
+- **Hezbollah called the ceasefire extension "meaningless."**
+- **Significance**: the pattern the war's ceasefire has followed since Apr 8 — formal state-level agreement + continued tactical-level strikes — persists. **Hezbollah's response remains rhetorical rather than renewed sustained rocket barrage** — the proxy-activation pathway to a US ground response remains dormant. Iran's primary public precondition for talks (Lebanon ceasefire) still formally in place through ~May 17.
+- *Sources: WashPost, Al Jazeera, Lebanese media, Wikipedia, CBS News*
+
+### Brent Crude $106.80 at 01:00 GMT Apr 25 — ~18% Weekly Gain (April 25, 2026)
+- **Brent crude stood at $106.80** as of 01:00 GMT Apr 25, up nearly **5% from Apr 22 close**, on track for **~18% weekly gain**.
+- **WTI near $98**.
+- Repricing reflects: Hegseth Pentagon briefing ground non-foreclosure + Katz "Stone Age" threat + Caine 34 vessels turned back + blockade "as long as it takes" + only 5 ships transiting Hormuz in 24 hrs, **partially offset by** Witkoff/Kushner Pakistan dispatch + Araghchi in Islamabad.
+- *Sources: Al Jazeera, The National, CNBC, Reuters*
+
+### Hormuz Traffic — Only 5 Ships Transited in 24 Hours Apr 24 (April 24-25, 2026)
+- **Friday shipping data per Windward**: only **5 ships**, including one Iranian oil products tanker, passed through the Strait of Hormuz in the 24 hours ending Apr 24 — vs the **~140 daily average** before the war began Feb 28.
+- Rolling Windward count: **9 Apr 22, 7 Apr 21, 15 Apr 20**.
+- A US-sanctioned supertanker did pass through Hormuz per Iran's **Tasnim** (one-off, unconfirmed by third party).
+- Blockade effectiveness: Caine confirms **34 vessels turned back total since Apr 13**. Commercial transit at near-total closure Day 13.
+- *Sources: US News, Windward, Tasnim, CNBC*
+
+### Iran Forensics Chief: Nearly 3,400 Killed in Iran Since Feb 28 (April 24, 2026)
+- **Iran's forensics chief** said nearly **3,400 people had been killed in Iran** since US-Israeli strikes began Feb 28.
+- Aggregate reporting: **~2,500 killed in Lebanon, 32 killed in Gulf states, 23 killed in Israel**.
+- HRANA Apr 7 figure of 3,636 (1,701 civilians, 1,221 military, 714 unclassified) remains larger civil-society tally but unchanged for weeks.
+- *Sources: NBC News, HRANA, Soufan Center*
+
+### Iran Executes Mehdi Farid for Alleged Israeli Spying (April 24, 2026)
+- Iran executed **Mehdi Farid**, identified as having held a position in a civil defense unit within a sensitive organization, convicted of spying for Israeli intelligence and sharing sensitive information.
+- Context: Trump on Apr 22 publicly thanked Iran for "scrapping" executions of 8 women; Iran judiciary had characterized that claim as "false news." Apr 24 execution reinforces that no blanket execution-halt was operative.
+- *Sources: CNBC, Iran International*
+
+## 1a. US-Iran Military Actions — Apr 22-23 Pattern (prior-day summary)
 
 ### Trump Orders US Navy to "Shoot and Kill" Any Boat Laying Mines in Hormuz; Claims "Total Control" (April 23-24, 2026)
 - **Trump Truth Social post Apr 23 morning**: the US Navy is ordered **"to shoot and kill any boat"** laying mines in the Strait of Hormuz, and the minesweeping effort is **tripled**. The order adds: **"There is to be no hesitation."**
@@ -1899,6 +1962,14 @@ Iran struck military and civilian targets across at least 9 countries plus Israe
 
 ## 7. Russia-Ukraine War Status (April 2026)
 
+### April 24 Update — Russia +910 Losses (Down from 1,100 Apr 23) — Pokrovsk Dominant (April 24, 2026)
+- **Ukrainian General Staff** reported Apr 24: Russia lost **910 personnel** (DOWN from 1,100 Apr 23). **Total combat losses ~1,323,460**.
+- **32 attacks** recorded from start of day; **highest activity in Pokrovsk direction**.
+- Equipment losses Apr 24: tanks **+4** (11,892), armored vehicles **+4** (24,445), artillery **+32** (40,606), MLRS **+1** (1,753), air defenses **+2** (1,353), UAVs **+1,175** (254,605), vehicles **+129** (91,256).
+- **Sawtooth pattern**: Apr 19 (153) → Apr 20 (206) → Apr 21 (231) → Apr 22 (194) → Apr 23 (127) → Apr 24 (+910 losses, lower engagement tempo).
+- Pentagon **four-pressure-point posture** persists (Iran blockade + Russia-Ukraine + DPRK + Taiwan Han Kuang 42 concluded Apr 24).
+- *Sources: Ukrinform, UA News, RBC-Ukraine, Russia Matters, Mediazona*
+
 ### Orthodox Easter Ceasefire — Expired With Massive Violations (April 11-13, 2026)
 - **Putin declared a 32-hour ceasefire** from **16:00 (13:00 GMT) on April 11** until the end of the day on **April 12, 2026**, in connection with the Orthodox feast of Easter.
 - **Zelenskyy confirmed** Ukraine will **"act accordingly"** — honoring the ceasefire. He stated that **"people need an Easter without threats and real progress toward peace."**
@@ -2191,6 +2262,14 @@ Iran struck military and civilian targets across at least 9 countries plus Israe
 - Opposition leader **Maria Corina Machado** stated US recognition would speed democratic transition.
 - **April 10, 2026**: **US lifts sanctions on Rodriguez** — signaling deepening normalization of the post-Maduro government. *(Foreign Policy)*
 
+### Petro First Head of State to Visit Venezuela Since Maduro Abduction — Meets Rodriguez at Miraflores (April 24, 2026)
+- **Colombian President Gustavo Petro** landed in Caracas Apr 24 and was received by Venezuelan acting president **Delcy Rodriguez** at **Miraflores Presidential Palace** — **first foreign head of state to visit Venezuela** since US military abduction of Nicolas Maduro Jan 3.
+- Replaces cancelled March Cucuta meeting.
+- Agenda focused on the **2,200-kilometre (1,367-mile) shared border** — guerrilla and drug-trafficking groups, migration, energy cooperation.
+- Rodriguez has cooperated with several US demands under her tenure: **halted oil exports to Cuba**, **opened Venezuela's state-owned oil industry to foreign companies**, **released political prisoners**.
+- **Significance**: first Latin American diplomatic re-engagement with the post-Maduro Venezuelan government at head-of-state level. Petro (Colombia's first left-wing president since 1950s) is positioning himself as a bridge between the new Venezuelan government and Latin America.
+- *Sources: Al Jazeera, WashPost, Latin America Reports, ColombiaOne, TeleSUR, GZERO, Orinoco Tribune, ABC News*
+
 ---
 
 ## 17. Cuba — Cascading Crisis
@@ -2222,7 +2301,8 @@ Iran struck military and civilian targets across at least 9 countries plus Israe
 - **April 7, 2026**: **Women's march in Havana** — hundreds of Cuban women rallied against US energy embargo; Diaz-Canel joined bike demonstrations outside US Embassy. *(Al Jazeera, Euronews)*
 - **April 2026**: US-Cuba talks described as **"very preliminary, very initial phase"** by diplomat **Josefina Vidal** — **"there are still no structured negotiations between the two governments."** *(AFP)*
 - **April 14-15, 2026**: **MASSIVE BLACKOUTS CONTINUE** — Cuba's National Electric System has only **1,180 MW available** versus **2,340 MW demand** (50% deficit). Peak deficit projected at **1,670 MW**. A **24-hour electric service interruption** occurred on Monday. Deficit range of **1,609-1,945 MW** sustained over recent days. **100+ demonstrations in March** — the highest number since **ACLED** started covering Cuba in 2018. Conditions described as the **worst since the 1990s "Special Period."** Tourism sector has collapsed — hotel closures, record-low international arrivals. *(CiberCuba, ACLED, Travel and Tour World)*
-- *Sources: Democracy Now, Al Jazeera, NPR, CNN, CBS News, Havana Times, The New Humanitarian, Time, Wikipedia (2026 Cuban crisis), CiberCuba, Washington Post, Fox News, JURIST, OAN, Euronews, AFP, Foreign Policy, ACLED, Travel and Tour World*
+- **April 24, 2026**: **HAVANA/PROVINCES BLACKOUT DISPARITY** — Havana has had **5 days without blackouts** while provinces (Holguin, Granma, Santiago de Cuba) report **18-24 hours of daily outages**; **Moa >18hrs**. Citizen outrage expressed on social media over capital-province disparity. **54 photovoltaic solar parks** generated **3,820 MWh** with **536 MW max capacity** but operate only daytime with no storage. **Second Russian ship Universal** carrying **251,000 barrels of diesel** expected Apr 29. Cuba needs **8 fuel ships per month** but has received only **1** since December 2025. *(CiberCuba, Electric Choice, CubaHeadlines, New Lines Magazine)*
+- *Sources: Democracy Now, Al Jazeera, NPR, CNN, CBS News, Havana Times, The New Humanitarian, Time, Wikipedia (2026 Cuban crisis), CiberCuba, Washington Post, Fox News, JURIST, OAN, Euronews, AFP, Foreign Policy, ACLED, Travel and Tour World, New Lines Magazine, Electric Choice*
 
 ---
 
