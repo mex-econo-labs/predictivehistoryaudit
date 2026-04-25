@@ -1,10 +1,82 @@
-# Geopolitical Briefing: State of the World as of April 25, 2026
+# Geopolitical Briefing: State of the World as of April 26, 2026
 
-Compiled for evaluation of mid-2024 predictions. All information sourced from publicly available reporting through April 25, 2026. Last updated: April 25, 2026.
+Compiled for evaluation of mid-2024 predictions. All information sourced from publicly available reporting through April 26, 2026. Last updated: April 26, 2026.
 
 ---
 
-## 1. US-Iran Military Actions — Apr 23-25 Escalation Stack + Diplomatic Reopening Cycle
+## 1. US-Iran Military Actions — Apr 25-26 Diplomatic Bifurcation
+
+### Trump Abruptly Cancels Witkoff + Kushner Pakistan Trip — "We Have All the Cards, They Have None!" (April 25, 2026)
+- **President Donald Trump abruptly cancelled** the Saturday Apr 25 trip by special envoy Steve Witkoff and senior adviser Jared Kushner to Pakistan for second-round talks with Iran, just hours before scheduled departure.
+- **Trump rationale (multiple statements)**:
+  - To reporters: **"They gave us a paper that should have been better and interestingly the minute I cancelled it, within 10 minutes, we got a new paper that was much better… they offered a lot but not enough."**
+  - On travel: **"We're not going to spend 15 hours in airplanes all the time going back and forth to be giving a document that was not good enough… we'll deal by telephone, and they can call us anytime they want."**
+  - On Truth Social: **"There is tremendous infighting and confusion within their LEADERSHIP. Nobody knows who is in charge, including them. Also, we have all the cards, they have none! If they want to talk, all they have to do is call!!"**
+- **CRITICAL**: Asked by Axios reporter **Barak Ravid** by phone whether the cancellation signaled a resumption of war with Iran, Trump responded: **"We haven't thought about it yet."**
+- **Iran FM Abbas Araghchi** had **departed Islamabad for Muscat (Oman)** earlier Saturday evening — completing the Pakistan leg of his tour without meeting US envoys. Araghchi delivered Iran's **"comprehensive" list of demands** to Pakistani mediators per Iran International. Per Tasnim, Muscat leg will "focus on regional issues and the war"; Moscow leg to follow.
+- **Iran FM spokesperson Esmaeil Baghaei**: "No meeting is planned to take place between Iran and the US."
+- **Significance**: this is the **single most important datum** of the Apr 25-26 cycle. Three distinct elements:
+  1. The cancellation **REVERSES** the active diplomatic restart of Apr 24 — but does NOT collapse the diplomatic track formally (Trump explicitly preserves phone-channel option).
+  2. Trump's "we have all the cards" framing is **bargaining-leverage language** designed to extract a better Iranian offer, **NOT mobilization language**. The natural next escalation step in any pre-invasion buildup is rhetorical hardening of military timeline; Trump did the OPPOSITE — explicitly kept the door open.
+  3. Trump's **"haven't thought about it yet"** answer to a direct war-resumption question is the **softest cabinet-level escalation rhetoric of the past 96 hours** and is structurally inconsistent with a planned ground or air re-escalation. A presidency preparing ground operations would FRONT-LOAD urgency and hard-deadline language; Trump is CONTINUING to defer urgency.
+- *Sources: CNN, NPR, Time, Axios, CBS, Fox News, Bloomberg, India TV, NBC, WashPost, Tribune India, ABC News, France24, Townhall, Daily Caller*
+
+### Araghchi Multi-Capital Tour: Pakistan → Muscat → Moscow — "Comprehensive" Iran Demands Delivered (April 25, 2026)
+- **Iran FM Abbas Araghchi** departed Islamabad for Muscat, Oman Saturday evening Apr 25 after delivering Iran's **"comprehensive"** list of demands for ending the war to Pakistani officials per Iran International.
+- Per **Tasnim**: the Muscat leg will "focus on regional issues and the war"; the subsequent **Moscow leg** will cover "bilateral, regional and international developments."
+- **The Kremlin has previously offered to take custody of Iran's enriched uranium**, proposing to store or reprocess it on Russian soil — likely a Moscow-leg agenda item.
+- Iran sources told **IRNA** Araghchi is expected to **return to Pakistan** after his Oman visit.
+- **Significance**: Iran's foreign minister investing in a multi-leg regional tour while delivering written demands to a mediator is structurally inconsistent with mobilization for ground war. The activity pattern of a regime climbing toward ground retaliation would be Tehran-centric (SNSC convocations, IRGC Ground Forces repositioning, Basij activation), not multi-capital diplomatic shuttle. Critically: **Araghchi LEFT Islamabad BEFORE Witkoff/Kushner had even arrived** — the chronology means Iran's posture is "we delivered our demands; you respond," not "we walked out in protest."
+- *Sources: Iran International, Press TV, WANA, Times of Israel, Tribune, ANI, Pravda USA, Muscat Daily, theweek.in*
+
+### Pezeshkian Appeals to Iranians to Conserve Electricity — First Official Acknowledgment of Blockade Strain (April 25, 2026)
+- **Iranian President Masoud Pezeshkian** on state TV Saturday Apr 25: **"We have asked our dear people… to reduce their own electricity and energy consumption… We do not need people to sacrifice for the time being, but we do need to control consumption. Instead of 10 lights, two lights should be turned on in the house — what is wrong with that?"**
+- Pezeshkian said US/Israel aim to **sow "dissatisfaction"** through infrastructure attacks + blockade.
+- **No reported power cuts in Tehran in recent days**.
+- **Significance**: Iran's president framing the war as a **domestic-economic-resilience challenge** (turn off lights) rather than a **kinetic-mobilization moment** (mobilize Basij, prepare for ground defense) is Tehran's strategic-posture statement. Iran is positioning to outlast the blockade through economic compression of civilian consumption + diplomatic engagement, NOT to escalate to ground theater.
+- *Sources: RedState, AAWSAT, Times of Israel, Dunya News, France24, 24NewsHD, Space War AFP, Cleveland Jewish News*
+
+### War Powers 60-Day Deadline — April 29 / Statutory May 1 — Sens Murkowski/Tillis/Collins/Curtis Want Vote (April 22-25, 2026)
+- Per the **1973 War Powers Resolution**, the US must terminate military operations after 60 days unless Congress has voted to declare war or passed AUMF. The war began **Feb 28**; **60-day mark is APR 29**; Trump has until **MAY 1** per statute to seek congressional action. Trump can extend by 30 days but only for "safe and orderly withdrawal" per 2025 Congressional Research Service report.
+- **Republican Sens. Lisa Murkowski (Alaska), Thom Tillis (N.C.), Susan Collins (Maine), and John Curtis (Utah)** have signaled Congress needs to vote on AUMF if Trump doesn't begin winding down operations.
+- **Senate Majority Leader John Thune (R-S.D.) and Senate Foreign Relations Committee Chair James Risch (R-Idaho)** have NO PLANS to bring an AUMF resolution to the floor.
+- The **House previously rejected** an effort to withdraw US forces from the Iran war.
+- **Significance**: under any plausible scenario where Trump intends ground operations, an AUMF vote would be CHURNED through Congress in the run-up. The COMPLETE ABSENCE of any AUMF debate three days from the 60-day mark is a structural confirmation that ground operations are not on the operational horizon.
+- *Sources: Foreign Policy, CNN, The Hill, Time, ABC News, PBS NewsHour, Responsible Statecraft*
+
+### Netanyahu Orders IDF to Strike Hezbollah "With Force" — 6 Killed in Saturday Strikes (April 25, 2026)
+- **PM Netanyahu's office** said Apr 25 he had instructed the IDF to strike Hezbollah targets in Lebanon **"with force"** after repeated truce violations.
+- **Hezbollah fired 2 rockets + drones** at northern Israel: sirens triggered in **Manara, Margaliot, Misgav Am**; Hezbollah explosive drones detonated "adjacent to" IDF soldiers south of Forward Defense Line (no injuries).
+- **IDF struck rocket launchers in Yater + Kafra**; artillery fire on **Houla**.
+- **Lebanese Health Ministry**: **6 killed** in Israeli strikes Saturday (4 in single drone strike — IDF said killed "3 Hezbollah terrorists").
+- Hezbollah cited Israeli ceasefire violations + Friday's strike on Yater (which wounded several) as retaliation trigger; Hezbollah said it "targeted the **Shtula settlement** with a rocket salvo."
+- **Total since Apr 16 ceasefire began: 15+ Lebanese killed**.
+- **Significance**: Hezbollah's **second ceasefire violation in 4 days** — the Lebanon track is the proxy-activation pathway most likely to trigger US ground response. **BUT**:
+  1. Netanyahu's "strike with force" is **AIR-STRIKE language at the existing IDF rung**, NOT "enter ground" war-widening language.
+  2. Iran's senior voices (Pezeshkian, Araghchi) **STILL deliberately decoupling from Lebanon track** — Tehran does NOT claim Hezbollah action as Iranian retaliation.
+  3. The structural ceasefire architecture (3-week extension through May 17) **remains formally intact** despite tactical fraying.
+- Risk-elevated, threshold-not-crossed.
+- *Sources: Haaretz, JPost, Times of Israel, Detroit News, WHBL, Press TV, CBC, Tribune India, Business Standard, Lebanese state news agency*
+
+### Brent $105.33 / WTI $94.40 — Weekly +~16% / +~13% Despite Trump Cancellation (April 24-25, 2026)
+- **Brent crude futures settled at $105.33 per barrel** Apr 24 (+0.3% daily, **+~16% weekly gain**); **WTI** ended at **$94.40** (-1.5% daily, +~13% weekly).
+- Saturday Apr 25 prices held near these levels (futures markets closed).
+- **Hormuz traffic Saturday Apr 25**: **~20 ships transited** per CNBC (FPMC C Lord with 2M bbl Saudi crude bound for Taiwan crossed) — partial recovery from 5-ship Friday count.
+- **CENTCOM 37 vessels turned back** since Apr 13 (up from 34 Apr 24).
+- *Sources: CNBC, Reuters, Trading Economics, The National, Al Jazeera, Algemeiner, Newsweek, ship-tracking OSINT*
+
+### Russia Launches One of Largest Aerial Strikes of War on Ukraine — 47 Missiles + 619 Drones (April 25, 2026)
+- Russian forces launched **47 missiles + 619 drones** on Ukraine overnight + during the day Apr 25 — one of the largest aerial strike packages of the war (Apr 15-16 "deadliest overnight" was 659 drones + 44 missiles).
+- Ukrainian air defenses **intercepted 580 drones + 30 missiles**.
+- **AT LEAST 7 KILLED, 57+ INJURED**.
+- **Dnipro hardest hit** — subjected to 10+ hour Russian attack; **4 killed** (incl 9-year-old boy among injured); 23 hospitalized (incl 17-year-old girl + 3 other children).
+- **Chernihiv (Nizhyn)** — 2 men aged 30 + 60 killed in Russian missile/drone attack.
+- Kharkiv, Sumy, Odesa, Kyiv oblasts also hit.
+- **Russia total combat losses ~1,324,690** (up ~1,230 from Apr 24's 1,323,460).
+- **Significance**: a sustained record-tempo Russian aerial campaign on Ukraine simultaneously with the US-Iran cancellation cycle ARGUES AGAINST any near-term US ground theater opening. Pentagon's four-pressure-point posture is now intensified across (a) Iran 3-carrier blockade, (b) Russia-Ukraine record-tempo aerial campaign, (c) DPRK Apr 19 SLBM-class test, (d) China Han Kuang 42 just concluded.
+- *Sources: Kyiv Independent, Euronews, US News, Time News, Moscow Times, Deccan Chronicle, Ukrinform, EMPR, ABC News, PBS*
+
+## 1a. US-Iran Military Actions — Apr 23-25 Escalation Stack + Diplomatic Reopening Cycle (prior-day summary)
 
 ### Hegseth/Caine Pentagon Press Briefing — "Operation Epic Fury" — Hegseth Does Not Foreclose "Boots on the Ground" (April 24, 2026)
 - **Defense Secretary Pete Hegseth** and **Joint Chiefs Chairman Gen. Dan Caine** held a press briefing Friday April 24 at the Pentagon on **"Operation Epic Fury"** — apparent US operational name for the campaign since Feb 28.
