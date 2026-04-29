@@ -1,10 +1,93 @@
-# Geopolitical Briefing: State of the World as of April 29, 2026
+# Geopolitical Briefing: State of the World as of April 30, 2026
 
-Compiled for evaluation of mid-2024 predictions. All information sourced from publicly available reporting through April 29, 2026. Last updated: April 29, 2026.
+Compiled for evaluation of mid-2024 predictions. All information sourced from publicly available reporting through April 30, 2026. Last updated: April 30, 2026.
 
 ---
 
-## 1. US-Iran Military Actions — Apr 28 UAE Quits OPEC + Trump Iran 'State of Collapse' Framing + GCC Leaders Jeddah Summit + First LNG Tanker Exits Gulf + Senate GOP Defeats 5th War-Powers Resolution
+## 1. US-Iran Military Actions — Apr 29 Trump 'Stuffed Pig' Axios Rejection + Iran Rial Record Low + Iran 'Practical Action' Threat + Reuters IRGC Wartime Rule + $25B Pentagon Cost Disclosure + War Powers 60-Day Mark Passed
+
+### Trump Rejects Iran Hormuz-for-Blockade Offer Via Axios — 'Choking Like a Stuffed Pig' — Blockade Stays Until Nuclear Deal (April 29, 2026)
+- President **Trump told Axios's Barak Ravid in a Wednesday Apr 29 phone call** that he will keep the U.S. naval blockade on Iran in place until Tehran agrees to a nuclear deal — formally rejecting Iran's Apr 27 proposal to first reopen the Strait of Hormuz before nuclear talks resume.
+- Trump quote: **"The blockade is somewhat more effective than the bombing. They are choking like a stuffed pig. And it is going to be worse for them. They can't have a nuclear weapon."**
+- Trump separately to reporters Apr 29: Iran has to **"cry uncle"** and say **"we give up"**.
+- **Significance**: this is the FIRST CABINET-LEVEL US REJECTION via Trump himself (after Rubio's Apr 27 Fox News rejection). Trump is now publicly committing to indefinite economic-attrition strategy as preferred kinetic instrument; explicitly characterizing the blockade as MORE EFFECTIVE than the bombing campaign that preceded it. The 'stuffed pig' framing telegraphs no urgency to escalate — instead it commits to the slow-blockade pathway. CRITICALLY: this is rhetoric of indefinite ECONOMIC strangulation, not preparation for ground operations or air re-escalation. A presidency preparing for ground invasion would not characterize blockade as MORE effective than bombing — that framing structurally precludes the rationale for ground operations.
+- *Sources: Axios, Bloomberg, CNN, ABC News, ABC7 Los Angeles, Tribune India, HotAir, Newkerala, Pravda Trump*
+
+### Iran's Rial Hits Record Low 1.8M per USD — Down ~12% in One Week on Blockade Pressure (April 29, 2026)
+- **Iran's national rial currency dropped Wednesday Apr 29 to a record low of approximately 1.8 million per US dollar** — down roughly 12% in one week as the U.S. naval blockade makes it harder for Tehran to keep exporting oil.
+- The rial had remained relatively stable in the early weeks of the war (in part because there was little trading or imports) but the blockade has now decisively impacted the foreign-exchange market.
+- Prices of basic household goods had been rising before the rial's latest fall but have **surged over the past two weeks**: people buying daily essentials face higher prices for milk, yogurt, cooking oil, bread, rice, cheese, detergents.
+- The hit comes months after the **January currency shock** helped fuel nationwide protests.
+- **Significance**: the rial collapse confirms that Trump's blockade-as-primary-instrument strategy is producing intended pain on Iran's economy; combined with Pezeshkian's Apr 25 electricity-conservation appeal and Apr 28 Iranian army spokesperson 'in war situation' framing, Iran is publicly demonstrating that the blockade IS biting — but Tehran's response remains DIPLOMATIC + RHETORICAL (Ghalibaf 'collapse from within' charge), NOT KINETIC. Iran is not mobilizing ground forces to break the blockade physically; it is trying to negotiate or wait it out.
+- *Sources: BNN Bloomberg, Bloomberg, Washington Post, Al Jazeera, Al Arabiya, Inquirer, Columbian, Post-Gazette, WSLS, Washington Times*
+
+### Iran 'Practical and Unprecedented Action' Threat Via Press TV — Ghalibaf Mocks Trump on Oil Prices (April 29, 2026)
+- **An unidentified senior security source told Iran's state-owned Press TV Apr 29** that the U.S. naval blockade **"will soon be met with practical and unprecedented action."**
+- The source stressed that Iran's armed forces **"believe that patience has limits and that a punishing response is necessary"** if the blockade continues.
+- **Iran Parliament Speaker Mohammad Bagher Ghalibaf** separately Apr 29 mocked Trump on rising oil prices and accused the U.S. of trying to **"activate economic pressure and internal division"** in Iran **"to weaken or even collapse us from within"**; promised Iranians **"will defeat this deceptive plan of the enemy"** and **"achieve a brilliant victory"** in the war.
+- **Significance**: 'practical and unprecedented action' is the most kinetic Iran-side rhetoric since the Apr 22 'act of war' framing — but the source is anonymous (deniable), no specific operational step is named, and the framing remains MARITIME-DOMAIN ('blockade'). Crucially, no parallel operational indicators have appeared (no IRGC Ground Forces repositioning, no Basij activation, no conscription emergency orders, no surge of fast attack craft, no public mine-laying signals). Pattern of rhetorical escalation without operational follow-through continues — same as Apr 19 Khatam al-Anbiya 'retaliation' vow that was deferred Apr 20 citing crew families.
+- *Sources: Al Jazeera, Press TV*
+
+### Reuters Apr 29 / Manila Times Apr 30: IRGC Effectively Ruling Iran — IRGC Commander Ahmad Vahidi Key Figure — Mojtaba Khamenei Sidelined (April 29-30, 2026)
+- **Reuters reporting** (carried Apr 29 by EADaily, Apr 30 by Manila Times, Express Tribune, Times of Israel, Euronews, Time, Jerusalem Post): per **Pakistani and two Iranian sources, the IRGC has effectively seized wartime power in Iran**, with **IRGC commander Ahmad Vahidi** described as the key figure.
+- Supreme Leader **Mojtaba Khamenei** (who succeeded his father Ali after the Feb 28 assassination) is now described as **awake but sidelined**; his role is largely to **legitimize decisions made by his generals**, rather than issue directives himself.
+- He has **not appeared in public** and communicates through IRGC assistants or limited audio channels.
+- Per the Reuters analysis, wartime has concentrated power in a narrow and rigid circle: the **Supreme National Security Council, the Office of the Supreme Leader, and the IRGC** — with the IRGC assuming a dominant role both in military strategy and in key political decisions.
+- **Significance**: the formal consolidation of IRGC wartime control changes the negotiating reality — Iran's diplomatic delegation (Araghchi, Ghalibaf, Pezeshkian) increasingly answers to IRGC operational command rather than civilian leadership. The Apr 27 Hormuz-for-blockade proposal likely had IRGC sign-off (raising its weight as a real signal). Critically, IRGC dominance means Iran's response menu is increasingly defined by IRGC doctrine — which is **asymmetric/maritime/proxy-network, NOT conventional ground confrontation**.
+- *Sources: Reuters via EADaily, Manila Times, Express Tribune, Times of Israel, Euronews, Time, Jerusalem Post, UANI*
+
+### Pentagon Comptroller to Congress: Iran Operation Cost $25B So Far — Mostly Munitions (April 29, 2026)
+- The **Pentagon's comptroller told Congress** Apr 29 that the cost of the Iran operation so far has been **$25 billion**, with most of that spent on **munitions**.
+- **Significance**: the $25B figure for ~9 weeks of operations is the FIRST PUBLIC PENTAGON COST DISCLOSURE of the war and is on the lower end of expectations given the scale of the Feb 28 air campaign + sustained blockade + 3-carrier posture. **Munitions-heavy spending profile is consistent with the air-campaign + maritime-interdiction operational mix; a ground-operations preparatory budget would show large logistics/sustainment/sealift line items, not munitions concentration.** The disclosure is also a structural constraint: $25B in 9 weeks is a sustainable rate (~$140B/year, comparable to Iraq War peak years) but Congressional appetite for indefinite extension at that rate without an AUMF vote is uncertain.
+- *Sources: CBS News*
+
+### Brent Crude Jumps ~6% to Close $118.03 Apr 29 — Intraday $120.30 Highest Since June 2022; US Gas $4.22/Gal (April 29, 2026)
+- **Brent crude futures rose about 6% to close at $118.03 per barrel** on April 29, 2026 — intraday high **$120.30**, the highest level since **June 2022**.
+- WTI advanced nearly 7% to settle at **$106.88** per barrel.
+- US national gasoline average **$4.22/gal** Apr 29 per AAA (up from $4.18 Apr 28).
+- Drivers: Trump's 'stuffed pig' Axios interview rejecting Iran's Hormuz proposal; Iran rial record low signaling deepening Iranian economic pain; Iranian security source 'practical and unprecedented action' threat via Press TV; CENTCOM Apr 29 revised vessel-turned-back count downward (29 vs. 39 Apr 28); War Powers 60-day mark passed without AUMF activity.
+- **Significance**: the move past $118 is the third-highest closing price of the entire war (after Mar 30 $116.50 and Apr 7 $144.42 dated spot); the intraday move past $120 confirms market pricing in extended blockade duration and rising Iran-retaliation risk. The conflict is now in its **NINTH WEEK**; ~20 million barrels per day of crude/fuels/petrochemicals affected by Hormuz disruption per IEA. Trump's verbal endorsement of UAE OPEC exit ('great') in CNBC interview Apr 29 paradoxically did NOT push prices down despite his framing — markets read UAE exit as further fragmentation, not relief.
+- *Sources: CNBC, UPI, Fortune, Bloomberg, Al Jazeera, TradingEconomics, OilPrice*
+
+### CENTCOM Apr 29: 29 Vessels Turned Back Since Apr 13 — Revised Lower From 39 Apr 28 (April 29, 2026)
+- Per a **CENTCOM release Apr 29**, the U.S. blockade of the Strait of Hormuz has directed **29 vessels** to turn back or return to port since the beginning of the blockade Apr 13 — a **REVISION DOWNWARD from the 39 figure reported Apr 28**.
+- **CENTCOM refuted past reporting** that a number of ships had passed the blockade, saying that the **M/V Hero II and M/V Hedy** are instead **docked at Iran's Chabahar port after being directed to turn back**.
+- Additionally, six Iran-flagged tankers attempting to cross the blockade departed from Chabahar — **all six turning back** in response to U.S. enforcement actions.
+- **Significance**: the revision suggests CENTCOM is consolidating its counting methodology — possibly reclassifying some prior 'turned back' vessels as 'docked at Chabahar after being directed back' (which CENTCOM now treats as a successful blockade outcome rather than a separate category). The downward revision should not be read as blockade weakening — Apr 28 MarineTraffic data showed only 6 ships attempting Hormuz crossing, and zero ships actually breached the blockade. Naval rung continues at the established VBSS/turn-back tempo — no new tanker seizures Apr 26-29; **seizure scoreboard remains 4-2 US-Iran** (Touska, Tifani, Majestic X, LPG Sevan vs. MSC Francesca + Epaminondas).
+- *Sources: LiveUAMap, CENTCOM, UANI, Voice of Emirates*
+
+### War Powers 60-Day Mark Passed Apr 29 — Statutory May 1 is Tomorrow (April 30, 2026)
+- The **1973 War Powers Resolution 60-day clock expired Apr 29**; **statutory May 1 deadline is TOMORROW**.
+- Trump has until May 1 to obtain congressional approval to continue operations or extend by 30 days via written certification of 'unavoidable military necessity.'
+- So far **Congress has NOT approved any AUMF tied to Iran**.
+- **Senate Republicans defeated the 5th Democratic war-powers resolution Apr 28 (46-51)**; Sen. Markey (D-MA) led; Sen. Murkowski (R-AK) reportedly working on AUMF in background but no public timeline; SML Thune + SFRC chair Risch decline to schedule.
+- **Time Apr 28 Scoop**: Democrats exploring suing Trump if Congress doesn't authorize.
+- Beyond the 90-day window (May 31), the president is required to terminate deployment if Congress has not declared war or otherwise authorized continuing military action — but past presidents have refused to abide, claiming this part of the WPR is unconstitutional.
+- **Significance**: congressional inaction past May 1 is now the operational reality — Trump will continue blockade + air-threatened operations as 'limited military activity' that the executive will assert is below War Powers threshold. No new troop authorization, no draft signals, no AUMF prep visible. The 60-day clock passing without operational consequence is a structural confirmation of Path (c) — congressional inaction past statutory deadline.
+- *Sources: Al Jazeera, Time, CNN, Truthout, Military.com, ABC News, Allaboutlawyer*
+
+### Lebanon Apr 29 — Lebanese Army Soldier + Brother Killed in Israeli Strike Outside Security Zone; 8 Killed Including 3 Paramedics by 'Double-Tap' Strike; 20th Army Soldier Killed Since Mar 2 (April 29, 2026)
+- The **Lebanese Armed Forces** said Wednesday Apr 29 that a **Lebanese army soldier and his brother were killed in an Israeli strike on a motorcycle in the town of Khirbet Selm in the Bint Jbeil district** of southern Lebanon — **OUTSIDE the Israeli-designated 10km security zone**.
+- The pair were heading from the soldier's post to his home in the adjacent village of Souaneh.
+- **20TH LEBANESE ARMY SOLDIER killed by Israeli strikes since Mar 2** per Lebanese army announcement (most while traveling to/from duty stations).
+- **3 LEBANESE PARAMEDICS killed in a separate Israeli 'double-tap' strike** same day (Antiwar.com, Euronews).
+- **8 TOTAL killed in southern Lebanon Apr 29**.
+- The IDF said it had **identified and destroyed a Hezbollah rocket launcher embedded within a civilian building** during operations of the Givati Brigade in the Israeli-held security zone.
+- **Lebanese President Joseph Aoun** said his government was working hard to **"consolidate"** the shaky ceasefire.
+- **Significance**: Apr 29 Khirbet Selm strike OUTSIDE the security zone is a continuation of the Apr 27 Beqaa Valley geographic-expansion pattern — Israeli strikes are now reaching beyond the 10km buffer. BUT: (1) the IDF response remains AIR-STRIKE register only — no Israeli ground re-entry beyond the existing security zone; (2) Lebanese ARMY casualties (20th soldier killed) escalate Lebanon-state vs Israel friction WITHOUT activating Hezbollah cross-border barrage at scale; (3) Aoun's 'consolidate' framing (vs Hezbollah's escalation language) indicates the Lebanese state is trying to contain rather than escalate; (4) Trump-administration pressure on Israel (Israel Hayom Apr 28 'measured response... explicit US request') still operative. Lebanon-track operationally fraying further but US-orchestrated containment posture intact.
+- *Sources: Al Arabiya, Times of Israel, Daily Sabah, Naharnet, Antiwar.com, Euronews, Middle East Monitor, JPost, Arab News, SBS News*
+
+### USS Boxer ARG Still in Sulu Sea Apr 27-30 — Apr 23-28 CENTCOM ETA Window Expired Without Expedite (April 27-30, 2026)
+- Per **USNI News April 27 fleet tracker**: USS Boxer (LHD-4) arrived Tuesday Apr 21 in Apra Harbor, Guam, and is now operating in the **Sulu Sea**.
+- The Boxer Amphibious Ready Group includes Boxer, USS Comstock (LSD-45), USS Portland (LPD-27) and the 11th Marine Expeditionary Unit (~2,500 Marines).
+- The **USS Boxer ARG has NOT YET arrived in the CENTCOM area of responsibility (Middle East)** as of latest available reports — the Apr 23-28 ETA window has now **EXPIRED Apr 28-29** without flank-speed expedite ordered.
+- USS TRIPOLI ARG remains the only ARG in CENTCOM theatre (with USS New Orleans and 31st MEU elements).
+- **Significance**: Boxer ARG's continued routine pace (no flank-speed expedite ordered despite Trump's 'stuffed pig' rejection rhetoric, despite Iran's 'practical action' threat, despite War Powers 60-day mark passing) is the strongest operational evidence that no ground component to the war is being prepared. A Pentagon preparing for ground operations would surge the second ARG; the actual posture is the second ARG taking the long way and conducting routine training operations en route.
+- *Sources: USNI News April 27, CENTCOM, Stars and Stripes, RealClearDefense, TWZ, Pravda USA*
+
+---
+
+## 1A. US-Iran Military Actions — Apr 28 UAE Quits OPEC + Trump Iran 'State of Collapse' Framing + GCC Leaders Jeddah Summit + First LNG Tanker Exits Gulf + Senate GOP Defeats 5th War-Powers Resolution (prior-day summary)
 
 ### UAE Announces It Will Exit OPEC + OPEC+ Effective May 1 — First Major Gulf-Alliance Fracture of War (April 28, 2026)
 - The **United Arab Emirates announced Tuesday Apr 28, 2026 that it will leave OPEC effective May 1** — first major Gulf-alliance fracture since the US-Israel war on Iran began Feb 28.
