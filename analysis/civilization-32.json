@@ -12,7 +12,7 @@
     "schema_version": "1.0",
     "view_count": 193792,
     "view_count_updated": "2026-04-03",
-    "last_scoring_date": "2026-04-15"
+    "last_scoring_date": "2026-05-01"
   },
   "synopsis": "This lecture examines Rome's rise, fall, and legacy through the lens of cultural identity and citizenship, drawing sustained parallels to modern America. The speaker argues that Rome's republican value system — emphasizing liberty, public virtue (res publica), and piety over Greek values of individual freedom, eudaimonia, and arete — gave Rome a flexible citizenship model that enabled military dominance. However, the contradiction between republic and empire generated perpetual civil wars, culminating in Caracalla's 212 AD universal citizenship edict which, the speaker argues, destroyed Roman identity and effectively ended Rome. The lecture concludes with three lessons applied to America: cultural identity requires controlled citizenship, aggression turns inward when external enemies are exhausted, and all empires fall.",
   "thesis": {
@@ -32,7 +32,7 @@
         "timestamp": "01:04:56",
         "falsifiable": true,
         "status": "confirmed",
-        "status_note": "Operation Midnight Hammer launched June 2025, approximately 4 months after this lecture. Full-scale US-Israeli campaign followed Feb 28, 2026. Prediction confirmed well within the 5-year window.",
+        "status_note": "Operation Midnight Hammer launched June 2025, ~4 months after this lecture. Full-scale US-Israeli campaign began Feb 28, 2026; by May 1, 2026 the war has expanded to a US naval blockade of Iranian ports, Khamenei's assassination, and cabinet-level ground-options briefings to Trump (Apr 30). Confirmed well within the 5-year window — prediction sharper than the speaker may have intended.",
         "type": "prediction"
       },
       {
@@ -40,7 +40,7 @@
         "timestamp": "01:05:07",
         "falsifiable": true,
         "status": "untested",
-        "status_note": "As of March 2026, while US political polarization remains extreme and political violence has occurred (e.g., assassination attempts on Trump), the US has not experienced anything resembling a civil war with systematic political killings. The 10-year window extends to ~2035.",
+        "status_note": "As of May 1, 2026, US polarization remains extreme; the WHCD shooting (Apr 25-27) and ongoing political violence have occurred, but no civil war with systematic political killings. The 10-year window extends to ~2035; remains open.",
         "type": "prediction"
       },
       {
@@ -48,7 +48,7 @@
         "timestamp": "01:02:31",
         "falsifiable": true,
         "status": "untested",
-        "status_note": "The 10-20 year window extends to 2035-2045. While immigration is a major political issue in the West, no civil wars have erupted as of March 2026.",
+        "status_note": "The 10-20 year window extends to 2035-2045. As of May 1, 2026, immigration remains politically charged but no Western civil war has erupted. Window remains open.",
         "type": "prediction"
       },
       {
@@ -295,6 +295,7 @@
   "verdict": {
     "strengths": "The lecture has genuine pedagogical merit in several areas: the distinction between Greek democracy and Roman republicanism, while schematized, captures a real and important difference in political philosophy; the use of Tacitus's account of Marcus Terentius's trial is excellent primary source analysis that introduces students to historiographical thinking; the observation that Rome's flexible citizenship model gave it a military advantage over exclusive Greek city-states is well-supported by classical scholarship; and the prediction of US-Iran conflict, confirmed within months, demonstrates genuine strategic foresight. The framing of the republic-empire contradiction as a persistent source of Roman internal conflict is historically sound and provides an interesting lens for understanding Roman political culture.",
     "weaknesses": "The lecture suffers from significant analytical and factual shortcomings. The claim that Caracalla's edict effectively ended Rome in 212 AD is a provocative thesis stated as fact, ignoring centuries of continued Roman civilization and extensive scholarly debate. Several factual claims are wrong or exaggerated: Canada's population figures, the exclusivity of American football, the universal brain damage of football players. The Rome-America analogy is drawn selectively — similarities are highlighted while fundamental differences (nuclear weapons, democratic accountability, global institutions, technological civilization) are ignored. The immigration argument slides from historical analysis into contemporary political advocacy without acknowledging the complexity of immigration's effects on national identity. The deterministic framework — 'aggression must go somewhere' — lacks mechanistic specificity and ignores the many ways societies have managed, channeled, or reduced internal violence without civil war.",
-    "viewer_advisory": "Viewers should be aware of several analytical choices that shape this lecture's conclusions: (1) The Rome-America analogy is selectively constructed — the speaker highlights parallels while ignoring differences that would weaken the comparison. (2) The claim that Caracalla's 212 AD edict effectively ended Rome is the speaker's own thesis, not scholarly consensus — it bypasses extensive academic debate about the edict's actual effects and significance. (3) The immigration segment slides from historical analysis into contemporary political commentary, presenting one-sided arguments with inaccurate statistics (Canada's population figures are wrong). (4) China is conspicuously exempt from the analytical framework applied to America and Rome — the speaker does not examine whether China's own restrictive citizenship, ethnic nationalism, or internal contradictions might subject it to similar dynamics of decline. (5) The prediction of American civil war rests on a simplistic 'aggression must go somewhere' premise that treats complex social dynamics as hydraulic systems. (6) The classroom setting lends institutional authority to what are often contested interpretations presented as established facts."
+    "viewer_advisory": "Viewers should be aware of several analytical choices that shape this lecture's conclusions: (1) The Rome-America analogy is selectively constructed — the speaker highlights parallels while ignoring differences that would weaken the comparison. (2) The claim that Caracalla's 212 AD edict effectively ended Rome is the speaker's own thesis, not scholarly consensus — it bypasses extensive academic debate about the edict's actual effects and significance. (3) The immigration segment slides from historical analysis into contemporary political commentary, presenting one-sided arguments with inaccurate statistics (Canada's population figures are wrong). (4) China is conspicuously exempt from the analytical framework applied to America and Rome — the speaker does not examine whether China's own restrictive citizenship, ethnic nationalism, or internal contradictions might subject it to similar dynamics of decline. (5) The prediction of American civil war rests on a simplistic 'aggression must go somewhere' premise that treats complex social dynamics as hydraulic systems. (6) The classroom setting lends institutional authority to what are often contested interpretations presented as established facts.",
+    "steelman": "Stripped of its more polemical claims, the lecture identifies a real tension that scholars from Polybius through Murray Rothbard to Andrew Bacevich have analyzed: republics that acquire extensive overseas commitments tend to develop imperial executive power that erodes the original constitutional structure. The Iran war prediction has been confirmed; the broader pattern of executive expansion (war-powers resolutions defeated, IEEPA tariffs invoked then struck down, NDAA troop floors threatened) suggests the republican-imperial tension the lecture diagnoses is genuinely operative. The thesis that universal citizenship without cultural integration weakens national cohesion is contestable but not dismissible — political scientists like Putnam have documented short-term costs of rapid demographic change, and the lecture's intuition that something has shifted in late-modern Western polities is shared by serious analysts across the political spectrum. The error is the deterministic framing and the selective application of the framework only to the West, not the underlying observation that republican forms struggle to govern imperial commitments."
   }
 }

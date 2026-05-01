@@ -12,7 +12,7 @@
     "upload_date": "2026-03-10",
     "view_count": 1355560,
     "view_count_updated": "2026-04-03",
-    "last_scoring_date": "2026-04-15"
+    "last_scoring_date": "2026-05-01"
   },
   "synopsis": "This lecture introduces the 'Law of Escalation' — the claim that control over escalation dynamics matters more than escalation dominance (i.e., having bigger weapons). Using a schoolyard bully analogy, the speaker argues that Iran possesses greater strategic flexibility than the US-Israel alliance because Iran can calibrate its responses selectively while the US is locked into a blunt, linear escalation ladder. The lecture makes three predictions about the US-Iran war: ground troops will be deployed, nuclear weapons will not be used, and the Al-Aqsa mosque will be destroyed. A game theory analysis of four players (US, Iran, Israel, Saudi Arabia) argues that Israel, Saudi Arabia, and Iran all have incentives to draw the US into a prolonged ground war that would destroy American power, and that the US is compelled to fight due to its Mackinder-style heartland containment doctrine.",
   "thesis": {
@@ -31,8 +31,8 @@
         "claim": "The United States will send ground troops into Iran.",
         "timestamp": "00:04:34",
         "falsifiable": true,
-        "status": "disconfirmed",
-        "status_note": "Day 35 of war (Apr 3, 2026): US-Iran war remains air/missile campaign only. NO ground troops deployed. Trump's Apr 1 primetime address vowed 2-3 more weeks of strikes only. Ground ops probability at lowest point. No draft, no conscription legislation. WSJ reports Trump willing to end war without reopening Hormuz.",
+        "status": "untested",
+        "status_note": "Through May 1, 2026 (Day 63): No mass ground invasion. However, ground-inclusive options entered formal cabinet-level discussion for the first time on Apr 30: CENTCOM Cmdr Cooper + Joint Chiefs Caine briefed Trump on Hormuz seizure 'that could include ground forces' plus special-forces uranium-recovery. 192nd MP Battalion Connecticut National Guard deployed (~150 logistics) — first NG mobilization for war. Murkowski plans AUMF debate week of May 11. Prediction is live again rather than definitively wrong; no full ground deployment yet but option now actively considered.",
         "type": "prediction"
       },
       {
@@ -40,7 +40,7 @@
         "timestamp": "00:05:25",
         "falsifiable": true,
         "status": "confirmed",
-        "status_note": "Day 35 (Apr 3, 2026): No nuclear weapons used despite multiple escalatory rounds. Prediction holding.",
+        "status_note": "Through May 1, 2026 (Day 63): No nuclear weapons used despite naval blockade, ship boardings, hypersonic weapon requests, and ground-option briefings. Prediction continues to hold.",
         "type": "prediction"
       },
       {
@@ -64,7 +64,7 @@
         "timestamp": "00:34:43",
         "falsifiable": true,
         "status": "untested",
-        "status_note": "War Day 35 (Apr 3, 2026). Iran: 2,076+ killed, 26,500+ wounded, 9+ senior officials assassinated, nuclear program set back. But Hormuz blockade effective (2,000+ ships stranded), Houthis joined war Mar 28, Iran allows 5 nations through selectively. WSJ reports Trump willing to end war without reopening Hormuz. UK hosted 41-nation Hormuz conference without US. Outcome undetermined but Iran showing resilience despite severe losses.",
+        "status_note": "Through May 1, 2026 (Day 63): Iran severely damaged — 10+ senior officials assassinated (Larijani, Soleimani-Basij, Khatib, Tangsiri, Eshaghi, Nasirzadeh, Pakpour, Vafaei, Atimi); HRANA reports 3,597+ deaths; rial 1.8M/USD record low; IMF -6.1% GDP 2026. Khamenei replaced by son Mojtaba (now reportedly sidelined since Apr 7+; IRGC Vahidi effectively rules). But Iran still fighting: Hormuz blockade ongoing, ships seized Apr 22-23, refused capitulation, rejected US 15-point plan. Trump 'choking like a stuffed pig' (Apr 29 Axios). Allies fragmenting: 41-nation Hormuz conferences without US; UK refused blockade; Merz: US 'humiliated.' Outcome remains undetermined.",
         "type": "prediction"
       },
       {
@@ -72,7 +72,7 @@
         "timestamp": "00:48:51",
         "falsifiable": true,
         "status": "disconfirmed",
-        "status_note": "Saudi Arabia refused airspace and condemned strikes. UK hosted 41-nation Hormuz conference without US (Apr 2). No evidence of Saudi, Israeli, or Iranian conspiracy to force US ground invasion. The war remains air-only on Day 35 with ground ops probability at lowest point. Three-way conspiracy thesis unsupported.",
+        "status_note": "Through May 1, 2026: Saudi Arabia continues to refuse airspace and condemn strikes. GCC summit in Jeddah Apr 28; UAE OPEC+ exit Apr 28; 41-nation Hormuz conferences happening WITHOUT US (UK Apr 2, Macron-Starmer Apr 17, GCC Apr 28). No evidence of three-way collusion to force US ground invasion. Iran is fighting US directly via Hormuz blockade and ship seizures, not coordinating with Israel/Saudi.",
         "type": "prediction"
       },
       {
@@ -292,6 +292,7 @@
   "verdict": {
     "strengths": "The lecture introduces a genuinely useful conceptual distinction between escalation dominance and escalation control. The observation that the party with more options (strategic flexibility) can sometimes outmaneuver the party with more powerful weapons is well-supported by historical cases and academic literature, even if the speaker doesn't cite that literature. The multi-dimensional framing of warfare (narrative, political, economic, military) is sophisticated and pedagogically valuable. The cost pyramid concept — distinguishing cheap assets (soldiers) from expensive ones (aircraft) and their implications for sustainability — is a legitimate military-economic insight. The no-nuclear-weapons prediction has proven correct so far. The identification of divergent interests among nominal allies (US, Israel, Saudi Arabia) is analytically sound as a general principle.",
     "weaknesses": "The lecture suffers from several critical analytical failures: (1) It was uploaded March 10, 2026 — just 10 days after the Feb 28 strikes that killed Khamenei and devastated Iranian military infrastructure — yet presents Iran as strategically dominant without acknowledging these massive setbacks to Iranian capability and leadership. (2) The ground invasion prediction has not materialized despite nearly a year of conflict; the US has prosecuted the war entirely through air/missile strikes, directly contradicting the 'inverted cost pyramid must be corrected' thesis. (3) The claim that Israel wants the US to lose is extraordinary and unsupported by any evidence. (4) The Saudi Arabia analysis has been quietly revised from Geo-Strategy #8 without acknowledging the earlier prediction was wrong. (5) The bully analogy is so normatively loaded that it functions as propaganda rather than analysis. (6) The speaker's 'game theory model' is never formally specified and bears no resemblance to actual game theory (no payoff matrices, no equilibrium analysis, no formal modeling).",
-    "viewer_advisory": "Viewers should note: (1) The 'Law of Escalation' is presented as the speaker's original theory but closely resembles well-established concepts in strategic studies (Schelling's work on commitment and coercion, Kahn's escalation framework) — the lack of attribution obscures whether the speaker is aware of this literature. (2) The schoolyard bully analogy is not a neutral analytical tool — it preloads the moral judgment that the US is an illegitimate aggressor. (3) The game theory analysis does not use actual game theory methodology; it is informal strategic speculation labeled as game theory for authority. (4) The prediction that ground troops are inevitable has been tested by nearly a year of air-only warfare and has not yet materialized. (5) The claim that Israel, Saudi Arabia, and Iran are all secretly working to destroy the US lacks evidence and attributes conspiratorial coordination to actors with genuinely conflicting interests. (6) The lecture ignores or minimizes massive damage inflicted on Iran (leadership decapitation, nuclear program destruction, infrastructure degradation) while emphasizing Iran's strategic advantages, creating a distorted picture of the conflict's trajectory."
+    "viewer_advisory": "Viewers should note: (1) The 'Law of Escalation' is presented as the speaker's original theory but closely resembles well-established concepts in strategic studies (Schelling's work on commitment and coercion, Kahn's escalation framework) — the lack of attribution obscures whether the speaker is aware of this literature. (2) The schoolyard bully analogy is not a neutral analytical tool — it preloads the moral judgment that the US is an illegitimate aggressor. (3) The game theory analysis does not use actual game theory methodology; it is informal strategic speculation labeled as game theory for authority. (4) The prediction that ground troops are inevitable has been tested by nearly a year of air-only warfare and has not yet materialized. (5) The claim that Israel, Saudi Arabia, and Iran are all secretly working to destroy the US lacks evidence and attributes conspiratorial coordination to actors with genuinely conflicting interests. (6) The lecture ignores or minimizes massive damage inflicted on Iran (leadership decapitation, nuclear program destruction, infrastructure degradation) while emphasizing Iran's strategic advantages, creating a distorted picture of the conflict's trajectory.",
+    "steelman": "The distinction between escalation dominance and escalation control is a legitimate strategic insight, well-developed in Schelling's work on coercion even if not cited. The observation that allied interests genuinely diverge — Israel maximizing while US wants restraint, Saudi Arabia balancing — has been borne out by events: Saudi refused airspace and condemned strikes; UK refused to support blockade Apr 13; Macron-Starmer 41-nation Hormuz conferences WITHOUT US through Apr 2026; Germany's Merz publicly said the US was 'humiliated by Iran' (Apr 27); Trump threatened to reduce US troops in Germany Apr 30. The 'no nuclear weapons' prediction has held through Day 63. The cost pyramid argument (US shipbuilding falling far behind China's) reflects real Pentagon concerns and ONI data. The speaker's broader point — that flexible asymmetric responses can outlast inflexible great-power doctrines — has empirical support in Vietnam, Afghanistan, and the current Iran campaign's diplomatic isolation."
   }
 }

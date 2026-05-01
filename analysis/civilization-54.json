@@ -12,7 +12,7 @@
     "schema_version": "1.0",
     "view_count": 508325,
     "view_count_updated": "2026-04-03",
-    "last_scoring_date": "2026-04-15"
+    "last_scoring_date": "2026-05-01"
   },
   "synopsis": "This lecture surveys German/Prussian civilization from the Holy Roman Empire through World War II, organized around the concept of 'unity of will.' The speaker argues that Anglo-Americans have distorted history to portray Prussia as merely militaristic, when it was actually the most advanced civilization in human history — creative, humanistic, and forced into militarism by geography. An intellectual lineage is traced from Schopenhauer through Wagner and Nietzsche, culminating in Hitler and Nazism, which the speaker frames as a return to paganism driven by national humiliation after WWI. The lecture includes a highly problematic claim that there is no 'concrete evidence for the Holocaust,' a sympathetic framing of Hitler as executing a role assigned by the German army rather than being a dictator, and concludes with an explicit Trump-Hitler comparison arguing the American military selected Trump as its 'uberman' to lead the nation to war.",
   "thesis": {
@@ -34,8 +34,8 @@
         "claim": "Europe and Russia are about to go to war with each other.",
         "timestamp": "01:06:08",
         "falsifiable": true,
-        "status": "partially_confirmed",
-        "status_note": "The Russia-Ukraine war continues (April 2026) with UK/France committing peacekeeping troops. Direct Europe-Russia war has not materialized but tensions remain high. US focus has shifted to Iran (Day 35 of air campaign), which could embolden Russia in Europe.",
+        "status": "untested",
+        "status_note": "As of May 1, 2026, no direct Europe-Russia war has materialized. Russia-Ukraine war continues as grinding attrition with no NATO troops deployed in Ukraine. Putin offered May 9 Victory Day ceasefire, Zelensky requested longer ceasefire instead. US focus is on Iran (Trump-Putin Apr 29 90-min call; Trump rejected Iran proposal). NATO ally rift visible (Trump threatens Germany troop reduction Apr 30 over Merz comments) but this is intra-NATO friction, not Europe-Russia war.",
         "type": "prediction"
       },
       {
@@ -66,7 +66,7 @@
         "timestamp": "01:14:10",
         "falsifiable": true,
         "status": "partially_confirmed",
-        "status_note": "Germany announced massive rearmament in 2025-2026: 83-108B EUR budget, 650B over 5 years, 3.5% GDP target, 260K troops. Japan also rearming significantly. However this is driven by the Russia-Ukraine war and US-Iran war context, not by revanchist 'unity of will.' The prediction's core claim (German militarization) is materializing but for different reasons than described.",
+        "status_note": "Germany announced massive rearmament in 2025-2026: 83-108B EUR budget, 650B over 5 years, 3.5% GDP target, 260K troops. Japan also rearming significantly. As of May 1, 2026, Trump threatened to reduce US troops in Germany (Apr 30) over Merz's 'humiliated' comments, accelerating Europe's drive toward strategic autonomy. The prediction's core claim (German militarization) is materializing but driven by Russia-Ukraine war, US-Iran war, and Trump-NATO friction — not by revanchist 'unity of will' as described.",
         "type": "prediction"
       }
     ]

@@ -1,7 +1,52 @@
 {
-  "last_updated": "2026-04-15",
+  "last_updated": "2026-05-01",
   "preamble": "A register of questions where the documented record and a publicly-circulating counter-reading both remain in play, and open-source evidence cannot presently adjudicate between them. Entries here are not endorsements. The purpose is the opposite: to name unresolvable questions honestly instead of silently treating the absence of documentation as proof of the negative — the failure mode this project calls the October Surprise trap. An entry is added only when three conditions are met: (1) the counter-reading draws on facts the project already treats as documented; (2) non-fringe actors are asserting it publicly; (3) resolution would require evidence that is not currently in the open record. Entries are retired when new evidence moves the question into confirmed or disconfirmed territory.",
   "questions": [
+    {
+      "id": "centcom-strike-options-may-2026",
+      "title": "Apr 30 CENTCOM Cooper/Caine strike-options briefing — bargaining-leverage menu or genuine pre-execution prep?",
+      "status": "contested_unresolved",
+      "status_label": "Contested — first cabinet-level formal presentation of ground-inclusive options of war",
+      "synopsis": "Whether CENTCOM Cmdr Adm. Brad Cooper and Joint Chiefs Chair Gen. Dan Caine's Apr 30 briefing to Trump on three formal military option categories — (1) 'short and powerful' wave of strikes including infrastructure targets, (2) Strait of Hormuz seizure operation that 'could include ground forces,' (3) special forces operation to secure Iran's stockpile of highly enriched uranium — combined with CENTCOM's formal Request for Forces for the Dark Eagle hypersonic weapon, represents (a) a menu of military options being held in reserve as bargaining leverage to extract a better Iranian proposal at the May 1-7 negotiating window, or (b) genuine pre-execution preparation that follows in days/weeks.",
+      "documented_facts": [
+        "Per Axios sources Apr 30, U.S. Central Command commander Adm. Brad Cooper and Joint Chiefs Chairman Gen. Dan Caine briefed President Trump Thursday Apr 30 on potential military action against Iran",
+        "CENTCOM has prepared a plan for a 'short and powerful' wave of strikes on Iran — likely including infrastructure targets — in hopes of breaking the negotiating deadlock",
+        "Trump 'currently sees the blockade as his primary source of leverage,' but he 'would consider military action if Iran still won't cave'",
+        "The plan also includes 'taking over' the Strait of Hormuz to reopen it to commercial shipping, and such an operation 'could include ground forces'",
+        "Another option that might come up in the briefing is a 'special forces operation to secure Iran's stockpile of highly enriched uranium'",
+        "CENTCOM separately submitted a formal Request for Forces Apr 30 for the Army's Dark Eagle Long-Range Hypersonic Weapon to be deployed to the Middle East — first US hypersonic combat request",
+        "Trump had not ordered any kinetic action as of Apr 28-29 (per Axios sources)",
+        "USS Gerald R. Ford (CVN-78) confirmed leaving Middle East after 309-day record deployment, returning to Norfolk by mid-May (3-to-2 carrier reduction)",
+        "USS Boxer ARG still in Indo-Pacific transit westbound toward CENTCOM, no flank-speed expedite ordered as of Apr 30",
+        "192nd Military Police Battalion (Connecticut Army National Guard, ~150 soldiers) deployed Apr 28 Bradley ANG Base for Operation Epic Fury — first National Guard mobilization for the war (logistics support, not combat)",
+        "Pakistan officials told CNN they expect a revised Iranian proposal to end the war by Friday May 1, in-person meeting next week",
+        "Murkowski plans to introduce AUMF week of May 11 if no 'credible plan' from White House",
+        "Hegseth Senate testimony Apr 30: argues ceasefire 'pauses' War Powers 60-day clock; statutory May 1 deadline arrives",
+        "Putin Apr 29 90-min call with Trump warned of 'extremely dire consequences' if US/Israel resume military action",
+        "Trump Apr 30 threatens to reduce US troops in Germany (~36,000) over Merz's 'humiliated' comments",
+        "Rubio launches 'Maritime Freedom Construct' multilateral coalition for Hormuz commercial shipping"
+      ],
+      "alternate_reading": "Iran-state media, some hawkish US commentary, and some antiwar commentators read the Cooper/Caine briefing + Dark Eagle hypersonic request as Pentagon publicly preparing for a strike or ground operation past the May 1 War Powers deadline — citing the specific operational option named ('could include ground forces' for Hormuz seizure) as preparation rather than menu. The opposite reading (mainstream defense press, this tracker) treats the briefing as a menu of military options being held in reserve as bargaining leverage to extract a better Iranian proposal at the immediate May 1-7 negotiating window: Trump explicitly said the blockade is his 'primary source of leverage,' has not ordered kinetic action, USS Ford is leaving (3-to-2 carrier reduction structurally inconsistent with imminent ground/sustained-air ops), USS Boxer ARG still in Indo-Pacific transit with no expedite, no third ARG announced, no AUMF, no BCT-scale Guard activations.",
+      "public_assertion_by": [
+        "Iran state media (Tasnim, Press TV, IRNA)",
+        "IRGC-affiliated voices",
+        "Some hawkish US commentary citing Axios as confirming pre-escalation intent",
+        "Some antiwar commentators reading Cooper/Caine briefing as bypass-Congress signal",
+        "Mainstream financial press (CNN, Bloomberg, CNBC) reading market's $126.41 Brent intraday as escalation pricing"
+      ],
+      "what_would_resolve": [
+        "Trump explicit announcement of strikes or ground operations within May 1-7 window (validates pre-execution reading)",
+        "Trump 30-day War Powers extension certification (validates one resolution path)",
+        "Iran's revised proposal arriving Friday May 1 + US counter-proposal that addresses it (validates bargaining-leverage reading)",
+        "USS Boxer ARG flank-speed expedite order or third ARG deployment (validates pre-execution reading)",
+        "Successful in-person US-Iran meeting next week (validates bargaining-leverage reading)",
+        "Dark Eagle hypersonic weapon deployment order issued (would indicate strike preparation moving forward)",
+        "Murkowski AUMF introduction week of May 11 with ground-authorization scope (would indicate broader escalation)",
+        "Trump explicit announcement of staying with blockade-only and rejecting strike options (validates bargaining-leverage reading)"
+      ],
+      "current_assessment": "Tracker reads this as a bargaining-leverage menu with options-on-the-table threshold crossed but execution-threshold NOT crossed, given (a) Trump explicitly preserving blockade as 'primary source of leverage' even while reviewing strike options; (b) USS Gerald R. Ford LEAVING Middle East (3-to-2-carrier reduction structurally inconsistent with imminent ground/sustained-air operations); (c) USS Boxer ARG still in Indo-Pacific transit with no flank-speed expedite; (d) 192nd MP Battalion Connecticut Guard deployment is logistics-support only, NOT combat-arms BCT-scale; (e) Putin Apr 29 'extremely dire consequences' warning provides Russian deterrent overlay; (f) Trump's Germany troop-reduction threat fragments European base posture needed for Iran ground ops; (g) Rubio's Maritime Freedom Construct launch signals longer maritime-track timeline (months not weeks); (h) Pakistan reports Iran revised proposal could arrive Friday May 1, in-person meeting next week — diplomatic track active; (i) Murkowski plans AUMF week of May 11 — Senate Republicans want to box in strike options, not rubber-stamp them. The alternate reading is logged because the cabinet-level options-on-the-table threshold is genuinely new and material — first cabinet-level formal presentation of ground-inclusive operational options of the entire war. Probability moves from NEAR-ZERO to LOW-BUT-NON-ZERO — first material upward shift since war began. The May 1-7 window will be dispositive.",
+      "first_listed": "2026-05-01"
+    },
     {
       "id": "october-surprise-1980",
       "title": "The 1980 October Surprise (historical template)",
@@ -59,6 +104,269 @@
       ],
       "current_assessment": "The documented elements the counter-reading invokes — CIA 'exfiltration' language, MC-130J destruction, Ardakan strike proximity — are real and first-party. The counter-reading cannot be verified from open sources; it also cannot be ruled out from open sources. We are not endorsing it. We are noting that classifying it as 'disconfirmed' would require evidence we do not have, and classifying it as 'unfalsifiable' would misstate what kinds of evidence could resolve it. The October Surprise precedent is the honest reason this question is not closed.",
       "first_listed": "2026-04-15"
+    },
+    {
+      "id": "three-carrier-posture-2026",
+      "title": "Three-carrier CENTCOM posture — blockade reinforcement or ground-invasion staging?",
+      "status": "contested_unresolved",
+      "status_label": "Contested — interpretation of the same documented force posture",
+      "synopsis": "Whether the Apr 23 2026 arrival of USS George H.W. Bush in the Indian Ocean, bringing the total US carrier presence in CENTCOM to three (Ford + Lincoln + Bush), represents blockade reinforcement + air-strike optionality or is quantitatively consistent with pre-ground-invasion staging.",
+      "documented_facts": [
+        "USS George H.W. Bush (CVN-77) arrived in the Indian Ocean Apr 23 2026 after transiting around Africa (Suez avoidance, ~2 extra weeks), per CENTCOM announcement",
+        "USS Gerald R. Ford (CVN-78) is in the Red Sea at 301+ days continuous deployment (post-Vietnam record)",
+        "USS Abraham Lincoln (CVN-72) is in the Arabian Sea supporting the blockade",
+        "USS Tripoli ARG has been in CENTCOM theatre since Mar 27 2026; USS Boxer ARG transiting per Apr 20 USNI tracker, ETA CENTCOM Apr 23-28; USS New Orleans arrived Apr 17",
+        "10,000+ personnel enforcing the blockade; 50,000+ total US service members in CENTCOM; 17+ warships and 100+ aircraft in-theatre",
+        "No third Amphibious Ready Group has been announced",
+        "UK has explicitly refused to support US blockade; no third-country coalition amphibious assets announced"
+      ],
+      "alternate_reading": "Some defense commentary (The Week India, selected OSINT communities) argues that a three-carrier concentration in CENTCOM is quantitatively consistent with pre-invasion force concentration — citing Desert Storm's 6-carrier assembly and noting that 3-carrier concentrations have historically preceded sustained high-intensity operations. On this reading, the Bush arrival combined with Trump's 'shoot and kill' directive, the blockade tightening, and the 'don't rush me' protracted-war framing adds up to ground-invasion staging rather than blockade reinforcement.",
+      "public_assertion_by": [
+        "The Week India (Apr 22-23 headline 'Ground invasion quite likely')",
+        "Selected defense-OSINT commentary (Twitter/X, Discord, Telegram)",
+        "Some Iranian and adversary-state media outlets",
+        "A smaller number of alternative-media commentators"
+      ],
+      "what_would_resolve": [
+        "Announcement of additional LHA/LHD/LPD deck-space surge (pre-invasion marker)",
+        "Third ARG deployment order (pre-invasion marker)",
+        "Prepositioned sealift orders for armor/logistics to CENTCOM ports (pre-invasion marker)",
+        "US official ground-deployment language from Hegseth, Kurilla, or joint chiefs (would resolve)",
+        "Congressional AUMF debate or Selective Service mobilization language (would resolve)",
+        "Declassification of CENTCOM contingency orders (retrospective resolution)"
+      ],
+      "current_assessment": "The tracker reads the three-carrier composition as blockade-reinforcement + strike-optionality, not ground-staging, because the observed asset composition is carriers + escorts without the amphibious-platform + sealift surge that would normally accompany ground-invasion preparation. The counter-reading is logged for honesty and the question is noted as contested because the US force-posture aggregate is genuinely large enough that reasonable analysts can disagree on the inflection-point threshold. First listed after Apr 23 USS Bush arrival.",
+      "first_listed": "2026-04-24"
+    },
+    {
+      "id": "hegseth-non-foreclosure-2026",
+      "title": "Hegseth 'boots on the ground' non-foreclosure — deterrence signaling or invasion preparation?",
+      "status": "contested_unresolved",
+      "status_label": "Contested — interpretation of first cabinet-level ground-option non-foreclosure",
+      "synopsis": "Whether Defense Secretary Pete Hegseth's Apr 24 2026 Pentagon press briefing refusal to rule out 'boots on the ground' in Iran ('We're not going to foreclose any option... 15 different ways we could come at them') is deterrence communication designed to expand Iranian uncertainty during a diplomatic reopening, or a Pentagon public-posture shift that precedes actual ground-operation preparation.",
+      "documented_facts": [
+        "Hegseth at Apr 24 Pentagon press briefing on 'Operation Epic Fury': 'We're not going to foreclose any option. You can't fight and win a war if you tell your adversary what you are willing to do or what you are not willing to do, to include boots on the ground.'",
+        "Hegseth: 'Our adversary right now thinks there are 15 different ways we could come at them with boots on the ground. And guess what: There are. So if we needed to, we could execute those options on behalf of the president of the United States and this department.'",
+        "Strategy explicitly framed by Hegseth as 'unpredictable.' Blockade 'as long as it takes.'",
+        "Caine (Joint Chiefs chair) at same briefing: 34 vessels turned back since Apr 13 (up from 31); formally confirmed Apr 21 Tifani boarding",
+        "Witkoff + Kushner dispatched to Pakistan Saturday Apr 25 for 'direct talks' with Iran; Iran FM Araghchi already in Islamabad Apr 24, received by DPM Dar + Army Chief Munir",
+        "Trump Reuters interview Apr 24: 'They're making an offer and we'll have to see'; Trump Truth Social: 'Time is not on their side'",
+        "No deployment orders issued Apr 24. No third ARG surge. No additional LHA/LHD deck-space announced. No prepositioned sealift orders. No AUMF language. No House/Senate armed services committee Iran-war hearings in April. No Selective Service language. No 82nd Airborne expansion beyond existing 1,000-3,000 baseline"
+      ],
+      "alternate_reading": "Iran state media (Tasnim, Press TV, IRNA), The Week India, and some alternative-media commentators read Hegseth's non-foreclosure as the Pentagon publicly preparing Americans for a ground invasion — citing the specific '15 different ways we could come at them' language as uncharacteristic specificity that suggests contingency-plan activation. The opposite reading (mainstream US defense press; prior Hegseth deterrence patterns; Rubio's Mar 28 'no ground troops needed but deploying for maximum optionality' framing) treats the statement as 'unpredictable' deterrence communication designed to expand Iranian uncertainty during the Witkoff/Kushner Pakistan reopening window.",
+      "public_assertion_by": [
+        "Iran state media (Tasnim, Press TV, IRNA)",
+        "IRGC-affiliated voices",
+        "The Week India and selected regional defense commentary",
+        "Alternative-media commentators across the political spectrum"
+      ],
+      "what_would_resolve": [
+        "Deployment orders for additional ground-capable forces to CENTCOM (would indicate invasion preparation)",
+        "Third ARG surge or additional amphibious deck-space (would indicate invasion preparation)",
+        "AUMF debate in House/Senate armed services committees (would indicate invasion preparation)",
+        "Guard/Reserve mobilization beyond baseline (would indicate invasion preparation)",
+        "Successful Islamabad Apr 25-27 session (would support deterrence-signaling reading)",
+        "Apr 25-27 Islamabad collapse followed by deployment orders within weeks (would support preparation reading)"
+      ],
+      "current_assessment": "Tracker reads this as deterrence communication during a diplomatic reopening: simultaneous dispatch of top US diplomatic negotiators to the mediator's capital while the adversary's foreign minister is physically present is structurally inconsistent with ground-invasion preparation; every operational indicator of invasion preparation remains absent. BUT: Hegseth's statement is the first cabinet-level public non-foreclosure of ground options of the war — a genuine rhetorical-floor shift that cannot be adjudicated from words alone until the Islamabad Apr 25-27 window produces either a diplomatic result (validates deterrence reading) or a breakdown followed by deployment (validates preparation reading).",
+      "first_listed": "2026-04-25"
+    },
+    {
+      "id": "pakistan-restart-2026",
+      "title": "Trump's Apr 25 cancellation of Witkoff/Kushner Pakistan trip — bargaining tactic or pre-escalation alibi?",
+      "status": "contested_unresolved",
+      "status_label": "Contested — awaiting telephone-diplomacy outcome and War Powers Apr 29 / May 1 response",
+      "synopsis": "Whether Trump's Apr 25 abrupt cancellation of the Witkoff/Kushner Pakistan trip — explicitly preserving phone-channel diplomacy ('we'll deal by telephone'), while Iran's FM had already departed Islamabad for Muscat — represents a transparent bargaining tactic to extract a better Iranian offer, or a pre-escalation alibi before planned military action.",
+      "documented_facts": [
+        "White House announced Apr 24 that Witkoff + Kushner would travel to Pakistan Saturday Apr 25 for 'direct talks' with Iranian counterparts",
+        "Iran FM Abbas Araghchi landed in Islamabad Friday Apr 24, received by DPM Dar + Army Chief Munir; delivered Iran's 'comprehensive' demands list to Pakistani mediators",
+        "Trump abruptly cancelled the Witkoff/Kushner Saturday Apr 25 Pakistan trip just hours before scheduled departure",
+        "Trump (multiple statements Apr 25): 'They gave us a paper that should have been better and interestingly the minute I cancelled it, within 10 minutes, we got a new paper that was much better… they offered a lot but not enough'; 'We're not going to spend 15 hours in airplanes all the time going back and forth to be giving a document that was not good enough… we'll deal by telephone, and they can call us anytime they want'; Truth Social: 'We have all the cards, they have none! If they want to talk, all they have to do is call!!'",
+        "Trump to Axios's Barak Ravid by phone Apr 25, asked if cancellation signaled war resumption: 'We haven't thought about it yet'",
+        "Iran FM Araghchi had departed Islamabad for Muscat (Oman) Saturday evening BEFORE Witkoff/Kushner had even arrived, then continuing to Moscow",
+        "VP Vance — who led the Apr 11-12 first-round Islamabad Talks — remained in Washington",
+        "No US military mobilization indicators observed Apr 25-26 (no deployment orders, no ARG surge, no AUMF activity, no military-delegation substitution for diplomatic delegation)"
+      ],
+      "alternate_reading": "Some Iran-state media and alternative-media commentary read the Apr 25 cancellation as a pre-escalation alibi — abruptly ending diplomacy to provide cover for a planned strike or ground operation, with the 'haven't thought about it' framing dismissed as deniability. The mainstream reading (US/Western press, Iran International, Pakistani officials) treats it as a transparent bargaining tactic: Trump claims Iran 'offered a lot but not enough,' explicitly preserves phone-channel diplomacy ('they can call us anytime'), and gives the softest war-resumption answer of the past 96 hours. Iran's parallel posture (Araghchi continues regional tour to Oman + Moscow rather than returning to Tehran for war council) implicitly endorses the bargaining read.",
+      "public_assertion_by": [
+        "Iran state media (Tasnim, Press TV, IRNA)",
+        "IRGC-affiliated voices",
+        "Alternative-media commentators across the political spectrum",
+        "Some US-hawkish commentary raising the possibility of diplomatic cover for military action"
+      ],
+      "what_would_resolve": [
+        "Successful telephone diplomacy producing concrete deliverables (validates bargaining reading)",
+        "US military reescalation (re-bombing, ground deployment) within days/weeks of Apr 25 (validates alibi reading)",
+        "Trump invocation of AUMF or extension of operations beyond air/blockade rhetorically by War Powers Apr 29 / May 1 deadline (validates alibi reading)",
+        "Trump scaling back or signaling continued blockade-attrition through May 1 deadline (validates bargaining reading)",
+        "Iran return to face-to-face track within 1-2 weeks (validates bargaining reading)"
+      ],
+      "current_assessment": "Tracker reads this as a bargaining tactic given (a) Trump explicitly preserving phone-channel diplomacy, (b) Trump's softest cabinet-level escalation rhetoric of the past 96 hours ('haven't thought about it yet,' Apr 25), (c) Iran's parallel multi-capital diplomatic tour without mobilization (Pakistan→Muscat→Moscow Apr 27 to meet Lavrov + reportedly Putin), (d) zero US military mobilization indicators 48+ hours after the cancellation, (e) Pezeshkian's electricity-conservation appeal signaling Iran reading the war as attrition, (f) Iran's Apr 25 international flights resumption from Tehran — partial civil normalization signal, (g) Trump's Apr 26 'not enough' on Iran proposal still framed as 'deal by telephone' bargaining-leverage, (h) Trump's downplaying of WHCD shooting Iran-war connection — declining to invoke escalation pretext. The alternate reading is logged because the cancellation pattern can also fit pre-escalation scripts; the War Powers Apr 29 / May 1 deadline (now 2 days away) will be dispositive.",
+      "first_listed": "2026-04-25"
+    },
+    {
+      "id": "lebanon-fooks-killing-2026",
+      "title": "Apr 26 IDF Sgt Idan Fooks killing — Lebanon-track threshold crossing or contained ceasefire violation?",
+      "status": "contested_unresolved",
+      "status_label": "Contested — Lebanon-track operational fraying without strategic threshold crossing",
+      "synopsis": "Whether the Apr 26 killing of IDF Sgt. Idan Fooks (19, Petah Tikva) by a Hezbollah explosive-laden drone in Taybeh, southern Lebanon — the first IDF death in a direct Hezbollah attack since the Apr 16 ceasefire — represents (a) a contained tactical-level violation that the formal state-level ceasefire architecture can absorb, or (b) the Lebanon track climbing toward strategic threshold crossing that would activate Iran's most capable proxy and risk drawing in US ground response.",
+      "documented_facts": [
+        "Apr 26: Sgt. Idan Fooks (19, Petah Tikva), 77th Battalion, killed by Hezbollah explosive-laden drone next to disabled tank in Taybeh, southern Lebanon (within Israeli-declared security zone)",
+        "6 IDF soldiers wounded, 4 severely",
+        "IDF response: 'wave of airstrikes and artillery shelling' against Hezbollah operatives + infrastructure NORTH of security zone",
+        "Netanyahu vows to 'act forcefully'; Hezbollah (per Press TV) cites 500+ Israeli ceasefire violations on land/sea/air; vows continued 'legitimate response'",
+        "Fooks: third IDF soldier killed in southern Lebanon during the ceasefire; 16th IDF killed in southern Lebanon since war began; FIRST killed in a direct Hezbollah attack during the ceasefire (prior IDF deaths since Apr 16 were Humvee crash and reservist killed by older Hezbollah explosive)",
+        "Iran's senior voices Apr 26-27 (Pezeshkian-Sharif call, Araghchi enroute Moscow) make no claim of Hezbollah action as Iranian retaliation",
+        "Formal state-level Israel-Lebanon ceasefire architecture (3-week extension through ~May 17) remains nominally in place"
+      ],
+      "alternate_reading": "Some Iran-state media and Israeli-hawkish commentators read the Fooks killing as the Lebanon track crossing a strategic threshold — Hezbollah graduating from rocket-and-drone harassment to direct kinetic killing of IDF personnel, signaling that Iran's most capable proxy is being reactivated under Iranian command. On this reading, the IDF wave-of-airstrikes response will produce further Hezbollah escalation, the formal ceasefire will collapse, and the Lebanon-Iran-US escalation pathway most likely to draw the US into ground operations will activate. The opposite reading (mainstream defense press, this tracker) treats the incident as a contained tactical-level violation: IDF response stays AIR-STRIKE register; Iran's senior voices STILL deliberately decouple from Lebanon; structural ceasefire architecture remains in place; the proximate cause is Yellow Line demolitions and accumulating local friction, not a Tehran-commanded escalation.",
+      "public_assertion_by": [
+        "Iran state media (Tasnim, Press TV, IRNA)",
+        "IRGC-affiliated voices",
+        "Israeli-hawkish commentary (some Defense Ministry voices, settler-aligned outlets)",
+        "Some alternative-media commentators across the political spectrum"
+      ],
+      "what_would_resolve": [
+        "Hezbollah escalation from drone-strikes to sustained rocket-barrage on northern Israel (would support threshold-crossing reading)",
+        "Iranian senior-voice claim of Hezbollah action as Iranian retaliation (would support threshold-crossing reading)",
+        "Formal collapse of Israel-Lebanon ceasefire / Trump withdrawing extension (would support threshold-crossing reading)",
+        "IDF ground operations beyond existing security zone in southern Lebanon (would support threshold-crossing reading)",
+        "Continued IDF airstrike-only response without ground escalation + Iran continued decoupling (would support contained-violation reading)",
+        "Formal ceasefire holding through ~May 17 expiry despite tactical violations (would support contained-violation reading)"
+      ],
+      "current_assessment": "Tracker reads this as a contained tactical-level violation given (a) IDF response stays AIR-STRIKE/ARTILLERY register at the existing rung — Netanyahu's 'forceful response' is consistent with prior IDF practice in Hezbollah escalations and not a new doctrinal threshold; the Apr 27 IDF strikes on Beqaa Valley (first since Apr 16 ceasefire) are operational-strategic geographic expansion but remain AIR-STRIKE register; (b) Iran's senior voices (Pezeshkian-Sharif call Apr 26, Araghchi-Putin meeting Apr 27, Iran FM spokesperson Baghaei) STILL deliberately decoupling from Lebanon track in Apr 26-28 statements — Putin's Apr 27 statement to Araghchi was about Iranian sovereignty + Russia-Iran axis, NOT about Hezbollah; (c) the formal state-level ceasefire architecture (3-week extension through ~May 17) remains nominally in place; (d) Lebanese President Aoun publicly criticizing Hezbollah for attacks during the truce is NEW intra-Lebanese pressure that argues AGAINST Tehran-commanded escalation; (e) Hezbollah Naim Qassem's Apr 27 speech ('humiliating concession,' 'grave sin') is RHETORICAL hardening but commits no specific operational escalation step. The alternate reading is logged because the operational threshold continues to shift — Beqaa Valley strikes are material geographic expansion — and Iran-Hezbollah command-and-control is not transparent to open sources. The next 1-2 weeks — particularly whether the IDF response remains air-only or expands to ground operations beyond the existing security zone, and whether Iran's senior voices continue to decouple from Lebanon — will be dispositive.",
+      "first_listed": "2026-04-27"
+    },
+    {
+      "id": "war-powers-60-day-2026",
+      "title": "War Powers 60-day deadline Apr 29 / May 1 — will Trump face a vote?",
+      "status": "contested_unresolved",
+      "status_label": "Contested — statutory May 1 deadline arrived today; Hegseth argues ceasefire 'pauses' clock; Murkowski plans AUMF week of May 11",
+      "synopsis": "Whether the 1973 War Powers Resolution's 60-day automatic-termination clock, which expired for the Iran war Apr 29 (statutory May 1), will produce an AUMF vote, an explicit Trump withdrawal, or a de facto bypass with no congressional action. AS OF MAY 1 UPDATE: statutory deadline arrived today; Hegseth Senate Armed Services testimony Apr 30 argues ceasefire 'pauses' the 60-day clock; Sen. Tim Kaine D-Va: ceasefire does NOT extend the deadline; VP Vance: 'War Powers Act is fundamentally a fake and unconstitutional law.' Sen. Murkowski Apr 30 announced she will introduce AUMF measure when Senate returns from recess week of May 11 if White House does not present 'credible plan' by then. Pakistan officials told CNN they expect Iran's revised proposal by Friday May 1, in-person meeting next week.",
+      "documented_facts": [
+        "Per the 1973 War Powers Resolution, US must terminate military operations after 60 days unless Congress has voted to declare war or passed AUMF; presidents can extend by 30 days only for 'safe and orderly withdrawal'",
+        "War began Feb 28; 60-day mark APR 29; Trump has until MAY 1 per statute to seek congressional action",
+        "Sens. Lisa Murkowski (R-AK), Thom Tillis (R-NC), Susan Collins (R-ME), John Curtis (R-UT) have signaled Congress needs to vote on AUMF if Trump doesn't begin winding down operations",
+        "SML John Thune (R-SD) and SFRC chair James Risch (R-ID) have NO PLANS to bring AUMF to floor",
+        "House previously rejected an effort to withdraw US forces from Iran war",
+        "Some GOP senators want to give Trump 'official blessing' for the war via AUMF",
+        "Democrats poised to escalate pressure on GOP with repeated votes on Iran war powers"
+      ],
+      "alternate_reading": "Two distinct counter-readings circulate: (1) some commentators expect Congress will simply not act, allowing Trump to continue operations indefinitely with no formal authorization — a precedent-setting bypass; (2) some hawkish voices treat any AUMF as ground-authorization rather than air/blockade-coverage and would interpret a Republican-led AUMF vote as the trigger to ground operations. The tracker's primary reading is that any AUMF passed would be air/blockade-coverage and the most likely outcome is congressional inaction or a deferred vote.",
+      "public_assertion_by": [
+        "Republican Senate war-powers caucus (Murkowski, Tillis, Collins, Curtis)",
+        "Democratic Senate caucus (pressing for repeated war-powers votes)",
+        "Senate leadership (Thune, Risch) opposing AUMF vote",
+        "Foreign Policy, CNN, The Hill, Time analysts",
+        "Responsible Statecraft and antiwar commentators"
+      ],
+      "what_would_resolve": [
+        "Senate AUMF vote scheduled and held (resolves: which form of AUMF, with what scope)",
+        "Trump explicit invocation of War Powers extension (~30 days for withdrawal — would signal de-escalation framing)",
+        "Trump explicit announcement of ground or expanded military operations after Apr 29 (would force constitutional confrontation)",
+        "Congressional inaction past May 1 with continued operations (sets bypass precedent)",
+        "Federal court intervention (highly unlikely given doctrine of political question)"
+      ],
+      "current_assessment": "May 1 update: the statutory deadline arrived today. Hegseth Apr 30 Senate testimony argues ceasefire 'pauses' the clock — administration's formal legal position. Murkowski plans AUMF introduction week of May 11 if no 'credible plan' from White House. Tracker's primary reading — congressional inaction past the May 1 deadline with no immediate AUMF vote — is now operationally tracking. Trump continues blockade + air-threatened operations as 'limited' military activity that the executive branch will assert is below the War Powers threshold. CRITICAL NEW DEVELOPMENT (Apr 30): CENTCOM Cooper/Caine briefed Trump on 'short and powerful' strike options including Hormuz seizure that 'could include ground forces' and special forces uranium-recovery operation — first cabinet-level formal presentation of ground-inclusive options. Any AUMF that emerges from Murkowski's planned introduction would almost certainly be air/blockade-coverage and force structure DEFINITION, NOT ground-authorization — Senate Republicans want to box in the strike options Cooper/Caine just presented to Trump, not rubber-stamp them. The Apr 28 Time scoop that Democrats are exploring suing Trump raises the prospect of judicial confrontation, but tracker treats federal court intervention as highly unlikely given the political-question doctrine. First listed Apr 26.",
+      "first_listed": "2026-04-26"
+    },
+    {
+      "id": "uae-opec-exit-2026",
+      "title": "UAE Apr 28 OPEC + OPEC+ exit announcement — Gulf coalition fragmentation or pre-existing divergence accelerated?",
+      "status": "contested_unresolved",
+      "status_label": "Contested — first major Gulf-alliance fracture of war but predates war in many respects",
+      "synopsis": "Whether the UAE's Apr 28 2026 announcement that it will exit OPEC and OPEC+ effective May 1 represents (a) a war-driven Gulf-state realignment that fractures the US-led coalition architecture and forecloses ground-invasion options that depend on Gulf basing, or (b) a long-running UAE-Saudi production-quota dispute that simply found an opportune moment to surface in the war's economic disruption.",
+      "documented_facts": [
+        "UAE announced Apr 28, 2026 that it will leave OPEC and OPEC+ effective May 1, 2026",
+        "UAE Energy Minister Suhail Al Mazrouei said the disruption caused by the war created an opportune time for the move",
+        "UAE produced about 3.4 million barrels per day — about 13% of OPEC's total output — with capacity to reach 5 million barrels per day before the war began",
+        "UAE has talked in the past about quitting OPEC, having pushed back in recent years against OPEC production quotas it felt had been too low",
+        "UAE's exit comes after six decades of membership and is the culmination of years of tension with OPEC leader Saudi Arabia over both oil output policy and competition for regional political influence",
+        "The exit move follows the Apr 26 Axios revelation that Israel deployed Iron Dome battery + dozens of IDF operators to UAE during the early phase of the war (UAE outsourced its missile defense to Israel rather than US/coalition)",
+        "Apr 28 GCC summit in Jeddah — first in-person GCC meeting since war start — Qatar FM spokesperson explicitly denied: 'GCC states did not push America toward further military escalation with Iran'"
+      ],
+      "alternate_reading": "Some analysts read the UAE OPEC exit as a war-driven Gulf-state realignment that fragments the coalition architecture US ground operations would depend on (Gulf basing rights, regional political support, energy-policy alignment); on this reading, combined with German Chancellor Merz's Apr 27 'humiliated' framing of US war conduct, UK Starmer's Apr 13 blockade non-support, and the European 41-nation Hormuz conferences without US participation, the European-and-Gulf alignment with US war architecture is fragmenting and erodes US leverage for any sustained military operation against Iran. The opposite reading (mainstream financial press, this tracker) treats the move as an acceleration of pre-existing UAE-Saudi divergence that predates the war and reflects long-running quota disputes and regional-influence competition rather than war-driven coalition fragmentation.",
+      "public_assertion_by": [
+        "Mainstream financial press (Bloomberg, CNN)",
+        "European policy analysts",
+        "Some US-skeptical regional commentary",
+        "Antiwar commentators reading the exit as coalition fracture"
+      ],
+      "what_would_resolve": [
+        "UAE re-engaging with US war architecture (e.g., basing access for ground operations, defensive air cover) — would weaken coalition-fragmentation reading",
+        "Saudi Arabia following UAE in OPEC exit (or other Gulf states following) — would support coalition-fragmentation reading",
+        "Gulf states publicly aligning with US war objectives in coming weeks — would weaken fragmentation reading",
+        "UAE entering a separate energy-policy alignment with non-US-led blocs (Russia, China) — would support fragmentation reading"
+      ],
+      "current_assessment": "Tracker reads this as MIXED: the exit is real and war-timed but the underlying UAE-Saudi divergence is well-documented and predates the war. The strongest signal in either direction is that it is consistent with multiple non-fringe interpretations. UAE Energy Minister Mazrouei's explicit citation of war disruption as 'opportune time' suggests at least partial war-driven motivation. Combined with Apr 27 chancellor-level Merz 'humiliated' framing and Apr 28 GCC denial of pushing US toward escalation, the broader pattern of European + Gulf coalition distancing from US war architecture is now visible — but whether this rises to coalition fragmentation that forecloses ground options depends on how the next 4-6 weeks unfold (Saudi response; whether UAE re-engages or further distances; whether other Gulf states follow).",
+      "first_listed": "2026-04-29"
+    },
+    {
+      "id": "iran-hormuz-proposal-rubio-rejection-2026",
+      "title": "Iran's Apr 27 'Hormuz-for-blockade' proposal and Rubio's rejection — bargaining-window-negotiable impasse or pre-escalation alibi?",
+      "status": "contested_unresolved",
+      "status_label": "Contested — first concrete diplomatic disagreement of blockade phase",
+      "synopsis": "Whether Iran's Apr 27 proposal to reopen the Strait of Hormuz in exchange for the US lifting its naval blockade and ending the war, with nuclear talks postponed to a later stage, and Sec State Rubio's same-day Fox News rejection ('cannot normalize Iran controlling international waterway... blow you up and you pay us'), represents (a) a bargaining-window-negotiable impasse where both sides are circling a specific diplomatic disagreement and will continue to refine offers, or (b) a pre-escalation alibi where the US rejection is the public-facing prelude to military re-escalation past the May 1 War Powers deadline.",
+      "documented_facts": [
+        "Iran offered, via Pakistani/Egyptian/Turkish/Qatari mediators on Apr 27 2026, to reopen the Strait of Hormuz if the US lifts its naval blockade and ends the war",
+        "Iran's proposal would extend the ceasefire for a long period or seek a permanent end; sanctions lift + war-damage compensation are 'of particular importance'; nuclear talks are postponed to a later stage",
+        "FM Araghchi told mediators there is no consensus inside the Iranian leadership about how to address US demands, hence the de-coupling proposal",
+        "President Trump and his national security team discussed Iran's proposal at the White House Monday Apr 27",
+        "Multiple outlets report Trump appears skeptical and is unlikely to accept",
+        "Sec State Marco Rubio in Fox News interview Apr 27 rejected the proposal: 'What they mean by opening the straits is, yes, the straits are open, as long as you coordinate with Iran, get our permission, or we'll blow you up and you pay us'",
+        "Rubio: 'They cannot normalize, nor can we tolerate them trying to normalize, a system in which the Iranians decide who gets to use an international waterway and how much you have to pay them to use it'",
+        "War Powers 60-day deadline Apr 29 / statutory May 1 — Senate GOP blocked 5th Democratic war-powers resolution; Murkowski reportedly working on AUMF in background but no scheduled vote",
+        "No US military redeployment, deployment order, ARG expedite, or AUMF preparation observed Apr 27-28"
+      ],
+      "alternate_reading": "Iran-state media and some alternative-media commentary read Rubio's rejection as preparing public opinion for US ground or air re-escalation past the May 1 War Powers deadline — characterizing the public Iran-rejection language as deniability for already-decided escalation. The opposite reading (mainstream US/Western press, this tracker) treats it as a bargaining-window-negotiable impasse: Rubio's specific rejection language is about WATERWAY GOVERNANCE, NOT about ground or kinetic escalation; the rejection is conditional on Iran offering different terms; no parallel mobilization indicators; Trump's 'we'll deal by telephone' framing from Apr 25-26 persists.",
+      "public_assertion_by": [
+        "Iran state media (Tasnim, Press TV, IRNA)",
+        "IRGC-affiliated voices",
+        "Alternative-media commentary across the political spectrum",
+        "Some US-hawkish commentary suggesting Iran's offer is the last off-ramp before escalation"
+      ],
+      "what_would_resolve": [
+        "US military reescalation (re-bombing, ground deployment) within days/weeks of May 1 (validates pre-escalation reading)",
+        "Trump invocation of AUMF or extension of operations beyond air/blockade rhetorically by War Powers Apr 29 / May 1 deadline (validates pre-escalation reading)",
+        "US counter-proposal that addresses Iran's Hormuz-for-blockade structure within 1-2 weeks (validates bargaining reading)",
+        "Iran return to face-to-face track within 1-2 weeks following Rubio rejection (validates bargaining reading)",
+        "Trump 30-day War Powers extension certification for 'safe and orderly withdrawal' (validates bargaining/de-escalation reading)"
+      ],
+      "current_assessment": "Tracker reads this as a bargaining-window-negotiable impasse given (a) Rubio's specific rejection language is about waterway governance, NOT ground or kinetic escalation; (b) Iran's proposal explicitly de-couples Hormuz from nuclear, suggesting Iran is searching for any face-saving partial settlement; (c) Trump's 'we'll deal by telephone' framing from Apr 25-26 persists; (d) zero US military mobilization indicators 24-48 hours after Rubio's rejection; (e) Putin-Araghchi St Petersburg meeting Apr 27 produces RHETORICAL Russian commitment without military-supply specifics — Iran's preferred resolution channel is diplomatic + Moscow-uranium-custody, NOT battlefield; (f) German Chancellor Merz's 'humiliated' framing of US war conduct is constraining US escalation viability rather than enabling it; (g) War Powers May 1 deadline approaching with no AUMF prep. The alternate reading is logged because the cancellation-then-rejection pattern can also fit pre-escalation scripts; the May 1 deadline will be dispositive within ~1 week.",
+      "first_listed": "2026-04-28"
+    },
+    {
+      "id": "shoot-kill-roe-2026",
+      "title": "Trump 'shoot and kill' directive — naval-rung ROE change or escalation-gateway?",
+      "status": "contested_unresolved",
+      "status_label": "Contested — awaiting first test case under new ROE",
+      "synopsis": "Whether Trump's Apr 23 2026 order directing the US Navy to 'shoot and kill any boat' laying mines in the Strait of Hormuz is a narrowly-scoped rules-of-engagement change at the existing naval rung or a rhetorical gateway whose first kinetic test case will trigger Iranian cross-domain retaliation.",
+      "documented_facts": [
+        "Trump Truth Social post Apr 23 ordered US Navy 'to shoot and kill any boat' laying mines in the Strait of Hormuz; tripled minesweeping; added 'There is to be no hesitation'",
+        "Subsequent Trump Truth Social: 'We have total control over the Strait of Hormuz. No ship can enter or leave without the approval of the United States Navy. It is Sealed up Tight...'",
+        "IRGC characterized the directive as 'an overt breach of the ceasefire'",
+        "IRGC had published a map Apr 9 confirming anti-ship mines in Hormuz main traffic zone — the threat category Trump's order addresses is first-party Iranian",
+        "Prior US blockade VBSS operations (Touska Apr 19, Tifani Apr 21, Majestic X Apr 23) targeted vessels and engines, not personnel",
+        "As of the briefing date, no mine-laying craft has been fired upon under the new ROE"
+      ],
+      "alternate_reading": "Iran-state media and some alternative-media commentary read the directive as an escalation-gateway whose first kinetic test case will inevitably produce Iranian cross-domain retaliation (missile strikes on US warships, attacks on US bases, or widening of the Hezbollah-IDF exchange) and eventual US ground response. The opposite reading (US DoD, mainstream defense press) treats the order as a narrowly-scoped ROE change at the existing naval rung, consistent with US mine-countermeasure doctrine dating to Operation Earnest Will (1987-88), which treats active mining as an act of war justifying immediate kinetic response.",
+      "public_assertion_by": [
+        "IRGC ('overt breach of ceasefire' framing)",
+        "Iran state media (Tasnim, Press TV, IRNA)",
+        "Alternative-media commentary across the political spectrum",
+        "Some analysts raising the question of kinetic-threshold escalation without endorsing the full hypothesis"
+      ],
+      "what_would_resolve": [
+        "First kinetic incident under the new ROE — scale and composition of Iranian response (maritime-mirror vs cross-domain)",
+        "Trump additional directives expanding ROE beyond mine-layers (would indicate escalation path)",
+        "Iranian cross-domain retaliation without an ROE trigger (would indicate the new directive accelerated the pathway independently)",
+        "Deescalation of the directive or narrow-scoped first use without Iranian cross-domain response (would confirm narrow-scope reading)"
+      ],
+      "current_assessment": "Cannot be adjudicated from open sources until the order produces its first test case. The tracker's reading is that the order is a rules-of-engagement change narrowly scoped to mine-layers at the existing naval rung. The counter-reading that the first kinetic test case will open a new escalation pathway is logged — both readings are consistent with observed evidence, and the first incident under the new ROE will be dispositive.",
+      "first_listed": "2026-04-24"
     }
-  ]
+  ],
+  "meta": {
+    "last_scoring_date": "2026-05-01"
+  }
 }

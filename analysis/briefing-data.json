@@ -1,7 +1,7 @@
 {
   "briefing_date": "2026-05-01",
-  "last_scoring_date": "2026-04-15",
-  "next_scoring_date": "2026-05-15",
+  "last_scoring_date": "2026-05-01",
+  "next_scoring_date": "2026-06-01",
   "theatres": [
     {
       "name": "Iran / Strait of Hormuz",
@@ -276,6 +276,30 @@
     {
       "date": "2026-05-01",
       "tags": [
+        "Monthly Scoring Run",
+        "May 1 2026",
+        "169 Files",
+        "War Powers Statutory Deadline",
+        "Ceasefire Day 24",
+        "Blockade Day 19",
+        "Ground Probability Low-But-Non-Zero"
+      ],
+      "summary": "MONTHLY SCORING RUN — May 1, 2026. All 169 analysis files reviewed; meta.last_scoring_date set to 2026-05-01 across the corpus. Iran theatre status updated to reflect Apr 30 CENTCOM Cooper/Caine briefing of Trump on three formal military option categories — INCLUDING Hormuz seizure that could include ground forces and a special-forces uranium-recovery operation — FIRST CABINET-LEVEL FORMAL PRESENTATION OF GROUND-INCLUSIVE OPERATIONAL OPTIONS OF THE ENTIRE WAR. Ground-invasion tracker remains at LOW-BUT-NON-ZERO probability: presentation of options is NOT execution; Trump has not ordered kinetic action; USS Ford leaving theatre after 309-day record deployment; no third ARG, no BCT-scale mobilization. Critical events since last scoring (Apr 15): Lebanon ceasefire effective Apr 16 (extended 3 weeks Apr 23 to ~May 17); Trump indefinite ceasefire extension Apr 22; Hormuz dual-blockade entrenched (US since Apr 13, Iran reclosed Apr 18); Pakistan-mediated Islamabad talks collapse Apr 12 and restart cycles; Iran Hormuz-for-blockade proposal Apr 27 rejected by Rubio Apr 27 + Trump Apr 29 ('choking like a stuffed pig'); UAE OPEC exit announced for May 1; coalition fragmentation (UK/France/Germany 41-nation Hormuz conferences without US); Putin-Trump 90-min call Apr 29 with 'extremely dire consequences' warning + Putin May 9 Victory Day Ukraine ceasefire offer; Trump Apr 30 Germany troop reduction threat over Merz 'humiliated' remarks; statutory War Powers May 1 arrives without AUMF; oil volatility (Brent intraday $126.41 4-year high Apr 30, closed $114.01); Iran rial 1.8M/USD record low Apr 29; Iran operation cost $25B per Pentagon comptroller Apr 29; IRGC effectively rules Iran with Mojtaba Khamenei sidelined per Reuters Apr 29-30; first National Guard deployment (192nd MP Battalion Connecticut, ~150 soldiers, logistics support).",
+      "details": [
+        "All 169 analysis files reviewed; meta.last_scoring_date updated to 2026-05-01",
+        "Calibration reference updated with May 1 entries (War Powers, Cuba May Day, oil prices, scoring run)",
+        "Geopolitical briefing already current through April 30 events; header dated May 1, 2026",
+        "Ground-invasion tracker: status_label moves from NEAR-ZERO to LOW-BUT-NON-ZERO following Apr 30 Cooper/Caine briefing — first material upward shift since war began",
+        "Predictions confirmed since prior scoring: Iran rial collapse, sustained oil shock, Lebanon ceasefire imperfect-but-holding, first direct US-Iran talks at Islamabad since 1979",
+        "Predictions remaining disconfirmed: rapid US ground invasion, Iran rapid capitulation, US-led broad coalition invasion (Saudi/UK/Australia/Poland), Russia as nuclear guarantor preventing strikes",
+        "Predictions remaining untested: longer-term outcomes — Iran nuclear program disposition post-war, post-war Middle East order, Cuba/Venezuela regime changes, Trump-Xi summit outcomes May 14-15, Taiwan trajectory, NATO troop commitments to Ukraine"
+      ],
+      "prediction_impact": "Monthly scoring run confirms: Jiang predictions of US-Iran war (CONFIRMED), Khamenei assassination (CONFIRMED), Hormuz blockade (CONFIRMED), oil shock (CONFIRMED), broader Middle East fragmentation (CONFIRMED — UAE OPEC exit, GCC coalition strain, European 41-nation conferences without US). DISCONFIRMED: rapid coalition-of-Saudi-UK-Australia-Poland invasion; Russia as nuclear guarantor preventing strikes on Iran; full US ground invasion in war-opening phase. PARTIALLY CONFIRMED: Iran population not rising up in support of invaders (Iranian rial collapse + Pezeshkian electricity-conservation framing suggest internal strain rather than rally-around-flag; IRGC has consolidated wartime power per Reuters Apr 29-30; no documented uprising).",
+      "source": "Internal monthly scoring run — May 1, 2026"
+    },
+    {
+      "date": "2026-05-01",
+      "tags": [
         "Iran",
         "Ceasefire Day 24",
         "Indefinite Extension Day 10",
@@ -338,14 +362,24 @@
         {
           "reading": "The Apr 30 Cooper/Caine briefing on strike options + Dark Eagle hypersonic deployment request marks the start of US escalation past the May 1 War Powers deadline, including potential ground operations to seize Hormuz / Kharg Island and special forces uranium-recovery raid",
           "evidentiary_status": "Plausible but unconfirmed. Tracker assesses MIXED WEIGHT. The Apr 30 briefing IS material — first cabinet-level formal presentation of ground-inclusive options. But: (1) Trump 'currently sees the blockade as his primary source of leverage'; (2) USS Gerald R. Ford LEAVING Middle East (3-to-2-carrier reduction structurally inconsistent with ground prep); (3) USS Boxer ARG still in Indo-Pacific transit, no flank-speed expedite; (4) Connecticut Guard 192nd MP deployment is logistics-support only, not combat-arms BCT-scale; (5) Putin Apr 29 'extremely dire consequences' warning provides Russian deterrent overlay; (6) Trump's Germany troop-reduction threat fragments European base posture needed for Iran ground ops; (7) Rubio's Maritime Freedom Construct launch signals longer maritime-track timeline; (8) Pakistan reports Iran revised proposal could arrive Friday May 1, in-person meeting next week — diplomatic track active.",
-          "public_assertion_by": ["Iran state media (Tasnim, Press TV, IRNA)", "IRGC-affiliated voices", "Some hawkish US commentary citing Axios as confirming pre-escalation intent", "Some antiwar commentators reading Cooper/Caine briefing as bypass-Congress signal"],
+          "public_assertion_by": [
+            "Iran state media (Tasnim, Press TV, IRNA)",
+            "IRGC-affiliated voices",
+            "Some hawkish US commentary citing Axios as confirming pre-escalation intent",
+            "Some antiwar commentators reading Cooper/Caine briefing as bypass-Congress signal"
+          ],
           "why_unresolvable": "The same Apr 30 events are consistent with both 'cabinet briefing as escalation runway' and 'cabinet briefing as menu of bargaining leverage.' Will be resolved by Trump's response to Cooper/Caine briefing in May 1-7 window AND Iran's revised proposal arrival Friday May 1.",
           "open_question_ref": "centcom-strike-options-may-2026"
         },
         {
           "reading": "Putin's May 9 Victory Day Ukraine ceasefire offer + 'extremely dire consequences' warning is a coordinated Russian effort to lock down Iran-escalation deterrence AND free Russian forces from Ukraine pressure to strengthen Iran defense — first move toward de facto Russia-Iran security cooperation",
           "evidentiary_status": "Contested but tracker assesses LOW WEIGHT. Putin's ceasefire offer is real and Trump 'actively supported' but Zelensky publicly rejected. Russia would not be able to materially shift forces from Ukraine to Iran; the warning operates through diplomatic pressure on Trump only. The Russian-Iranian axis IS intensifying along EXISTING diplomatic vectors (Putin-Araghchi Apr 27, uranium-custody offer).",
-          "public_assertion_by": ["Russian state media", "Some Iran-state media", "Some alternative-media commentators", "Some hawkish US commentary suggesting Russia preparing Iran defense alliance"],
+          "public_assertion_by": [
+            "Russian state media",
+            "Some Iran-state media",
+            "Some alternative-media commentators",
+            "Some hawkish US commentary suggesting Russia preparing Iran defense alliance"
+          ],
           "why_unresolvable": "Whether Putin's two moves are coordinated escalation-deterrence or independent diplomatic offers cannot be adjudicated from open sources; resolution requires either explicit Russia-Iran defense pact announcement or Russian force movement to Iran."
         }
       ],
@@ -407,7 +441,12 @@
         {
           "reading": "The Apr 30 Cooper/Caine briefing on strike options + Dark Eagle hypersonic deployment request marks the start of US escalation past the May 1 War Powers deadline, including potential ground operations to seize Hormuz / Kharg Island and special forces uranium-recovery raid",
           "evidentiary_status": "Plausible but unconfirmed. Tracker assesses MIXED WEIGHT. The Apr 30 briefing IS material — first cabinet-level formal presentation of ground-inclusive options. But: (1) Trump 'currently sees the blockade as his primary source of leverage'; (2) USS Gerald R. Ford LEAVING Middle East (3-to-2-carrier reduction structurally inconsistent with ground prep); (3) USS Boxer ARG still in Indo-Pacific transit, no flank-speed expedite; (4) Connecticut Guard 192nd MP deployment is logistics-support only, not combat-arms BCT-scale; (5) Putin Apr 29 'extremely dire consequences' warning provides Russian deterrent overlay; (6) Trump's Germany troop-reduction threat fragments European base posture needed for Iran ground ops; (7) Rubio's Maritime Freedom Construct launch signals longer maritime-track timeline; (8) Pakistan reports Iran revised proposal could arrive Friday May 1, in-person meeting next week — diplomatic track active.",
-          "public_assertion_by": ["Iran state media (Tasnim, Press TV, IRNA)", "IRGC-affiliated voices", "Some hawkish US commentary citing Axios", "Some antiwar commentators reading Cooper/Caine briefing as bypass-Congress signal"],
+          "public_assertion_by": [
+            "Iran state media (Tasnim, Press TV, IRNA)",
+            "IRGC-affiliated voices",
+            "Some hawkish US commentary citing Axios",
+            "Some antiwar commentators reading Cooper/Caine briefing as bypass-Congress signal"
+          ],
           "why_unresolvable": "The same Apr 30 events are consistent with both 'cabinet briefing as escalation runway' and 'cabinet briefing as menu of bargaining leverage.' Will be resolved by Trump's response to Cooper/Caine briefing in May 1-7 window AND Iran's revised proposal arrival Friday May 1.",
           "open_question_ref": "centcom-strike-options-may-2026"
         }
@@ -558,13 +597,22 @@
         {
           "reading": "Trump's Apr 28 'Iran in State of Collapse' framing is preparing the public for Iranian regime change rather than diplomatic resolution",
           "evidentiary_status": "Contested but tracker assesses LOW WEIGHT. Trump's 'state of collapse' framing is consistent with his Apr 22 'fractured' framing and Apr 25 'cards' bargaining-leverage register; no parallel mobilization indicators; US is simultaneously pressing Israel to MAINTAIN Lebanon ceasefire (Israel Hayom Apr 28) — actively de-escalating one front while characterizing Iran as collapsing. A regime-change posture would predict Lebanon-track widening, not US-pressure to contain it.",
-          "public_assertion_by": ["Iran state media", "IRGC-affiliated voices", "Some alternative-media commentary", "Reza Pahlavi-aligned diaspora opposition voices"],
+          "public_assertion_by": [
+            "Iran state media",
+            "IRGC-affiliated voices",
+            "Some alternative-media commentary",
+            "Reza Pahlavi-aligned diaspora opposition voices"
+          ],
           "why_unresolvable": "The same 'state of collapse' framing is consistent with both 'preparatory regime-change rhetoric' and 'bargaining-leverage to extract better terms.' Will be resolved by Trump's May 1 War Powers response (extension certification, AUMF push, or continued operations without authorization)."
         },
         {
           "reading": "UAE's OPEC exit signals Gulf-state coalition collapse and erodes US leverage for any sustained military operation against Iran",
           "evidentiary_status": "Contested but tracker assesses MIXED WEIGHT. UAE exit is real and announced; effective May 1; UAE Energy Minister Mazrouei explicitly cited war disruption as 'opportune time.' Combined with German Chancellor Merz's Apr 27 'humiliated' framing and UK Starmer's Apr 13 blockade non-support, the European-and-Gulf alignment with US war architecture is fragmenting. BUT: this is consistent with UAE long-term divergence from Saudi-led oil policy that predates the war, and Qatar FM's Apr 28 denial that GCC pushed escalation explicitly excludes UAE participation in any US-pressure campaign — neither validating nor invalidating the broader coalition-fragmentation reading.",
-          "public_assertion_by": ["Mainstream financial press (Bloomberg, CNN)", "European policy analysts", "Some US-skeptical regional commentary"],
+          "public_assertion_by": [
+            "Mainstream financial press (Bloomberg, CNN)",
+            "European policy analysts",
+            "Some US-skeptical regional commentary"
+          ],
           "why_unresolvable": "Whether UAE's OPEC exit is principally about war-driven Gulf-state realignment or principally about long-running UAE-Saudi production-quota disputes is interpretively contested; both readings draw on the same documented facts (UAE-Saudi tensions, war disruption, May 1 effective date)."
         }
       ]
@@ -611,13 +659,20 @@
         {
           "reading": "The convergence of UAE OPEC exit + GCC denial + Trump 'state of collapse' framing on Apr 28 signals a coordinated US-Gulf-state pivot to economic-warfare-only doctrine that forecloses ground options",
           "evidentiary_status": "Plausible but premature. The data is consistent with this reading, but the same data is also consistent with multiple alternate readings (independent UAE-Saudi divergence; Trump bargaining tactic; GCC distancing from being instrumentalized). Tracker treats this as one possible reading rather than a confirmed pivot.",
-          "public_assertion_by": ["Some financial-market analysts", "European policy commentary"],
+          "public_assertion_by": [
+            "Some financial-market analysts",
+            "European policy commentary"
+          ],
           "why_unresolvable": "Whether the Apr 28 events are coordinated or coincident is interpretively contested; resolution requires either explicit US-GCC public coordination announcement or contradicting evidence (e.g., UAE re-engaging with US war architecture)."
         },
         {
           "reading": "Trump's Apr 28 'state of collapse' framing combined with Senate GOP defeat of 5th war-powers resolution sets up an executive-action escalation past May 1 that bypasses Congress entirely",
           "evidentiary_status": "Contested but tracker assesses LOW WEIGHT. No deployment orders, no ARG expedite, no AUMF prep observed Apr 28; Trump's 'state of collapse' rhetoric is bargaining-leverage register, not mobilization register; US is simultaneously DE-ESCALATING Lebanon track. A bypass-by-executive-action posture would predict deployment readiness; observed posture is deployment stasis.",
-          "public_assertion_by": ["Antiwar commentators", "Some constitutional-law analysts", "Iran state media"],
+          "public_assertion_by": [
+            "Antiwar commentators",
+            "Some constitutional-law analysts",
+            "Iran state media"
+          ],
           "why_unresolvable": "Whether Trump intends executive-action escalation past May 1 cannot be adjudicated until May 1 arrives. Resolution within ~2 days.",
           "open_question_ref": "war-powers-60-day-2026"
         }
@@ -690,13 +745,20 @@
         {
           "reading": "Iran's Apr 27 'Hormuz-for-blockade' proposal is a face-saving capitulation by a regime that cannot sustain blockade attrition past mid-May",
           "evidentiary_status": "Contested. Iran did make the offer, and US officials publicly characterize Iranian leadership as 'fractured' (Trump Apr 25-26) — but Iran's parallel posture (Araghchi-Putin Apr 27 with Russian support pledged, Iran's Hormuz dark-fleet workaround near Chabahar) is consistent with bargaining-from-strength rather than capitulation. Mainstream analyst reading splits.",
-          "public_assertion_by": ["Trump administration framings (publicly characterizing Iran as 'fractured')", "Some US-hawkish commentary"],
+          "public_assertion_by": [
+            "Trump administration framings (publicly characterizing Iran as 'fractured')",
+            "Some US-hawkish commentary"
+          ],
           "why_unresolvable": "Whether Iran's offer is capitulation or bargaining-tactical depends on Iran's actual fuel-and-currency reserve depth, which Iran has not published since 2024 and which open-source estimates diverge widely on (IMF -6.1% GDP 2026; rial collapse trajectory)."
         },
         {
           "reading": "Rubio's Fox News rejection of Iran's proposal is preparing public opinion for US ground or air re-escalation past May 1",
           "evidentiary_status": "Contested but tracker assesses LOW WEIGHT. Rubio's specific rejection language is about WATERWAY GOVERNANCE ('cannot normalize Iran controlling international waterway'), NOT about ground or kinetic escalation; the rejection is conditional on Iran offering different terms; no parallel mobilization indicators.",
-          "public_assertion_by": ["Iran state media", "IRGC-affiliated voices", "Some alternative-media commentary"],
+          "public_assertion_by": [
+            "Iran state media",
+            "IRGC-affiliated voices",
+            "Some alternative-media commentary"
+          ],
           "why_unresolvable": "The same rejection statement is consistent with both 'demanding a better deal' and 'building public consent for escalation.' Will be resolved by Trump's May 1 War Powers response."
         }
       ]
@@ -747,7 +809,11 @@
         {
           "reading": "Trump's Apr 27 NSC review of Iran's Hormuz proposal could produce a covert operational pivot if rejected — Iran's offer is the last off-ramp before ground escalation",
           "evidentiary_status": "Contested but tracker assesses LOW WEIGHT. Trump's Apr 25-26 'we'll deal by telephone' framing + Apr 27 NSC review process + lack of any military redeployment Apr 27-28 are inconsistent with covert operational pivot; pre-invasion substitution patterns (diplomatic delegation replaced by military delegation) NOT observed; War Powers 60-day mark Apr 29 has NO AUMF prep.",
-          "public_assertion_by": ["Iran state media", "IRGC-affiliated voices", "Some alternative-media commentary"],
+          "public_assertion_by": [
+            "Iran state media",
+            "IRGC-affiliated voices",
+            "Some alternative-media commentary"
+          ],
           "why_unresolvable": "Covert operational planning is by definition not visible in open sources; the test is whether observable indicators (deployment orders, ARG composition, AUMF debate, draft signals) accompany the rhetoric. Through Apr 28 they do not.",
           "open_question_ref": "hegseth-non-foreclosure-2026"
         }
