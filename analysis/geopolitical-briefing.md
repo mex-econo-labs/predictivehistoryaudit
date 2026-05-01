@@ -1,10 +1,118 @@
-# Geopolitical Briefing: State of the World as of May 1, 2026
+# Geopolitical Briefing: State of the World as of May 2, 2026
 
-Compiled for evaluation of mid-2024 predictions. All information sourced from publicly available reporting through May 1, 2026. Last updated: May 1, 2026.
+Compiled for evaluation of mid-2024 predictions. All information sourced from publicly available reporting through May 2, 2026. Last updated: May 2, 2026.
 
 ---
 
-## 1. US-Iran Military Actions — Apr 30 CENTCOM Cooper/Caine Brief Trump on 'Short and Powerful' Strike Options Including Hormuz Seizure That 'Could Include Ground Forces' + Special Forces Uranium-Recovery Operation + Dark Eagle Hypersonic Request + Brent Intraday $126.41 4-Year High + Sgt. Liem Ben Hamo Killed + 192nd MP National Guard Deployed + USS Ford Leaving + Putin Warns 'Extremely Dire Consequences' + Trump Threatens Germany Troop Reduction + Maritime Freedom Construct Launched + War Powers Statutory May 1 Arrives
+## 1. US-Iran Military Actions — May 1 Iran Submits 14-Point Proposal Via Pakistan + Trump 'Not Satisfied' / 'They're Asking for Things I Can't Agree To' / Threatens 'Blast Them Away' + Rubio: Proposal 'Better Than We Thought' + Trump War Powers Letter Declares 'Hostilities Terminated' Since April 7 + Murkowski AUMF Week of May 11 + UAE OPEC Exit Takes Effect + Brent $108.17 (-1.79%) / WTI $101.94 / US Gas $4.30 4-Year High + Russia +1,420 to ~1,331,710 + Putin May 9 Ukraine Truce Rejected by Zelensky + Cuba May Day 'La Patria Se Defiende' / 500K+ Marchers + Lebanon Nabatieh Strikes Kill 14+ / Hezbollah Drone Wounds 12 IDF + Kills 1
+
+### Iran 14-Point Proposal Delivered to US Via Pakistani Mediators May 1 — Softens Conditions but Postpones Nuclear Track and Omits Missiles Per WSJ (May 1, 2026)
+- **Iran government formally submitted a REVISED 14-POINT PROPOSAL to the United States via Pakistani mediators on Friday May 1, 2026.** Pakistani officials confirmed mediators received the updated proposal Thursday/Friday and conveyed it to the White House.
+- Per **Wall Street Journal sources**: the proposal **SOFTENS some of its conditions for resuming talks** but still **POSTPONES negotiations on Iran's nuclear program** AND **leaves out the missile issue**.
+- President **Donald Trump** told reporters Friday at a Florida event he is **"NOT SATISFIED"** with the proposal: **"They're asking for things I can't agree to"**; uncertain whether deal can be reached; threatened to **"blast them away"** if negotiations fail; called it **"TREASONOUS"** for people to say the US isn't winning the war with Iran.
+- **Sec State Marco Rubio** told Fox News the proposal was **"better than what we thought they were going to submit"** — partial softening acknowledged. Peace talks remain stalled, with **control of the Strait of Hormuz** and **the future of Iran's nuclear program** as the two main points of contention.
+- Pakistani officials privately tell Bloomberg/Reuters: pushing for in-person Iran-US meeting next week; details TBD.
+- **Significance**: this is the THIRD Iran-side proposal of the war (10-point pre-April 7 ceasefire, post-Islamabad maximalist Apr 12, May 1 revised 14-point); each successive iteration narrows the gap on sanctions/Hormuz framework while deferring the nuclear core. Trump's "blast them away" framing remains in AIR-STRIKE register (consistent with all prior US re-escalation language); "treasonous" framing of US-isn't-winning critique signals political pressure-building, not military mobilization. Pattern: Pakistan-mediated diplomatic track operationally INTACT but substantively STALLED on Hormuz + nuclear.
+- *Sources: Al Jazeera, CNN, ABC News, Boston Globe, PBS NewsHour, OANN, Iran International, The Week, CNBC, WSJ, Pravda USA, Honolulu Star-Advertiser*
+
+### Trump Submits Formal War Powers Letter to Speaker Johnson + Senate Pres Pro Tempore Grassley — Declares 'Hostilities... Terminated' Since April 7 — Argues 60-Day Clock 'Paused' by Ceasefire (May 1, 2026)
+- President Trump **submitted formal letters Friday May 1** to House Speaker **Mike Johnson** and Senate Pres Pro Tempore **Charles Grassley** invoking the War Powers Resolution.
+- Letter declared: **"The hostilities that began on February 28, 2026 have terminated"** citing **"no exchange of fire between the United States Forces and Iran since April 7, 2026"**.
+- Argues the 60-day War Powers Act clock is **"paused"** by the ceasefire — administration's formal legal posture for indefinite blockade continuation.
+- **Sen. Tim Kaine (D-VA)** directly contradicts: ceasefire does NOT extend deadline.
+- **VP JD Vance**: War Powers Act **"fundamentally a fake and unconstitutional law"**; **"It's not going to change anything about how we conduct foreign policy over the next couple of weeks, the next couple of months."**
+- **Sen. Lisa Murkowski (R-AK)** plans **AUMF measure week of May 11** if no 'credible plan' presented; her measure would **DEFINE force scope rather than abruptly end** (per her own framing). Murkowski supported with Sens Tillis (NC), Collins (ME), Curtis (UT).
+- Senate Majority Leader **John Thune** + SFRC Chair **James Risch** continue to decline to schedule AUMF resolution. House previously rejected withdrawal effort.
+- **Significance**: the May 1 War Powers letter declaring 'hostilities terminated' is structurally INCONSISTENT with imminent ground operations — invoking ceasefire-based statutory exemption requires absence of active hostilities, which would contradict any ground-mobilization narrative. Murkowski's AUMF proposal would BOX IN the strike options Cooper/Caine presented to Trump Apr 30, not rubber-stamp ground authorization. Pattern: maximum-pressure-via-economic-attrition continues as primary instrument; legal/political maneuvering reinforces blockade-as-default-state.
+- *Sources: Roll Call, Washington Post, Detroit News, KESQ, KEYT, KIFI, The Hill, CNN Politics, ABC News, PBS NewsHour, Al Jazeera, Atlantic Council*
+
+### UAE OPEC + OPEC+ Exit Takes Effect May 1 — First Gulf-Alliance Fracture of War (May 1, 2026)
+- The **United Arab Emirates' withdrawal from OPEC and OPEC+ took effect May 1, 2026**, in what could be a blow to control over prices by the group, long led in practice by Saudi Arabia.
+- UAE was the **3rd-largest OPEC producer** behind Saudi Arabia and Iraq (~**3.4M bpd / ~13% of OPEC**); aims to reach **5M bpd capacity by 2027**.
+- **UAE Energy Minister Suhail al-Mazrouei** previously said war disruption created **"opportune time"**.
+- The UAE's departure follows Qatar's own departure from OPEC in 2019, suggesting that Gulf states are increasingly prioritising national strategies over collective frameworks. Reinforces existing GCC divisions.
+- **Significance**: first Gulf-alliance fracture of the war; deepens Saudi-UAE rift over output policy; further weakens OPEC's leverage over global oil supplies and prices. Combined with UK Starmer blockade non-support and 41-nation European Hormuz conferences without US participation, US allied posture is FRAGMENTING during the war — structurally inconsistent with ground-invasion preparation (a US presidency preparing for Iran ground war would CONSOLIDATE Gulf coalition basing rights, not let it fracture).
+- *Sources: Al Jazeera, Washington Post, CNBC, Euronews, GulfNews, WAM, The Conversation, Gateway Pundit*
+
+### Brent Closes May 1 at $108.17 (-1.79%); WTI $101.94 (-3%); US Gasoline ~$4.30/gal AAA — 4-Year High (May 1, 2026)
+- **Brent crude** pulled back from Apr 30 intraday $126.41 4-year high to **close May 1 at $108.17/bbl (-1.79%)**.
+- **WTI** fell ~3% to **$101.94/bbl**.
+- **US gasoline national average** ~**$4.30/gal per AAA** — 4-year high (highest since August 2022). **California gas prices top $6/gal**.
+- Drivers May 1: Iran 14-point proposal softening + Trump War Powers letter declaring 'hostilities terminated' (de-escalation read) + USS Ford confirmed departing CENTCOM (-1 carrier from theatre).
+- Partial offsets: Trump 'not satisfied' threatens 'blast them away'; Murkowski AUMF planning; UAE OPEC exit took effect.
+- **Energy Sec Wright**: prices won't drop below $3/gal until 2027.
+- **Significance**: markets reading May 1 as MARGINAL DE-ESCALATION (Iran proposal partial softening + War Powers ceasefire framing) but pricing-in continued blockade. Bimodal pricing pattern continues: deal-success scenarios drive sharp drops; deal-failure / Trump bellicose-rhetoric drives sharp rebounds.
+- *Sources: CNBC, TradingEconomics, Fortune, AAA, CGTN, Bloomberg, Reuters*
+
+### Putin May 9 Victory Day Ukraine Ceasefire Offer Rejected by Zelensky — Counter-Demand: Long-Term Ceasefire with Security Guarantees (May 1, 2026)
+- Putin's **May 9 Victory Day Ukraine ceasefire offer** (made Apr 29 in 90-min phone call with Trump, who 'actively supported') publicly **REJECTED by Zelensky May 1**.
+- Zelensky demanded **LONG-TERM ceasefire** instead with **"reliable and guaranteed security for people, and a lasting peace."** Cited Easter ceasefire violations (400+ Russian breaches recorded) as basis for distrust.
+- **Kremlin spokesperson Dmitry Peskov May 1**: **"For now, no concrete decision has been made"**; said Putin would declare truce **UNILATERALLY** without Kyiv response, and the proposal would apply ONLY to May 9.
+- Trump (Truth Social): **"I think he might do that."** Trump stated: **"I suggested a little bit of a ceasefire, and I think he might do that. He might announce something having to do with that."**
+- **Significance**: Putin's parade-truce offer is symbolic theater — not material de-escalation. Russia continues offensive operations on the ground while offering surface-level diplomatic gesture. Zelensky's long-term counter signals Ukraine continues to refuse symbolic 'wins' for Putin without security guarantees. Pattern: Pentagon four-pressure-point posture (Iran blockade + Russia-Ukraine + DPRK BM activity + Taiwan exercises) sustained.
+- *Sources: Moscow Times, Kyiv Post, NPR, Houston Public Media, KPBS, WFSU, WBOI, WGCU, WSIU, Kyiv Independent, ABC News, NBC News, PBS NewsHour, Wikipedia*
+
+### Cuba May Day 'La Patria Se Defiende' Rally — 500K+ Marchers; Trump Fresh Sanctions on Cuban Security Services (May 1, 2026)
+- Massive **May Day rally held in Havana** under slogan **"La Patria Se Defiende"** (The Homeland is Defended).
+- 94-year-old former leader **Raul Castro** joined President **Miguel Diaz-Canel** + FM **Bruno Rodriguez** at the **José Martí Anti-Imperialist Tribune** opposite the US Embassy on Havana's Malecón.
+- **Cuban government claimed 500,000+ marchers**; authorities claim 6 million Cuban signatures collected over 6 weeks **"for the homeland and for peace."**
+- **Trump administration announced FRESH SANCTIONS** targeting Cuban security service members and **"material supporters of the Cuban government"** — adds to existing Feb 2026 fuel-import blockade.
+- On eve of May 1: **journalist Ángel Cuza Alfonso detained** in front of his daughter by State Security agents; **18+ journalists, activists, and dissidents experienced internet blackouts** the day before; dozens were besieged or arrested.
+- **Diaz-Canel**: **"Faced with the worst-case scenario, Cuba has one guarantee: any external aggressor will encounter an unbreakable resistance."**
+- **Power deficit ~1,400+ MW**; Russian Universal tanker (251K bbl diesel) still has not arrived per most recent tracking.
+- **Significance**: regime opting for EXTERNAL-THREAT FRAMING rather than internal-reform framing. 'La Patria Se Defiende' slogan signals warlike posture. Sanctions intensification + signature-collection mobilization continue regime-as-besieged narrative. No regime change observable; continuity holds despite worst energy crisis since 1990s 'Special Period.'
+- *Sources: Al Jazeera, WSVN, DNYUZ, USNews, CubaHeadlines, Press Democrat, Havana Times, Granma, Purdue Exponent*
+
+### Lebanon May 1-2 — Israeli Strikes in Nabatieh District Kill 14+ per Lebanese Health Ministry; Hezbollah Drone Wounds 12 IDF Soldiers + Kills 1 (May 1-2, 2026)
+- **Israeli strikes across multiple towns in Nabatieh district killed at least 14** per Lebanese Health Ministry; separate strikes killed **9 incl 2 children** in southern Lebanon.
+- **Hezbollah drone struck IDF military vehicle in northern Israel — 12 IDF soldiers wounded**; separate Hezbollah drone strike killed an IDF soldier in southern Lebanon.
+- Bidirectional kinetic exchanges now daily despite formal Israel-Lebanon ceasefire (extended Apr 23 through ~May 17).
+- Apr 30 prior: **Sgt. Liem Ben Hamo (19, Golani)** drone-killed in Qantara — second IDF death in direct Hezbollah attack since Apr 16 ceasefire (after Apr 26 Sgt. Idan Fooks).
+- Cumulative **Lebanon casualties since Mar 2: ~2,560+ killed**; ~50+ since Apr 16 ceasefire began.
+- **Lebanese President Joseph Aoun** decries **"continued violations"** by Israel.
+- **Significance**: Israel-Lebanon ceasefire remains structurally intact through Apr 23 extension to ~May 17, but kinetic fraying accelerating to bidirectional drone+airstrike exchanges with daily casualties. Iran's primary public precondition for Iran-US talks (Lebanon ceasefire) under sustained operational stress. Pattern: formal ceasefire + tactical strikes spiral.
+- *Sources: Al Jazeera, Times of Israel, JPost, Haaretz, Reuters, Lebanese Health Ministry, JNS, Antiwar.com, IDF*
+
+### Hormuz Status May 1-2 — Commercial Transit at 5-10 Vessels/Day vs 100+ Pre-Crisis; ~230 Loaded Oil Tankers Waiting; Iran Losing $500M/Day (May 1-2, 2026)
+- Strait of Hormuz commercial transit at **5-10 vessels/day** vs pre-crisis avg of 100+; only 6 ships transiting in 24 hours per CNN Apr 29 visual.
+- ~**230 loaded oil tankers still waiting** per ADNOC (Apr 17 figure); just 154 vessels recorded crossing in entire month of March.
+- ~**41 tankers with 69 million barrels of Iranian oil stranded**, valued ~**$6 billion-plus**.
+- **Iran losing $500 million per day** per White House official to CNBC.
+- **CENTCOM Apr 30: 42 vessels turned back since Apr 13**; 200 aircraft + 25 ships enforcing blockade per SOF News May 1; 10,000+ US sailors, Marines, airmen involved.
+- **Maritime Freedom Construct (Rubio Apr 30)** launched as multilateral coalition initiative — State Department + Pentagon initiative for partner nations to share intelligence, coordinate diplomatic pressure, help enforce sanctions, and restart Hormuz commercial shipping.
+- **Significance**: blockade-as-strangulation continues to bite without ground action; commercial transit suppressed to single-digit attempts per day. Maritime Freedom Construct doubles down on multilateral naval coalition rather than ground coalition — would not be launched if ground operations imminent.
+- *Sources: CNN, NBC, Bloomberg, CENTCOM, ADNOC, Al Jazeera, Reuters, Maritime Executive, gCaptain, Windward, Euronews, SOF News*
+
+### Russia-Ukraine May 1 — Russia +1,420 Personnel to ~1,331,710 Total; 109 Combat Clashes; Russia Advances Central Pokrovsk + Hryshyne; Ukraine Reclaims Kupyansk-Area Settlements (May 1, 2026)
+- Total combat losses among Russian troops since Feb 24, 2022 reach approximately **1,331,710 personnel by May 1, 2026 (+1,420 in 24 hours** per Ukrainian General Staff).
+- **109 combat clashes** recorded May 1; **138 combat clashes** Apr 30.
+- **Russia advanced central settlement of Pokrovsk + gains in Hryshyne village**; Russian advances east of Nova Kruhlyakivka (NE of Borova).
+- **Ukraine reclaimed Kurylivka, Kucherivka, Petropavlivka in Kupyansk area**; Ukrainian advances in west and east Podoly.
+- **Donetsk Region Q1 2026 ratio: Russia losing 316 soldiers per 1 km² gained — DOUBLE the 160-per-km² figure from same period 2025**.
+- Russia continues to grind forward in Donetsk despite doubled per-square-kilometer casualty rate; Pokrovsk remains operational focal point.
+- **Significance**: Russia capable of micro-advances at extreme attrition cost; territorial line of contact moves slowly. War continues as grinding attritional conflict — Ukraine has NOT 'lost.' Russia occupies ~20% of territory.
+- *Sources: Ukrainian General Staff, Ukrinform, Ukrainian News, Wikipedia, Russia Matters, EMPR, Kyiv Independent*
+
+### Ground-Invasion Tracker May 2 — Probability HOLDS at LOW-BUT-NON-ZERO; No New Mobilization Indicators May 1-2 (May 2, 2026)
+- **Probability HOLDS at LOW-BUT-NON-ZERO Day 65** — unchanged from May 1 first-upgrade following Apr 30 Cooper/Caine briefing.
+- **NO new ground-mobilization indicators May 1-2**:
+  - **USS Boxer ARG STILL transiting Pacific** (no flank-speed expedite)
+  - **USS Gerald R. Ford CONFIRMED departing CENTCOM** after 309-day record deployment (-1 carrier from theatre)
+  - **192nd MP Battalion Connecticut ANG (~150 soldiers)** deployed Apr 28 remains the ONLY Guard activation
+  - **NO draft signals**, NO BCT-scale call-up, NO Selective Service language
+  - Pentagon comptroller **disclosed $25B operation cost** Apr 29 (consistent with air/blockade campaign not ground campaign tempo)
+- **May 1 Trump War Powers letter declaring 'hostilities terminated' is structurally INCONSISTENT with imminent ground operations**: invocation of ceasefire-based statutory exemption requires absence of active hostilities, contradicts ground-mobilization narrative.
+- **Murkowski's planned AUMF** (week of May 11 absent credible plan) would **DEFINE air/blockade force scope** rather than authorize ground deployment per her own framing.
+- **Maritime Freedom Construct** (Rubio Apr 30) doubling down on multilateral naval coalition rather than ground coalition.
+- **Trump's 'blast them away' rhetoric May 1 remains in AIR-STRIKE register** ('blast' = bombing), consistent with all prior re-escalation language since war began.
+- Putin's Apr 29 'extremely dire consequences' warning + UK refusal to support blockade + 41-nation Hormuz conferences without US continue to argue against ground escalation.
+- Cooper/Caine briefing Apr 30 was **OPTIONS PRESENTATION not execution order**; no follow-on deployment orders observed May 1-2.
+- **Tracker monitors**: (1) any third ARG order, (2) draft/Selective Service language, (3) BCT-scale Guard activation, (4) infantry/armor branch mobilization, (5) Trump shifting from 'blast' to 'occupy' language, (6) Pentagon ground-deployment Memorandum. **None observed.**
+- *Sources: Internal tracker — May 2, 2026; Stars and Stripes, USNI, CNN, ABC News, Reuters, Politico, CNBC, NPR, Al Jazeera*
+
+---
+
+## 1A. US-Iran Military Actions — Apr 30 CENTCOM Cooper/Caine Brief Trump on 'Short and Powerful' Strike Options Including Hormuz Seizure That 'Could Include Ground Forces' + Special Forces Uranium-Recovery Operation + Dark Eagle Hypersonic Request + Brent Intraday $126.41 4-Year High + Sgt. Liem Ben Hamo Killed + 192nd MP National Guard Deployed + USS Ford Leaving + Putin Warns 'Extremely Dire Consequences' + Trump Threatens Germany Troop Reduction + Maritime Freedom Construct Launched + War Powers Statutory May 1 Arrives
 
 ### CENTCOM Cmdr Adm. Brad Cooper + Joint Chiefs Chair Gen. Dan Caine Briefed Trump on 'Short and Powerful' Military Options Including Hormuz Seizure That 'Could Include Ground Forces' and Special Forces Uranium-Seizure Operation (April 30, 2026)
 - Per **Axios sources Apr 30**, U.S. Central Command commander **Adm. Brad Cooper** and Joint Chiefs Chairman **Gen. Dan Caine** briefed President Trump Thursday Apr 30 on potential military action against Iran.
