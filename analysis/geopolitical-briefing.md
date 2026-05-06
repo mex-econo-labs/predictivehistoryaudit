@@ -1,10 +1,93 @@
-# Geopolitical Briefing: State of the World as of May 6, 2026
+# Geopolitical Briefing: State of the World as of May 7, 2026
 
-Compiled for evaluation of mid-2024 predictions. All information sourced from publicly available reporting through May 6, 2026. Last updated: May 6, 2026.
+Compiled for evaluation of mid-2024 predictions. All information sourced from publicly available reporting through May 7, 2026. Last updated: May 7, 2026.
 
 ---
 
-## 1. US-Iran Military Actions — May 5 RUBIO Declares 'OPERATION EPIC FURY IS OVER' at White House Briefing; US Shifts to DEFENSIVE Posture ('No Shooting Unless We're Shot at First') — HEGSETH at Pentagon: Ceasefire 'NOT OVER'; Iran Attacks 'BELOW THRESHOLD'; Project Freedom 'Defensive, Focused, Temporary'; US 'Will Call on Allies to Take Over Mission' — JCS Chair CAINE Running Tally: Iran Fired on Commercial Vessels 9 Times + Seized 2 Ships + Attacked US Forces 10+ Times + UAE 3 + Oman 1 Since Apr 7 — All 'Below Threshold' — UAE 2nd Consecutive Day of Iranian Missile + Drone Attacks Intercepted; Iran DENIES Responsibility — UKMTO: Cargo Vessel Struck by Unknown Projectile in Strait (4th UKMTO Incident in 3 Days) — Iran Announces New 'STRAIT AUTHORITY' Permit Mechanism; Mojtaba Khamenei: 'New Management Will Bring Calm' — Iran FM ARAGHCHI Traveling to BEIJING for China Backing Under 25-Year Cooperation Agreement — Parliament Speaker Ghalibaf (X): US 'Violated Ceasefire'; 'We Have Not Even Begun Yet' — Trump SAID TO SHELVE STRIKES AMID DIPLOMACY; Witkoff/Kushner Exchanging Proposals with Araghchi via Pakistan; White House Gave Iran Private Message Before Project Freedom Launch (Axios) — Brent Fell ~4% to $109.87/Bbl on Hegseth/Rubio Deescalatory Framing — RUSSIA STRIKES KILL 22-26 ACROSS UKRAINE on May 5 (Kramatorsk 5 + Zaporizhzhia 12); Zelensky 'Utter Cynicism'; Russia +970 to ~1,336,120
+## 1. US-Iran Military Actions — May 6 TRUMP PAUSES PROJECT FREEDOM AFTER 48 HOURS Citing 'GREAT PROGRESS' on Potential Deal (Blockade Stays in Force) — US AND IRAN CLOSING IN ON ONE-PAGE 14-POINT MOU PER AXIOS/CNN/REUTERS: 30-Day Window + Iran Uranium-Enrichment Moratorium 12-15 Years + Iran HEU REMOVAL + US Sanctions Lift + Frozen-Funds Release + Gradual Hormuz/Blockade Lift; If Talks Collapse US Can Restore Blockade or Resume Military Action — Trump 'Very Good Talks' / 'Very Possible We'll Make a Deal' / 'No Deadline' BUT Backstop: 'If They Don't Agree, the Bombing Starts, And It Will Be, Sadly, At a Much Higher Level And Intensity Than It Was Before' — Iran Government FORMALLY REVIEWING US Proposal; Tehran Response via Pakistani Mediators — Pakistan Source: 'We Will Close This Very Soon' — Iran FM ARAGHCHI MET CHINESE FM WANG YI in Beijing; Wang Yi Demands 'Comprehensive Ceasefire' — French President Macron Demands Hormuz Reopen 'Without Delay or Conditions' — UKMTO May 6: NEW Cargo Vessel Struck by Unidentified Projectile in Strait (5th UKMTO Incident in 4 Days) — Brent Crude FELL ~8% TO BELOW $101/BBL on Deal Hopes — LEBANON: ISRAEL STRIKES BEIRUT'S SOUTHERN SUBURBS for FIRST TIME SINCE APR 17 CEASEFIRE; Kills Hezbollah Radwan Force Operations Commander Malek Ballout; Strike COORDINATED WITH US; 13+ Killed Elsewhere; Displacement Orders Expanded to BEKAA VALLEY — RUSSIA BREAKS UKRAINE'S UNILATERAL MAY 6 CEASEFIRE WITHIN MINUTES (108 Drones + 3 Missiles + 2 BMs + Kh-31; 26 Civilians Killed + 118+ Injured); Russia +1,050 to ~1,337,170
+
+### Trump Pauses Project Freedom After 48 Hours, Cites 'Great Progress' on Potential Deal (May 5-6, 2026)
+- President Trump announced **PAUSE OF PROJECT FREEDOM** (US Navy escort op in Strait of Hormuz) Tuesday May 5 evening through May 6.
+- Trump (Truth Social): **"the highly effective Blockade will allow the Hormuz Strait to be OPEN TO ALL, including Iran"** — but **"Project Freedom (The Movement of Ships through the Strait of Hormuz) will be paused for a short period of time to see whether or not an Agreement can be finalized and signed."**
+- Trump warning/backstop: **"If they don't agree, the bombing starts, and it will be, sadly, at a much higher level and intensity than it was before."**
+- Operation lasted just **48 HOURS** (only 2 US-flagged ships escorted: Maersk Alliance Fairfax + 1).
+- **BLOCKADE REMAINS in full force.**
+- Trump (May 6): **"very good talks"** over past 24 hours; **"very possible we'll make a deal"**; **"no deadline"** for Iran.
+- **Significance**: Pausing one's own escort op while preparing ground operations is structurally incoherent. Most material near-term-deal-close signal of entire ceasefire phase. Trump's bombing-threat backstop stays AIR-CAMPAIGN register, NOT ground-deployment register.
+- *Sources: Fox News, CNN, NBC News, CBS News, NPR, Al Jazeera, CNBC, WaPo, Wikipedia (Operation Project Freedom), Wikipedia (2026 Iran war ceasefire)*
+
+### US and Iran Closing in on One-Page 14-Point MOU to End War (May 6, 2026)
+- US-Iran closing in on **one-page 14-point memorandum of understanding (MOU)** being negotiated between Trump's envoys **Steve Witkoff + Jared Kushner** and several Iranian officials, both directly and through Pakistani mediators (per Axios exclusive, CNN, Reuters).
+- **MOU framework**:
+  1. Declares **end to the war**
+  2. Starts **30-day period for detailed agreement** on opening Strait of Hormuz, limiting Iran's nuclear program, lifting US sanctions
+  3. Iran moratorium on uranium enrichment — **12-15 years being negotiated** (12-yr floor, 15-yr likely landing zone)
+  4. **US releases frozen Iranian funds**
+  5. Iran would agree to **REMOVE highly enriched uranium FROM COUNTRY** — key US priority Tehran had rejected up to now (per JPost, Axios)
+  6. Iran's Hormuz restrictions + US blockade **GRADUALLY LIFTED across 30-day period**
+  7. **If talks collapse, US can restore blockade or resume military action**
+- **Pakistan source familiar with negotiations**: **"We will close this very soon. We are getting close."**
+- Iran government FORMALLY REVIEWING US proposal; **FM spokesperson Esmaeil Baqaei**: Tehran will relay response via Pakistani mediators after finalizing.
+- **Significance**: Iran HEU removal represents Tehran concession — Tehran would not concede HEU while preparing for ground war. MOU collapse trigger ('US can restore blockade or resume military action') implies AIR/MARITIME re-escalation register if MOU fails, NOT ground commitment.
+- *Sources: Axios exclusive, CNN, Reuters, US News, Detroit News, JPost, Al Arabiya, Geo TV, Kathmandu Post, ABC17NEWS, Athens Times, Al Jazeera, Gateway Pundit*
+
+### Iran FM Araghchi Meets Chinese FM Wang Yi in Beijing — Wang Demands 'Comprehensive Ceasefire' (May 6, 2026)
+- **Iran's Foreign Minister Abbas Araghchi met with his Chinese counterpart, Wang Yi, in Beijing** on Wednesday morning May 6, the official Xinhua news agency reported.
+- **Wang Yi called for a "comprehensive ceasefire,"** saying his country is **"deeply distressed by the war."**
+- **Araghchi**: Tehran would only accept **"a fair and comprehensive agreement"** to end the war.
+- **Significance**: Beijing-mediated deescalation track active under 25-year Iran-China cooperation framework. Iran prosecutes Beijing-backed diplomatic track in parallel with Pakistan-mediated MOU close.
+- *Sources: Xinhua, Al Jazeera, CNN, Reuters*
+
+### French President Macron Demands Hormuz Reopen 'Without Delay or Conditions' (May 6, 2026)
+- French President **Emmanuel Macron** called for resumption of Hormuz traffic + lifting blockade **"without delay and without conditions."**
+- **Significance**: European pressure for deescalation joining Beijing-mediated track. French diplomatic posture aligns with Apr 2 UK 41-nation Hormuz conference outcome.
+- *Sources: Al Jazeera, French government statements*
+
+### UKMTO May 6: New Cargo Vessel Struck by Unidentified Projectile in Strait — 5th UKMTO Incident in 4 Days (May 6, 2026)
+- A cargo vessel was hit by an **unidentified projectile in the Strait of Hormuz** on May 6, 2026, according to UKMTO reports.
+- **Damage, casualties, environmental impact still unknown.**
+- **5th UKMTO incident in 4 days**: HMM Namu fire May 4 + ADNOC Barakah projectile May 4 + small-craft attack off Sirik May 3 + cargo vessel projectile May 5 + new cargo vessel projectile May 6.
+- **Significance**: Maritime-rung commercial-shipping risk persists despite Project Freedom pause; cumulative pattern shows Iran-side or Iran-aligned actors maintaining harassment-tempo.
+- *Sources: UKMTO, Al Arabiya, ABC News, Pravda EN, Worldnews*
+
+### Brent Crude Falls ~8% to Below $101/Bbl on US-Iran MOU Progress (May 6, 2026)
+- **Brent crude oil futures dropped more than 8%** to **below $101 per barrel** on Wednesday May 6, extending a 4% decline from the previous session, after reports that the US and Iran are nearing a deal to end the conflict.
+- **WTI similarly declined.**
+- Both Brent + WTI registering largest single-session declines since Apr 17 Hormuz-reopening crash.
+- **Significance**: Markets pricing deal-close probability; bearish move STRUCTURALLY INCONSISTENT with ground-escalation trajectory.
+- *Sources: CNBC, Trading Economics, Yahoo Finance, Fortune*
+
+### Lebanon: Israel Strikes Beirut's Southern Suburbs — First Time Since Apr 17 Ceasefire — Kills Hezbollah Radwan Force Operations Commander Malek Ballout (US-Coordinated) (May 6, 2026)
+- Israel carried out strike Wednesday May 6 on residential building in **Beirut's southern suburbs for first time since April 17 ceasefire**.
+- **Killed Malek Ballout** (operations commander of Hezbollah Radwan Force), **his deputy + several other Radwan members**.
+- **Three missiles hit apartment in Haret Hreik neighborhood** (Hezbollah's main stronghold).
+- **STRIKE COORDINATED WITH UNITED STATES** (per Athens Times, Times of Israel).
+- **PM Netanyahu confirmed attack**; he and Defense Minister Israel Katz instructed army to carry out strike.
+- Israeli military **EXPANDED DISPLACEMENT ORDERS TO BEKAA VALLEY** (per The National).
+- Per UN, **May 6 attacks the most intense since the truce started**.
+- Separately Israeli air attacks on southern + eastern Lebanon killed at least **13** + wounded **12+** in violation of US-brokered ceasefire.
+- Cumulative Lebanon casualties since Mar 2: **~2,675+ killed / 8,200+ injured / 105+ killed since Apr 16 ceasefire**.
+- Hezbollah has NOT yet declared formal retaliation; Iran-Hezbollah linkage not yet activated.
+- **Significance**: First geographic expansion of Israeli targeting from southern Lebanon to Beirut + Bekaa since Apr 16/17 ceasefire — material breach. US coordination confirms two-track management: Iran-track deescalation via MOU + Lebanon-track tactical Israeli pressure tolerated. Iran has thus far refused wider deal that doesn't include halt to Israel-Hezbollah fight in Lebanon — Hezbollah retaliation for Ballout could trigger Iran-Hezbollah linkage threat to MOU close.
+- *Sources: Al Jazeera, UPI, Times of Israel, Athens Times, JPost, Arab News, Al-Monitor, Wikipedia (2026 Lebanon war), The National, NPR, Lebanese Health Ministry*
+
+### Russia Breaks Ukraine's Unilateral May 6 Ceasefire Within Minutes (May 6, 2026)
+- **Russia broke Ukraine's unilateral May 6 ceasefire within minutes** of its 12:00 a.m. start.
+- Russia launched **108 combat drones + 3 missiles + 2 ballistic missiles + 1 Kh-31 air-to-surface missile** overnight on May 6.
+- **26 civilians killed + 118+ injured** over past day across Ukraine.
+- Russian targets: **energy facilities, oil/gas infrastructure, railways, industrial sites**, plus damage to homes, businesses, transportation network.
+- **Ukrainian FM Andrii Sybiha**: **"Putin only cares about military parades, not human lives"** — referring to Kremlin's own May 9 unilateral Victory Day truce.
+- **Russia counter-accused** Kyiv of breaching its own ceasefire — Russian Foreign Ministry's Ambassador-at-Large Rodion Miroshnik said Ukraine launched attacks on Russian-occupied Crimea + Russia's Bryansk Oblast.
+- **Pokrovsk sector May 5**: 34 enemy attacks (155 combat clashes total May 5).
+- **Russia +1,050 personnel May 6 to ~1,337,170 total combat losses** since Feb 24, 2022 (Ukrainian General Staff).
+- Equipment losses past day: tanks +1, AFVs +5, artillery +92, MLRS +5, air defense +2, UAVs +2,031, cruise missiles +1.
+- Russian unilateral May 8-9 Victory Day truce remains on books with 'massive missile strike on Kyiv' threat backstop.
+- **Significance**: Russia's immediate violation of Ukraine's May 6 unilateral truce undermines Russian sincerity claim on its own May 8-9 truce. Pentagon four-pressure-point posture (Iran ceasefire-with-MOU-track + Russia-Ukraine high-tempo + DPRK + Taiwan) sustained. May 9 Victory Day is the next pivotal window.
+- *Sources: Pravda Ukraine, PRM, Mezha, Index.minfin, Russia Matters, Euronews, RTE, Newsweek, Washington Times, US News, NPR, Al Jazeera, Time, CBC, Kyiv Independent, Moscow Times, Ukrinform*
+
+---
+
+## 1a. US-Iran Military Actions (Prior — May 5) — RUBIO Declares 'OPERATION EPIC FURY IS OVER' at White House Briefing; US Shifts to DEFENSIVE Posture ('No Shooting Unless We're Shot at First') — HEGSETH at Pentagon: Ceasefire 'NOT OVER'; Iran Attacks 'BELOW THRESHOLD'; Project Freedom 'Defensive, Focused, Temporary'; US 'Will Call on Allies to Take Over Mission' — JCS Chair CAINE Running Tally: Iran Fired on Commercial Vessels 9 Times + Seized 2 Ships + Attacked US Forces 10+ Times + UAE 3 + Oman 1 Since Apr 7 — All 'Below Threshold' — UAE 2nd Consecutive Day of Iranian Missile + Drone Attacks Intercepted; Iran DENIES Responsibility — UKMTO: Cargo Vessel Struck by Unknown Projectile in Strait (4th UKMTO Incident in 3 Days) — Iran Announces New 'STRAIT AUTHORITY' Permit Mechanism; Mojtaba Khamenei: 'New Management Will Bring Calm' — Iran FM ARAGHCHI Traveling to BEIJING for China Backing Under 25-Year Cooperation Agreement — Parliament Speaker Ghalibaf (X): US 'Violated Ceasefire'; 'We Have Not Even Begun Yet' — Trump SAID TO SHELVE STRIKES AMID DIPLOMACY; Witkoff/Kushner Exchanging Proposals with Araghchi via Pakistan; White House Gave Iran Private Message Before Project Freedom Launch (Axios) — Brent Fell ~4% to $109.87/Bbl on Hegseth/Rubio Deescalatory Framing — RUSSIA STRIKES KILL 22-26 ACROSS UKRAINE on May 5 (Kramatorsk 5 + Zaporizhzhia 12); Zelensky 'Utter Cynicism'; Russia +970 to ~1,336,120
 
 ### Rubio: 'Operation Epic Fury IS OVER' — US Shifts to Defensive Posture ('No Shooting Unless We're Shot at First') (May 5, 2026)
 - **Secretary of State Marco Rubio at White House briefing**: **"The operation is over. Epic Fury, as the president notified Congress, we're done with that stage of it."**
