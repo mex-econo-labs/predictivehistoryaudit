@@ -1,10 +1,86 @@
-# Geopolitical Briefing: State of the World as of May 7, 2026
+# Geopolitical Briefing: State of the World as of May 8, 2026
 
-Compiled for evaluation of mid-2024 predictions. All information sourced from publicly available reporting through May 7, 2026. Last updated: May 7, 2026.
+Compiled for evaluation of mid-2024 predictions. All information sourced from publicly available reporting through May 8, 2026. Last updated: May 8, 2026.
 
 ---
 
-## 1. US-Iran Military Actions — May 6 TRUMP PAUSES PROJECT FREEDOM AFTER 48 HOURS Citing 'GREAT PROGRESS' on Potential Deal (Blockade Stays in Force) — US AND IRAN CLOSING IN ON ONE-PAGE 14-POINT MOU PER AXIOS/CNN/REUTERS: 30-Day Window + Iran Uranium-Enrichment Moratorium 12-15 Years + Iran HEU REMOVAL + US Sanctions Lift + Frozen-Funds Release + Gradual Hormuz/Blockade Lift; If Talks Collapse US Can Restore Blockade or Resume Military Action — Trump 'Very Good Talks' / 'Very Possible We'll Make a Deal' / 'No Deadline' BUT Backstop: 'If They Don't Agree, the Bombing Starts, And It Will Be, Sadly, At a Much Higher Level And Intensity Than It Was Before' — Iran Government FORMALLY REVIEWING US Proposal; Tehran Response via Pakistani Mediators — Pakistan Source: 'We Will Close This Very Soon' — Iran FM ARAGHCHI MET CHINESE FM WANG YI in Beijing; Wang Yi Demands 'Comprehensive Ceasefire' — French President Macron Demands Hormuz Reopen 'Without Delay or Conditions' — UKMTO May 6: NEW Cargo Vessel Struck by Unidentified Projectile in Strait (5th UKMTO Incident in 4 Days) — Brent Crude FELL ~8% TO BELOW $101/BBL on Deal Hopes — LEBANON: ISRAEL STRIKES BEIRUT'S SOUTHERN SUBURBS for FIRST TIME SINCE APR 17 CEASEFIRE; Kills Hezbollah Radwan Force Operations Commander Malek Ballout; Strike COORDINATED WITH US; 13+ Killed Elsewhere; Displacement Orders Expanded to BEKAA VALLEY — RUSSIA BREAKS UKRAINE'S UNILATERAL MAY 6 CEASEFIRE WITHIN MINUTES (108 Drones + 3 Missiles + 2 BMs + Kh-31; 26 Civilians Killed + 118+ Injured); Russia +1,050 to ~1,337,170
+## 1. US-Iran Military Actions — May 7 US 'SELF-DEFENSE' STRIKES on Iranian Ports BANDAR ABBAS + QESHM + BANDAR KHAMIR + SIRIK after Iran Attacks USS TRUXTUN + USS MASON + USS RAFAEL PERALTA Transiting Strait with Missiles + Drones + Small Boats — US Disabled Iranian-Flagged Tanker M/T HASNA in Gulf of Oman by Firing Rounds from Fighter Jet into Rudder — Iran Armed Forces Retaliate with Ballistic + Anti-Ship Cruise Missiles + Drones at USN Vessels East of Strait + South of Chabahar; Claims 'Significant Damage'; CENTCOM: 'No US Assets Were Struck'; CENTCOM: 'Does Not Seek Escalation' — TRUMP: 'JUST A LOVE TAP' / 'CEASEFIRE IS GOING. IT'S IN EFFECT' / Warns 'WE'LL KNOCK THEM OUT A LOT HARDER' If No Deal — TRUMP: Deal 'COULD BE A WEEK AWAY' / 'NEVER A DEADLINE' — PAKISTAN FM Optimistic Deal 'SOONER RATHER THAN LATER' — Iran FM Spokesperson Baghaei: Iran Processing US Messages via Pakistan but 'HASN'T YET REACHED A CONCLUSION' — BRENT BACK TO ~$101.96/BBL (+0.68%); US Gasoline $4.54/Gal Highest Since Jul 2022 — LEBANON: Israel Formally Confirms Killing Hezbollah Radwan Force Ops Cmdr MALEK BALLOUT in May 6 Beirut Strike; 11 Killed in May 7 Strikes Across South + East Lebanon (Ain Baal/Tyre, Dibbin/Marjayoun, Nabatieh); Israel-Lebanon to Hold MORE TALKS NEXT WEEK per US — RUSSIA SHOOTS DOWN 347 UKRAINIAN DRONES OVERNIGHT (UKRAINE'S 2ND-LARGEST AERIAL ATTACK SINCE INVASION); Russia May 8-9 Victory Day Ceasefire Begins MAY 8; Moscow May 9 Parade WITHOUT TANKS/MISSILES First Time in ~2 Decades; Moscow Internet Shutdown May 9
+
+### US 'Self-Defense' Strikes on 4 Iranian Ports — First US Strike on Iranian Territory Since Apr 7 Ceasefire (May 7, 2026)
+- **U.S. forces intercepted unprovoked Iranian attacks and responded with self-defense strikes** as US Navy guided-missile destroyers transited the Strait of Hormuz to the Gulf of Oman on May 7, according to CENTCOM.
+- Three USN guided-missile destroyers — **USS Truxtun (DDG-103), USS Mason (DDG-87), and USS Rafael Peralta (DDG-115)** — were transiting the strait when Iranian forces "**launched multiple missiles, drones and small boats**."
+- The US targeted Iranian ports along the Strait of Hormuz: **Bandar Abbas, Qeshm, Bandar Khamir, and Sirik**.
+- Targets included **missile and drone launch sites; command and control locations; and intelligence, surveillance and reconnaissance nodes**.
+- CENTCOM: "**No US assets were struck.**"
+- CENTCOM: US **"does not seek escalation but remains positioned and ready to protect American forces."**
+- Iran's armed forces spokesperson claimed US airstrikes hit **civilian areas** along the coasts of Qeshm Island, Bandar Khamir, and Sirik.
+- **Significance**: First US strike on Iranian territory since the April 7 ceasefire began. Strike package targeted launch/C2/ISR — NOT oil terminals or population centers; preserves Kharg-spare doctrine. ALL components AIR/MARITIME-DOMAIN; ZERO ground-domain additions.
+- *Sources: CNN, NPR, ABC News, NBC News, CBS News, Times of Israel, Reuters, Al Jazeera, Stars and Stripes, BNO News, Pravda EN, Just The News, MarketScreener, TWZ*
+
+### US Fighter Jet Disables Iranian-Flagged Tanker M/T Hasna in Gulf of Oman (May 7, 2026)
+- US disabled Iranian-flagged tanker **M/T Hasna** in international waters in the Gulf of Oman by firing **"several rounds" of ammunition from a fighter jet into the ship's rudder** when it attempted to sail toward an Iranian port.
+- Multiple warnings issued first per CENTCOM.
+- **Significance**: Interdiction-class action stays at maritime/air rung; consistent with blockade-enforcement doctrine.
+- *Sources: CNN, ABC News, Reuters*
+
+### Iran Armed Forces Retaliate with Ballistic + Anti-Ship Cruise Missiles + Drones (May 7, 2026)
+- The **Armed Forces of the Islamic Republic of Iran immediately retaliated** by attacking **US Navy military vessels in the eastern Strait of Hormuz and south of the port of Chabahar** using **"various types of ballistic and anti-ship cruise missiles and destructive drones with high-explosive warheads."**
+- Iran claimed "**significant damage**" to US vessels.
+- CENTCOM disputed the damage claim, stating no US assets were struck.
+- Iran's military framed strikes as response to US "violation of ceasefire" by attacking Iranian oil tanker.
+- **Significance**: First Iran ballistic + anti-ship cruise missile retaliation against US during indefinite ceasefire extension. Retaliation stayed at MARITIME RUNG (USN vessels), NOT cross-domain to US bases in Iraq/Saudi/Qatar/Bahrain that would force ground response.
+- *Sources: Press TV, Pravda EN, Pravda USA, Iran Armed Forces statement, Al Jazeera*
+
+### Trump: 'Just a Love Tap' / 'Ceasefire Is Going' / Deal 'Could Be a Week Away' (May 7, 2026)
+- Trump characterized US response as "**It's just a love tap**."
+- Trump: "**The ceasefire is going. It's in effect.**"
+- Trump warning: "**We'll knock them out a lot harder**" if a deal isn't reached quickly.
+- Trump (May 7): deal "**could be a week away**" / "**never a deadline**" for Iran.
+- **Significance**: DEESCALATORY framing despite material kinetic event. Trump explicitly preserved ceasefire framework. Bombing threat stays AIR-CAMPAIGN register, NOT ground-deployment register.
+- *Sources: Fox News, CNN, NBC News, CBS News*
+
+### Pakistan FM Optimistic About Iran-US Deal 'Sooner Rather Than Later' (May 7, 2026)
+- **Pakistan's Foreign Ministry expressed optimism about a deal "sooner rather than later"**; Pakistan-mediated MOU progress not derailed by May 7 kinetic exchange.
+- **Iran FM spokesperson Esmaeil Baghaei** (May 7): Iran processing US messages via Pakistan but **"hasn't yet reached a conclusion"** on next steps.
+- **Significance**: Diplomatic track survives kinetic event. Iran posture stays RESPONSIVE-DIPLOMATIC, NOT mobilization.
+- *Sources: Tribune India, New Kerala, Pakistan Telegraph, Al Jazeera, Anadolu*
+
+### Brent Crude Only +0.68% to ~$101.96/Bbl Despite Kinetic Exchange (May 7, 2026)
+- **Brent crude oil rose to $101.96/bbl on May 7**, up 0.68% from the previous day; morning low **$100.45/bbl**.
+- Modest move despite US strikes on 4 Iranian ports + Iran ballistic + cruise missile retaliation.
+- **US gasoline avg $4.54/gal** — highest since July 2022 (Maersk reports war-related fuel costs nearly doubled).
+- **Significance**: Markets pricing the strikes as TACTICAL-RUNG INCIDENT not war-resumption; both Trump 'love tap' framing + Pakistan optimism + 'ceasefire still in effect' kept the kinetic exchange contained. Brent has risen 7.61% over past month, +62.26% YoY.
+- *Sources: Trading Economics, Fortune, Investing.com, NBC News*
+
+### Lebanon: Israel Formally Confirms Killing Hezbollah Radwan Force Operations Commander Malek Ballout (May 7, 2026)
+- On Thursday May 7, **Israel formally confirmed it had killed Malek Ballout, operations commander of Hezbollah's elite Radwan force**, in May 6 Beirut strike — first Israeli strike on Beirut since Apr 17 ceasefire.
+- **11 other people killed in May 7 strikes** across south + east Lebanon per Lebanese Health Ministry.
+- House in **Ain Baal** (Tyre district) hit; 3 air strikes on **Dibbin** (Marjayoun district); Israeli fighter jets 3 attacks on **Nabatieh** (south).
+- **Israel and Lebanon to hold MORE TALKS NEXT WEEK per US** (RTE).
+- Cumulative Lebanon casualties since Mar 2: **~2,686+ killed / 8,212+ injured / 116+ killed since Apr 16 ceasefire began**.
+- Hezbollah has NOT yet declared formal retaliation; Iran-Hezbollah linkage not yet activated.
+- **Significance**: Continues stress on Apr 16/17 Israel-Lebanon ceasefire. Lebanon-track stays AIR-STRIKE register — no IDF ground re-entry beyond existing security zone. US announcement of next-week talks suggests both tracks managed in parallel.
+- *Sources: Manila Times, Al-Monitor, Al Jazeera, RTE News, L'Orient Today, Lebanese Health Ministry, CGTN*
+
+### Russia Shoots Down 347 Ukrainian Drones Overnight — Ukraine's 2nd-Largest Aerial Attack Since Invasion (May 7, 2026)
+- **Russian air defenses shot down 347 Ukrainian drones overnight on May 7, 2026** in what appeared to be a major attack after Moscow spurned Kyiv's ceasefire offer earlier in the week.
+- Drones were destroyed over **20+ Russian regions including Moscow**.
+- **Ukraine's second-biggest aerial attack since Russia's all-out invasion** more than four years ago.
+- Pokrovsk-direction Russian advance attempts: Nikanorivka, Rodinske, Novooleksandrivka, Shevchenko, Pokrovsk, Grishine, Sergiyivka, Molodetske; Russian forces 5,649 kamikaze-drone uses + 1,862 settlement/position shellings.
+- **Significance**: Ukraine's deep-strike capacity continues to expand and pressure Moscow's symbolic May 9 parade.
+- *Sources: Washington Times, Defense News, Euromaidan Press, Kyiv Independent, Liveuamap, GlobalSecurity*
+
+### Russia May 8-9 Victory Day Ceasefire Begins May 8; Moscow Parade WITHOUT Tanks/Missiles First Time in ~2 Decades (May 8, 2026)
+- **Russian unilateral Victory Day ceasefire begins May 8** with **"massive missile strike on Kyiv"** threat backstop.
+- **Moscow parade scheduled May 9 will take place WITHOUT TANKS, MISSILES OR OTHER MILITARY EQUIPMENT** for the first time in nearly two decades — reportedly due to Ukrainian drone-attack concerns.
+- **All mobile internet access + text messaging services to be shut down in Moscow on May 9**.
+- Zelensky reported **1,820 Russian ceasefire violations by 10am May 6** — ~30 assault operations + 20+ airstrikes using 70+ guided glide bombs.
+- **Significance**: Russia's unilateral truce credibility undermined by May 6 violation of Ukraine's own May 6 truce within minutes. May 9 Victory Day is the next pivotal Russia-Ukraine window.
+- *Sources: Euronews, NBC News, Moscow Times, TASS, Zona Militar, NPR, CBC, Time*
+
+---
+
+## 1AA. US-Iran Military Actions (Prior — May 6) — TRUMP PAUSES PROJECT FREEDOM AFTER 48 HOURS Citing 'GREAT PROGRESS' on Potential Deal (Blockade Stays in Force) — US AND IRAN CLOSING IN ON ONE-PAGE 14-POINT MOU PER AXIOS/CNN/REUTERS: 30-Day Window + Iran Uranium-Enrichment Moratorium 12-15 Years + Iran HEU REMOVAL + US Sanctions Lift + Frozen-Funds Release + Gradual Hormuz/Blockade Lift; If Talks Collapse US Can Restore Blockade or Resume Military Action — Trump 'Very Good Talks' / 'Very Possible We'll Make a Deal' / 'No Deadline' BUT Backstop: 'If They Don't Agree, the Bombing Starts, And It Will Be, Sadly, At a Much Higher Level And Intensity Than It Was Before' — Iran Government FORMALLY REVIEWING US Proposal; Tehran Response via Pakistani Mediators — Pakistan Source: 'We Will Close This Very Soon' — Iran FM ARAGHCHI MET CHINESE FM WANG YI in Beijing; Wang Yi Demands 'Comprehensive Ceasefire' — French President Macron Demands Hormuz Reopen 'Without Delay or Conditions' — UKMTO May 6: NEW Cargo Vessel Struck by Unidentified Projectile in Strait (5th UKMTO Incident in 4 Days) — Brent Crude FELL ~8% TO BELOW $101/BBL on Deal Hopes — LEBANON: ISRAEL STRIKES BEIRUT'S SOUTHERN SUBURBS for FIRST TIME SINCE APR 17 CEASEFIRE; Kills Hezbollah Radwan Force Operations Commander Malek Ballout; Strike COORDINATED WITH US; 13+ Killed Elsewhere; Displacement Orders Expanded to BEKAA VALLEY — RUSSIA BREAKS UKRAINE'S UNILATERAL MAY 6 CEASEFIRE WITHIN MINUTES (108 Drones + 3 Missiles + 2 BMs + Kh-31; 26 Civilians Killed + 118+ Injured); Russia +1,050 to ~1,337,170
 
 ### Trump Pauses Project Freedom After 48 Hours, Cites 'Great Progress' on Potential Deal (May 5-6, 2026)
 - President Trump announced **PAUSE OF PROJECT FREEDOM** (US Navy escort op in Strait of Hormuz) Tuesday May 5 evening through May 6.
