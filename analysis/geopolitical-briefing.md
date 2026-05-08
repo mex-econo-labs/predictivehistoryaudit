@@ -1,10 +1,133 @@
-# Geopolitical Briefing: State of the World as of May 8, 2026
+# Geopolitical Briefing: State of the World as of May 9, 2026
 
-Compiled for evaluation of mid-2024 predictions. All information sourced from publicly available reporting through May 8, 2026. Last updated: May 8, 2026.
+Compiled for evaluation of mid-2024 predictions. All information sourced from publicly available reporting through May 9, 2026. Last updated: May 9, 2026.
 
 ---
 
-## 1. US-Iran Military Actions — May 7 US 'SELF-DEFENSE' STRIKES on Iranian Ports BANDAR ABBAS + QESHM + BANDAR KHAMIR + SIRIK after Iran Attacks USS TRUXTUN + USS MASON + USS RAFAEL PERALTA Transiting Strait with Missiles + Drones + Small Boats — US Disabled Iranian-Flagged Tanker M/T HASNA in Gulf of Oman by Firing Rounds from Fighter Jet into Rudder — Iran Armed Forces Retaliate with Ballistic + Anti-Ship Cruise Missiles + Drones at USN Vessels East of Strait + South of Chabahar; Claims 'Significant Damage'; CENTCOM: 'No US Assets Were Struck'; CENTCOM: 'Does Not Seek Escalation' — TRUMP: 'JUST A LOVE TAP' / 'CEASEFIRE IS GOING. IT'S IN EFFECT' / Warns 'WE'LL KNOCK THEM OUT A LOT HARDER' If No Deal — TRUMP: Deal 'COULD BE A WEEK AWAY' / 'NEVER A DEADLINE' — PAKISTAN FM Optimistic Deal 'SOONER RATHER THAN LATER' — Iran FM Spokesperson Baghaei: Iran Processing US Messages via Pakistan but 'HASN'T YET REACHED A CONCLUSION' — BRENT BACK TO ~$101.96/BBL (+0.68%); US Gasoline $4.54/Gal Highest Since Jul 2022 — LEBANON: Israel Formally Confirms Killing Hezbollah Radwan Force Ops Cmdr MALEK BALLOUT in May 6 Beirut Strike; 11 Killed in May 7 Strikes Across South + East Lebanon (Ain Baal/Tyre, Dibbin/Marjayoun, Nabatieh); Israel-Lebanon to Hold MORE TALKS NEXT WEEK per US — RUSSIA SHOOTS DOWN 347 UKRAINIAN DRONES OVERNIGHT (UKRAINE'S 2ND-LARGEST AERIAL ATTACK SINCE INVASION); Russia May 8-9 Victory Day Ceasefire Begins MAY 8; Moscow May 9 Parade WITHOUT TANKS/MISSILES First Time in ~2 Decades; Moscow Internet Shutdown May 9
+## 1. US-Iran Military Actions — MAY 8 RUBIO from Rome with Italian PM Meloni: US 'EXPECTS IRANIAN RESPONSE TO PEACE PLAN TODAY' — TRUMP Warning (PBS): 'They Better Sign Their Agreement Fast' / 'A Lot of Pain' / 'One Big Glow Coming Out of Iran' Without Ceasefire; Terms Include Tehran SHIPPING ENRICHED URANIUM TO US + No UNDERGROUND FACILITIES — UAE Defense Ministry: Air Defenses INTERCEPTED 2 Ballistic Missiles + 3 Drones from Iran May 8; 3 Wounded, No Major Damage — Senior US Official on May 7 Strikes: 'Do NOT Mean a Restarting of the War' — CENTCOM Running Tally: ~70 Commercial Vessels FORCED TO TURN AROUND Since Apr 13 — JCS Chair: 22,500 MARINERS TRAPPED on 1,550+ Commercial Vessels — April Hormuz Traffic at ~5% of Pre-War Norm (191 Vessels vs Typical ~3,000/Month) — USS BOXER ARG ARRIVING CENTCOM AOR THIS WEEK per USNI — Brent EXTREME INTRADAY VOLATILITY: High ~$108.80/Bbl, Intraday Low ~$96.80, Close ~$100.54-$101.29 per Source — White House Press Secretary Leavitt (Fox News Sunday): Ground Troops 'NOT PART OF THE CURRENT PLAN' — Murkowski AUMF (Week of May 11) Would BAN US Ground Troops + Impose Time Limit + Require Congress Reporting — TRUMP-XI SUMMIT CONFIRMED MAY 14-15 in Beijing; Iran Expected to Dominate Agenda — RUSSIA VICTORY DAY MAY 9 Parade SCALED DOWN to Infantry Only (NO Tanks/Missiles for First Time in ~2 Decades); Only Lukashenko + Laos + Malaysia Attended — Mobile Internet Cut During Parade — TRUMP-MEDIATED 3-DAY RUSSIA-UKRAINE CEASEFIRE May 9-11 with 1,000-FOR-1,000 PRISONER EXCHANGE — POKROVSK May 8: 33 Russian Assaults Repelled; ~106,000 Russian Troops Concentrated — Ukrainian Deep Strikes Reach PERM REGION (Urals, 1,600+ km from Front)
+
+### Rubio from Rome with Italian PM Meloni: US 'Expects Iranian Response to Peace Plan Today' (May 8, 2026)
+- Secretary of State **Marco Rubio**, speaking from Rome alongside Italian PM **Giorgia Meloni** on May 8, said the US **'expects Iranian response to peace plan today'**.
+- **Pakistan**, serving as principal mediator, expressed optimism a deal could happen soon.
+- Iran pushing for **'Hormuz first, nuclear later' multi-stage approach**.
+- **Significance**: Diplomatic-track intensification one day after May 7 kinetic exchange; Rubio's framing shifts the timeline pressure to Iran. Pakistani-mediated MOU progress not derailed by May 7 strikes + Iran retaliation.
+- *Sources: Atalayar, Times of Israel, ms.now, Al Jazeera*
+
+### Trump Warning: 'They Better Sign Their Agreement Fast' / 'A Lot of Pain' / 'One Big Glow Coming Out of Iran'; Terms Include Tehran Shipping Enriched Uranium to US + No Underground Facilities (May 8, 2026)
+- Trump (PBS News): "**they better sign their agreement fast**" or "**they have to understand if it doesn't get signed, they're going to have a lot of pain**".
+- Trump threatened "**one big glow coming out of Iran**" without ceasefire.
+- Trump terms reportedly include Tehran **shipping enriched uranium to the US** + pledging not to operate **underground facilities**.
+- **Significance**: Bombing-threat backstop ('one big glow') stays AIR-CAMPAIGN register, NOT ground-deployment register. Trump terms framed in MOU/non-proliferation register, NOT ground-occupation register. Materially consistent with prior May 6 MOU framework (12-15 yr enrichment moratorium + Iran HEU removal).
+- *Sources: PBS News, Fortune, NBC News*
+
+### UAE Defense Ministry: Air Defenses Intercepted 2 Ballistic Missiles + 3 Drones from Iran May 8; 3 Wounded, No Major Damage (May 8, 2026)
+- **UAE Defense Ministry** (May 8): air defenses **intercepted 2 ballistic missiles + 3 drones** launched by Iran.
+- **3 wounded**, no major damage.
+- **Significance**: Iran retaliation pattern stays GULF-STATE infrastructure register (consistent with Mar-Apr Saudi/Kuwait/Qatar/UAE precedent), NOT US-base targeting that would force ground response. Iran continues to use UAE as pressure-point while preserving Pakistan-mediated Iran-US MOU track.
+- *Sources: Al Jazeera, NBC News, Reuters, Fortune*
+
+### Senior US Official on May 7 Strikes: 'Do NOT Mean a Restarting of the War' (May 8, 2026)
+- **Senior US official** (May 8), speaking after May 7 self-defense strikes on 4 Iranian ports, said the strikes **'do not mean a restarting of the war'**.
+- **Significance**: Explicit deescalatory framing structurally incompatible with mobilization-rhetoric; reinforces Trump 'love tap' May 7 framing.
+- *Sources: Reuters, NBC News*
+
+### CENTCOM Running Tally: ~70 Commercial Vessels Forced to Turn Around Since Apr 13; JCS Chair: 22,500 Mariners Trapped on 1,550+ Commercial Vessels (May 8, 2026)
+- **CENTCOM running tally** as of May 8: **~70 commercial vessels FORCED TO TURN AROUND since Apr 13** (up from 48 May 2 + 49+ pre-pause).
+- **JCS Chair**: **22,500 mariners trapped** on **1,550+ commercial vessels** in the strait.
+- **Significance**: Naval-rung blockade enforcement intensifying WITHOUT cross-rung escalation; humanitarian pressure pushing toward MOU close.
+- *Sources: CENTCOM, House of Commons Library, Hormuz Strait Monitor, Al Jazeera*
+
+### April Hormuz Traffic at ~5% of Pre-War Norm — 191 Vessels in All of April vs Typical ~3,000/Month (May 2026)
+- Total **Hormuz traffic in all of April 2026: only 191 vessels** — approximately **5% of the typical pre-war norm of ~3,000 per month**.
+- **Significance**: Confirms blockade is operative tool dramatically suppressing commercial traffic without ground operations. Pre-war norm was up to 100/day; current rate ~6/day reflects effective near-total interdiction.
+- *Sources: House of Commons Library, Hormuz Strait Monitor, Trading Economics, OilPrice.com*
+
+### Brent Crude Extreme Intraday Volatility May 8: High ~$108.80/Bbl, Intraday Low ~$96.80, Close ~$100.54-$101.29 (May 8, 2026)
+- Brent crude printed a **high of $108.80/bbl in the morning**, collapsed to an **intraday low of $96.80 in the afternoon**, and clawed back about half the move on May 8.
+- Closing prints varied by source: **~$100.54 (Trading Economics), $101.29 (CNBC)**, with one **Fortune snapshot at $104.07 at 9 a.m. ET**.
+- **Significance**: Markets oscillating between escalation pricing (May 7 strikes + May 8 UAE intercept) and deal-close pricing (Rubio Rome 'expect response today' + Trump bargaining-leverage). Two-state asset framing retained: deal-close→$90s; ceasefire-collapse→$120+; current contested-rung pricing $96-108 with extreme intraday volatility.
+- *Sources: Trading Economics, CNBC, Fortune, Investing.com*
+
+### White House Press Secretary Karoline Leavitt: Ground Troops 'Not Part of the Current Plan' (May 8, 2026)
+- **White House Press Secretary Karoline Leavitt** told **Maria Bartiromo (Fox News Sunday)** that Trump **'keeps his options on the table'** but ground troops are **'not part of the current plan'**.
+- **Significance**: First explicit White House anti-ground-deployment framing of war. Materially weakens any reading of Hegseth Apr 24 'boots on the ground' non-foreclosure as preparation rather than deterrence-signaling.
+- *Sources: Fox News Sunday, The Hill, Al Jazeera*
+
+### USS Boxer ARG Arriving CENTCOM AOR This Week per USNI (May 8, 2026)
+- **USS Boxer ARG** arriving CENTCOM AOR this week per USNI; carries **2,200+ Marines of 11th MEU** + **USS Portland (LPD-27)** + **USS Comstock (LSD-45)**.
+- This is the second ARG ordered to the war, joining USS Tripoli (3,500 sailors/Marines, 31st MEU) already on station.
+- **Significance**: Second ARG arrival on schedule but no flank-speed expedite, no third ARG, no LHA/LHD deck-space surge — keeps amphibious lift below ground-invasion threshold.
+- *Sources: USNI News, Stars and Stripes*
+
+### Murkowski AUMF (Week of May 11) Would BAN US Ground Troops + Impose Time Limit + Require Congress Reporting (May 2026)
+- **Senator Lisa Murkowski (R-AK)** drafting limited AUMF that would (a) **BAN US ground troops**, (b) impose time limit, (c) require reporting to Congress.
+- **SML John Thune** blocked her push for a vote and declined to schedule floor time.
+- Murkowski said she will introduce her measure when Senate returns from recess **week of May 11** if administration fails to present a plan.
+- **60-vote threshold** makes passage unlikely.
+- **Significance**: Murkowski's AUMF would FORECLOSE ground-deployment via legislation, NOT authorize it. Materially weakens hawkish-AUMF reading of war-powers debate.
+- *Sources: Murkowski Senate Office, The Hill, Bloomberg, Foreign Policy*
+
+### Trump-Xi Summit Confirmed May 14-15 in Beijing — Iran Expected to Dominate Agenda (May 9, 2026)
+- **Trump-Xi summit confirmed for May 14-15, 2026 in Beijing**. Originally scheduled March, delayed by Iran war.
+- **Iran expected to dominate the agenda** — Trump seeking Beijing's leverage to push Tehran on the ceasefire — likely crowding out tariffs and rare earths.
+- Beijing's priorities: tariffs, Taiwan, US tech restrictions.
+- A subsequent **Xi/Peng Liyuan visit to the White House** is planned for later this year.
+- **Significance**: Beijing-leverage track moving from theoretical (Wang Yi-Araghchi May 6) to scheduled. Asymmetry of Iran being the dominant agenda issue rather than US-China bilateral issues structurally weakens Beijing's bargaining position on tariffs/Taiwan.
+- *Sources: Atlantic Council, Brookings, World Economic Forum, Hudson Institute, SCMP, The Diplomat, FPRI*
+
+### Russia Victory Day May 9 Parade Scaled Down to Infantry Only — No Tanks/Missiles for First Time in ~2 Decades (May 9, 2026)
+- **Moscow Red Square Victory Day parade May 9 scaled down to infantry only** — no tanks, no missiles, no armored vehicles for the first time in nearly two decades.
+- **Mobile internet cut for millions of users during parade**.
+- **Foreign media accreditations revoked**.
+- Only confirmed foreign attendees: **Belarusian President Alexander Lukashenko**, **Laos President Thongloun Sisoulith**, **Malaysian Supreme Ruler Sultan Ibrahim Iskandar** — shortest list in modern Russian history.
+- **Significance**: Most symbolically diminished Victory Day in modern Russian history concretely demonstrates the war's toll on Russian state capacity and prestige. Confirms Ukrainian deep-strike credibility threat.
+- *Sources: NPR, Atlantic Council, Time, Kyiv Independent, Moscow Times, NBC News, CBC, Euronews*
+
+### Trump-Mediated 3-Day Russia-Ukraine Ceasefire May 9-11 with 1,000-for-1,000 Prisoner Exchange (May 9, 2026)
+- **Trump announced a three-day Russia-Ukraine ceasefire May 9-11 with a 1,000-for-1,000 prisoner exchange**.
+- **Confirmed by Kremlin and Zelensky**.
+- **Zelensky pledged Ukraine will not attack Putin's Moscow parade** in exchange for the prisoner swap.
+- However, NPR noted Russia "unilaterally announced" a May 8-10 truce; reports indicate fighting/strikes continued in some areas.
+- **Significance**: Most material US-mediated Russia-Ukraine deescalatory event of war to date; parallels Iran-MOU diplomatic track; reinforces Pentagon four-pressure-point posture constraint on Iran ground-prep.
+- *Sources: NPR, Kyiv Independent, TASS, Al Jazeera, Time, NBC News*
+
+### Pokrovsk May 8: 33 Russian Assaults Repelled; ~106,000 Russian Personnel Concentrated on Pokrovsk Axis (May 8, 2026)
+- **33 Russian assaults repelled May 8** (Bilytske, Nykyforivka, Rodynske, Pokrovsk, Novopavlivka, Toretske, Hryshyne, Kotlyne sectors).
+- Russia has concentrated **~106,000 personnel on the Pokrovsk axis** per Ukraine's commander-in-chief.
+- **208 total combat engagements** in 24 hours.
+- Reported Russian losses **+1,130 personnel**.
+- **Significance**: Pokrovsk remains hottest sector; Russian force concentration suggests sustained May offensive intent despite May 9-11 ceasefire framework.
+- *Sources: GlobalSecurity Russo-Ukraine War May 8 report, Critical Threats, Ukrinform, Kyiv Independent*
+
+### Ukrainian Deep Strikes May 7-8: 260+ Drones Intercepted Across Russia; Strikes Reach Perm Region in Urals (1,600+ km from Front) (May 7-8, 2026)
+- **260+ Ukrainian drones intercepted across Russia** May 7-8.
+- Strikes reached the **Perm region in the Urals (1,600+ km from front line)**.
+- **May 8 Ukrainian drone hit an air traffic control center**, paralyzing southern Russian airports.
+- **PRIOR May 4**: Ukrainian drone hit a luxury Moscow high-rise ~7 km west of Red Square, ~3 km from MoD building.
+- **Significance**: Ukraine's deep-strike capacity continues to expand into Russian rear areas previously assumed safe. Perm-region strike represents one of the longest-range successful Ukrainian deep strikes of the war.
+- *Sources: Liveuamap, Defense News, Kyiv Independent, NPR*
+
+### Bangladesh Severely Impacted by Hormuz Blockade — 95% Energy Import-Dependent; Textile/Garment (84% of Exports) at 40-50% Capacity (May 2026)
+- **Bangladesh, 95% energy import-dependent**, severely impacted by Hormuz blockade.
+- **QatarEnergy suspended LNG deliveries** to Bangladesh; projecting **loss of 40 of 115 scheduled 2026 cargoes**.
+- Diesel reserves down to **9 days early March**; received 5,000 metric tons via cross-border pipeline from India's Numaligarh Refinery.
+- **4 of 5 state urea fertilizer plants shut for 15+ days**.
+- Office hours cut, markets/malls forced to close by 6 PM.
+- **Power cuts up to 5 hours/day**.
+- **Textile/garment factories (84% of exports) operating at 40-50% capacity**.
+- **Significance**: Bangladesh emerges as most-acute non-Gulf victim of Hormuz blockade; humanitarian + economic pressure on US to close MOU intensifies as second-order economic effects propagate.
+- *Sources: LightCastle Partners, Daily Star (Bangladesh), House of Commons Library, OilPrice.com, Library of Congress, Global Voices*
+
+### Japan Released 80M Barrels from Strategic Reserves (15 Days of Demand) March 16 (May 2026)
+- **Japan began releasing 80 million barrels (15 days of demand) from strategic reserves on March 16**.
+- **~70% of Japan's Mideast oil normally transits Hormuz**.
+- PM **Sanae Takaichi** (speaking in Australia May 4-5) called the crisis **'enormous impact'** across Asia-Pacific.
+- Japan signed energy/critical-minerals cooperation agreements with Australia.
+- *Sources: Library of Congress, Energy News Beat, Bloomberg, World Economic Forum*
+
+---
+
+## 1A. US-Iran Military Actions (Prior — May 7) — May 7 US 'SELF-DEFENSE' STRIKES on Iranian Ports BANDAR ABBAS + QESHM + BANDAR KHAMIR + SIRIK after Iran Attacks USS TRUXTUN + USS MASON + USS RAFAEL PERALTA Transiting Strait with Missiles + Drones + Small Boats — US Disabled Iranian-Flagged Tanker M/T HASNA in Gulf of Oman by Firing Rounds from Fighter Jet into Rudder — Iran Armed Forces Retaliate with Ballistic + Anti-Ship Cruise Missiles + Drones at USN Vessels East of Strait + South of Chabahar; Claims 'Significant Damage'; CENTCOM: 'No US Assets Were Struck'; CENTCOM: 'Does Not Seek Escalation' — TRUMP: 'JUST A LOVE TAP' / 'CEASEFIRE IS GOING. IT'S IN EFFECT' / Warns 'WE'LL KNOCK THEM OUT A LOT HARDER' If No Deal — TRUMP: Deal 'COULD BE A WEEK AWAY' / 'NEVER A DEADLINE' — PAKISTAN FM Optimistic Deal 'SOONER RATHER THAN LATER' — Iran FM Spokesperson Baghaei: Iran Processing US Messages via Pakistan but 'HASN'T YET REACHED A CONCLUSION' — BRENT BACK TO ~$101.96/BBL (+0.68%); US Gasoline $4.54/Gal Highest Since Jul 2022 — LEBANON: Israel Formally Confirms Killing Hezbollah Radwan Force Ops Cmdr MALEK BALLOUT in May 6 Beirut Strike; 11 Killed in May 7 Strikes Across South + East Lebanon (Ain Baal/Tyre, Dibbin/Marjayoun, Nabatieh); Israel-Lebanon to Hold MORE TALKS NEXT WEEK per US — RUSSIA SHOOTS DOWN 347 UKRAINIAN DRONES OVERNIGHT (UKRAINE'S 2ND-LARGEST AERIAL ATTACK SINCE INVASION); Russia May 8-9 Victory Day Ceasefire Begins MAY 8; Moscow May 9 Parade WITHOUT TANKS/MISSILES First Time in ~2 Decades; Moscow Internet Shutdown May 9
 
 ### US 'Self-Defense' Strikes on 4 Iranian Ports — First US Strike on Iranian Territory Since Apr 7 Ceasefire (May 7, 2026)
 - **U.S. forces intercepted unprovoked Iranian attacks and responded with self-defense strikes** as US Navy guided-missile destroyers transited the Strait of Hormuz to the Gulf of Oman on May 7, according to CENTCOM.
