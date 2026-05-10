@@ -1,10 +1,97 @@
-# Geopolitical Briefing: State of the World as of May 10, 2026
+# Geopolitical Briefing: State of the World as of May 11, 2026
 
-Compiled for evaluation of mid-2024 predictions. All information sourced from publicly available reporting through May 10, 2026. Last updated: May 10, 2026.
+Compiled for evaluation of mid-2024 predictions. All information sourced from publicly available reporting through May 11, 2026. Last updated: May 11, 2026.
 
 ---
 
-## 1. US-Iran Military Actions — MAY 9-10: IRGC NAVAL CMD VOWS 'HEAVY ASSAULT AGAINST AMERICAN CENTERS IN REGION' If Iranian Vessels Face Further Aggression; IRGC AEROSPACE FORCE: 'Missiles and Drones LOCKED ONTO Enemy' / 'AWAITING ORDER TO FIRE' — Iran FM Spokesperson Baghaei: '14-Point Plan EXCLUSIVELY Focuses on Ending War, OMITS NUCLEAR DOMAIN' — Pakistan FM Dar: US-Iran Talks 'Intense and Constructive'; Talks Likely RESUME IN ISLAMABAD NEXT WEEK — Witkoff (CNN Exclusive): US 'IN CONVERSATION' With Iran — Hezbollah FOR FIRST TIME Since Apr 16 Ceasefire CLAIMS CROSS-BORDER STRIKES INSIDE ISRAEL (Nahariya + Meron Military Bases) — 1 IDF Reservist Severely Injured — Israeli Drone Strikes Near Beirut Kill 4 + Southern Airstrikes Kill 13+ — Russia-Ukraine 3-Day Trump Ceasefire COLLAPSING IN PRACTICE: 140+ Frontline Attacks + 10 Assaults + 850+ Drone Attacks May 10 (Zelensky); Kremlin: 264 Ukrainian Drones Downed Including in Moscow + Perm — POKROVSK May 9-10: 30+ Assaults Repelled; Russia 90th Tank Division Identified — Trump-Xi Beijing Summit MAY 14-15 (4-5 Days Away); Bessent Confirms Iran on Agenda — IMO: ~20,000 SEAFARERS STRANDED on ~2,000 Vessels — Goldman Sachs: Another Month Hormuz Closure = $100+ Brent Throughout 2026 — Brent May 8 Close $101.73/Bbl (+1.66%) — White House Press Secretary Leavitt (Fox News Sunday): Ground Troops 'NOT PART OF THE CURRENT PLAN' — Murkowski AUMF (Week of May 11, 1 Day Away) Would BAN US Ground Troops + Impose Time Limit
+## 1. US-Iran Military Actions — MAY 10-11: TRUMP CALLS IRAN'S RESPONSE TO US PEACE PROPOSAL 'TOTALLY UNACCEPTABLE' (Truth Social: 'I Have Just Read the Response from Iran's So-Called Representatives. I Don't Like It — TOTALLY UNACCEPTABLE!') — Trump Accuses Iran of 'Playing Games' for 47 Years — Iran Via IRNA Sunday Morning Delivered Formal 14-Point Response Via Pakistani Mediators — Iran Counter-Demands: End War on All Fronts Within 30 Days (vs US 2-Month Ceasefire); Lift Naval Blockade; Lift Sanctions on Oil Sales; Unfreeze Frozen Assets; End Lebanon Fighting; New Hormuz Mechanism; US Troop Withdrawal from Periphery; Aggression Guarantees; Reparations — Mojtaba Khamenei May 10 Speech Supports 'Death to America' Chants — Iran Parliament Speaker Ghalibaf: Hormuz Will Remain CLOSED 'If US Does Not Lift Blockade' — Iran Pauses Hormuz Traffic Over Israeli Lebanon Attacks — Trump Uses 'Ceasefire Set to End This Week' Framing Sunday — CENTCOM: 61 Commercial Vessels Redirected Since Apr 13; 20+ Warships Enforcing — Brent Crude SURGES ~8% to $109.74/bbl on Trump Rejection; Citi Maintains $120 Brent Target — Trump-Xi Beijing Summit MAY 14-15 (3-4 Days Away) — IDF Sunday May 10 Strikes Throughout Southern Lebanon Kill 20+ — Russia-Ukraine 3-Day Trump Ceasefire EXPIRES TODAY May 11 — Putin Suggests War 'Coming to End,' Offers to Meet Zelensky in Third Country — Pokrovsk: Russia 51 Attacks May 11 (17 Pokrovsk-Front Pushes)
+
+### Trump Calls Iran's Response 'Totally Unacceptable'; Accuses Iran of 'Playing Games' for 47 Years (May 10, 2026)
+- US President **Donald Trump** on **Truth Social Sunday May 10**: **'I have just read the response from Iran's so-called Representatives. I don't like it — TOTALLY UNACCEPTABLE!'**
+- Trump separately accused Iran of **'playing games with the United States, and the rest of the World, for 47 years'**.
+- **Significance**: First cabinet-level explicit US rejection of Iran response since May 6 MOU draft framework. CRITICAL: rejection language stays at MOU-NEGOTIATION-RUNG, NOT war-resumption declaration; rhetorical/bargaining, NOT operational mobilization order. Trump's verbs are 'I don't like it' and 'totally unacceptable,' NOT 'mobilize,' 'authorize,' or 'deploy.'
+- *Sources: CNN live updates (May 10), CBS News, NPR, ABC News, NBC News, Washington Post, Al Jazeera, Fortune, PBS News, The Hill, NewsNation, Anchorage Daily News*
+
+### Iran Via IRNA Delivered Formal 14-Point Response to US Proposal Via Pakistani Mediators (May 10, 2026)
+- Iran via **IRNA state news agency** Sunday morning May 10 delivered formal response to US 14-point proposal via Pakistani mediators.
+- **Iran's counter-demands**:
+  - End war on all fronts within **30 DAYS** (vs US 2-month ceasefire)
+  - **Lift US naval blockade**
+  - Lift sanctions on Iranian oil sales
+  - Unfreeze frozen Iranian assets
+  - **End fighting in Lebanon**
+  - **New mechanism governing Strait of Hormuz**
+  - **US troop withdrawal from Iran's periphery**
+  - Guarantees against future military aggression
+  - Payment of reparations
+- Per Arabic-language media via Reuters: Iran's response **'places a ceasefire in Lebanon and lifting of restrictions on Iranian oil exports at the center of any future understanding with Washington'**.
+- **Iran nuclear-decoupling stance OPERATIVE**: Baghaei (May 9-10) clarification that 14-point plan **'EXCLUSIVELY focuses on ending war and contains no issues related to the nuclear domain'** remains operative — structural friction with US 'HEU removal + 12-15 yr enrichment moratorium' priority.
+- **Significance**: Iran demand for US troop withdrawal from periphery is REVERSE-DIRECTION signal (would reduce, not increase, ground-prep posture). Iran's Lebanon-as-deal-condition framing now structurally couples Lebanon ceasefire to Iran-US deal close timeline.
+- *Sources: IRNA, Al Jazeera, NPR, Fortune, Reuters, NBC News, House of Commons Library*
+
+### Mojtaba Khamenei May 10 Speech Supports 'Death to America' Chants (May 10, 2026)
+- During **May 10 speech Mojtaba Khamenei supported 'Death to America' chants**.
+- First public Mojtaba speech since incapacitation rumors (Reuters Apr 29-30 reporting that Mojtaba 'awake but sidelined,' role limited to 'legitimizing decisions made by generals').
+- **Tasnim May 10**: Major General Ali Abdollahi, commander of Iran's Khatam al-Anbiya Central Headquarters, briefed Mojtaba on the readiness of the armed forces (army, IRGC, police, intelligence, border forces).
+- Iranian state-linked media reinforcing image of Mojtaba Khamenei as active and functioning leader.
+- **Significance**: Rhetorical hardening at Supreme Leader level, NOT mobilization signal. Iran continues to frame indefinite ceasefire as a partial pause inside continuing maritime confrontation.
+- *Sources: CNN, Iran International, Tasnim, Middle East Forum*
+
+### Iran Parliament Speaker Ghalibaf: Hormuz Remains Closed if Blockade Continues; Senior Iranian Military Source: Sanctions-Enforcing Countries Will 'Face Problems' (May 10-11, 2026)
+- **Iran Parliament Speaker Mohammad Bagher Ghalibaf** early Sunday: Strait of Hormuz will remain **CLOSED 'if the US does not lift the blockade'**.
+- Senior Iranian military figure: countries enforcing sanctions on Iran will **'face problems'** when their vessels pass through Hormuz.
+- **Iran PAUSED HORMUZ TRAFFIC over Israeli attacks in Lebanon** — first explicit operational Iran-Hezbollah linkage acknowledgment since Apr 16 Lebanon ceasefire.
+- **Significance**: Iran institutionalizing maritime-domain control claim; Iran-Hezbollah linkage now structurally couples to Iran-US deal close timeline.
+- *Sources: Al Jazeera, Iran International, Press TV, House of Commons Library, NBC News*
+
+### Trump Uses 'Ceasefire Set to End This Week' Framing (May 10, 2026)
+- Trump on Sunday accused Iran of **'violating the ceasefire set to end this week by firing on ships in the Strait of Hormuz'**.
+- First time Trump publicly framed ceasefire as having end-date.
+- Combined with 'totally unacceptable' MOU rejection raises near-term-resumption probability for AIR/MARITIME rung.
+- **Significance**: 'Ceasefire set to end this week' framing introduces formal end-date language; structurally raises near-term AIR/MARITIME re-escalation probability, NOT ground rung.
+- *Sources: CBS News, Washington Post*
+
+### CENTCOM: 61 Commercial Vessels Redirected Since Apr 13; 20+ Warships Enforcing (May 10, 2026)
+- **U.S. Central Command** reported the number of commercial vessels **'redirected' by the U.S. blockade against Iran is now 61**, with **more than 20 warships** enforcing the blockade.
+- Naval-rung blockade enforcement intensifying WITHOUT cross-rung escalation.
+- **Significance**: Distinct from earlier ~70 May 8 figure (revision/recount). Blockade remains operative tool; Project Freedom paused since May 5-6 (conditional pause keyed to deal close).
+- *Sources: CENTCOM, NBC News, CBS News*
+
+### Brent Crude Surges ~8% to ~$109.74/bbl on Trump Rejection (May 11, 2026)
+- **Brent crude SURGED ~8% to ~$109.74/bbl Monday May 11 morning open** on Trump's 'totally unacceptable' rejection of Iran response.
+- **Citi maintaining $120 Brent 3-month target** on US-Iran deadlock.
+- US gasoline avg $4.54/gal — highest since July 2022.
+- Brent prior close May 8 $101.73/bbl.
+- **Significance**: Markets re-pricing escalation risk back into base case but NOT pricing in ground commitment (would require sustained $130+). Reflects deal-close-probability re-pricing back to escalation-risk pricing.
+- *Sources: Value the Markets, CNBC, TradingKey*
+
+### Trump-Xi Beijing Summit May 14-15 Lands With Iran-Deal-Collapse Backdrop (May 11, 2026)
+- **Trump-Xi summit confirmed for May 14-15, 2026 in Beijing** (3-4 days away).
+- **Treasury Secretary Scott Bessent** confirmed Iran will be a topic in the meetings.
+- Per CNN, World Economic Forum, CSIS: Iran war will likely take center stage at the summit, leaving less scope to resolve issues like tariffs and rare earth supplies.
+- The summit lands with Trump's 'totally unacceptable' rejection of Iran response as backdrop — heightening US need for China leverage on Tehran.
+- **Significance**: Beijing-leverage track moves from theoretical to scheduled. Asymmetry of Iran being the dominant agenda issue rather than US-China bilateral issues structurally weakens Beijing's bargaining position on tariffs/Taiwan.
+- *Sources: CSIS, CNN, World Economic Forum, Brookings, Asia Times, Seoul Economic Daily*
+
+### IDF Strikes Throughout Sunday May 10 in Southern Lebanon Kill 20+ (May 10, 2026)
+- The **Israel Defense Forces conducted strikes throughout the day on Sunday** May 10 on several areas in southern Lebanon, which they said targeted Hezbollah infrastructure.
+- **Israeli air raids killed at least 20 people in southern Lebanon, including a civil defence rescuer**, despite ceasefire.
+- Cumulative Lebanon casualties since Mar 2: **~2,730+ killed / ~8,270+ injured / 160+ killed since Apr 16 ceasefire**.
+- Iran's 14-point response makes 'end fighting in Lebanon' explicit deal-condition — Tehran tying Lebanon ceasefire to Iran-US deal close.
+- **Significance**: Pattern persists: Lebanon-track operationally fraying with Israel air-strike escalation WITHOUT IDF ground re-entry beyond existing security zone or formal Israel-Lebanon ceasefire collapse.
+- *Sources: Al Jazeera, NBC News, CBS News, Lebanese Health Ministry*
+
+### Russia-Ukraine 3-Day Trump Ceasefire EXPIRES TODAY May 11 — Putin Suggests War 'Coming to End,' Offers to Meet Zelensky (May 10-11, 2026)
+- **Trump-mediated 3-day Russia-Ukraine ceasefire May 9-11 EXPIRES TODAY May 11** — collapsed in practice with both sides claiming the other violated the truce.
+- **Russia accused Kyiv of breaking the U.S.-brokered ceasefire on Sunday**. Ukrainian officials said one person had been killed and more injured by Russian drone and artillery strikes in past 24 hours.
+- POKROVSK SECTOR: **Russian forces attacked Ukrainian Defense Forces positions 51 times** since the beginning of the day, concentrating their main efforts on the Pokrovsk and Huliaipole sectors.
+- On the Pokrovsk front, since the beginning of the day, occupiers made **17 attempts to push Ukrainian forces** from their positions towards Bilytske, Nykanorivka, Dorozhnie, Rodynske, Novooleksandrivka, Udachne, Vasylivka, Molodetske and Novomykolaivka.
+- **Putin** (May 10): suggested Russia's war on Ukraine **'coming to an end'**; expressed willingness to **meet Zelenskyy in third country** if peace deal finalized.
+- Latest sticking point: **Ukraine's eastern Donetsk region**, around three-quarters controlled by Russia; Moscow demanded Kyiv withdraw troops from parts Russian forces have failed to capture; Ukraine refused.
+- **Significance**: Pattern matches May 6 Ukraine unilateral ceasefire and Easter ceasefire patterns (mutual violation accusations within hours). Pentagon four-pressure-point posture INTACT and operationally absorbed by Russia-Ukraine theatre, structurally constrains Iran ground-prep.
+- *Sources: Pravda Ukraine, Al Jazeera, Defense News, NPR, Houston Public Media, Washington Post, PBS News, Critical Threats, Ukrinform, EMPR Media*
+
+### IRGC Naval Cmd Vows 'Heavy Assault' Against US Assets if Iranian Vessels Face Further 'Aggression'; IRGC Aerospace Force: 'Missiles and Drones Locked Onto Enemy' / 'Awaiting Order to Fire' (May 9, 2026)
 
 ### IRGC Naval Cmd Vows 'Heavy Assault' Against US Assets if Iranian Vessels Face Further 'Aggression'; IRGC Aerospace Force: 'Missiles and Drones Locked Onto Enemy' / 'Awaiting Order to Fire' (May 9, 2026)
 - The naval command of the **Islamic Revolutionary Guard Corps (IRGC)** said that **'any aggression'** targeting Iran's oil tankers and commercial vessels would result in a **'heavy assault against one of the American centers in the region'**.
