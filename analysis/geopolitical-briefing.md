@@ -1,10 +1,71 @@
-# Geopolitical Briefing: State of the World as of May 11, 2026
+# Geopolitical Briefing: State of the World as of May 12, 2026
 
-Compiled for evaluation of mid-2024 predictions. All information sourced from publicly available reporting through May 11, 2026. Last updated: May 11, 2026.
+Compiled for evaluation of mid-2024 predictions. All information sourced from publicly available reporting through May 12, 2026. Last updated: May 12, 2026.
 
 ---
 
-## 1. US-Iran Military Actions — MAY 10-11: TRUMP CALLS IRAN'S RESPONSE TO US PEACE PROPOSAL 'TOTALLY UNACCEPTABLE' (Truth Social: 'I Have Just Read the Response from Iran's So-Called Representatives. I Don't Like It — TOTALLY UNACCEPTABLE!') — Trump Accuses Iran of 'Playing Games' for 47 Years — Iran Via IRNA Sunday Morning Delivered Formal 14-Point Response Via Pakistani Mediators — Iran Counter-Demands: End War on All Fronts Within 30 Days (vs US 2-Month Ceasefire); Lift Naval Blockade; Lift Sanctions on Oil Sales; Unfreeze Frozen Assets; End Lebanon Fighting; New Hormuz Mechanism; US Troop Withdrawal from Periphery; Aggression Guarantees; Reparations — Mojtaba Khamenei May 10 Speech Supports 'Death to America' Chants — Iran Parliament Speaker Ghalibaf: Hormuz Will Remain CLOSED 'If US Does Not Lift Blockade' — Iran Pauses Hormuz Traffic Over Israeli Lebanon Attacks — Trump Uses 'Ceasefire Set to End This Week' Framing Sunday — CENTCOM: 61 Commercial Vessels Redirected Since Apr 13; 20+ Warships Enforcing — Brent Crude SURGES ~8% to $109.74/bbl on Trump Rejection; Citi Maintains $120 Brent Target — Trump-Xi Beijing Summit MAY 14-15 (3-4 Days Away) — IDF Sunday May 10 Strikes Throughout Southern Lebanon Kill 20+ — Russia-Ukraine 3-Day Trump Ceasefire EXPIRES TODAY May 11 — Putin Suggests War 'Coming to End,' Offers to Meet Zelensky in Third Country — Pokrovsk: Russia 51 Attacks May 11 (17 Pokrovsk-Front Pushes)
+## 1. US-Iran Military Actions — MAY 11-12: TRUMP ESCALATES REJECTION RHETORIC — CEASEFIRE 'ON MASSIVE LIFE SUPPORT' / IRAN PROPOSAL 'GARBAGE,' 'STUPID,' 'UNBELIEVABLY WEAK,' 'DIDN'T EVEN FINISH READING IT' — Trump from White House Monday May 11: 'I would say the ceasefire is on massive life support, where the doctor walks in and says, Sir, your loved one has approximately a 1 percent chance of living' — Pezeshkian May 10 Defiant: 'We Will Never Bow Our Heads Before the Enemy' — Brent Crude July Delivery +3% to $104.21/bbl Close (Intraday High $105.50); Kalshi Traders Pricing Gasoline > $5/gal — Saudi Aramco CEO Nasser: Oil Market Won't Normalize Until 2027 if Hormuz Disruption Past Mid-June; Aramco Sees 100M-bbl/Week Loss — Aramco Net Profit +25% to $32.5B; East-West Pipeline at Max 7.0 mb/d — TWZ MAY 11: 20 Warships + 2 Carriers Enforce Blockade; USS Boxer ARG NOT YET CONFIRMED in CENTCOM but Arrival Could Come This Week — China April Crude Imports -20% YoY to 4-Year Low; Beijing MOFCOM Ordered Companies NOT to Comply with US Sanctions on Five Refiners — Trump-Xi Beijing Summit MAY 14-15 (2-3 Days Away) NOW LANDS AT CEASEFIRE-NEAR-COLLAPSE INFLECTION — Russia-Ukraine 3-Day Trump Ceasefire EXPIRES TODAY May 11 with Mutual Violation Accusations; Russian Drones+Bombs+Artillery Struck Kharkiv + Kherson Civilian Areas Killing 2 + Wounding 7 incl. 14-Yr-Old Boy — Pokrovsk: Russia 51 Attacks May 11 (17 Pokrovsk-Front Pushes); 90th Tank Division Identified at Pokrovsk — Cuba: Russian Universal Tanker Still Adrift in Atlantic; Kolodkin Reserves Depleted; Diaz-Canel: 'Oil Running Out' — Rodriguez Heads to The Hague for Guyana ICJ Case — First Venezuela Departure Since Maduro Abduction — Murkowski Plans AUMF This Week to BAN Ground Troops Aiming at Full Takeover
+
+### Trump Escalates Rejection — Ceasefire 'On Massive Life Support'; Iran Proposal 'Garbage,' 'Stupid' (May 11, 2026)
+- US President **Donald Trump** at White House press Monday May 11: **'I would say the ceasefire is on massive life support, where the doctor walks in and says, Sir, your loved one has approximately a 1 percent chance of living.'**
+- Trump on Iran proposal: **'piece of garbage,' 'I didn't even finish reading it,' 'stupid,' 'unbelievably weak.'**
+- Trump: ceasefire **'unbelievably weak.'**
+- Pattern: Trump reframes from Sunday May 10 Truth Social 'TOTALLY UNACCEPTABLE' rejection to live-press 'on life support' framing — first explicit cabinet-level near-collapse framing of MOU draft window since May 6.
+- **Significance**: Trump rejection rhetoric stays at MOU-NEGOTIATION-RUNG, NOT ground-mobilization order — explicit US verbs are 'on life support,' 'garbage,' 'didn't finish reading,' NOT 'mobilize,' 'authorize,' or 'deploy.'
+- *Sources: CNBC, CBS News, AP, NPR, CNN, Al Jazeera, Washington Post, Washington Times, Reuters via Investing.com, US News, Times of Earth, RTE, Irish Times, Globe and Mail*
+
+### Pezeshkian Defiant: 'We Will Never Bow Our Heads Before the Enemy' (May 10-11, 2026)
+- Iranian President **Masoud Pezeshkian** wrote online Sunday May 10: **'We will never bow our heads before the enemy, and if talk of dialogue or negotiation arises, it does not mean surrender or retreat.'**
+- Iran via Tasnim-cited demands operative: end war on all fronts, lift US sanctions on Iranian oil sales, lift US blockade on Iranian ports, unfreeze frozen assets, safe passage through Strait of Hormuz, war reparations.
+- **Significance**: First president-level rhetorical hardening since Apr 7 ceasefire; preserves bargaining posture without operationalizing escalation.
+- *Sources: CNBC, NPR, Times of Earth, Tasnim, IRNA, Globalsecurity.org*
+
+### Brent Crude +3% to $104.21/bbl Close; Intraday High $105.50 (May 11, 2026)
+- **Brent crude July delivery** settled +3% at **$104.21/bbl** Monday May 11 close after intraday high of **$105.50/bbl**.
+- **Kalshi traders** pricing gasoline could pass **$5/gallon**.
+- CNBC: gas prices set to go higher after Trump rejection.
+- US News: Brent jumped 'as much as 4 per cent on Monday to $105.50.'
+- Reuters via Investing.com: 'Oil prices settle higher after Trump says Iran ceasefire on life support.'
+- *Sources: CNBC, US News, Reuters via Investing.com, RTE, Irish Times, Siasat, Investing.com*
+
+### Aramco CEO: Oil Market Won't Normalize Until 2027 if Hormuz Disruption Past Mid-June (May 11, 2026)
+- **Saudi Aramco CEO Amin Nasser** Q1 2026 earnings call: **oil market would NOT normalize until 2027 if Hormuz disruption persists past mid-June.**
+- Aramco: **100M-bbl/week** oil loss while Hormuz shut.
+- Aramco **net profit +25% to $32.5B** Q1.
+- **East-West Pipeline (Petroline)** at **maximum capacity 7.0 mb/d**.
+- Saudi Arabia reduced oil production by 20% (from 10 mb/d to 8 mb/d) after shutdown of two Aramco offshore fields including Safaniya.
+- **Significance**: Aramco's 2027-normalize-if-Hormuz-shut horizon is structurally INCONSISTENT with imminent ground commitment (which would shorten timeline dramatically).
+- *Sources: CNBC, Euronews, Bloomberg, Marine Link, Economy Middle East*
+
+### TWZ May 11: 20 Warships + 2 Carriers Enforce Blockade; USS Boxer ARG Not Yet in CENTCOM (May 11, 2026)
+- **TWZ carrier tracker May 11**: '20 warships including two carriers enforce Iran blockade.'
+- **USS Boxer ARG** (LHD-4 + Portland LPD-27 + Comstock LSD-45 + 11th MEU ~5,000 Marines/Sailors) **NOT YET CONFIRMED** in CENTCOM but **arrival announcement could come this week**.
+- USS Gerald R. Ford (CVN-78) continuing departure after 309-day record deployment — 3-to-2 carrier reduction in CENTCOM persists.
+- USS Abraham Lincoln (CVN-72) + USS George H.W. Bush (CVN-77) remain — two-carrier posture.
+- **Significance**: Second ARG arrival imminent without flank-speed expedite, no third ARG announced, no LHA/LHD deck-space surge — keeps amphibious lift below ground-invasion threshold.
+- *Sources: TWZ (The War Zone), USNI News, Stars and Stripes*
+
+### China April Crude Imports -20% YoY to 4-Year Low; Beijing MOFCOM Orders Companies NOT to Comply with US Sanctions (May 11, 2026)
+- **China April crude oil imports -20% YoY** to lowest level in almost four years per Chinese customs data.
+- China still buying **~1.22M bpd Iranian oil** via Hormuz (down from 5.35M bpd via Strait pre-war).
+- **Beijing Ministry of Commerce ordered companies NOT to comply** with US sanctions against five refiners — **first invocation** of countermeasure law allowing Beijing to retaliate against entities enforcing sanctions it deems unlawful.
+- *Sources: CNBC, Bloomberg, Foreign Policy, ChinaPower CSIS, USCC Bulletin May 5*
+
+### Trump-Xi Beijing Summit May 14-15 (2-3 Days Away) — Now Lands at Ceasefire-Near-Collapse Inflection (May 11, 2026)
+- **Trump-Xi Beijing summit confirmed May 14-15** (2-3 days away).
+- **Treasury Sec Scott Bessent** confirmed Iran on agenda; urged China to **'join us in this international operation' to open Strait of Hormuz to international shipping**.
+- Iran war 'likely to take center stage in the summit' per CNBC; less scope to resolve tariffs and rare earth supplies.
+- Concerns: China's purchases of Iranian oil supporting Tehran's budget; possible Chinese arms shipments to Iran.
+- Agenda: trade, technology, rare earth export controls, Taiwan, Iran war, AI.
+- *Sources: CNBC, Foreign Policy Journal, Detroit News, CSIS, Pravda EN, Deccan Herald, Globe and Mail*
+
+### Murkowski Plans AUMF This Week to BAN Ground Troops (May 11, 2026)
+- Sen. **Lisa Murkowski (R-AK)** plans to introduce AUMF when **Senate returns from recess week of May 11** if Trump administration does not present 'credible plan.'
+- Per Murkowski's own framing, her AUMF would **'prevent President Trump from going in with ground troops aiming for a full takeover.'**
+- **Significance**: Senate Republican war-powers caucus explicitly anti-ground-deployment; would FORECLOSE ground option, not authorize.
+- *Sources: CNN, NPR, KESQ, KVIA, Roll Call, Stars and Stripes, OANN*
+
+---
 
 ### Trump Calls Iran's Response 'Totally Unacceptable'; Accuses Iran of 'Playing Games' for 47 Years (May 10, 2026)
 - US President **Donald Trump** on **Truth Social Sunday May 10**: **'I have just read the response from Iran's so-called Representatives. I don't like it — TOTALLY UNACCEPTABLE!'**
