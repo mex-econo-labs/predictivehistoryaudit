@@ -1,10 +1,116 @@
-# Geopolitical Briefing: State of the World as of May 12, 2026
+# Geopolitical Briefing: State of the World as of May 13, 2026
 
-Compiled for evaluation of mid-2024 predictions. All information sourced from publicly available reporting through May 12, 2026. Last updated: May 12, 2026.
+Compiled for evaluation of mid-2024 predictions. All information sourced from publicly available reporting through May 13, 2026. Last updated: May 13, 2026.
 
 ---
 
-## 1. US-Iran Military Actions — MAY 11-12: TRUMP ESCALATES REJECTION RHETORIC — CEASEFIRE 'ON MASSIVE LIFE SUPPORT' / IRAN PROPOSAL 'GARBAGE,' 'STUPID,' 'UNBELIEVABLY WEAK,' 'DIDN'T EVEN FINISH READING IT' — Trump from White House Monday May 11: 'I would say the ceasefire is on massive life support, where the doctor walks in and says, Sir, your loved one has approximately a 1 percent chance of living' — Pezeshkian May 10 Defiant: 'We Will Never Bow Our Heads Before the Enemy' — Brent Crude July Delivery +3% to $104.21/bbl Close (Intraday High $105.50); Kalshi Traders Pricing Gasoline > $5/gal — Saudi Aramco CEO Nasser: Oil Market Won't Normalize Until 2027 if Hormuz Disruption Past Mid-June; Aramco Sees 100M-bbl/Week Loss — Aramco Net Profit +25% to $32.5B; East-West Pipeline at Max 7.0 mb/d — TWZ MAY 11: 20 Warships + 2 Carriers Enforce Blockade; USS Boxer ARG NOT YET CONFIRMED in CENTCOM but Arrival Could Come This Week — China April Crude Imports -20% YoY to 4-Year Low; Beijing MOFCOM Ordered Companies NOT to Comply with US Sanctions on Five Refiners — Trump-Xi Beijing Summit MAY 14-15 (2-3 Days Away) NOW LANDS AT CEASEFIRE-NEAR-COLLAPSE INFLECTION — Russia-Ukraine 3-Day Trump Ceasefire EXPIRES TODAY May 11 with Mutual Violation Accusations; Russian Drones+Bombs+Artillery Struck Kharkiv + Kherson Civilian Areas Killing 2 + Wounding 7 incl. 14-Yr-Old Boy — Pokrovsk: Russia 51 Attacks May 11 (17 Pokrovsk-Front Pushes); 90th Tank Division Identified at Pokrovsk — Cuba: Russian Universal Tanker Still Adrift in Atlantic; Kolodkin Reserves Depleted; Diaz-Canel: 'Oil Running Out' — Rodriguez Heads to The Hague for Guyana ICJ Case — First Venezuela Departure Since Maduro Abduction — Murkowski Plans AUMF This Week to BAN Ground Troops Aiming at Full Takeover
+## 1. US-Iran Military Actions — MAY 12-13: TRUMP DEPARTS FOR BEIJING; FIRST CABINET-LEVEL AIDES-LEAKED RE-ESCALATION SIGNAL — CNN LIVE UPDATES MAY 12: 'SOME AIDES TO PRESIDENT DONALD TRUMP SAID HE IS NOW MORE SERIOUSLY CONSIDERING RESUMING COMBAT OPERATIONS IN IRAN' — Trump CNN Aboard Air Force One: 'I Don't Think We Need Any Help With Iran. We'll Win It One Way or Another' — Pentagon Acting Comptroller Hurst III HASC May 12: Iran War Cost $29B (+$4B from Apr 29) — Hegseth Defends $1.5T Budget; 'I Take Issue With the Characterization That Munitions Are Depleted in a Public Forum — That's Not True' — Pentagon Casualty Count Scrub: WIA Tally 428 Mon → 413 Tue (15 Removed Without Public Comment Per The Intercept: 'Definition of a Cover-up') — Kharg Island ~20 sq mi (52 sq km) Suspected Oil Slick on Copernicus Sentinel-1/2/3 Imagery May 6-8; ~80,000 bbls Estimated; Iran Calls 'False' / 'Psychological Warfare,' Blames European Tanker Waste — South Korea Government Concludes 'External Strike' Caused HMM Namu May 4 Explosion — Two Unidentified Aerial Objects ~1 Min Apart; Likely Iranian UAVs Per Bloomberg/Ynet — Mojtaba Khamenei Issued 'New and Decisive Directives' for Military Operations; Pezeshkian Met Mojtaba 'In a Relaxed Atmosphere' ~2.5 Hours — WTI June Futures +4.2% to Settle $102.18/bbl May 12 (First Close >$100 Since May 4); Brent July +3.4% to $107.77/bbl — Cuba: Trump Truth Social Tuesday May 12 'Cuba is Asking for Help, and We Are Going to Talk!!'; Labels Cuba 'A Failed Country' — Russia-Ukraine: Putin Proposed May 15 Istanbul Direct Talks; Zelensky May 13 to Meet Erdogan in Ankara, Ready for Istanbul if Putin Attends; Kremlin Spokesman Peskov May 13 'Will Announce Representative Once Putin Deems It Necessary' — Lebanon-Israel Washington Talks Third Round Scheduled May 14-15 (Karam-Dermer); Hezbollah Chief Naim Qassem May 12 Demands Lebanon Withdraw, Arsenal Excluded From Negotiations — Rodriguez at The Hague May 11 Rejects Trump '51st State' Framing: 'Is Not Foreseen and Would Never Be Foreseen' — Trump 5,000-Troop Germany Withdrawal Plan Faces Bipartisan Senate Pushback — Murkowski AUMF Still Planned This Week to BAN Ground Troops Aiming at Full Takeover
+
+### Trump Departs for Beijing State Visit; CNN Aboard Air Force One: 'I Don't Think We Need Any Help With Iran. We'll Win It One Way or Another' (May 12-13, 2026)
+- **President Donald Trump** departed for Beijing Tuesday evening **May 12**; state visit **May 13-15**.
+- Trump on Air Force One per CNN: **'I don't think we need any help with Iran. We'll win it one way or another.'**
+- Trump separately said he plans to have a **'long talk' with Xi about the Iran war** when he arrives in Beijing.
+- More than a dozen big-name US corporate executives traveling as part of delegation including Apple's Tim Cook and Tesla's Elon Musk.
+- Iranian official met with Chinese counterparts in Beijing last week; Russian President Vladimir Putin expected to visit Beijing days after Trump leaves.
+- **Significance**: Bargaining-confidence register typical of pre-summit-leverage framing, NOT mobilization. Iran war 'likely to take center stage' in summit per CNBC; less scope to resolve tariffs and rare earth supplies.
+- *Sources: NPR (Trump goes to China as Iran war smolders), Al Jazeera (Trump downplays US-Iran differences), CNBC (What's at stake for trade, Taiwan and Iran), Wikipedia 2026 state visit, The National, RFE/RL, CSIS, CFR, Spectrum News, FoxBusiness*
+
+### CNN Live Updates May 12: 'Some Aides to Trump Said He Is Now More Seriously Considering Resuming Combat Operations in Iran' (May 12, 2026)
+- **CNN live updates May 12**: **'Some aides to President Donald Trump said he is now more seriously considering resuming combat operations in Iran'** after describing the ceasefire on 'massive life support' Monday.
+- **Significance**: First cabinet-level aides-leaked re-escalation signal of the May 6 MOU draft window. HOWEVER 'resuming combat operations' verb is generic and consistent with **AIR-CAMPAIGN re-strike package**, NOT yet ground-deployment-specific.
+- No parallel operational mobilization indicators observed (no troop order, no third ARG, no Guard call-up, no Selective Service language).
+- *Sources: CNN live updates (May 12), PBS News, Wikipedia 2026 Iran war*
+
+### Pentagon Iran War Cost Reaches $29B (+$4B from Apr 29) — Hegseth Defends $1.5T Budget (May 12, 2026)
+- **Acting Defense Department Comptroller Jules Hurst III** testified to **House Armed Services Committee May 12**: estimated cost of US-Israeli military action against Iran has increased by **$4 billion since the Apr 29 estimate**, reaching **$29 billion** total since war began Feb 28.
+- Rising costs reflect higher expenditures for **equipment repair and replacement**, as well as the **'general operational costs'** of sustaining the operation in the Persian Gulf and Strait of Hormuz.
+- Defense Sec **Hegseth** defended **$1.5T budget request** to Congress; pushed back on senator concerns about depleted munitions stockpiles: **'I take issue with the characterization that munitions are depleted in a public forum — that's not true.'**
+- Senators raised questions about Trump administration's plan to **withdraw 5,000 troops from Germany**, which faces bipartisan pushback.
+- **Significance**: Cost-pressure register; Hegseth munitions defense is anomalous if re-strike imminent (would acknowledge stockpile gaps to extract supplemental). Germany withdrawal plan REDUCES European logistical tail, structurally incompatible with sustained Iran ground commitment.
+- *Sources: Defense News (Pentagon seeks additional funding), UPI (Cost reached $29 billion), Times of Israel, Yahoo News (Pentagon $29bn price tag), local10.com (Hegseth defends $1.5 trillion), Irish Times, IBTimes, MarketScreener, NOTUS, militarynews.com*
+
+### Pentagon Casualty Count Scrub: WIA Tally Drops 15 Without Public Comment (May 12, 2026)
+- Pentagon-published **WIA tally** rose to **428 on Monday May 11**, then **declined by 15** to **413 on Tuesday May 12** without public comment per The Intercept.
+- The Intercept: **'definition of a cover-up'**; second Intercept story on counting discrepancies (first Apr 22).
+- KIA remains 15.
+- **Significance**: Transparency erosion under cost pressure, NOT operational ground-prep indicator.
+- *Sources: The Intercept (US altered tally of American casualties), CNN live updates May 12*
+
+### Kharg Island ~20 sq mi (52 sq km) Suspected Oil Slick on Copernicus Sentinel Imagery May 6-8 (May 8-12, 2026)
+- **Copernicus Sentinel-1, Sentinel-2, and Sentinel-3 satellites** imagery from **May 6-8** shows a likely oil slick spreading off the coast of Iran's **Kharg Island** — a key oil export terminal for Iran.
+- **Orbital EOS** (oil-spill monitoring) told The New York Times that the spill appeared to cover **more than 20 square miles (52 sq km)** as of Thursday.
+- An **estimated ~80,000 oil barrels** spilled from Kharg Island since slick was first detected by satellite imagery Tuesday May 5 per Defence Security Asia.
+- An **Iranian official** said the claim was **'false'** and part of the enemy's **'psychological warfare'**, blaming the spill on **'oil tanker waste discharged into the sea by a European tanker.'**
+- **Louis Goddard** (Data Desk co-founder): images likely show oil slick; **potentially largest** to occur since start of US-Israel war on Iran 70 days ago.
+- **Significance**: Environmental event at maritime rung, NOT US strike action. Iran's Kharg defenses (MANPADS + air defenses + anti-armor mines deployed late March) remain in place. No satellite-imagery confirmation of new Iranian military movements.
+- *Sources: Al Jazeera (Satellite images show likely oil slick), JPost (Suspected oil spill seen), NewsNation (Possible oil spill seen), Türkiye Today, BOE Report, Defence Security Asia (Pentagon Prepares Ground Troop Deployment framing), Surinametimes, Modern Ghana, WION, France 24, Krytyka Polityczna*
+
+### South Korea Concludes 'External Strike' Caused HMM Namu Explosion — Two UAVs Likely Iranian (May 11-12, 2026)
+- **South Korean government joint investigation** found two **'unidentified aerial objects'** struck the stern of the **HMM Namu** about **one minute apart** on **May 4 local time**, while the vessel was anchored near the **United Arab Emirates side of the Strait of Hormuz**.
+- Damage: **7-meter-deep × 5-meter-wide hole** in the vessel's outer hull located about 1 to 1.5 meters above sea level; damage to engine room floor; fire damage inside ship.
+- Newly released images and hull-damage data indicate **strike by unmanned aerial vehicles, likely from Iran** per Washington Times / Ynet.
+- **Iranian Embassy in Seoul** released official statement: country **'firmly and categorically'** denies any involvement.
+- Vessel towed to **Dubai** for further investigation and analysis of recovered debris.
+- One crew member sustained minor injuries (initially reported as no injuries among 24 crew).
+- **Significance**: First formal state attribution of suspected Iranian UAV attack on Korean-operated vessel; stays at MARITIME RUNG.
+- *Sources: Korea Herald (Seoul concludes external strike), Bloomberg (South Korea Confirms External Strikes), Insurance Journal (Seoul Condemns Strike), UPI (HMM Namu hit by two unidentified objects), Washington Times (Seoul on the spot), Ynet (Two explosions in one minute), Modern Diplomacy, Stars and Stripes*
+
+### Iran Nuclear: Mojtaba Khamenei Issued 'New and Decisive Directives' for Military Operations; Pezeshkian Met Mojtaba ~2.5 Hours (May 7-12, 2026)
+- **Iranian state broadcaster**: Iran's new supreme leader **Mojtaba Khamenei**, who has not appeared publicly since the war began, issued **'new and decisive directives'** for military operations.
+- **President Pezeshkian** disclosed he met with Supreme Leader Mojtaba Khamenei recently, describing the encounter as taking place **'in a relaxed atmosphere'**, with discussions lasting **nearly 2.5 hours**.
+- US intelligence reportedly assesses Mojtaba playing 'critical role' in Iran's war strategy (JPost).
+- Prior FM Araghchi offer (Mar 15): 'we are ready to dilute those enriched material, or down-blend them' — HEU dilute/down-blend offer remains on table per arms-control voices.
+- **Significance**: First Mojtaba operative-level military-direction signal since Mar 9 succession. Rhetorical/posture adjustment, NOT mobilization order.
+- *Sources: JPost (Mojtaba Khamenei playing critical role), Al Arabiya (Iran's president says he recently met Mojtaba), Al Jazeera (Iran's President Pezeshkian seeks to quash divided leadership narrative), Iran International, FDD (Tehran's Nuclear Weapons Timeline)*
+
+### WTI June Futures Close >$100 First Time Since May 4; Brent +3.4% to $107.77/bbl (May 12, 2026)
+- **US West Texas Intermediate June futures +4.2%** to settle **$102.18/bbl** Tuesday May 12 — first close >$100 since May 4 kinetic exchange.
+- **Brent crude July futures +3.4%** to close **$107.77/bbl** Tuesday May 12.
+- Since Feb 28 WTI + Brent both **up >45%**.
+- **Saudi Aramco CEO Amin Nasser** warned market losing roughly **100 million barrels of supply each week**; prolonged disruptions could push normalization into next year (2027).
+- *Sources: CNBC (US crude oil tops $100 again), Trading Economics, OilPrice.com (Oil Prices Whipsaw), Wikipedia 2026 Iran war fuel crisis*
+
+### Cuba: Trump Truth Social Tuesday May 12 'Cuba is Asking for Help, and We Are Going to Talk!!' (May 12, 2026)
+- **President Donald Trump** on Tuesday May 12 announced talks with Cuba via Truth Social: **'Cuba is asking for help, and we are going to talk!!'**
+- Trump described communist-ruled island as **'a failed country.'**
+- Announcement made as Trump departed for China.
+- No concrete details about scope of contacts or possible negotiation agenda; neither White House nor State Department has explained how talks will unfold or US demands; no immediate Cuban government response.
+- Context: 240+ new sanctions since Jan 2026; at least 7 oil tankers destined for Cuba intercepted; energy imports reduced 80-90%; blackouts affecting 55%+ of territory with outages up to 25 hours daily; projected economic contraction -7.2% for 2026.
+- **Significance**: Surprise pivot from May 1 'almost immediately' takeover rhetoric (Forum Club Palm Beach) to talks-announcement track. DIPLOMATIC-CHANNEL expansion structurally inconsistent with imminent Iran ground commitment.
+- *Sources: Free Malaysia Today, ColombiaOne, US News, Arab News, Pakistan Today, Detroit News, Yahoo News, WHBL, CubaHeadlines, Wikipedia 2026 Cuban crisis*
+
+### Russia-Ukraine: Putin Proposed May 15 Istanbul Direct Talks; Zelensky May 13 to Meet Erdogan in Ankara (May 11-13, 2026)
+- **Russian President Vladimir Putin** gathered Russian state TV in the middle of the night (**overnight May 11-12**) to inform them he is **ready to begin direct peace talks with Ukraine on May 15**.
+- **President Zelensky May 13**: expects ceasefire from potential in-person meeting with Putin, **which may take place in Istanbul on May 15**.
+- Zelensky: **'We will be waiting to meet with Putin in Turkey. So that Russia does not manipulate cities and say that Putin is not ready to fly to Ankara, but is ready to fly only to Istanbul.'**
+- Zelensky will meet **Turkish President Recep Tayyip Erdogan in Ankara** before flying onward to Istanbul if Putin attends.
+- Zelensky: **'We expect Russia to confirm a full, durable, and reliable ceasefire starting May 12, and Ukraine is ready to meet.'**
+- **Kremlin spokesperson Dmitry Peskov on May 13**: Kremlin would **announce its representative once Putin 'deems it necessary.'**
+- Russian president earlier declined personal attendance; was poised to appoint aide **Vladimir Medinsky** to lead lower-level delegation.
+- Trump-mediated 3-day ceasefire (May 9-11) collapsed by May 11 with mutual violation accusations.
+- *Sources: Kyiv Independent (Zelensky sends Ukrainian delegation to Istanbul), Pravda Turkey (Countries where Putin's talks with Zelensky can take place), France 24 (Putin spurns Zelensky meeting), CBC (Ukraine, Russia appear set to engage), eNCA (Zelensky in Istanbul for security talks), Reuters, Al Jazeera, NPR, Washington Post, PBS News*
+
+### Lebanon-Israel Washington Talks Third Round Scheduled May 14-15; Hezbollah's Qassem Demands Withdrawal (May 12, 2026)
+- **US State Department** confirms third round of direct talks between Israel and Lebanon scheduled **May 14-15 in Washington**.
+- **Lebanese delegation** led by **Simon Karam**; **Israeli delegation** led by **Ron Dermer**.
+- Third bilateral engagement since 1993 per US framing.
+- Lebanon seeking deal that would guarantee end to Israeli attacks + withdrawal of forces from south Lebanon; Israel pushing for agreement that would permanently disarm Hezbollah.
+- **Hezbollah chief Naim Qassem** on May 12 demanded Lebanon government **withdraw from upcoming negotiations**: **'free concessions'** to Israel; group will exclude its arsenal from negotiations; **'this is an internal Lebanese matter and not part of negotiations with the enemy.'**
+- Qassem pledged to make battlefield **'hell'** if necessary.
+- **Lebanon health ministry**: at least **380 killed + 1,122 injured** in Lebanon since Apr 17 ceasefire took effect; cumulative war total now **2,882 killed + 8,786 wounded**.
+- At least **6 killed in Lebanon + 2 Israeli soldiers injured** in Israel as Hezbollah-IDF trading fire continues despite fragile ceasefire May 12-13.
+- *Sources: Al-Monitor (Lebanon, Israel eye third round of talks), Times of Israel (Hezbollah chief demands Lebanon back out), Globalsecurity.org, Washington Times (Hezbollah leader urging Lebanon quit talks), Al Jazeera (Hezbollah leader urges Lebanon government to pull out), Tribune India ('We will turn it into hell'), Photonews PK, CNN live updates May 12, Wikipedia 2026 Lebanon war*
+
+### Venezuela: Rodriguez at The Hague May 11 Rejects Trump '51st State' Framing (May 11, 2026)
+- **Venezuelan Acting President Delcy Rodriguez** at **The Hague Monday May 11** rejected Trump's 'serious consideration' of annexing Venezuela as 51st US state.
+- Rodriguez: **'is not foreseen and would never be foreseen.'**
+- First time Rodriguez has left Venezuela since Maduro's abduction by US forces January 3.
+- Rodriguez reportedly compliant with US demands including stopping oil deliveries to Cuba, opening PDVSA to foreign companies, releasing political prisoners.
+- *Sources: Rio Times (Delcy Rodriguez Rejects Trump's Venezuela 51st State Idea), Al Jazeera (Venezuela's Delcy Rodriguez heads to The Hague)*
+
+---
+
+## 1A. US-Iran Military Actions — MAY 11-12 PRIOR DATA CYCLE: TRUMP ESCALATES REJECTION RHETORIC — CEASEFIRE 'ON MASSIVE LIFE SUPPORT' / IRAN PROPOSAL 'GARBAGE,' 'STUPID,' 'UNBELIEVABLY WEAK,' 'DIDN'T EVEN FINISH READING IT' — Trump from White House Monday May 11: 'I would say the ceasefire is on massive life support, where the doctor walks in and says, Sir, your loved one has approximately a 1 percent chance of living' — Pezeshkian May 10 Defiant: 'We Will Never Bow Our Heads Before the Enemy' — Brent Crude July Delivery +3% to $104.21/bbl Close (Intraday High $105.50); Kalshi Traders Pricing Gasoline > $5/gal — Saudi Aramco CEO Nasser: Oil Market Won't Normalize Until 2027 if Hormuz Disruption Past Mid-June; Aramco Sees 100M-bbl/Week Loss — Aramco Net Profit +25% to $32.5B; East-West Pipeline at Max 7.0 mb/d — TWZ MAY 11: 20 Warships + 2 Carriers Enforce Blockade; USS Boxer ARG NOT YET CONFIRMED in CENTCOM but Arrival Could Come This Week — China April Crude Imports -20% YoY to 4-Year Low; Beijing MOFCOM Ordered Companies NOT to Comply with US Sanctions on Five Refiners — Trump-Xi Beijing Summit MAY 14-15 (2-3 Days Away) NOW LANDS AT CEASEFIRE-NEAR-COLLAPSE INFLECTION — Russia-Ukraine 3-Day Trump Ceasefire EXPIRES TODAY May 11 with Mutual Violation Accusations; Russian Drones+Bombs+Artillery Struck Kharkiv + Kherson Civilian Areas Killing 2 + Wounding 7 incl. 14-Yr-Old Boy — Pokrovsk: Russia 51 Attacks May 11 (17 Pokrovsk-Front Pushes); 90th Tank Division Identified at Pokrovsk — Cuba: Russian Universal Tanker Still Adrift in Atlantic; Kolodkin Reserves Depleted; Diaz-Canel: 'Oil Running Out' — Rodriguez Heads to The Hague for Guyana ICJ Case — First Venezuela Departure Since Maduro Abduction — Murkowski Plans AUMF This Week to BAN Ground Troops Aiming at Full Takeover
 
 ### Trump Escalates Rejection — Ceasefire 'On Massive Life Support'; Iran Proposal 'Garbage,' 'Stupid' (May 11, 2026)
 - US President **Donald Trump** at White House press Monday May 11: **'I would say the ceasefire is on massive life support, where the doctor walks in and says, Sir, your loved one has approximately a 1 percent chance of living.'**
