@@ -1,10 +1,110 @@
-# Geopolitical Briefing: State of the World as of May 13, 2026
+# Geopolitical Briefing: State of the World as of May 14, 2026
 
-Compiled for evaluation of mid-2024 predictions. All information sourced from publicly available reporting through May 13, 2026. Last updated: May 13, 2026.
+Compiled for evaluation of mid-2024 predictions. All information sourced from publicly available reporting through May 14, 2026. Last updated: May 14, 2026.
 
 ---
 
-## 1. US-Iran Military Actions — MAY 12-13: TRUMP DEPARTS FOR BEIJING; FIRST CABINET-LEVEL AIDES-LEAKED RE-ESCALATION SIGNAL — CNN LIVE UPDATES MAY 12: 'SOME AIDES TO PRESIDENT DONALD TRUMP SAID HE IS NOW MORE SERIOUSLY CONSIDERING RESUMING COMBAT OPERATIONS IN IRAN' — Trump CNN Aboard Air Force One: 'I Don't Think We Need Any Help With Iran. We'll Win It One Way or Another' — Pentagon Acting Comptroller Hurst III HASC May 12: Iran War Cost $29B (+$4B from Apr 29) — Hegseth Defends $1.5T Budget; 'I Take Issue With the Characterization That Munitions Are Depleted in a Public Forum — That's Not True' — Pentagon Casualty Count Scrub: WIA Tally 428 Mon → 413 Tue (15 Removed Without Public Comment Per The Intercept: 'Definition of a Cover-up') — Kharg Island ~20 sq mi (52 sq km) Suspected Oil Slick on Copernicus Sentinel-1/2/3 Imagery May 6-8; ~80,000 bbls Estimated; Iran Calls 'False' / 'Psychological Warfare,' Blames European Tanker Waste — South Korea Government Concludes 'External Strike' Caused HMM Namu May 4 Explosion — Two Unidentified Aerial Objects ~1 Min Apart; Likely Iranian UAVs Per Bloomberg/Ynet — Mojtaba Khamenei Issued 'New and Decisive Directives' for Military Operations; Pezeshkian Met Mojtaba 'In a Relaxed Atmosphere' ~2.5 Hours — WTI June Futures +4.2% to Settle $102.18/bbl May 12 (First Close >$100 Since May 4); Brent July +3.4% to $107.77/bbl — Cuba: Trump Truth Social Tuesday May 12 'Cuba is Asking for Help, and We Are Going to Talk!!'; Labels Cuba 'A Failed Country' — Russia-Ukraine: Putin Proposed May 15 Istanbul Direct Talks; Zelensky May 13 to Meet Erdogan in Ankara, Ready for Istanbul if Putin Attends; Kremlin Spokesman Peskov May 13 'Will Announce Representative Once Putin Deems It Necessary' — Lebanon-Israel Washington Talks Third Round Scheduled May 14-15 (Karam-Dermer); Hezbollah Chief Naim Qassem May 12 Demands Lebanon Withdraw, Arsenal Excluded From Negotiations — Rodriguez at The Hague May 11 Rejects Trump '51st State' Framing: 'Is Not Foreseen and Would Never Be Foreseen' — Trump 5,000-Troop Germany Withdrawal Plan Faces Bipartisan Senate Pushback — Murkowski AUMF Still Planned This Week to BAN Ground Troops Aiming at Full Takeover
+## 1. US-Iran Military Actions — MAY 13-14: TRUMP ARRIVES BEIJING; TRUMP-XI SUMMIT MAY 14-15 BEGINS; CHINESE SUPERTANKER YUAN HUA HU EXITS HORMUZ WITHOUT IRANIAN TOLLS; IRAN 'FACE FAILURE' / ISW 'PREPARING FOR RESUMPTION OF HOSTILITIES' / TEHRAN RESTORED ACCESS TO 30 OF 33 MISSILE SITES; 52 SENATORS + 177 CONGRESSMEN BIPARTISAN NO-ENRICHMENT LETTER TO TRUMP; IRAN RATIFIES UN CONVENTION AGAINST TRANSNATIONAL ORGANIZED CRIME (FATF COMPLIANCE); HEGSETH/CAINE 'INTENSE BIPARTISAN FRUSTRATION' MAY 12 HEARINGS — Trump CNN Aboard Air Force One: 'I Don't Think We Need Any Help With Iran. We'll Win It One Way or Another' — Brent $107.05 May 13 (-0.67%) — Pokrovsk Epicenter Shifting Toward Rodynske + Krasnyi Liman (North of Pokrovsk) — Putin in Effect Rejects Zelensky Ceasefire Offer; Appoints Aide Medinsky to Lead Lower-Level Istanbul Delegation May 15; Zelensky Sends Defense Minister Umerov — Cuba Power Deficit Tops 2,050 MW First Time 2026 — North Korea: Kim Inspects 155mm Howitzer Production for Border + Rides Choe Hyon Destroyer (Mid-June Commission) + Constitution Drops Unification References
+
+### Trump Arrives Beijing May 13 Evening for Xi Summit May 14-15 — Iran 'Likely to Dominate' Conversation (May 13-14, 2026)
+- **President Donald Trump** arrived in **Beijing Tuesday evening May 13** (~**7:50pm local time**) aboard Air Force One.
+- Greeted by **Chinese Vice President Han Zheng** plus **300 Chinese children** dressed in blue and white uniforms waving American and Chinese flags at airport.
+- **Trump-Xi state visit May 14-15** begins **Thursday morning local time** with welcome ceremony, bilateral meeting at **Great Hall of the People**, and state banquet.
+- US delegation includes **Apple's Tim Cook**, **Tesla's Elon Musk** + 12+ executives.
+- Iran 'likely to dominate' conversation per CNBC, Al Jazeera, NBC despite Trump's CNN aboard Air Force One framing: **'I don't think we need any help with Iran. We'll win it one way or another.'**
+- Analysts (CSIS, Atlantic Council, Soufan Center): Beijing will likely require US concessions, likely over Taiwan, to aid Iran-crisis resolution.
+- Beijing already signaled desire for diplomatic solution to Iran crisis with PRC FM Wang Yi hosting Iran FM Araghchi in May calling for ceasefire + continued negotiations + restoration of safe passage through Strait of Hormuz.
+- China announcement expected: plans to purchase additional soybeans and other farm goods + Boeing airplanes; formal process to formalize the trade truce.
+- Iranian official met with Chinese counterparts in Beijing last week; Russian President Putin expected to visit Beijing days after Trump leaves.
+- **Significance**: Bargaining-confidence pre-summit register typical of pre-diplomatic-breakthrough framing, NOT mobilization. Trump-Xi summit lands at deal-deadlock inflection.
+- *Sources: CNN (May 13 Trump arrives in China for summit), NPR (Trump lands in China as Iran war smolders), Al Jazeera (Trump downplays US-Iran differences; Trump-Xi summit), CNBC (What's at stake for trade, Taiwan and Iran), The National, NBC News, ABC News, Fox News, Wikipedia 2026 state visit, CSIS, Atlantic Council, Soufan Center, BusinessToday*
+
+### Chinese Supertanker Yuan Hua Hu (2M bbl Iraqi crude) Exits Strait of Hormuz Past Larak Island WITHOUT IRANIAN TOLLS — Tehran 'Gesture Timed to Trump-Xi Summit' Per COSCO (May 13, 2026)
+- The **Very Large Crude Carrier Yuan Hua Hu**, carrying **2 million barrels of Iraqi crude**, sailed through Strait of Hormuz on **May 13** after being stranded in the Gulf for **more than two months** due to the US-Iran war.
+- Supertanker moved through the waterway Wednesday May 13 **past Iran's LARAK ISLAND** and into the **Gulf of Oman**.
+- Transit is only the **third by a Chinese Very Large Crude Carrier since the war began**.
+- The state-owned vessel passed through the **Iranian-controlled Larak corridor WITHOUT PAYING TOLLS**, with a **China COSCO Shipping official telling the Wall Street Journal** the firm viewed free passage as a **'gesture from Tehran timed to Trump's summit with Xi.'**
+- Yuan Hua Hu now in Gulf of Oman approaching **US blockade enforcement zone where Gulf of Oman meets Arabian Sea** — **24-hour US-blockade test underway**.
+- Since 13 April 2026, the US has simultaneously blockaded Iranian ports.
+- **Significance**: MARITIME-RUNG ONLY Iran-China oil-leverage gesture timed to Trump-Xi summit; NOT military escalation. Tests US blockade response — passes/turns-back outcome materially shapes Hormuz-doctrine evolution.
+- *Sources: Bloomberg (Chinese Tanker Set to Test US Hormuz Naval Blockade; Chinese Oil Supertanker Seen Attempting Hormuz Exit), JPost (Chinese supertanker breaks through US-Iran war blockade), Daily Caller (Iran Tries To Woo China Ahead Of Xi's High-Stakes Meeting), Arab News (Chinese supertanker attempts Hormuz passage), ZeroHedge (Chinese Supertanker Sails Out Of Hormuz In Rare Exit), Mezha (Chinese supertanker Yuan Hua Hu), Yahoo Finance, Bloomberg Law*
+
+### Iran Chief Negotiator Larijani / Speaker Ghalibaf: US 'Must Accept 14-Point Proposal or Face Failure'; 'Armed Forces Prepared to Deliver Lesson-Giving Response' (May 12-13, 2026)
+- **Iranian Parliament Speaker Mohammad Bagher Ghalibaf** said Monday May 12 that his country is **'prepared for every option'** as negotiations with US remain at an impasse.
+- Ghalibaf: **'Our armed forces are prepared to deliver a lesson-giving response to any aggression.'**
+- Ghalibaf in separate post: **'there is no alternative but to accept the rights of the Iranian people as laid out in the 14-point proposal'** submitted by Iran earlier this month.
+- Ghalibaf: **'Any other approach will be completely inconclusive; nothing but one failure after another.'**
+- Iran **chief negotiator Ali Larijani** Tuesday May 12-13: **Washington must accept Tehran's latest peace plan or face failure**.
+- **Significance**: Bargaining ultimatum framing at highest cabinet-level rhetorical register since ceasefire began. RHETORICAL hardening only; no parallel operational mobilization indicators.
+- *Sources: Shabtabnews (Iran chief negotiator says US must accept proposal or face failure), NewsCord (Iran Presents 14-Point Proposal as Trump Rejects It and Mohammad Bagher Ghalibaf Warns Retaliation), Iran International, Al Jazeera*
+
+### ISW Assessment: Iran 'Likely Preparing for Resumption of Hostilities'; Tehran Restored Operational Access to 30 of 33 Missile Sites Along Strait of Hormuz (May 12-13, 2026)
+- **Institute for the Study of War (ISW)** assessed Tuesday May 12-13: Iran is **'likely preparing for a resumption of hostilities with the US and Israel'**, pointing to a series of **military movements and internal security exercises** as signs of active preparation for renewed war.
+- **US military assessments** via Euronews May 13: Tehran has **restored operational access to 30 of its 33 missile sites** along the **Strait of Hormuz**.
+- First analyst-class public framing of Iran active war-preparation since ceasefire.
+- **Significance**: Iran-side preparation is DEFENSIVE/STRIKE-PACKAGE posture (AIR-RUNG), NOT ground-mobilization vector. Restored missile sites are AIR-rung capability, not ground-defense build-up.
+- *Sources: Euronews (Iran preparing for renewed war as military assets remain largely intact), Newsnation, ISW (Institute for the Study of War assessment)*
+
+### 52 Senators + 177 Congressmen Letter to Trump: Reject Any Deal Allowing Iran Continued Uranium Enrichment (May 14, 2026)
+- **52 senators and 177 congressmen** wrote a letter to **Trump on May 14** to **reject any deal** that would allow Iran to continue uranium enrichment.
+- Letter states **'no agreement should leave open a path to nuclear weapons.'**
+- **Significance**: Bipartisan congressional no-enrichment red line cementing — material constraint on Pakistan-mediated MOU close-in path. Narrows substantive landing zone for any deal.
+- *Sources: Wikipedia 2026 Iran war Timeline*
+
+### Iran Ratifies UN Convention Against Transnational Organized Crime — FATF Action Plan Compliance (May 14, 2026)
+- **Iran ratified the UN Convention against Transnational Organized Crime** on **May 14** as part of its efforts to meet **FATF (Financial Action Task Force) Action Plan** requirements for improving its anti-money laundering and counter-terrorism financing system.
+- **Significance**: DEESCALATORY infrastructure commitment INVERSE of mobilization tempo. Iran investing in international-legal compliance posture even as Larijani/Ghalibaf escalate rhetorical pressure.
+- *Sources: Wikipedia 2026 Iran war Timeline*
+
+### Hegseth/Caine Face 'Intense Bipartisan Frustration' at May 12 Hearings — Hegseth on Murkowski AUMF: 'We Don't Need It' (May 12, 2026)
+- **Defense Secretary Pete Hegseth** and **Joint Chiefs of Staff Chairman Gen. Dan Caine** testified before the **Senate Appropriations Subcommittee on Defense** May 12.
+- Republicans joined Democrats in pressing for details on the conflict's costs and the administration's plan to end it.
+- WashPost framing: **'intense bipartisan frustration.'**
+- Hegseth on Sen. Murkowski's planned **AUMF**: **'we don't need it.'**
+- Hegseth testimony covered war costs (per Hurst HASC May 12: $29B) and administration endgame strategy.
+- **Significance**: REGISTRANT-DECLINATION on AUMF question; bipartisan frustration suggests Congress moving toward forcing administration's hand but no AUMF on floor.
+- *Sources: WashPost (Hegseth, Caine encounter intense bipartisan frustration with Iran war), The Hill (Hegseth on Murkowski's Iran war authorization effort: We don't need it), ms.now (Trump heads to China after Congress presses Pentagon officials), JPost*
+
+### Brent Crude $107.05/bbl May 13 Close (-0.67%); EIA Expects ~$106 May-June 2026 (May 13, 2026)
+- **Brent crude fell** to **$107.05/bbl** on May 13, 2026, **down 0.67%** from the previous day ($107.77 May 12 close).
+- Past month Brent **+12.93%**; YoY **+61.97%**.
+- **EIA Short-Term Energy Outlook**: Brent prices expected to remain around **$106/bbl in May and June 2026**.
+- Strait of Hormuz continues to face restrictions from both US and Iranian forces.
+- *Sources: Trading Economics (Brent crude oil), EIA Short-Term Energy Outlook*
+
+### Russia-Ukraine Istanbul Track Downgraded — Putin in Effect Rejects Ceasefire Offer, Sends Medinsky Lower-Level Delegation (May 13-14, 2026)
+- **Russian President Vladimir Putin** declined Istanbul personal attendance and appointed his aide **Vladimir Medinsky** to lead lower-level Russian delegation.
+- **President Volodymyr Zelensky** en route to **Ankara to meet Turkish President Erdogan May 13**; said he will send **Defense Minister Rustem Umerov-led delegation** from the Turkish capital Ankara to Istanbul to meet Russian delegation, even though Moscow side **'doesn't include anyone who actually makes decisions.'**
+- Zelensky had said: **'We expect Russia to confirm a full, durable, and reliable ceasefire starting May 12, and Ukraine is ready to meet.'**
+- Putin in effect rejected ceasefire offer and instead proposed restarting direct talks **'without preconditions.'**
+- Putin gathered Russian state TV overnight May 11-12 to inform he is ready to begin direct peace talks May 15 — but May 13-14 cycle clarified he would NOT attend personally.
+- **Pokrovsk sector** ~**50 Russian attacks** May 12-13 in Pokrovsk + Kostiantynivka directions.
+- Clashes near **Rodynske, Novooleksandrivka, Hryshyne, Bilytske, Pokrovsk, Kotlyne, Udachne, Muravka, Novopidhorodnie, Molodetske**.
+- **Epicenter of fighting SHIFTING TOWARD RODYNSKE + KRASNYI LIMAN** (north of Pokrovsk) along **last corridor for Ukrainian forces defending Myrnohrad** per DeepState maps.
+- Infantry activity decreased somewhat due to weather; Ukrainian Armed Forces still hold separate areas in Pokrovsk and Myrnohrad.
+- *Sources: PBS News (Putin spurns meeting with Zelenskyy; Ukraine and Russia quickly end direct peace talks in Istanbul), Al Jazeera (Putin suggests Russia's war coming to an end; Zelenskyy hopes for truce), Kyiv Independent (Not what Putin was expecting), France 24, Reuters, RBC-Ukraine (War forecast for 2026), Critical Threats (Russian Offensive Campaign Assessment), EMPR Media, DeepState*
+
+### Cuba Power Crisis — Deficit Forecast Tops 2,050 MW (First 2026 Projection Exceeding 2,000 MW); Universal Tanker Still Adrift in Atlantic (May 13-14, 2026)
+- **Cuba's Electric Union** forecasting nighttime peak disruption estimated at **2,050 MW**, marking the **first time in 2026** that the official projection has exceeded the **2,000 megawatt threshold**.
+- Cuba has surpassed the 2,000 MW disruption barrier **twice within 48 hours**, making May 2026 the most critical month of the year for the island's power system.
+- **Russian Universal tanker** (270K bbl diesel) **remains adrift in Atlantic without confirmed destination** due to US sanctions pressure — sanctioned by US AND EU; moving erratically + slowly across North Atlantic; arrival delayed at least until end of May.
+- Cuba without Venezuelan crude since November 2025; without Russian oil donations end of April.
+- Russian Anatoli Kolodkin tanker (~730K bbl Matanzas March 31) — reserves already depleted.
+- **UN April humanitarian emergency declaration**: 96K+ surgeries postponed, 1M+ depending on water trucking, ~500K children facing reduced school hours.
+- Trump May 12 Truth Social: **'Cuba is asking for help, and we are going to talk!!'** — no agenda disclosed; concurrent diplomatic window expansion.
+- *Sources: CubaHeadlines (Cuba Faces Unprecedented Power Crisis as Blackouts Surpass 2,000 MW), CiberCuba (Russian oil is running out), Wikipedia 2026 Cuban crisis, Wikipedia 2024-2026 Cuba blackouts, Electric Choice, UN News, Granma*
+
+### North Korea: Kim Inspects 155mm Howitzer Production for Border + Rides Choe Hyon Destroyer (Mid-June Navy Handover); Constitution Drops Korean Unification References (May 13, 2026)
+- **Kim Jong Un** visited a **munitions factory** to inspect the **production of 155mm self-propelled gun-howitzers** to be deployed at an **artillery unit in the southern border area** within this year.
+- Kim said various operational and tactical missile systems and powerful multiple rocket launcher systems are also scheduled to be deployed along the border.
+- Kim rode on the **destroyer Choe Hyon** to review its maneuverability off North Korea's west coast.
+- Kim ordered authorities to hand over the ship to the navy **mid-June** as scheduled.
+- North Korea's **newly revised constitution drops all references to Korean unification**, in line with Kim's vows to terminate ties with South Korea and establish a two-state system.
+- NK announced May 8 it will deploy **new artillery guns targeting Seoul** (NPR).
+- NK to deploy new **nuclear-armed warship** in **mid-June** (NK News).
+- *Sources: NPR (North Korea says it will deploy new artillery guns targeting Seoul), KCNA, NK News (North Korea says it will deploy new nuclear-armed warship in mid-June), 38 North, Bloomberg, Al Jazeera*
+
+### Trump Departs for Beijing State Visit; CNN Aboard Air Force One: 'I Don't Think We Need Any Help With Iran. We'll Win It One Way or Another' (May 12-13, 2026) — PRIOR DAY CONTEXT — CNN LIVE UPDATES MAY 12: 'SOME AIDES TO PRESIDENT DONALD TRUMP SAID HE IS NOW MORE SERIOUSLY CONSIDERING RESUMING COMBAT OPERATIONS IN IRAN' — Trump CNN Aboard Air Force One: 'I Don't Think We Need Any Help With Iran. We'll Win It One Way or Another' — Pentagon Acting Comptroller Hurst III HASC May 12: Iran War Cost $29B (+$4B from Apr 29) — Hegseth Defends $1.5T Budget; 'I Take Issue With the Characterization That Munitions Are Depleted in a Public Forum — That's Not True' — Pentagon Casualty Count Scrub: WIA Tally 428 Mon → 413 Tue (15 Removed Without Public Comment Per The Intercept: 'Definition of a Cover-up') — Kharg Island ~20 sq mi (52 sq km) Suspected Oil Slick on Copernicus Sentinel-1/2/3 Imagery May 6-8; ~80,000 bbls Estimated; Iran Calls 'False' / 'Psychological Warfare,' Blames European Tanker Waste — South Korea Government Concludes 'External Strike' Caused HMM Namu May 4 Explosion — Two Unidentified Aerial Objects ~1 Min Apart; Likely Iranian UAVs Per Bloomberg/Ynet — Mojtaba Khamenei Issued 'New and Decisive Directives' for Military Operations; Pezeshkian Met Mojtaba 'In a Relaxed Atmosphere' ~2.5 Hours — WTI June Futures +4.2% to Settle $102.18/bbl May 12 (First Close >$100 Since May 4); Brent July +3.4% to $107.77/bbl — Cuba: Trump Truth Social Tuesday May 12 'Cuba is Asking for Help, and We Are Going to Talk!!'; Labels Cuba 'A Failed Country' — Russia-Ukraine: Putin Proposed May 15 Istanbul Direct Talks; Zelensky May 13 to Meet Erdogan in Ankara, Ready for Istanbul if Putin Attends; Kremlin Spokesman Peskov May 13 'Will Announce Representative Once Putin Deems It Necessary' — Lebanon-Israel Washington Talks Third Round Scheduled May 14-15 (Karam-Dermer); Hezbollah Chief Naim Qassem May 12 Demands Lebanon Withdraw, Arsenal Excluded From Negotiations — Rodriguez at The Hague May 11 Rejects Trump '51st State' Framing: 'Is Not Foreseen and Would Never Be Foreseen' — Trump 5,000-Troop Germany Withdrawal Plan Faces Bipartisan Senate Pushback — Murkowski AUMF Still Planned This Week to BAN Ground Troops Aiming at Full Takeover
 
 ### Trump Departs for Beijing State Visit; CNN Aboard Air Force One: 'I Don't Think We Need Any Help With Iran. We'll Win It One Way or Another' (May 12-13, 2026)
 - **President Donald Trump** departed for Beijing Tuesday evening **May 12**; state visit **May 13-15**.
