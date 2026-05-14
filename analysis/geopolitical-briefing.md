@@ -1,10 +1,120 @@
-# Geopolitical Briefing: State of the World as of May 14, 2026
+# Geopolitical Briefing: State of the World as of May 15, 2026
 
-Compiled for evaluation of mid-2024 predictions. All information sourced from publicly available reporting through May 14, 2026. Last updated: May 14, 2026.
+Compiled for evaluation of mid-2024 predictions. All information sourced from publicly available reporting through May 15, 2026. Last updated: May 15, 2026.
 
 ---
 
-## 1. US-Iran Military Actions — MAY 13-14: TRUMP ARRIVES BEIJING; TRUMP-XI SUMMIT MAY 14-15 BEGINS; CHINESE SUPERTANKER YUAN HUA HU EXITS HORMUZ WITHOUT IRANIAN TOLLS; IRAN 'FACE FAILURE' / ISW 'PREPARING FOR RESUMPTION OF HOSTILITIES' / TEHRAN RESTORED ACCESS TO 30 OF 33 MISSILE SITES; 52 SENATORS + 177 CONGRESSMEN BIPARTISAN NO-ENRICHMENT LETTER TO TRUMP; IRAN RATIFIES UN CONVENTION AGAINST TRANSNATIONAL ORGANIZED CRIME (FATF COMPLIANCE); HEGSETH/CAINE 'INTENSE BIPARTISAN FRUSTRATION' MAY 12 HEARINGS — Trump CNN Aboard Air Force One: 'I Don't Think We Need Any Help With Iran. We'll Win It One Way or Another' — Brent $107.05 May 13 (-0.67%) — Pokrovsk Epicenter Shifting Toward Rodynske + Krasnyi Liman (North of Pokrovsk) — Putin in Effect Rejects Zelensky Ceasefire Offer; Appoints Aide Medinsky to Lead Lower-Level Istanbul Delegation May 15; Zelensky Sends Defense Minister Umerov — Cuba Power Deficit Tops 2,050 MW First Time 2026 — North Korea: Kim Inspects 155mm Howitzer Production for Border + Rides Choe Hyon Destroyer (Mid-June Commission) + Constitution Drops Unification References
+## 1. US-Iran Military Actions — MAY 14-15: TRUMP-XI BEIJING SUMMIT DAY 1 PRODUCES JOINT US-CHINA POSITION (HORMUZ MUST REMAIN OPEN + DEMILITARIZED + NO TOLLS; IRAN NO NUKES; XI PLEDGES NO MILITARY EQUIPMENT TO IRAN); HONDURAS-FLAGGED HUI CHUAN 'FLOATING ARMORY' SEIZED BY IRAN 38NM NE OF FUJAIRAH; INDIAN-FLAGGED MSV HAJI ALI LIVESTOCK VESSEL SUNK OFF OMAN AFTER EXPLOSION (14 CREW RESCUED, INDIA CONDEMNS); NBC NEWS: PENTAGON CONSIDERING 'OPERATION SLEDGEHAMMER' RENAME TO RESET 60-DAY WAR POWERS CLOCK IF CEASEFIRE COLLAPSES; SENATE WAR POWERS VOTE 49-50 CLOSEST YET WITH MURKOWSKI VOTING FOR FIRST TIME; NETANYAHU PM OFFICE REVEALS LATE-MARCH UAE SECRET VISIT TO MBZ — UAE DENIES — IRAN FM ARAGHCHI 'COLLUSION WILL NOT BE FORGIVEN'; IRGC TEHRAN 5-DAY 'LABBAIK YA KHAMENEI' EXERCISE; KUWAIT BUBIYAN ISLAND IRGC MAY 1 INFILTRATION REVEALED — 4 OPERATIVES CAPTURED; RUSSIA-UKRAINE FIRST DIRECT ISTANBUL TALKS IN 3 YEARS PRODUCE 1,000-FOR-1,000 POW SWAP BUT NO CEASEFIRE; CUBA GRID COLLAPSE — ANTONIO GUITERAS SHUT DOWN, 74% OF DEMAND UNMET, ENERGY MIN 'ABSOLUTELY NO FUEL'; BRENT $105.87 MAY 14 (+0.22%); HAPAG-LLOYD CEO $50-60M/WEEK EXTRA COSTS; CENTCOM MAY 14: 67 VESSELS REDIRECTED + 4 DISABLED + 15 HUMANITARIAN PASSED
+
+### Trump-Xi Beijing Summit Day 1: Joint US-China Agreement — Hormuz 'Must Remain Open' + Demilitarized + 'No Tolls'; Iran 'Can Never Have Nuclear Weapon'; Xi Pledges No Military Equipment to Iran; Xi Expresses Interest in Buying More US Oil (May 14, 2026)
+- **White House readout (May 14, 2026)**: President Trump + Chinese President Xi Jinping met Thursday May 14 in Beijing and agreed that the **Strait of Hormuz 'must remain open,'** demilitarized + free of tolls; Iran **'can never have a nuclear weapon.'**
+- Xi to Trump: explicitly opposed **'militarization of the Strait and any effort to charge a toll for its use.'**
+- **Trump to Fox News (Sean Hannity)** after the meeting: Xi **'said he's not going to give military equipment'** to Iran — Trump called it **'a big statement.'**
+- **Xi expressed interest in buying more US oil** to reduce China's dependence on the Strait of Hormuz in the future.
+- **Treasury Secretary Scott Bessent (CNBC May 14)**: China will **'work behind the scenes'** to help reopen the Strait of Hormuz.
+- **Secretary of State Marco Rubio (NBC News)**: Trump **'didn't ask'** Xi for help on Iran during the summit, though Washington has sought to press Beijing to lean on Tehran to reopen the strait.
+- **Foreign Policy assessment May 14**: 'From Iran to Trade, China Summit Produces Few Wins for Trump' — Beijing has **'shied away from committing to making concrete efforts to end the war.'**
+- Xi reserved his sharpest language for **Taiwan**, calling it **'most important issue in US-China relations'** and warning of **'clashes and even conflicts'** if mishandled.
+- Trump + Xi agreed to develop a **'constructive China-US relationship of strategic stability,'** with Beijing treating this as the guiding framework for the **'next three years and beyond.'**
+- US corporate delegation included **Tesla's Elon Musk** and **Nvidia's Jensen Huang** among others.
+- Summit Day 2 (Fri May 15) continues; final joint statement pending.
+- **Significance**: Structurally **DEESCALATORY** symbolic alignment on Hormuz reopening + Iran nuclear nonproliferation; China-Iran-pressure pathway formalized rhetorically but execution-uncertain; reduces unilateral US ground-invasion likelihood by binding China rhetorically + economically to Hormuz reopening. Foreign Policy critique ('few wins') flags execution gap.
+- *Sources: CNBC (Five takeaways from Trump-Xi summit; China will work behind the scenes; Xi warns Trump on Taiwan), CBS News (Live Updates: Seized ship taken toward Iran as Trump and China's Xi agree Strait of Hormuz must remain open), Time (Trump Says Xi Offered To Help Broker Peace With Iran), NBC News (China and US agree Hormuz shouldn't be 'militarized,' Marco Rubio says), Times of Israel (Trump, Xi agreed Strait of Hormuz must remain open), Al Jazeera (Trump, Xi discuss Strait of Hormuz as Chinese vessels transit), NPR (China's leader warns Trump that differences over Taiwan could lead to a clash), Fox News (White House says Trump and Xi agree Iran can never obtain a nuclear weapon), Foreign Policy (From Iran to Trade, China Summit Produces Few Wins for Trump), South China Morning Post (Trump says Xi offered help on Iran), ABC News (Trump-Xi summit Day 1 takeaways)*
+
+### Honduras-Flagged HUI CHUAN 'Floating Armory' Seized by Iran 38nm NE of Fujairah; Being Towed to Iranian Territorial Waters (May 14, 2026)
+- **UKMTO advisory May 14**: Honduran-flagged vessel **HUI CHUAN** seized by Iran approximately **38 nautical miles northeast of Fujairah, UAE**, while at anchor in the Gulf of Oman.
+- Vessel **'boarded by unauthorized personnel'** and **being brought toward Iranian Territorial Waters**.
+- **BBC** reported the Hui Chuan was described as a **'floating armoury'** used by maritime security firms to protect commercial shipping from pirate attacks.
+- These ships store **rifles, ammunition, and defensive equipment** that security teams pick up and drop off as needed.
+- Vessel had been **anchored in Gulf of Oman ~1 month**, positioned to supply weapons to ships passing through Strait of Hormuz to defend against Somali, Houthi, and Iranian threats.
+- Operators told **Vanguard**: vessel served as floating armory for maritime security firms.
+- **BBC Verify** cannot confirm what cargo was aboard.
+- Iran seized this vessel **during Trump's summit with Xi Jinping in Beijing**, where the two leaders discussed the Strait of Hormuz crisis.
+- **Significance**: Stays at **MARITIME RUNG** (commercial-vessel boarding-class); Iran maritime-leverage gesture during Trump-Xi summit; first commercial seizure since MSC Francesca + Epaminondas Apr 22; scoreboard now 4-3 US-Iran.
+- *Sources: UKMTO advisory, BBC (Verify), Lloyd's List (Chinese floating armoury boarded and reported heading for Iran), Fox News (Ship seized off coast of UAE near Strait of Hormuz may have been 'floating armory'), Ynet (Iran seizes 'floating armory' near Hormuz), CBS News, JPost (UKMTO: Ship seized off UAE's Fujairah headed toward Iranian waters), UPI (UKMTO says Honduran-flagged vessel seized by Iran near UAE), Al Arabiya (UKMTO says vessel seized off UAE's Fujairah heads toward Iranian waters), RedState, Euronews, Spectrum, Western Journal, Times of Israel, The Hill (Tensions flare near Strait of Hormuz as a ship is seized and another is sunk)*
+
+### Indian-Flagged MSV HAJI ALI Livestock Vessel (~4,000 Sheep/Goats) Sunk Off Oman After Explosion + Fire; All 14 Indian Crew Rescued; Cause Suspected Drone or Missile Strike (May 13, 2026)
+- Indian cargo vessel **MSV Haji Ali** sank off Oman after an **explosion and fire** during a **Berbera-Sharjah livestock voyage** with about **4,000 sheep and goats** on board.
+- Incident occurred at about **03:30 on 13 May near Limah, Oman**.
+- All **14 Indian crew members** (one tandel and 13 sailors) **rescued by Oman Coast Guard** and taken to **Dibba port**.
+- No serious injuries reported.
+- Cause of explosion has **not been officially confirmed** by any government, coast guard, police, or maritime security authority.
+- Claims that vessel **may have been hit by a drone or missile** have circulated but remain unverified.
+- **India MEA** on Thursday May 14 **condemned what it described as an 'attack' on Indian-flagged cargo vessel** off coast of Oman as **'unacceptable'**.
+- **UAE also condemned** sinking of Indian-flagged vessel.
+- **Significance**: Stays at **MARITIME RUNG**; first sinking of Indian-flagged vessel of the war; second formal-attribution maritime-rung event after May 4 HMM Namu; suspected attack source unconfirmed.
+- *Sources: The National (UAE condemns sinking of Indian-flagged vessel off Oman coast), India Star, Malay Mail, Port News, The Wire (Attack on Ship Unacceptable: MEA on Indian Cargo Vessel that Sank Off Oman Coast), Discovery Alert, Maritime Executive (India Condemns Attack on Small Merchant Ship Sunk off Oman), Times of Israel (Ship said seized, diverted to Iran, another sunk, in latest Strait of Hormuz actions), Express Tribune, Xinhua (Indian cargo vessel sinks in suspected drone attack off Oman, maritime analyst says)*
+
+### Pentagon 'Sledgehammer' Contingency: If Iran Ceasefire Collapses, Pentagon Considering Renaming Operation Epic Fury → 'Operation Sledgehammer' to Reset 60-Day War Powers Clock (NBC News May 13, 2026)
+- **NBC News reported on May 13, 2026** that if the ceasefire with Iran collapses, the **Pentagon is considering calling the war 'Sledgehammer'** — which might allow Trump to argue that the **60-day [War Powers] clock has reset** and would require US Congress to authorize a war.
+- Military commanders **'have already finalized contingency plans'** under the 'Sledgehammer' designation, targeting **Iranian infrastructure** should the current ceasefire **'completely fail.'**
+- The Trump administration had previously announced that **'Operation Epic Fury' had concluded** and notified Congress accordingly (per Hegseth Apr 30 testimony / Rubio May 5 'Epic Fury is over' framing).
+- However, if attacks resume, the **Trump administration will attempt to define the new operation under a fresh name to restart the 60-day clock** required for war authorization from Congress.
+- The strategic purpose: By introducing a new operational name, the White House could argue that a renewed campaign **constitutes a distinct military action, effectively resetting the 60-day window** mandated by the 1973 War Powers Resolution.
+- **Significance**: First **operationally-named Pentagon re-escalation contingency** since Project Freedom paused; verbal contingency **'if ceasefire collapses,' NOT mobilization order**; framing 'targeting Iranian infrastructure' stays AIR/MARITIME re-strike package register, NOT ground-deployment register; significant but NOT mobilization order.
+- *Sources: NBC News (May 13), IranWire (Pentagon May Rename Iran War 'Operation Sledgehammer'), Pravda-EN, EADaily (The Pentagon, following the Wagner PMC, reached the sledgehammer), Eastern Herald (Pentagon Reveals New Iran Escalation Plans Amid Trump War Threats), News of Bahrain, Newscord, Political Wire (Pentagon Mulls Re-Naming Iran War 'Sledgehammer'), Washington Times (Hegseth says Pentagon has plans to escalate war in Iran if necessary), WILX (Congressman Tom Barrett speaks on plan to allow, but limit, war in Iran)*
+
+### Senate War Powers Vote May 13: 49-50 Closest Yet (10th Attempt) — Murkowski Voted FOR for First Time; Joined Collins + Paul + Most Democrats; Murkowski-Led GOP AUMF Would BAN Ground Troops + Set Time Limit (May 13, 2026)
+- The Senate **rejected** an Iran war powers measure on **May 13, 2026, in a 49-50 vote** — the **closest Iran war powers vote yet** (10th attempt).
+- It was the **first time** Republican Senator **Lisa Murkowski** voted **for** the War Powers measure, joining fellow Republicans **Susan Collins and Rand Paul** and **most Democrats**.
+- A group of Senate Republicans is writing legislation that would give President Trump congressional approval for military action against Iran while **blocking U.S. ground troops** and **setting a time limit** on the conflict, with Sen. Murkowski leading the effort.
+- It is expected to **bar large-scale ground operations or the deployment of occupation forces** and to set a **specific time window** for authorized hostilities.
+- Murkowski had voted against the previous seven resolutions but reportedly **responded that deployed troops and warships made it difficult to accept that hostilities had truly ended**.
+- Her shift came after the **60-day War Powers window passed without the administration providing the clarity she said she was looking for** on the legal basis for continued operations.
+- **Significance**: CONGRESSIONAL POSTURE **TIGHTENS** WAR POWERS CONSTRAINT, NOT expands it; Murkowski flip is **anti-war-resumption signal, NOT pro-mobilization**; Murkowski-led GOP AUMF would BAN ground troops + set time limit per her own framing.
+- *Sources: WLT Report (Senate Rejects Iran War Powers Measure 49-50 as Lisa Murkowski Breaks Ranks for the First Time), Fox News (Senate Democrats finally crack GOP unity on Trump's Iran war as Murkowski flips), Murkowski.senate.gov (Murkowski Addresses Iran Conflict on Senate Floor; Murkowski Votes to Remove U.S. Armed Forces from Iran), Time (3 Republicans Join Democrats in Closest Senate Vote Yet to Halt Iran War), ms.now (Republicans refuse to rein in Trump on Iran for the 10th time), The Kenya Times (Senate GOP Drafts Limited Iran AUMF: No Ground Troops, Time Limit On Trump), Alaska Native News, CNN (Trump is supposed to get Congress' approval when the Iran war hits 60 days)*
+
+### Netanyahu PM's Office Reveals 'Secret' UAE Visit to MBZ During War (Late March, Several Hours in Al Ain); UAE Ministry of Foreign Affairs Denies; Iran FM Araghchi: 'Collusion with Israel Will Not Be Forgiven' (May 14, 2026)
+- **Netanyahu's office** claimed that 'in the midst of Operation Roaring Lion' (Israel's military operation against Iran), Netanyahu **'secretly visited the United Arab Emirates, where he met with UAE President Sheikh Mohammed bin Zayed,'** and that **'This visit has led to a historic breakthrough in relations between Israel and the UAE.'**
+- According to Israeli sources, the meeting occurred in **late March** and Netanyahu met MBZ **for several hours in Al Ain**, the oasis city near the Omani border.
+- Israeli reports: **Sheikh Mohammed bin Zayed drove Netanyahu in his car from plane to palace** during 'secret' UAE visit.
+- The **UAE's Ministry of Foreign Affairs denied** the meeting took place, saying in a statement that the UAE's **'relations with Israel are public and conducted within the framework of the well-known and officially declared Abraham Accords, and are not based on non-transparent or unofficial arrangements.'**
+- **Iranian Foreign Minister Abbas Araghchi** reacted furiously, warning that **'collusion with Israel'** would not be forgiven.
+- **Significance**: DIPLOMATIC-CHANNEL revelation; UAE denial + Iran fury introduces material friction in Gulf-coalition posture; **NOT operational ground-prep indicator**.
+- *Sources: NPR (UAE denies Netanyahu secretly visited the country during the Iran war), NBC News (Netanyahu's secret visit to UAE during the Iran war leads to a breakthrough, his office says), CBS News (Netanyahu made secret visit to UAE to meet with country's president, Israel says), Middle East Eye (Netanyahu's boast of secret visit to UAE sparks awkward denial from Abu Dhabi), Canary, The Week (Covert diplomacy exposed?; Sheikh Mohammed bin Zayed drove Benjamin Netanyahu in his car from plane to palace), Hasht-e Subh (Netanyahu's Secret UAE Visit; Araghchi Says Israel's Collaborators Will Be Held Accountable), The Wire (UAE Denies Netanyahu 'Secretly Visited' its President Amidst US-Israel War on Iran), Al Jazeera*
+
+### IRGC Mohammad Rasulullah Corps of Greater Tehran 5-Day Drill 'Martyred Commander Imam Khamenei' / 'Labbaik Ya Khamenei' — Brig Gen Hassanzadeh: 'Full Operational Readiness' (May 13, 2026)
+- The **five-day drill**, titled **'Martyred Commander Imam Khamenei,'** was carried out by the **Mohammad Rasulullah Corps of the IRGC in Greater Tehran** under the slogan **'Labbaik Ya Khamenei' ('At your service, O Khamenei').**
+- Drill conducted by the IRGC's Mohammad Rasulullah Corps of Greater Tehran, code-named **'Labbaik Ya Khamenei,'** focusing on **preparedness to confront enemy threats**.
+- **Brigadier General Hassan Hassanzadeh**, commander of the Mohammad Rasulullah Corps in Greater Tehran, said **IRGC and Basij commando units reached 'full operational readiness'** during the exercise.
+- In the exercise, **all pre-planned scenarios, tactics, and team and individual combat techniques against the enemy in any territory were practiced and evaluated**.
+- The exercise was held in **honor of the late Leader of the Islamic Revolution Ayatollah Seyyed Ali Khamenei** (assassinated Feb 28).
+- **Significance**: DEFENSIVE READINESS POSTURE drill in Tehran environs — does NOT indicate offensive mobilization; consistent with ISW's prior 'preparing for resumption of hostilities' framing as defensive/strike-package posture, not ground-mobilization vector.
+- *Sources: PressTV (IRGC's Tehran command holds major drill to prepare for any US-Israeli aggression), ParsToday (Tehran IRGC major drill held under code name 'Labbaik Ya Khamenei'), News.az (IRGC conducts five-day military drill near Tehran to boost combat readiness), Critical Threats (Iran Update Evening Special Report May 12, 2026), Euronews (Iran preparing for renewed war as IRGC stages drills, reports warn)*
+
+### Kuwait Bubiyan Island IRGC Infiltration (May 1 Incident Revealed May 12-14): 4 IRGC Operatives Captured; OIC + Kuwait MFA Condemn; Iran Denies, Blames 'Navigation System Malfunction' (May 14, 2026)
+- Operation took place on **May 1**, and the naval officers arrested aboard a **fishing boat specially chartered** to carry out hostile actions against Kuwait admitted they had been tasked by the IRGC with infiltrating **Bubiyan Island** (Kuwait's largest, near Iraqi border, key shipping lanes + oil/military installations).
+- The IRGC and **Kuwait Armed Forces exchanged fire**, resulting in the **injury of one Kuwaiti soldier**.
+- **4 IRGC operatives captured**:
+  - **Colonel Amir Hussein Abd Mohammed Zara'i**
+  - **Colonel Abdulsamad Yadallah Qanwati**
+  - **Captain Ahmed Jamshid Gholam Reza Zulfiqari**
+  - **First Lieutenant Mohammed Hussein Sehrab Faroughi Rad**
+- **2 of the IRGC fighters fled**.
+- **Kuwait's Ministry of Foreign Affairs** condemned the alleged incursion as a **'flagrant violation' of Kuwaiti sovereignty** and a grave breach of international law.
+- The **General Secretariat of the Organization of Islamic Cooperation (OIC)** strongly condemned the hostile infiltration of Kuwait's Bubiyan Island by armed elements of the IRGC and their clash with the Kuwaiti Armed Forces.
+- **Iran denies** the accusations, saying the arrested sailors were in Kuwaiti waters due to their **navigation system's malfunction**.
+- **Iranian Foreign Minister Abbas Araghchi** condemned the attack on the Iranian boat and detention of four Iranian citizens and said that Iran **'reserves the right to respond.'**
+- **Significance**: STAYS AT GULF-STATE-INFILTRATION RUNG below US-base targeting that would force cross-domain US ground response; NOT mobilization signal.
+- *Sources: Al Jazeera (Kuwait says it foiled infiltration operation by Iran's IRGC), Middle East Monitor, The National (Why Iran's IRGC targeted Kuwait's Bubiyan Island), JPost (Kuwait captured four IRGC-linked operatives), Aawsat (OIC Condemns Infiltration of Kuwait's Bubiyan Island by IRGC), Wikipedia (2026 Bubiyan Island raid), Dawn (Iran fumes after Kuwait detains four 'IRGC' men), Times Kuwait, YourNews, Times of Israel*
+
+### CENTCOM May 14: 67 Commercial Vessels Redirected + 4 Disabled + 15 Humanitarian-Aid Vessels Passed Since Blockade Apr 13; Hapag-Lloyd CEO: $50-60M/Week Extra Container-Shipping Costs (May 14, 2026)
+- **CENTCOM running tally via X post May 14**: **67 commercial vessels REDIRECTED + 4 DISABLED** since blockade began Apr 13; **15 humanitarian-aid vessels** allowed to pass.
+- Cumulative trajectory: 29 (Apr 29) → 39 (Apr 28) → 48 (May 2) → ~70 (May 8) → 67 (May 14, revised).
+- **Hapag-Lloyd CEO Rolf Habben Jansen**: Container shipping behemoth incurring **extra costs of between $50 million and $60 million per week** because of ongoing blockage in Strait of Hormuz.
+- Habben Jansen said he **expected the cost Hapag-Lloyd charges to customers to rise** over the next few months.
+- **Significance**: NAVAL-RUNG BLOCKADE ENFORCEMENT INTENSIFYING WITHOUT cross-rung escalation; humanitarian/commercial pressure pushing toward MOU close, NOT ground operations.
+- *Sources: CENTCOM X-post May 14, Hapag-Lloyd CEO (multiple wire-service reports), Reuters, FreightWaves, Bloomberg, Reason (Strait of Hormuz sees more attacks on ships as U.S.-Iran standoff continues)*
+
+### Iran Economy Crisis Deepens: Rial 1.81M/USD; Inflation >73%; Food 105%; Bread/Cereals +140%; Oils/Fats +219%; IMF -6.1% GDP + 68.9% Inflation 2026 (May 13-14, 2026)
+- Iran's **rial** has fallen to around **1.32 million rial per U.S. dollar** on official rate, though the rial has lost over half its value in past year, falling to record low of **1.9 million to the dollar** at the end of last month.
+- More recently, the **US dollar passed 1.81 million rials** on Iran's open market.
+- **Inflation is above 73%**, and **food inflation surged to 105%**, with **bread and cereals rising 140%** and **oil and fats increasing by 219%** from March 2025 to March 2026.
+- The effective closure of the Strait of Hormuz and the U.S. subsequent blockade have cut off most of Iran's international trade, including oil exports.
+- **Crude oil loadings from Iran's Persian Gulf terminals fell to below 1.39 million barrels per day in January.**
+- **IMF estimated** that the Iranian economy will **shrink by 6.1% in 2026**, with **68.9% inflation**.
+- **Significance**: Economic collapse provides structural deescalatory pressure on Iran negotiating position; pushes toward MOU close not war-resumption.
+- *Sources: Euronews (Iran's economy is being tested by war, blockades and soaring inflation), Iran International (Money is leaving Iran faster as oil income falls; Iran economy contracts despite modest oil growth), CNBC (Iran's economy in charts: Hyperinflation and depreciating rial), Wikipedia (Economy of Iran; Economic impact of the 2026 Iran war)*
 
 ### Trump Arrives Beijing May 13 Evening for Xi Summit May 14-15 — Iran 'Likely to Dominate' Conversation (May 13-14, 2026)
 - **President Donald Trump** arrived in **Beijing Tuesday evening May 13** (~**7:50pm local time**) aboard Air Force One.
