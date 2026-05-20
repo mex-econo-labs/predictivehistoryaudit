@@ -1,10 +1,125 @@
-# Geopolitical Briefing: State of the World as of May 20, 2026
+# Geopolitical Briefing: State of the World as of May 21, 2026
 
-Compiled for evaluation of mid-2024 predictions. All information sourced from publicly available reporting through May 20, 2026. Last updated: May 20, 2026.
+Compiled for evaluation of mid-2024 predictions. All information sourced from publicly available reporting through May 21, 2026. Last updated: May 21, 2026.
 
 ---
 
-## 1. US-Iran Military Actions — MAY 19-20 (DAY 83): TRUMP RESETS THE STRIKE WINDOW INTO A FRESH 'TWO OR THREE DAYS, FRIDAY-SATURDAY-SUNDAY-EARLY NEXT WEEK' DEADLINE WITH 'ANOTHER BIG HIT' THREAT — TRUMP DISCLOSES HE WAS 'AN HOUR AWAY' FROM STRIKING IRAN ON TUESDAY MAY 19 BEFORE PULLING BACK AT QATAR/SAUDI/UAE LEADERS' REQUEST — IRAN'S REVISED 14-POINT PROPOSAL ASSESSED BY US AS INSUFFICIENT ('PAY UP AND LEAVE, TIMES FIVE'); WH HAS NOT RECEIVED MEANINGFUL CONCESSIONS ON NUCLEAR PROGRAM OR HORMUZ — IRAN PEZESHKIAN 'DIALOGUE DOES NOT MEAN SURRENDER'; STANDING IRAN PRECONDITION REMAINS COMPLETE BLOCKADE REMOVAL — MOJTABA KHAMENEI REPORTEDLY ISSUES 'NEW AND DECISIVE DIRECTIVES' FOR MILITARY OPERATIONS — PAKISTAN INTERIOR MIN NAQVI ON 2-DAY TEHRAN SHUTTLE — HEGSETH (SENATE HEARING) ARTICLE II / NO AUMF; MURKOWSKI DRAFT AUMF WOULD BAN GROUND TROOPS — USS BOXER ARG STILL IN STRAIT OF MALACCA PER USNI MAY 18; USS GERALD R. FORD STILL DEPARTING — CENTCOM 85 VESSELS DIVERTED + 4 DISABLED (UNCHANGED) — BRENT ~$111.28 CLOSE (-0.73%) / WTI ~$107.77 (-0.82%) AS MARKETS PRICED CALL-OFF THEN PARTLY REVERSED ON FRESH DEADLINE LANGUAGE — UKRAINE LARGEST-CLASS DRONE ATTACK ON MOSCOW REGION MAY 17-18 — VENEZUELA SAAB CHARGED MIAMI MAY 18-19 — CUBA EASTERN-PROVINCES GRID COLLAPSE MAY 14 + DIESEL/FUEL-OIL EXHAUSTION — NOTE: THREATENED 'BIG HIT' REMAINS AIR/STRIKE-PACKAGE REGISTER, NOT GROUND-INVASION ORDER (NO TROOP STAGING, USS BOXER STILL IN MALACCA, NO THIRD ARG, NO DRAFT); 'AN HOUR AWAY' DISCLOSURE MARGINALLY STRENGTHENS GENUINE-PREPARATION READING WITHOUT RESOLVING LEVERAGE-SIGNALING DEBATE (CONTESTED-UNRESOLVED — open-questions: nyt-intense-preparations-iran-resumption-may-2026)
+## 1. US-Iran Military Actions — MAY 20-21 (DAY 84): TRUMP DECLARES IRAN TALKS 'IN THE FINAL STAGES' AT COAST GUARD ACADEMY COMMENCEMENT, HEDGES 'WE MAY HAVE TO HIT THEM EVEN HARDER — BUT MAYBE NOT' — VP VANCE: US 'LOCKED AND LOADED' IF TALKS FAIL — PUTIN-XI BEIJING JOINT STATEMENT (MAY 20): US/ISRAELI ATTACKS ON IRAN 'VIOLATE INTERNATIONAL LAW'; XI: 'COMPREHENSIVE CEASEFIRE IS OF UTMOST URGENCY, RESUMING HOSTILITIES IS EVEN MORE INADVISABLE' — SAUDI FM FAISAL BIN FARHAN PRAISES TRUMP FOR 'GIVING DIPLOMACY A CHANCE'; CALLS FOR HORMUZ RETURN TO PRE-FEB 28 STATE — IRAN FM ARAGHCHI (X): 'RETURN TO WAR WILL FEATURE MANY MORE SURPRISES'; IRAN'S CHIEF NEGOTIATOR ACCUSES US OF 'OVERT AND COVERT' MOVES FOR NEW ATTACK — IDF ON HIGHEST LEVEL OF ALERT; NETANYAHU EMERGENCY SECURITY MEETING — KNESSET 110-0 PRELIMINARY VOTE TO DISSOLVE; BILL STILL NEEDS 3 READINGS, ELECTIONS POSSIBLE MID- TO LATE-OCT — BLOOMBERG: 'TREASURIES RALLY AS TRUMP CITES FINAL STAGES' — BRENT ~$110.34/BBL (9:30 ET MAY 20, -$2.59 DAY); WTI ~$100/BBL — CENTCOM 85 VESSELS DIVERTED + 4 DISABLED (UNCHANGED MAY 18 FIGURE) — USS BOXER ARG STILL UNDER INDOPACOM PER TWZ MAY 17; USS GERALD R. FORD CONFIRMED HOME AT NORFOLK — NOTE: STRUCTURALLY DEESCALATORY RHETORICAL ROTATION ON THE DIPLOMATIC TRACK WITHOUT FORECLOSING THE STRIKE BACKSTOP; THREATENED 'BIG HIT' / 'EVEN HARDER' REMAINS AIR/STRIKE-PACKAGE REGISTER, NOT GROUND-INVASION ORDER (NO GROUND TROOPS STAGED, NO THIRD ARG, NO DRAFT) (CONTESTED-UNRESOLVED — open-questions: nyt-intense-preparations-iran-resumption-may-2026)
+
+### Trump (Coast Guard Academy commencement, May 20): Iran talks 'in the final stages'; 'we may have to hit them even harder — but maybe not'
+- **President Trump** delivered the commencement address at the United States Coast Guard Academy graduation ceremony in New London, Connecticut on Wednesday May 20 and told graduates: **"Negotiations [with Iran] are in the final stages."**
+- Trump hedged: **"We may have to hit them even harder — but maybe not."** Said Iran's military **"might is largely gone"** and the only question was whether the US **"goes back to finish the job"** or Iran signs a deal.
+- Reiterated: **"We will not let Iran have a nuclear weapon. It's very simple."**
+- Bloomberg headline: **"Treasuries Rally as Trump Cites 'Final Stages' of US-Iran Talks"** — sovereign-debt market re-priced deal-close probability higher (Bloomberg; RFE/RL "Trump Says Iran Talks In Final Stages But Threatens Renewed Attacks If No Deal"; Algemeiner "Trump Says Negotiations With Iran in Final Stages, Warns of Attacks if Deal Fails"; Al-Monitor "Trump may have to hit Iran harder — or maybe not"; WHBL; Korea Times).
+
+### VP Vance: US 'locked and loaded' if Iran talks fail
+- **Vice President JD Vance** said Iran talks were making **"good progress"** but Washington was **"locked and loaded"** to restart military operations if there is no deal.
+- Vance: the Trump administration **"prefers a diplomatic solution to the conflict with Iran, but is prepared to resume the war"** to prevent Iran obtaining a nuclear weapon.
+- Vance's comments came hours after President Trump's May 19 disclosure he had been "an hour away" from ordering fresh strikes and gave Tehran **"two or three days"** to reach an agreement (Fox News "JD Vance says Trump is locked and loaded"; Times of Israel "Vance: US prefers diplomatic solution but is locked and loaded"; Washington Times "Vance urges Iran to make a deal instead of facing option B"; SCMP; Al Jazeera "Vance: US locked and loaded for military action"; AAJ English TV).
+
+### Putin-Xi Beijing Joint Statement on Iran (May 20)
+- **Russian President Vladimir Putin** met **Chinese President Xi Jinping** at the Great Hall of the People in Beijing on Wednesday May 20.
+- In a joint statement released the same day, Putin and Xi declared that US/Israeli attacks on Iran **"violate international law and the basic principles of international relations"** and **"seriously undermine stability in West Asia."**
+- **Xi**: **"A comprehensive ceasefire is of utmost urgency, resuming hostilities is even more inadvisable and maintaining negotiations is particularly important"** (Al Jazeera "Xi and Putin signal united front against US in Beijing talks"; Bloomberg "Xi Warns Against Resuming Iran Attacks After Meeting Putin in Beijing"; Gulf News "Putin meets Xi as Trump delays Iran strike and Gulf tensions deepen"; PressTV "Russia's Putin, China's Xi jointly denounce US-Israeli war of aggression against Iran").
+
+### Saudi FM Faisal bin Farhan Praises Trump for 'Giving Diplomacy a Chance' (May 20)
+- **Saudi Foreign Minister Prince Faisal bin Farhan**, on X: **"The Kingdom of Saudi Arabia highly appreciates the US President Donald Trump's decision to give diplomacy a chance to reach an acceptable agreement to end the war, restore the security and freedom of maritime navigation in the Strait of Hormuz to its state prior to February 28th 2026, and address all points of contention in a way that serves the security and stability of the region."**
+- The Kingdom **"looks forward to Iran seizing the opportunity to avoid the dangerous implications of escalation"** (Arab News "Saudi FM praises Trump for giving diplomacy a chance to end Iran war"; Tribune India "Saudi Arabia welcomes Trump's move"; ANI).
+
+### Iran FM Araghchi: 'Return to War Will Feature Many More Surprises'; Chief Negotiator Accuses US of 'Overt and Covert' Moves
+- **Iran Foreign Minister Abbas Araghchi**, on X (May 20): **"With lessons learned and knowledge we gained, return to war will feature many more surprises."**
+- Araghchi cited a US Congressional report acknowledging that during Iran's retaliation, the US air force lost at least **42 aircraft** (including a touted **F-35**) during the 40-day campaign, with estimated losses already reaching roughly **$2.6 billion** (PressTV "Return to war to feature many more surprises: Iran FM"; Daily Pakistan "Iran warns of surprises if US resumes military action"; Khaama Press; El-Balad "Araghchi Warns of Far More Surprises").
+- Iran's chief negotiator separately accused Washington of carrying out **"overt and clandestine movements"** signaling a new attack (Al Jazeera "Iran war live: Tehran accuses US of overt and covert moves for new attack"; Republic World live).
+
+### Israel on Highest Level of Alert; Knesset 110-0 Preliminary Vote to Dissolve (May 20)
+- **Israel's military entered its highest level of alert** for possible US action against Iran in the coming days; **PM Netanyahu** held an emergency security meeting (Times of Israel May 20 live blog; Fox News live updates "Vance: US locked and loaded; IDF on high alert").
+- **Knesset preliminary vote 110-0** in favor of a coalition-backed bill to dissolve the Knesset after ultra-Orthodox parties forced the vote over Netanyahu's failure to advance a draft-exemption law. PM Netanyahu did **not** attend the vote.
+- The dissolution bill does not yet specify an election date — must be set by the Knesset House Committee no less than 3 months from final approval and held within 5 months — i.e., **mid- to late-October 2026 at the latest** (US News "Israel's Parliament Has Voted to Dissolve Itself"; Times of Israel "MKs advance bill to dissolve Knesset"; The National; JPost; Haaretz; Express Tribune; Wikipedia 2026 Israeli legislative election).
+
+### Oil and Blockade Metrics (May 20, 2026)
+- **Brent crude** fell to **~$110.34/bbl** by 9:30 a.m. ET May 20 (down $2.59 from prior day; ~$44.50 above this time last year) on Trump's "final stages" framing + Putin-Xi joint anti-hostilities statement + Saudi FM praise; **WTI** to **~$100-101/bbl**. Treasuries rallied (Bloomberg). Markets continue to price a two-state Iran outcome: deal-close $90s–low $100s, ceasefire-collapse $120+ (Fortune "Current price of oil as of May 20, 2026"; Trading Economics; CNBC "Oil prices stay in the green even after Trump calls off planned Tuesday attack" — earlier framing).
+- **CENTCOM running tally**: still **85 commercial vessels redirected + 4 disabled** since the Apr 13 blockade (May 18 figure; no fresh count released May 19-21). Strait of Hormuz transit remains near-zero / ~1-2 vessels/day vs ~97-140/day pre-war baseline.
+
+### USS Gerald R. Ford Confirmed Home at Norfolk; USS Boxer ARG Still Under INDOPACOM
+- **TWZ "Where Are The Carriers As Of May 17, 2026: Ford Is Finally Home"** confirms USS Gerald R. Ford (CVN-78) at Naval Station Norfolk after a 326-day record deployment.
+- **USS Boxer ARG** (LHD-4 + Comstock + Portland + 11th MEU, ~5,000 Marines) still operating under **INDOPACOM** in the Indian Ocean; CENTCOM arrival could come "at any time" but is **not yet formally confirmed**.
+- Pattern of carriers in theatre (USS Abraham Lincoln + USS George H.W. Bush, Ford gone) holds; amphibious lift below ground-invasion threshold (TWZ Carrier Tracker May 17; USNI Fleet & Marine Tracker May 4 + May 18; Atlantic Council military assets tracker).
+
+### Russia-Ukraine — Ukraine's Largest-Class Drone Strike on Moscow Region; Black Sea Grain Initiative Officially Ended; Second Round ~June 2
+- Ukraine launched **one of its largest drone strikes of the war** overnight May 17-18; Russian Ministry of Defense said it intercepted/destroyed **550+ Ukrainian drones** across more than a dozen regions; **≥4 killed in Moscow region** (Euronews "Largest Ukrainian drone attack"; NPR "Ukraine launches large-scale drone strikes on Russia").
+- **Black Sea Grain Initiative** remains formally ended (officially May 18).
+- **Russian Shahed-type drone struck a Chinese commercial vessel in Ukraine's territorial waters** the night of May 18 (Ukrainian Navy spox Pletenchuk).
+- **Putin** (May 10, restated this week): war "may be coming to an end."
+- **Trump** (May 18-19): "talks are continuing," "getting closer and closer every day."
+- **Second round of Russia-Ukraine direct talks** expected **~June 2** (Newsweek; Al Jazeera "Putin suggests Russia's war on Ukraine coming to an end"; Wikipedia Black Sea Grain Initiative; Wikipedia Timeline of the Russo-Ukrainian war).
+
+### Venezuela — Saab Charged in Miami (May 18); Caracas-Cooperation Pattern Consolidates
+- **Alex Saab** — Maduro's former "money man," demoted and fired by acting president Delcy Rodriguez — was deported May 17 by Venezuela's government under interim president Delcy Rodriguez, arrived at Opa-locka Executive Airport in Miami-Dade County, and was charged **May 18** in Miami federal court with **money laundering** tied to a 2019 indictment.
+- Sources familiar with the matter say Saab could provide US authorities with information to strengthen their criminal case against Maduro (PBS NewsHour/NPR; AP via Inquirer/nvdaily/dailygazette; Breitbart; The Cuban History; Cubaheadlines "Alex Saab Extradited" + "Extradition Intensifies Chavista Rift").
+- The Caracas-cooperation pattern with Washington (PDVSA opening, oil-to-Cuba halt, political-prisoner releases, Saab deportation) consolidates.
+
+### Cuba — 5th Major Grid Collapse Reported May 18; US Embassy Security Alert; Russian Tanker Still Adrift
+- **NaturalNews** (May 18) reports Cuba's power grid collapsed for the 5th time as a nation in darkness.
+- **US Embassy in Havana** May 19-20 reissued a security alert calling the national electric grid **"increasingly unstable"**, with prolonged scheduled and unscheduled outages daily across the island.
+- The cumulative driver remains the US fuel-tanker blockade in place since February 2026; the **Russian Universal tanker** (270K bbl diesel, left Vysotsk in January) remains **adrift** in the North Atlantic with no confirmed arrival.
+- Energy and Mines Minister De La O'levy (May 14) had previously warned diesel and fuel-oil stocks have "virtually run out"; the government acknowledges "almost nothing" is left (NaturalNews "Cuba's power grid collapses for fifth time"; NPR May 14; ABC News "Cuba grid collapse: situation growing more dire"; Wikipedia 2026 Cuban crisis; CiberCuba).
+
+### MAY 20-21 Cycle Sources
+
+- Bloomberg, "Treasuries Rally as Trump Cites 'Final Stages' of US-Iran Talks," May 20, 2026
+- RFE/RL, "Trump Says Iran Talks 'In Final Stages' But Threatens Renewed Attacks If No Deal," May 20, 2026
+- Algemeiner, "Trump Says Negotiations With Iran in Final Stages, Warns of Attacks if Deal Fails," May 20, 2026
+- Al-Monitor, "Trump may have to hit Iran harder — or maybe not," May 20, 2026
+- WHBL, "Trump: may have to hit Iran harder – or maybe not," May 20, 2026
+- Korea Times, "Trump says Iran negotiations in final stages, warns of attacks if deal fails," May 21, 2026
+- Fox News, "JD Vance says Trump is 'locked and loaded' to restart military campaign against Iran if nuclear talks fail," May 19-20, 2026
+- Times of Israel, "Vance: US prefers diplomatic solution to Iran conflict but is 'locked and loaded' to resume war," May 19-20, 2026
+- Washington Times, "Vance urges Iran to make a deal instead of facing 'option B': 'We're locked and loaded,'" May 19, 2026
+- SCMP, "Vance says Iran talks making 'good progress', but US forces remain 'locked and loaded'"
+- Al Jazeera, "Iran war live: Tehran accuses US of 'overt and covert' moves for new attack," May 20, 2026
+- Al Jazeera, "Xi and Putin signal united front against US in Beijing talks," May 20, 2026
+- Bloomberg, "Xi Warns Against Resuming Iran Attacks After Meeting Putin in Beijing," May 20, 2026
+- Gulf News, "Putin meets Xi as Trump delays Iran strike and Gulf tensions deepen," May 20, 2026
+- PressTV, "Russia's Putin, China's Xi jointly denounce recent US-Israeli war of aggression against Iran," May 20, 2026
+- Arab News, "Saudi FM praises Trump for giving 'diplomacy a chance' to end Iran war," May 20, 2026
+- Tribune India, "Saudi Arabia welcomes Trump's move to 'give diplomacy a chance' to end Iran war," May 20, 2026
+- ANI, "Saudi Arabia welcomes Trump's move to 'give diplomacy a chance,'" May 20, 2026
+- PressTV, "Return to war to feature 'many more surprises': Iran FM to US," May 20, 2026
+- Daily Pakistan, "Iran warns of 'surprises' if US resumes military action," May 20, 2026
+- Khaama Press, "Iran Warns US Return to War Would Bring 'More Surprises,'" May 20, 2026
+- El-Balad, "Araghchi Warns of Far More Surprises — Operation Epic Fury Aircraft Damage," May 20, 2026
+- Republic World, "US-Iran War LIVE: Pakistan Interior Minister Mohsin Naqvi Reaches Tehran Amid US-Iran Impasse, Israel Votes to Dissolve Knesset," May 20, 2026
+- Times of Israel May 20 live blog, "Prisons chief reportedly approved Ben Gvir's behavior in clip of flotilla activists" + dissolution + IDF alert coverage
+- Fox News, "US 'locked and loaded' to resume Iran strikes if nuclear talks fail, Vance warns; IDF on high alert" live updates, May 19-20, 2026
+- US News, "Explainer-Israel's Parliament Has Voted to Dissolve Itself. What's Next?" May 20, 2026
+- Times of Israel, "MKs advance bill to dissolve Knesset, potentially trigger slightly earlier elections," May 20, 2026
+- The National, "Israeli MPs vote to dissolve Knesset, paving way for potential early elections," May 20, 2026
+- JPost, "Coalition's bill to dissolve Knesset passes preliminary reading amid crisis over haredi draft bill," May 20, 2026
+- Haaretz, "Israel's Knesset Expected to Dissolve as Netanyahu's Coalition Bills Have Narrow Window Left," May 20, 2026
+- Express Tribune, "Israel takes step toward snap election as Knesset votes to dissolve," May 20, 2026
+- Wikipedia, "2026 Israeli legislative election"
+- Fortune, "Current price of oil as of May 20, 2026"
+- Trading Economics, Brent crude historical data May 19-20, 2026
+- CNBC, "Oil prices stay in the green even after Trump calls off planned Tuesday attack on Iran," May 18, 2026 (carried forward)
+- TWZ, "Where Are The Carriers As Of May 17, 2026: Ford Is Finally Home"
+- USNI News, "USNI News Fleet and Marine Tracker: May 18, 2026"
+- Atlantic Council, "Tracking US military assets in the Iran war"
+- Euronews, "One of Ukraine's largest drone attacks kills 3 in Moscow area, Russia says," May 17-18, 2026
+- NPR, "Ukraine launches large-scale drone strikes on Russia," May 18, 2026
+- Newsweek, "Russia-Ukraine Live Updates: Putin Gives Update on Trump Peace Plan"
+- Al Jazeera, "Putin suggests Russia's war on Ukraine 'coming to an end,'" May 10, 2026
+- Wikipedia, "Black Sea Grain Initiative" + "Timeline of the Russo-Ukrainian war"
+- PBS NewsHour / NPR, Venezuela deports Saab, May 17, 2026
+- AP via Inquirer/nvdaily/dailygazette, Saab charged in Miami federal court, May 18, 2026
+- Breitbart, Venezuela hands over Alex Saab; The Cuban History, "Venezuela extradites Alex Saab, Maduro's frontman, to the U.S."; Cubaheadlines, "Alex Saab, Maduro's Alleged Frontman, Extradited to Miami from Venezuela" + "Alex Saab's Extradition Intensifies Chavista Rift"
+- NaturalNews, "Cuba's power grid collapses for fifth time: A nation in darkness," May 18, 2026
+- NPR, "Cuba's power grid collapses and plunges eastern provinces into a major blackout," May 14, 2026 (carried forward)
+- ABC News, "Cuba grid collapse: The situation is growing more dire, experts say"
+- Wikipedia, "2026 Cuban crisis"
+- Britannica, "2026 Iran war" + Wikipedia, "Timeline of the 2026 Iran war"
+- Wikipedia, "2026 Strait of Hormuz crisis" + "2026 Iran war ceasefire" + "2025–2026 Iran–United States negotiations"
+
+## 1-PRIOR (MAY 19-20). US-Iran Military Actions — MAY 19-20 (DAY 83): TRUMP RESETS THE STRIKE WINDOW INTO A FRESH 'TWO OR THREE DAYS, FRIDAY-SATURDAY-SUNDAY-EARLY NEXT WEEK' DEADLINE WITH 'ANOTHER BIG HIT' THREAT — TRUMP DISCLOSES HE WAS 'AN HOUR AWAY' FROM STRIKING IRAN ON TUESDAY MAY 19 BEFORE PULLING BACK AT QATAR/SAUDI/UAE LEADERS' REQUEST — IRAN'S REVISED 14-POINT PROPOSAL ASSESSED BY US AS INSUFFICIENT ('PAY UP AND LEAVE, TIMES FIVE'); WH HAS NOT RECEIVED MEANINGFUL CONCESSIONS ON NUCLEAR PROGRAM OR HORMUZ — IRAN PEZESHKIAN 'DIALOGUE DOES NOT MEAN SURRENDER'; STANDING IRAN PRECONDITION REMAINS COMPLETE BLOCKADE REMOVAL — MOJTABA KHAMENEI REPORTEDLY ISSUES 'NEW AND DECISIVE DIRECTIVES' FOR MILITARY OPERATIONS — PAKISTAN INTERIOR MIN NAQVI ON 2-DAY TEHRAN SHUTTLE — HEGSETH (SENATE HEARING) ARTICLE II / NO AUMF; MURKOWSKI DRAFT AUMF WOULD BAN GROUND TROOPS — USS BOXER ARG STILL IN STRAIT OF MALACCA PER USNI MAY 18; USS GERALD R. FORD STILL DEPARTING — CENTCOM 85 VESSELS DIVERTED + 4 DISABLED (UNCHANGED) — BRENT ~$111.28 CLOSE (-0.73%) / WTI ~$107.77 (-0.82%) AS MARKETS PRICED CALL-OFF THEN PARTLY REVERSED ON FRESH DEADLINE LANGUAGE — UKRAINE LARGEST-CLASS DRONE ATTACK ON MOSCOW REGION MAY 17-18 — VENEZUELA SAAB CHARGED MIAMI MAY 18-19 — CUBA EASTERN-PROVINCES GRID COLLAPSE MAY 14 + DIESEL/FUEL-OIL EXHAUSTION — NOTE: THREATENED 'BIG HIT' REMAINS AIR/STRIKE-PACKAGE REGISTER, NOT GROUND-INVASION ORDER (NO TROOP STAGING, USS BOXER STILL IN MALACCA, NO THIRD ARG, NO DRAFT); 'AN HOUR AWAY' DISCLOSURE MARGINALLY STRENGTHENS GENUINE-PREPARATION READING WITHOUT RESOLVING LEVERAGE-SIGNALING DEBATE (CONTESTED-UNRESOLVED — open-questions: nyt-intense-preparations-iran-resumption-may-2026)
 
 ### Trump Pivots from May 18 Call-Off Into a Fresh 'Two or Three Days, Friday-Saturday-Sunday-Early Next Week' Deadline and Threatens 'Another Big Hit' (May 19, 2026)
 - **President Trump** (May 19 White House remarks to reporters, in tone that resets the prior evening's call-off): **"I hope we don't have to do the war, but we may have to give them another big hit."** He framed Iran's window for a nuclear deal as **"two or three days, maybe Friday, Saturday, Sunday, something, maybe early next week — a limited period of time."**
