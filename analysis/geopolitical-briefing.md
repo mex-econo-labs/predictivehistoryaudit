@@ -1,10 +1,77 @@
-# Geopolitical Briefing: State of the World as of May 21, 2026
+# Geopolitical Briefing: State of the World as of May 22, 2026
 
-Compiled for evaluation of mid-2024 predictions. All information sourced from publicly available reporting through May 21, 2026. Last updated: May 21, 2026.
+Compiled for evaluation of mid-2024 predictions. All information sourced from publicly available reporting through May 22, 2026. Last updated: May 22, 2026.
 
 ---
 
-## 1. US-Iran Military Actions — MAY 20-21 (DAY 84): TRUMP DECLARES IRAN TALKS 'IN THE FINAL STAGES' AT COAST GUARD ACADEMY COMMENCEMENT, HEDGES 'WE MAY HAVE TO HIT THEM EVEN HARDER — BUT MAYBE NOT' — VP VANCE: US 'LOCKED AND LOADED' IF TALKS FAIL — PUTIN-XI BEIJING JOINT STATEMENT (MAY 20): US/ISRAELI ATTACKS ON IRAN 'VIOLATE INTERNATIONAL LAW'; XI: 'COMPREHENSIVE CEASEFIRE IS OF UTMOST URGENCY, RESUMING HOSTILITIES IS EVEN MORE INADVISABLE' — SAUDI FM FAISAL BIN FARHAN PRAISES TRUMP FOR 'GIVING DIPLOMACY A CHANCE'; CALLS FOR HORMUZ RETURN TO PRE-FEB 28 STATE — IRAN FM ARAGHCHI (X): 'RETURN TO WAR WILL FEATURE MANY MORE SURPRISES'; IRAN'S CHIEF NEGOTIATOR ACCUSES US OF 'OVERT AND COVERT' MOVES FOR NEW ATTACK — IDF ON HIGHEST LEVEL OF ALERT; NETANYAHU EMERGENCY SECURITY MEETING — KNESSET 110-0 PRELIMINARY VOTE TO DISSOLVE; BILL STILL NEEDS 3 READINGS, ELECTIONS POSSIBLE MID- TO LATE-OCT — BLOOMBERG: 'TREASURIES RALLY AS TRUMP CITES FINAL STAGES' — BRENT ~$110.34/BBL (9:30 ET MAY 20, -$2.59 DAY); WTI ~$100/BBL — CENTCOM 85 VESSELS DIVERTED + 4 DISABLED (UNCHANGED MAY 18 FIGURE) — USS BOXER ARG STILL UNDER INDOPACOM PER TWZ MAY 17; USS GERALD R. FORD CONFIRMED HOME AT NORFOLK — NOTE: STRUCTURALLY DEESCALATORY RHETORICAL ROTATION ON THE DIPLOMATIC TRACK WITHOUT FORECLOSING THE STRIKE BACKSTOP; THREATENED 'BIG HIT' / 'EVEN HARDER' REMAINS AIR/STRIKE-PACKAGE REGISTER, NOT GROUND-INVASION ORDER (NO GROUND TROOPS STAGED, NO THIRD ARG, NO DRAFT) (CONTESTED-UNRESOLVED — open-questions: nyt-intense-preparations-iran-resumption-may-2026)
+## 1. US-Iran Military Actions — MAY 21-22 (DAY 85): DEESCALATORY ROTATION DEEPENS — TRUMP SOFTENS THE 'TWO OR THREE DAYS' DEADLINE INTO 'I'M IN NO HURRY' / WILLING TO WAIT 'A FEW DAYS' TO 'GET THE RIGHT ANSWERS' — SEC RUBIO: 'THE PRESIDENT'S PREFERENCE IS TO DO A GOOD DEAL'; VP VANCE REITERATES US 'LOCKED AND LOADED' IF IRAN REJECTS DEAL — IRAN FM SPOX BAGHAEI: TEHRAN HAS RECEIVED THE US VIEWS AND IS 'REVIEWING THEM'; IRAN SIGNALS GAPS 'REDUCED' — PAKISTAN ARMY CHIEF ASIM MUNIR TRAVELS TO TEHRAN (MEDIATION ESCALATION ABOVE THE NAQVI SHUTTLE) — OIL FALLS >6% INTRADAY ON 'FINAL STAGES' FRAMING: BRENT ~$108.76 AT 9 ET FELL TO $104.64 (-$6.64 / -5.97%) BY 1:45 PM ET; WTI -$6.49 (-6.23%) TO $97.66 — WTI BACK UNDER $100 — RUBIO: ANY IRANIAN HORMUZ TOLLING 'COMPLETELY ILLEGAL'; UAE ADVISER GARGASH: IRAN MARITIME CLAIMS 'FRAGMENTS OF DREAMS'; VESSELS PAYING UP TO $2M PER TRANSIT — TREASURY SANCTIONS 9 HEZBOLLAH-LINKED INDIVIDUALS / STATE $10M REWARD — FOX NEWS POLL: 60% OF US VOTERS OPPOSE FURTHER MILITARY ACTION — PROJECT FREEDOM PAUSED; >1,500 VESSELS / ~22,500 MARINERS TRAPPED; CENTCOM 85 VESSELS DIVERTED + 4 DISABLED (UNCHANGED) — USS BOXER ARG STILL UNDER INDOPACOM; USS GERALD R. FORD HOME AT NORFOLK — NOTE: SECOND DEADLINE-RELAXATION IN 24-48 HOURS DEEPENS THE DEESCALATORY ROTATION; THREATENED OPERATION REMAINS AIR/STRIKE-PACKAGE REGISTER, NOT GROUND-INVASION ORDER (NO GROUND TROOPS STAGED, NO THIRD ARG, NO DRAFT) (CONTESTED-UNRESOLVED — open-questions: nyt-intense-preparations-iran-resumption-may-2026)
+
+### Trump relaxes the deadline: 'I'm in no hurry,' willing to wait 'a few days' to 'get the right answers' (May 21)
+- **President Trump** said he is **"in no hurry"** to complete a deal and is prepared to wait **"a few days"** to **"get the right answers"** from Iran — a relaxation of the prior **"two or three days, Friday-Saturday-Sunday-early next week"** deadline. **"It could be a few days, but it could go very quickly."**
+- This is the **second consecutive deadline-relaxation within 24-48 hours** (after the May 20 'final stages' / 'even harder or maybe not' framing), reinforcing the ABC News **"series of unenforced deadlines"** pattern and the Atlantic-reported **"growing bored"** framing.
+- **Secretary of State Marco Rubio:** **"The president's preference is to do a good deal."** (CNBC "Iran reviews U.S. peace proposal as Trump says he's willing to wait a few days"; NBC News "Iran-U.S. diplomacy intensifies as Trump seeks 'right answers,' Tehran signals gaps 'reduced'"; Fox News live updates May 21.)
+
+### VP Vance reiterates US 'locked and loaded'; coercive backstop persists (May 21)
+- **VP JD Vance** reiterated the US remains **"locked and loaded"** for military action if Iran rejects the deal, while the administration **"prefers a diplomatic solution."**
+- The rhetorical register stays at **AIR/STRIKE-PACKAGE / re-strike class, NOT ground-deployment register** (Fox News May 21).
+
+### Iran FM spox Baghaei: US views received, 'reviewing them'; gaps 'reduced' (May 21)
+- **Iran FM spokesperson Esmaeil Baghaei** said the Islamic Republic had received the views of the American side **"and are reviewing them."**
+- Iranian officials signaled the gaps in the talks had been **"reduced"/narrowed** but that **no deal had been reached.** Negotiations remain mediated by Pakistan based on Iran's original 14-point framework (NBC News; CNBC May 21).
+
+### Pakistan Army Chief Asim Munir travels to Tehran — mediation escalation (May 21)
+- **Pakistan's Army Chief Gen Asim Munir** traveled to Tehran for mediation — an escalation of the Pakistani channel **above** the earlier Interior Minister Mohsin Naqvi 2-day shuttle. Islamabad said several rounds of communication had taken place based on Iran's 14-point framework (Fox News; CNBC May 21; Wikipedia 2025-2026 Iran-United States negotiations).
+
+### Oil and Blockade Metrics (May 21, 2026)
+- **Oil fell more than 6% intraday May 21** on the 'final stages' framing. **Brent crude ~$108.76/bbl at 9 a.m. ET** (down $1.58 from the prior morning's $110.34) **fell to $104.64 (down $6.64 / -5.97%) by 1:45 p.m. ET**; **US WTI futures dropped $6.49 (-6.23%) to $97.66, back under $100** for the first time in days (Fox News "Oil prices fall more than 6%..."; Fortune "Current price of oil as of May 21, 2026"; Trading Economics).
+- Markets are pricing a **deal-close move** ($90s-low $100s zone), well below the **sustained $130+ that ground-commitment pricing would require** — the clearest market signal against near-term ground commitment.
+- **Rubio: any Iranian Hormuz tolling/transit-fee system is "completely illegal."** **UAE presidential adviser Anwar Gargash** dismissed Iran's maritime-sovereignty claims as **"fragments of dreams."** Iran's PGSA toll regime remains operational; **vessels reportedly paying up to $2 million per transit** (Fox News May 21).
+- **Project Freedom remains PAUSED**; more than **1,500 vessels carrying ~22,500 mariners remain trapped** inside the Persian Gulf. CENTCOM blockade tally still **85 commercial vessels diverted + 4 disabled** (May 18 figure; no fresh count May 21-22) (CNBC; CENTCOM running tally).
+
+### Hormuz Fallout — Asia/Europe (May 2026)
+- ~**16 million bbl/day of crude + products have stopped flowing through Hormuz** (~80% below the 2025 average).
+- **Japan and South Korea** are drawing on their **joint emergency oil stockpile** to moderate prices.
+- **Qatar/UAE account for ~99% of Pakistan's LNG imports, ~72% of Bangladesh's and ~53% of India's;** Bangladesh faces **recession-like conditions**; Bangladesh/Pakistan/Singapore (no indigenous gas) are bidding against each other for spot LNG.
+- IEA: demand-saving measures across South/Southeast Asia (India, Pakistan, Nepal, Bangladesh) could trim **up to 400 kb/d** of oil-product consumption (IEA Oil Market Report; Gulf International Forum "Hormuz Disruptions and Asia's Energy Resilience"; Zero Carbon Analytics; Wikipedia 2026 Iran war fuel crisis).
+
+### Financial-pressure track and US public opinion (May 21, 2026)
+- **US Treasury sanctioned nine Hezbollah-linked individuals;** the **State Department offered a $10 million reward** for information disrupting Hezbollah's finances — a financial-pressure track running parallel to the negotiation (Fox News May 21).
+- A **Fox News poll** found **60% of US voters oppose further military action against Iran** — a domestic-political constraint on any re-strike or ground-commitment decision (Fox News May 21).
+
+### Carriers / USS Boxer ARG — Ground-Invasion Indicators (May 21-22, 2026)
+- **USS Boxer ARG** (LHD-4 + Comstock + Portland + 11th MEU, ~5,000 Marines) **STILL operating under INDOPACOM in the Indian Ocean** per the TWZ carrier tracker; CENTCOM arrival could come **"at any time"** but is **not yet formally confirmed.**
+- **USS Gerald R. Ford (CVN-78) home at Naval Station Norfolk;** **USS Abraham Lincoln + USS George H.W. Bush CSGs** hold in the Arabian Sea (2 carriers + 1 ARG in theatre).
+- **No third ARG; no BCT-scale National Guard activation; no Selective Service/draft/conscription language; Murkowski draft AUMF would BAN ground troops.** The Vance 'locked and loaded' line preserves the AIR/STRIKE-PACKAGE backstop; the 60%-oppose poll and the >6% oil drop both cut against a near-term ground commitment (TWZ carrier tracker; USNI Fleet & Marine Tracker; Atlantic Council "Tracking US military assets in the Iran war").
+
+### Russia-Ukraine — 177 Frontline Clashes; Russian Drones Hit Sumy/Kharkiv/Kryvyi Rih; Second Round ~June 2 (May 20-21, 2026)
+- Ukrainian forces reported **177 combat clashes** May 20-21, with the **Pokrovsk axis heaviest** (Russia lost 40+ personnel there).
+- **Russian drone attacks May 20** destroyed a residential building in **Sumy**, struck the **Chuhuiv** community (Kharkiv) and hit an industrial facility in **Kryvyi Rih.**
+- The **1,000-for-1,000 POW exchange** proceeds; Putin still refuses to meet Zelensky outside Moscow; a **second round of direct talks is expected ~June 2** (Ukrinform frontline report; Pokrovsk offensive Wikipedia).
+
+### Latin America — Venezuela / Cuba (May 21-22, 2026)
+- **Venezuela:** Maduro and Flores are set to return to a New York federal court on **June 30, 2026;** the Rodriguez government's Caracas-cooperation pattern (post-Saab-extradition) continues to consolidate (NBC/PBS Maduro trial live updates; Prosecution of Nicolas Maduro and Cilia Flores Wikipedia).
+- **Cuba:** nationwide grid instability continues following the mid-May Antonio Guiteras shutdown and fuel exhaustion; the Russian Universal diesel tanker remains unaccounted for; the government continues to blame the US fuel blockade (NaturalNews; Wikipedia 2026 Cuban crisis; 2026 Iran war fuel crisis Wikipedia).
+
+### East Asia — North Korea (May 2026)
+- **No new ballistic-missile test event May 21-22.** Kim Jong Un continues the **artillery/destroyer buildup** (155mm self-propelled howitzers for the southern border; **Choe Hyon destroyer handover to the navy scheduled mid-June**) and the 'irreversible nuclear' framing (NPR "North Korea says it will deploy new artillery guns targeting Seoul," May 8, 2026; Bloomberg).
+
+### MAY 21-22 Cycle Sources
+- CNBC, "Iran reviews U.S. peace proposal as Trump says he's willing to wait 'a few days,'" May 21, 2026.
+- NBC News, "Iran-U.S. diplomacy intensifies as Trump seeks 'right answers,' Tehran signals gaps 'reduced,'" May 21, 2026.
+- Fox News live updates, "Oil prices fall more than 6% as Trump says Iran negotiations in final stages," May 21, 2026.
+- Bloomberg, "US Treasuries Rebound on Optimism for US-Iran Deal Progress," May 20-21, 2026.
+- Fortune, "Current price of oil as of May 21, 2026"; Trading Economics Brent/WTI May 21 data.
+- TIME, "Trump Cancels Planned Attack on Iran, Citing 'Serious Negotiations,'" May 19, 2026; NPR, "Trump says he's called off Iran strike at request of Gulf allies," May 19, 2026.
+- TWZ "Where Are The Carriers" carrier tracker (May 17, 2026); USNI News Fleet & Marine Tracker; Atlantic Council "Tracking US military assets in the Iran war."
+- Ukrinform frontline report May 21, 2026; Pokrovsk offensive Wikipedia.
+- NBC/PBS Maduro trial live updates; "Prosecution of Nicolas Maduro and Cilia Flores" Wikipedia.
+- IEA Oil Market Report; Gulf International Forum "Hormuz Disruptions and Asia's Energy Resilience"; Zero Carbon Analytics; Wikipedia "2026 Iran war fuel crisis."
+- NPR "North Korea says it will deploy new artillery guns targeting Seoul," May 8, 2026.
+- Wikipedia "2025-2026 Iran-United States negotiations" / "2026 Iran war ceasefire" / "2026 Strait of Hormuz crisis."
+
+---
+
+## 1-PRIOR (MAY 20-21). US-Iran Military Actions — MAY 20-21 (DAY 84): TRUMP DECLARES IRAN TALKS 'IN THE FINAL STAGES' AT COAST GUARD ACADEMY COMMENCEMENT, HEDGES 'WE MAY HAVE TO HIT THEM EVEN HARDER — BUT MAYBE NOT' — VP VANCE: US 'LOCKED AND LOADED' IF TALKS FAIL — PUTIN-XI BEIJING JOINT STATEMENT (MAY 20): US/ISRAELI ATTACKS ON IRAN 'VIOLATE INTERNATIONAL LAW'; XI: 'COMPREHENSIVE CEASEFIRE IS OF UTMOST URGENCY, RESUMING HOSTILITIES IS EVEN MORE INADVISABLE' — SAUDI FM FAISAL BIN FARHAN PRAISES TRUMP FOR 'GIVING DIPLOMACY A CHANCE'; CALLS FOR HORMUZ RETURN TO PRE-FEB 28 STATE — IRAN FM ARAGHCHI (X): 'RETURN TO WAR WILL FEATURE MANY MORE SURPRISES'; IRAN'S CHIEF NEGOTIATOR ACCUSES US OF 'OVERT AND COVERT' MOVES FOR NEW ATTACK — IDF ON HIGHEST LEVEL OF ALERT; NETANYAHU EMERGENCY SECURITY MEETING — KNESSET 110-0 PRELIMINARY VOTE TO DISSOLVE; BILL STILL NEEDS 3 READINGS, ELECTIONS POSSIBLE MID- TO LATE-OCT — BLOOMBERG: 'TREASURIES RALLY AS TRUMP CITES FINAL STAGES' — BRENT ~$110.34/BBL (9:30 ET MAY 20, -$2.59 DAY); WTI ~$100/BBL — CENTCOM 85 VESSELS DIVERTED + 4 DISABLED (UNCHANGED MAY 18 FIGURE) — USS BOXER ARG STILL UNDER INDOPACOM PER TWZ MAY 17; USS GERALD R. FORD CONFIRMED HOME AT NORFOLK — NOTE: STRUCTURALLY DEESCALATORY RHETORICAL ROTATION ON THE DIPLOMATIC TRACK WITHOUT FORECLOSING THE STRIKE BACKSTOP; THREATENED 'BIG HIT' / 'EVEN HARDER' REMAINS AIR/STRIKE-PACKAGE REGISTER, NOT GROUND-INVASION ORDER (NO GROUND TROOPS STAGED, NO THIRD ARG, NO DRAFT) (CONTESTED-UNRESOLVED — open-questions: nyt-intense-preparations-iran-resumption-may-2026)
 
 ### Trump (Coast Guard Academy commencement, May 20): Iran talks 'in the final stages'; 'we may have to hit them even harder — but maybe not'
 - **President Trump** delivered the commencement address at the United States Coast Guard Academy graduation ceremony in New London, Connecticut on Wednesday May 20 and told graduates: **"Negotiations [with Iran] are in the final stages."**
