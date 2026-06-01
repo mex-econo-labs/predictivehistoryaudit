@@ -1,7 +1,7 @@
 {
   "briefing_date": "2026-06-01",
-  "last_scoring_date": "2026-05-01",
-  "next_scoring_date": "2026-06-01",
+  "last_scoring_date": "2026-06-01",
+  "next_scoring_date": "2026-07-01",
   "theatres": [
     {
       "name": "Iran / Strait of Hormuz",
@@ -452,9 +452,33 @@
       "$8.6B+ Gulf arms package May 2 predominantly AIR-DEFENSE/INTERCEPTOR replenishment — defensive shield repair, NOT US offensive build-up"
     ],
     "draft_indicators": "MINIMAL — POSTURE STRESSED-BUT-INTACT THROUGH JUNE 1; the GROUND-MOBILIZATION / CONSCRIPTION track shows NO new signals across the May 31-June 1 cycle. The dominant development is Trump reopening the MOU text with requested edits, which points to continued diplomacy plus an air/maritime backstop ('end it a different way,' 'slowly but surely'), not ground mobilization. No new Selective Service activity, no partial/full mobilization order, no BCT-scale National Guard activation, and no public draft discussion beyond the longstanding contingency commentary.",
-    "assessment": "Ground invasion probability remains LOW and PRE-EXECUTION at Day 95 (May 31-June 1), with the ground rung unchanged as Trump REOPENED the MOU text — requesting edits on the enriched-uranium hand-over mechanism/timing and the Hormuz-reopening wording rather than signing — pushing resolution toward 'the turn of the week.' The MOU still routes the Strait through a negotiated reopening rather than a Kharg/Hormuz ground seizure, and Trump's named deal-failure alternative is an air/strike package ('end it a different way,' 'slowly but surely'), not a ground order. The blockade — tightened to 118 redirected / 5 disabled — remains the active instrument of coercion; oil at its worst month since 2020 prices a near-term reopening, not a ground commitment; and there are no new troop movements, no third ARG, and no draft action. Israel's deepest-in-26-years capture of Beaufort Castle is a significant Lebanon-track escalation but is an Israeli ground operation, not US ground troops in Iran."
+    "assessment": "Ground invasion probability remains LOW and PRE-EXECUTION at Day 95 (May 31-June 1), with the ground rung unchanged as Trump REOPENED the MOU text — requesting edits on the enriched-uranium hand-over mechanism/timing and the Hormuz-reopening wording rather than signing — pushing resolution toward 'the turn of the week.' The MOU still routes the Strait through a negotiated reopening rather than a Kharg/Hormuz ground seizure, and Trump's named deal-failure alternative is an air/strike package ('end it a different way,' 'slowly but surely'), not a ground order. The blockade — tightened to 118 redirected / 5 disabled — remains the active instrument of coercion; oil at its worst month since 2020 prices a near-term reopening, not a ground commitment; and there are no new troop movements, no third ARG, and no draft action. Israel's deepest-in-26-years capture of Beaufort Castle is a significant Lebanon-track escalation but is an Israeli ground operation, not US ground troops in Iran. [Monthly scoring run, June 1, 2026] Rescore reaffirms status no_ground_troops: zero US ground troops in Iran at Day 95. The now-past May 14-15 Trump-Xi summit (China energy/LNG purchase commitments, unsigned) does not bear on the ground rung. June-1 ground-situation addenda were appended to 58 ground-invasion predictions across the corpus; none flipped status on ground grounds. Probability of a US ground invasion of Iran assessed LOW and receding as the tentative 60-day ceasefire MOU approaches."
   },
   "daily_entries": [
+    {
+      "date": "2026-06-01",
+      "tag": "scoring-run",
+      "headline": "MONTHLY PREDICTION SCORING RUN — June 1, 2026. All 983 predictions across 171 lecture analyses re-evaluated against the Day 95 briefing; meta.last_scoring_date set to 2026-06-01 on every file. Web-verified currency across all tracked theatres (US-Iran, Russia-Ukraine, DPRK, China-Taiwan, Venezuela/Cuba) — no developments newer than the Day 95 daily cycle.",
+      "details": [
+        "4 status changes, all from the now-past May 14-15 Beijing Trump-Xi summit: interview-x-YEJgDBgb[13] (energy sales to China 'will be discussed') untested -> CONFIRMED; interview-x-61z1rB3U[5] (sign a major LNG/trade package), interview-x-QCALiCZb[7] (sign a landmark energy deal), and interview-x-P_DHMUdO[2] (China forced to become a major US-LNG buyer) untested -> PARTIALLY_CONFIRMED. Trump publicly claimed Xi agreed to buy US oil, LNG, energy and 200 Boeing 737 jets, but no formal deal was signed and the two governments' readouts diverged (Al Jazeera, May 15).",
+        "Ground-invasion rung UNCHANGED: zero US ground troops in Iran at Day 95. The Apr 30 cabinet-level ground-options spike has receded as the conflict moves toward a tentative, unsigned 60-day ceasefire MOU; June-1 ground-situation addenda appended to 58 ground-invasion predictions. Israel's May 31 Beaufort Castle capture is an Israeli ground operation in Lebanon, not US ground troops in Iran.",
+        "Oil context updated: Brent ended May near $92.56/bbl (worst month since 2020) on US-Iran deal optimism — well below the sustained $130+ a ground commitment would price, and easing the energy-squeeze premise of several $200-oil / economic-collapse predictions (left untested as open-ended).",
+        "Steelman pass: verdict.steelman populated on 81 previously-missing analyses where the lecture's concern survives charitable reading; 5 left absent as having no legitimate core (Stalin hagiography, two conspiracy lectures, the moon-hoax 'conspiracy of evil', and the non-lecture open-questions tracker).",
+        "Net status distribution: untested 341->337, partially_confirmed 183->186, confirmed 73->74; disconfirmed 131, unfalsifiable 245, contested_unresolved 10 unchanged."
+      ],
+      "summary": "Monthly rescore: 4 prediction status changes (all Trump-Xi summit energy/LNG predictions), 58 ground-invasion notes refreshed to the Day-95 de-escalation picture, 81 steelman fields populated, last_scoring_date stamped 2026-06-01 across all 171 files. No new real-world developments beyond the Day 95 cycle.",
+      "source": "Monthly scoring run (web-verified): Axios/CNBC/Al Jazeera/S&P Global (Trump-Xi summit, May 15); Fox News live/CNN/Reuters (Day 95 Iran cycle); calibration-reference.md + geopolitical-briefing.md (June 1, 2026).",
+      "theatre": "meta",
+      "tags": [
+        "scoring",
+        "US",
+        "Iran",
+        "China",
+        "ground-invasion"
+      ],
+      "prediction_impact": "3 untested predictions -> partially_confirmed and 1 untested -> confirmed (Trump-Xi summit energy commitments). Ground-invasion predictions reaffirmed: no US ground troops in Iran; trajectory now de-escalation toward an unsigned 60-day ceasefire MOU.",
+      "alternate_readings": null
+    },
     {
       "date": "2026-06-01",
       "tag": null,

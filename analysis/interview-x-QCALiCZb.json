@@ -11,7 +11,7 @@
     "analyzed_by": "claude-opus-4-6",
     "analysis_date": "2026-03-30",
     "schema_version": "1.0",
-    "last_scoring_date": "2026-05-01"
+    "last_scoring_date": "2026-06-01"
   },
   "synopsis": "This is an adversarial interview conducted by journalist Mehdi Hasan on his Zeteo show with Jiang Xueqin ('Professor Jiang') of the Predictive History YouTube channel. Hasan probes Jiang on his three famous 2024 predictions (Trump wins, US wars with Iran, US loses), challenges the failed Nikki Haley VP prediction, questions Jiang's credentials (English literature degree, not a professor), scrutinizes his relationship with China and the CCP, and pushes back on his 'speculative analysis' methodology and conspiracy-adjacent content about secret societies and 'Pax Judaica.' Jiang offers three new predictions: the US will deploy ground troops leading to a quagmire and national draft, no nuclear weapons will be used, and the Al-Aqsa Mosque will be destroyed during the war.",
   "thesis": {
@@ -69,7 +69,7 @@
         "timestamp": "00:27:23",
         "falsifiable": true,
         "status": "untested",
-        "status_note": "As of May 1, 2026: zero US ground troops in Iran and no draft legislation. The Apr 30 CENTCOM Cooper / Joint Chiefs Caine briefing was the FIRST cabinet-level formal presentation to Trump of military options that explicitly included ground forces (Hormuz seizure 'could include ground forces'), and the 192nd MP Battalion (~150 Connecticut NG, logistics support) was the first NG unit mobilized for this war. Presentation is not execution: Trump has not ordered ground action; USS Gerald R. Ford is leaving theatre after a 309-day deployment. Ground probability has nudged from near-zero to low-but-non-zero — the first material upward shift — but a quagmire-plus-draft scenario is still not the dominant trajectory. War trajectory: air → ceasefire → failed Islamabad talks → naval blockade → indefinitely-extended ceasefire-with-blockade. Resolves further as ceasefire holds or collapses.",
+        "status_note": "As of May 1, 2026: zero US ground troops in Iran and no draft legislation. The Apr 30 CENTCOM Cooper / Joint Chiefs Caine briefing was the FIRST cabinet-level formal presentation to Trump of military options that explicitly included ground forces (Hormuz seizure 'could include ground forces'), and the 192nd MP Battalion (~150 Connecticut NG, logistics support) was the first NG unit mobilized for this war. Presentation is not execution: Trump has not ordered ground action; USS Gerald R. Ford is leaving theatre after a 309-day deployment. Ground probability has nudged from near-zero to low-but-non-zero — the first material upward shift — but a quagmire-plus-draft scenario is still not the dominant trajectory. War trajectory: air → ceasefire → failed Islamabad talks → naval blockade → indefinitely-extended ceasefire-with-blockade. Resolves further as ceasefire holds or collapses. [June 1, 2026 update] The prediction remains live, but the near-term trajectory is de-escalation toward a 60-day ceasefire MOU, not ground commitment. As of June 1, 2026 (Day 95) there are still ZERO US ground troops in Iran. Since the Apr 30 Cooper/Caine cabinet briefing that first put ground-inclusive options on the table, the trajectory reversed toward de-escalation: through late May US and Iranian negotiators reached a tentative 60-day ceasefire MOU (Iran pledging never to develop or purchase a nuclear weapon; a negotiated Hormuz reopening with no tolls + Iranian mine-clearing + proportional blockade lift), pending final approval by Trump and Mojtaba Khamenei -- not signed as of June 1 (Trump requested edits May 31 rather than signing). The principal US instrument remains the naval blockade (CENTCOM: ~118 vessels redirected + 5 disabled). The named deal-failure alternative is an air/strike package ('end it a different way'; Hegseth at the Shangri-La Dialogue: 'more than capable' of resuming strikes), not a ground order. No new ground-deployment order, no third ARG, no draft. Israel's capture of Beaufort Castle in Lebanon (May 31) is an Israeli ground operation in Lebanon, NOT US ground troops in Iran.",
         "screencap": "QCALiCZbGSg_002723_24.jpg"
       },
       {
@@ -95,8 +95,8 @@
         "type": "prediction",
         "timestamp": "00:13:31",
         "falsifiable": true,
-        "status": "untested",
-        "status_note": "Trump-Xi summit scheduled May 14-15, 2026 in Beijing. Trade war continues at 145%/125% tariffs. SCOTUS struck down IEEPA tariffs (Feb 20); Trump shifted to Section 122. No energy deal announced. Summit may still produce results but the hostile trade environment makes a 'landmark deal' unlikely.",
+        "status": "partially_confirmed",
+        "status_note": "At the May 14-15 Beijing summit Trump said Xi agreed to buy US oil, LNG and energy ('China wants to buy US oil to feed its insatiable appetite,' Fox News May 15), and Xi reportedly committed to 200 Boeing jets. The energy-purchase direction is confirmed at the level of Trump's public claims, but no formal 'landmark deal' was signed, China did not confirm the commitments, and the two readouts diverged (Al Jazeera, May 15). Partially confirmed: the summit and verbal energy commitments occurred; a binding signed energy deal did not.",
         "screencap": "QCALiCZbGSg_001331_27.jpg"
       },
       {
@@ -123,7 +123,7 @@
         "timestamp": "00:05:25",
         "falsifiable": true,
         "status": "untested",
-        "status_note": "Pentagon drew up limited ground ops plans (WashPost Mar 29) but as of Apr 3, Trump's rhetoric has shifted toward ending the war within 2-3 weeks via air strikes only. Ground ops probability at lowest point. WSJ reports Trump willing to end war without reopening Hormuz. Amphibious assault increasingly unlikely.",
+        "status_note": "Pentagon drew up limited ground ops plans (WashPost Mar 29) but as of Apr 3, Trump's rhetoric has shifted toward ending the war within 2-3 weeks via air strikes only. Ground ops probability at lowest point. WSJ reports Trump willing to end war without reopening Hormuz. Amphibious assault increasingly unlikely. [June 1, 2026 update] The prediction remains live, but the near-term trajectory is de-escalation toward a 60-day ceasefire MOU, not ground commitment. As of June 1, 2026 (Day 95) there are still ZERO US ground troops in Iran. Since the Apr 30 Cooper/Caine cabinet briefing that first put ground-inclusive options on the table, the trajectory reversed toward de-escalation: through late May US and Iranian negotiators reached a tentative 60-day ceasefire MOU (Iran pledging never to develop or purchase a nuclear weapon; a negotiated Hormuz reopening with no tolls + Iranian mine-clearing + proportional blockade lift), pending final approval by Trump and Mojtaba Khamenei -- not signed as of June 1 (Trump requested edits May 31 rather than signing). The principal US instrument remains the naval blockade (CENTCOM: ~118 vessels redirected + 5 disabled). The named deal-failure alternative is an air/strike package ('end it a different way'; Hegseth at the Shangri-La Dialogue: 'more than capable' of resuming strikes), not a ground order. No new ground-deployment order, no third ARG, no draft. Israel's capture of Beaufort Castle in Lebanon (May 31) is an Israeli ground operation in Lebanon, NOT US ground troops in Iran.",
         "screencap": "QCALiCZbGSg_000525_30.jpg"
       }
     ]

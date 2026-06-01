@@ -1,6 +1,8 @@
-# Prediction Calibration Reference — June 1, 2026 (Scored May 1, 2026)
+# Prediction Calibration Reference — June 1, 2026 (Scored June 1, 2026)
 
 Use this document when analyzing Predictive History lectures to accurately assess prediction statuses.
+
+> **Monthly scoring run — June 1, 2026.** Web-verified currency across all tracked theatres (US-Iran, Russia-Ukraine, DPRK, China-Taiwan, Venezuela/Cuba); no developments newer than the Day 95 daily update. Net status changes this cycle stem from the **May 14-15 Beijing Trump-Xi summit** (now past): Trump publicly stated Xi agreed to buy US oil, LNG, energy and 200 Boeing 737 jets, but **no formal trade/energy deal was signed** and the two governments' readouts diverged (Al Jazeera, May 15, "China, US disagree on what they agreed on"). Ground-invasion outlook: still **zero US ground troops in Iran** at Day 95; the Apr 30 ground-options spike has receded as the conflict moves toward a tentative, unsigned 60-day ceasefire MOU. Israel's May 31 capture of Beaufort Castle is an Israeli ground operation in Lebanon, not US ground troops in Iran.
 
 ## Quick Reference: Confirmed Events
 
