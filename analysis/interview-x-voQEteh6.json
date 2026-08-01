@@ -12,7 +12,7 @@
     "upload_date": "2025-06-13",
     "view_count": 286495,
     "view_count_updated": "2026-04-03",
-    "last_scoring_date": "2026-06-01"
+    "last_scoring_date": "2026-08-01"
   },
   "synopsis": "This is an informal, autobiographical video in which Xueqin Jiang introduces himself directly to his rapidly growing YouTube audience. He shares his personal background — born in China in 1976, immigrated to Toronto at age six, attended Yale on a full scholarship, then returned to China to work in education reform. He describes the genesis of his 'Predictive History' course at a private school in Beijing and his intellectual ambition to develop Asimov-inspired 'psychohistory' — a framework that connects past events, explains the present, and predicts the future. He briefly references the Israel-Iran conflict as confirmation of previous predictions and announces plans for a condensed 30-class version of his civilization course and a geopolitics semester beginning in February.",
   "thesis": {
@@ -46,16 +46,16 @@
         "claim": "A condensed 30-class version of the civilization course will be uploaded starting in September (2025).",
         "timestamp": "00:09:17",
         "falsifiable": true,
-        "status": "untested",
-        "status_note": "This is a content production commitment rather than a geopolitical prediction.",
+        "status": "partially_confirmed",
+        "status_note": "This is a content production commitment rather than a geopolitical prediction. [August 1, 2026 monthly update — Day 156] PARTIALLY CONFIRMED against the channel's own upload record. A condensed civilizational-history course of very nearly the predicted length did launch on very nearly the predicted schedule: the **Secret History** series ran **28 episodes from August 22 to December 18, 2025**, against a predicted '30-class' course 'starting in September.' Its content is a compressed civilizational sweep — Bronze Age collapse, Greek civilization, Rome, the Hellenistic world, the church — covering in 28 lectures what the original **Civilization** course (60 episodes, August 29, 2024 – June 12, 2025) covered at length. What is wrong is the framing: it was published as a distinct new series with its own thesis about power and evil, not as a condensation of the Civilization course, and it began in late August rather than September. Status changed from untested to partially_confirmed.",
         "type": "prediction"
       },
       {
         "claim": "A geopolitics semester analyzing current events and making predictions will begin in February (2026).",
         "timestamp": "00:09:49",
         "falsifiable": true,
-        "status": "untested",
-        "status_note": "This is a content production commitment rather than a geopolitical prediction.",
+        "status": "partially_confirmed",
+        "status_note": "This is a content production commitment rather than a geopolitical prediction. [August 1, 2026 monthly update — Day 156] PARTIALLY CONFIRMED against the channel's own upload record. The geopolitics semester materialised and is the single most prediction-dense body of work in the corpus — the **Game Theory** series, 22 episodes from **January 6 to April 28, 2026**, explicitly analysing current events and issuing forecasts (The US-Iran War, The Law of Escalation, The Law of Asymmetry, The Return of History), alongside **Great Books** from January 7, 2026. The direction, format and content are as predicted. The timing is off by about a month: it began in **early January 2026**, not February. Status changed from untested to partially_confirmed.",
         "type": "prediction"
       }
     ]

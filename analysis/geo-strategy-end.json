@@ -12,7 +12,7 @@
     "upload_date": "2024-06-13",
     "view_count": 513052,
     "view_count_updated": "2026-04-03",
-    "last_scoring_date": "2026-06-01"
+    "last_scoring_date": "2026-08-01"
   },
   "synopsis": "This final lecture of the Geo-Strategy series introduces 'psychohistory' — a concept borrowed from Isaac Asimov's Foundation series — as a proposed science of predicting the future using AI and mathematical modeling of historical patterns. The speaker summarizes the semester's predictions (Trump's re-election, war with Iran, American imperial decline) and proposes that AI-powered historical modeling could eventually guide humanity toward better outcomes. Along the way, the lecture covers Peter Turchin's cliodynamics and the 'overproduction of elites' thesis, explains supervised machine learning through the example of facial recognition, discusses the 2024 European Parliament elections as evidence of a populist revolt against liberal internationalism, and argues that human societies are governed by fundamental needs for structure, meaning, and purpose rooted in 'the human heart.' The lecture concludes with a personal reflection on the speaker's motivations as a father and teacher.",
   "thesis": {
@@ -35,48 +35,55 @@
         "timestamp": "00:02:07",
         "falsifiable": true,
         "status": "confirmed",
-        "status_note": "Trump won the November 2024 presidential election."
+        "status_note": "Trump won the November 2024 presidential election.",
+        "type": "prediction"
       },
       {
         "claim": "Trump will declare war on Iran, and this war will be a disaster for the United States and mean the end of the American Empire.",
         "timestamp": "00:02:13",
         "falsifiable": true,
         "status": "partially_confirmed",
-        "status_note": "US launched Operation Midnight Hammer (June 2025) and full-scale campaign (Feb 2026). By Day 35 (Apr 3, 2026): 2,076+ Iranian killed, 26,500+ wounded; Houthis entered war Mar 28; oil ~$109/bbl (down from $118 peak); UK hosted 41-nation Hormuz conference without US (Apr 2); Trump vowed only '2-3 more weeks of strikes'; Hegseth fired Army Chief during wartime. The 'disaster' framing is gaining support — the war is expanding without decisive results. However, it was an air/missile campaign (not ground invasion) and has not ended the American Empire."
+        "status_note": "US launched Operation Midnight Hammer (June 2025) and full-scale campaign (Feb 2026). By Day 35 (Apr 3, 2026): 2,076+ Iranian killed, 26,500+ wounded; Houthis entered war Mar 28; oil ~$109/bbl (down from $118 peak); UK hosted 41-nation Hormuz conference without US (Apr 2); Trump vowed only '2-3 more weeks of strikes'; Hegseth fired Army Chief during wartime. The 'disaster' framing is gaining support — the war is expanding without decisive results. However, it was an air/missile campaign (not ground invasion) and has not ended the American Empire.",
+        "type": "prediction"
       },
       {
         "claim": "The end of the American Empire will lead to a multi-polar world with endless war and the deaths of millions and billions.",
         "timestamp": "00:02:23",
         "falsifiable": true,
         "status": "untested",
-        "status_note": "The American Empire has not ended as of March 2026. The prediction is too long-term to evaluate."
+        "status_note": "The American Empire has not ended as of March 2026. The prediction is too long-term to evaluate.",
+        "type": "prediction"
       },
       {
         "claim": "Because of climate change, our world will eventually collapse.",
         "timestamp": "00:02:37",
         "falsifiable": false,
-        "status": "unfalsifiable"
+        "status": "unfalsifiable",
+        "type": "prediction"
       },
       {
         "claim": "The entire EU will be dead in about five years (by approximately 2029).",
         "timestamp": "00:30:21",
         "falsifiable": true,
         "status": "untested",
-        "status_note": "Prediction timeframe is approximately 2029. As of April 2026, the EU continues to function. Germany's massive rearmament (EUR 108B defense budget approved, 3.5% GDP target) and defense spending actually represent deeper EU integration on security, not dissolution."
+        "status_note": "Prediction timeframe is approximately 2029. As of April 2026, the EU continues to function. Germany's massive rearmament (EUR 108B defense budget approved, 3.5% GDP target) and defense spending actually represent deeper EU integration on security, not dissolution.",
+        "type": "prediction"
       },
       {
         "claim": "Self-driving cars will never be fully achieved because AI cannot solve the edge case of intentional human interference.",
         "timestamp": "00:19:17",
         "falsifiable": true,
         "status": "untested",
-        "status_note": "Self-driving technology continues to advance (e.g., Waymo, autonomous taxis in multiple cities). The specific edge case cited (intentional crashes) is a real challenge but is not necessarily unsolvable and applies equally to human drivers."
+        "status_note": "Self-driving technology continues to advance (e.g., Waymo, autonomous taxis in multiple cities). The specific edge case cited (intentional crashes) is a real challenge but is not necessarily unsolvable and applies equally to human drivers.",
+        "type": "prediction"
       },
       {
         "claim": "World population will transition from 8 billion to 1 billion people due to civilizational collapse.",
         "timestamp": "01:05:35",
         "falsifiable": true,
         "status": "untested",
-        "status_note": "An extraordinary claim with no timeline specified. Current UN projections show population peaking around 10 billion in the 2080s. A decline to 1 billion would require catastrophic events far beyond current demographic trends."
+        "status_note": "An extraordinary claim with no timeline specified. Current UN projections show population peaking around 10 billion in the 2080s. A decline to 1 billion would require catastrophic events far beyond current demographic trends.",
+        "type": "prediction"
       }
     ]
   },
