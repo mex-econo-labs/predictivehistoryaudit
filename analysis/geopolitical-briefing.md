@@ -1,4 +1,6 @@
-# Geopolitical Briefing: State of the World as of November 19, 2026
+# Geopolitical Briefing: State of the World as of November 20, 2026
+
+Compiled for evaluation of mid-2024 predictions. All information sourced from publicly available reporting through November 19, 2026. **Last updated: November 20, 2026** (**Day 268**, incorporating the **November 19** data cycle — project **Day 267**; GlobalSecurity's **Day 265**; **closure Day 264**; **ceasefire Day 226**, breached-not-cancelled. THE FIRST TRUMP–XI–PUTIN DECLARATION IN SHENZHEN NAMES NEITHER IRAN, HORMUZ NOR UKRAINE; CHINA'S READOUT HAS THE PRESIDENT SAYING THE US 'DOES NOT SUPPORT TAIWAN INDEPENDENCE,' WITH NO WHITE HOUSE READOUT; BLOOMBERG AND THE NYT REPORT A RENEWED US–ISRAELI AIR ROUND UNDER CONSIDERATION, THE PRESIDENT 'NOT RUSHING' UNTIL AFTER THE NEW YEAR; THE SENATE REJECTED A WAR-POWERS RESOLUTION 48–51; COST $48.3 BILLION; ZERO GROUND TROOPS ON DAY 267; PUTIN CLOSED THE WINTER-TRUCE TRACK AFTER KERCH; THE HOUTHIS HIT RIYADH'S PIF TOWER; BRENT FLAT AT $91.98.)
 
 Compiled for evaluation of mid-2024 predictions. All information sourced from publicly available reporting through November 18, 2026. **Last updated: November 19, 2026** (**Day 267**, incorporating the **November 18** data cycle — project **Day 266**; GlobalSecurity's **Day 264**; **closure Day 263**; **ceasefire Day 225**, breached-not-cancelled. IRAN ANSWERED THE QESHM STRIKE BY CLAIMING DRONE HITS ON ALI AL SALEM AIR BASE IN KUWAIT AND STRIKING BAHRAIN A FOURTH TIME IN SIX DAYS; CENTCOM: NO US INJURIES, AND NO US RESPONSE; CENTCOM EXTENDED THE BLOCKADE TO SHIP-TO-SHIP TRANSFERS AND USS GEORGE WASHINGTON LEFT FOR 7TH FLEET; ZERO GROUND TROOPS ON DAY 266; BRENT −1.3 PERCENT TO $91.95; XI AND PUTIN DISCUSSED UKRAINE BEFORE THE FIRST TRUMP–XI–PUTIN TRILATERAL; HEGSETH SIGNED A MILITARY-TIES DEAL IN CARACAS.)
 
@@ -17,6 +19,8 @@ Compiled for evaluation of mid-2024 predictions. All information sourced from pu
 Compiled for evaluation of mid-2024 predictions. All information sourced from publicly available reporting through October 20, 2026. **Last updated: October 21, 2026** (**Day 237**, incorporating the **October 20** data cycle — GlobalSecurity’s **Day 235**. **THE FIRST REPORTED TEXT OF THIS WAR SAID TO CARRY PRELIMINARY ASSENT FROM BOTH CAPITALS ARRIVED ON THE SAME DAY TEHRAN DENIED ANY NUCLEAR NEGOTIATION EXISTS.** **QATAR AND PAKISTAN** tabled a **compromise proposal** — a **confidential, unannounced IAEA visit** to Iranian nuclear sites against **Tehran receiving the interest on its $6 billion of frozen assets held in Qatar** — delivered in Tehran by **FIELD MARSHAL ASIM MUNIR** on his **fifth visit since the April ceasefire**, reported to carry **American approval and prior Iranian approval**, **unsigned and unconfirmed by either government**; hours earlier **ESMAIL BAGHAEI** said **“WE HAVE NOT ENTERED NUCLEAR NEGOTIATIONS WITH THE AMERICAN SIDE,”** called the idea the US could strike without retaliation an **“illusion,”** and promised a response **“equal in force”** at minimum. **REUTERS**, on **three senior Iranian officials**, reported that Tehran has **deliberately prolonged the talks to weaken the President before 3 November** and is **“preparing for renewed Israeli and US attacks, not for a deal.”** **TRUMP**, in the Oval Office: **“which way do we want to win? Do we want to win the nice way or the not nice way?”** — and he **asked European governments for help and was refused**. **HEGSETH** flew **unannounced to OVDA AIR BASE** for **about thirty minutes with NETANYAHU**, **Emirati representatives present**, on the **“potential resumption of major military operations”**; **NETANYAHU** named **“the elimination of the Iranian regime”** as the **primary objective** and named no force; **VANCE declined to endorse him**. On the water the **IRGC mine claim grew from two hulls to three within one day with no ship’s name**, against **UKMTO’s single undamaged-tanker incident 121 nautical miles east of Duqm — outside the Strait**; an **MQ-9 claim** was called **false** by a US official; **IRGC spokesman HOSSEIN MOJABI** threatened the **Gulf’s undersea internet cables** and said **“new weapons will be unveiled.”** The measurement moved in one place and it undermines the rest: **61 of 174 screened tankers running AIS-dark, about 35 percent, up from 38 hulls**, which makes the same feed’s **4-transit print a floor**. The **IMO** put **6,000 seafarers on about 400 vessels stranded**, a **“double blockade,”** **113 incidents and 24 mariners killed** against **UKMTO’s 135 and 76** — which **partly withdraws this briefing’s demotion of the 400 figure one cycle ago, a scope error**. **BRITAIN** committed **RAF Typhoons to defensive counter-air missions over Saudi cities**, plus an **A400M**, **advisers** and **refuelling**, with the **Ministry of Defence stating British jets will not conduct offensive strikes** — the **second European commitment to the Peninsula after France at Yanbu, in the same cycle the President said Europe refused him against Iran**. **BRENT fractured across $3.69, $109.16 to $112.85**, the feeds split on the sign, and for the first time since 15 October the move was attributed to **Gulf events** rather than to Russia policy. The United States made its **first domestic appropriation caused by the Strait**: an **$8 billion USDA Harvest Fuel Relief Program** announced in a **Kansas campaign speech**, after retail diesel hit a record **$6.50 a gallon in September**. **THE GROUND CORRECTION:** the previous cycle’s claim that **“both American amphibious big decks remain west of the international date line” is WITHDRAWN** — there are **three deployed big decks** and **USS BOXER (LHD-4) with USS COMSTOCK, USS PORTLAND and the 11TH MEU is in the ARABIAN SEA and has been since July**, idle for **237 days**, which **strengthens the ground negative by removing capability as an explanation**. Pentagon toll **unchanged at 21 and 865**. **43rd silent period ashore; Kharg operationally null a 42nd cycle; Closure Day 234; ZERO US GROUND TROOPS IN IRAN, DAY 237.**)
 
 
+> **Daily update — November 20, 2026 (Day 268; November 19 data cycle — project Day 267; GlobalSecurity Day 265; closure Day 264).** **Shenzhen left the wars off the page.** The US–Russia–China “Declaration toward Peace” — UN reform, refined-product supply, an ICC curb, nuclear-risk dialogue — names neither **Iran, Hormuz nor Ukraine**; the President said Iran “cannot have a nuclear weapon,” Xi did not answer publicly, and China's bilateral readout instead attributes to the President “The United States does not support Taiwan Independence” (no White House readout). **The strike question reopened:** Bloomberg — the odds of a new round of mass US strikes “have grown”; NYT — Netanyahu presses a four-to-seven-day joint air campaign; the President — “not rushing,” “after the beginning of the year.” No new Iranian attack on a Gulf host and no US strike were located; the IRGC claims two more mined supertankers (unverified); JMIC rates the threat “severe.” **The Senate rejected H.Con.Res. 93, 48–51**; the official cost is **$48.3 billion**. **Force posture:** zero ground troops on Day 267; two carriers; Kharg untouched; draft zero. **Brent $91.98.** **Elsewhere:** Putin — after Kerch “there will be no agreements,” ending energy and Black Sea truce talks hours after Berlin's coalition proposed a winter truce; the Houthis damaged the PIF Tower in Riyadh; Colombia's first national strike against De la Espriella turned violent; the IAEA reports a completed Yongbyon enrichment extension; no Trump–Kim meeting.
+>
 > **Daily update — November 19, 2026 (Day 267; November 18 data cycle — project Day 266; GlobalSecurity Day 264; closure Day 263).** **Iran hit the hosts; Washington held fire.** Iran's army claimed drone hits on Patriots and launch platforms at **Ali Al Salem Air Base, Kuwait** — its first attack on Kuwait since September — and **Bahrain** intercepted a fourth round in six days; Iran's Foreign Ministry warned neighbours against hosting US operations. **CENTCOM:** no US personnel injured all week, “zero impacts”; no US strike followed. Instead a **CENTCOM advisory extended blockade capture authority to ship-to-ship transfers**, and **USS George Washington left for 7th Fleet** (two carriers remain). A tanker was hit north of Khasab (crew safe); ADNOC reports one missing and 11 injured from 17 November. **Force posture:** zero ground troops on Day 266; Kharg untouched; draft zero; Makin Island ARG 'by end-November' (unconfirmed). **Brent $91.95** (−1.3 percent) on EIA builds. **Elsewhere:** Xi and Putin spent two hours on Ukraine in **Shenzhen**, where the first Trump–Xi–Putin trilateral meets 19 November; Ukraine hit **Ilsky and Afipsky** refineries and Russia killed four in **Odesa**; the EU proposed **€45 billion** for Ukraine in 2027; **Hegseth** signed a military-ties deal in Caracas; Kim inspected a naval university.
 >
 > **Daily update — November 18, 2026 (Day 266; November 17 data cycle — project Day 265; GlobalSecurity Day 263; closure Day 262).** **The American hold-off ended in one self-defence air strike.** The IRGC claimed a drone hit on a US radar at **Sheikh Isa Air Base** — its third attack on Bahrain in five days; **CENTCOM** called the claim “FALSE.” Hours later a US military official told AFP that **US jets struck an IRGC missile launch site on Qeshm** with “precision munitions,” the first reported US strike since 6 November; Iran says an air-defence launcher at Nariman, no civilian damage. **Kuwait** engaged drones at night, origin unstated. The LPG carrier **Tara Gas** was struck a second time and abandoned; one Indian seafarer is missing. **CNN's dirty-bomb report** drew a presidential warning and a White House “no credible threats.” **Araghchi** met Oman's FM and Qatari mediators in Muscat — no outcome. **Force posture:** three carriers in the Arabian Sea, Roosevelt to replace one (Reuters officials); amphibious groups outside CENTCOM; zero ground troops on Day 265; Kharg untouched; draft zero. **Brent $93.14** (+0.8 percent); SPR at a 44-year low. **Elsewhere:** Ukraine claims a **Crimean Bridge** road span collapsed; Russia aimed ballistic missiles at **Kyiv's bridges** and blacked out 700,000 households in Dnipropetrovsk; **Ramstein** funded Patriots; **Beijing** threatened conditional countermeasures to the chip rule; the President said Kim “would like to” come to China; **Cuba** logged a third straight day of round-the-clock outages.
@@ -342,7 +346,29 @@ US troop levels in the Middle East remain **above 50,000**, roughly **10,000 abo
 
 *Monthly-pass sources: Council on Foreign Relations Global Conflict Tracker; CNN; Task & Purpose; National Security Journal; Kyiv Independent; UK Defence Journal; Newsweek; GlobalSecurity.org; ISW; DeepState; Al Jazeera; Manila Times; MercoPress; CP24; Latin America Reports; Washington Examiner; World Politics Review; Times of Israel; Israel National News; Pakistan Today; Middle East Eye; American Enterprise Institute China & Taiwan Update (July 2, 24, 31, 2026); NK News; The Washington Post; Spokesman-Review; RT; Military.com; War Resisters' International; Kurdistan24; CSIS; NPR; PBS NewsHour; CBS News; CNBC; House of Commons Library; Britannica; Bloomberg. Web-verified August 1, 2026.*
 
-## 1. US-Iran Military Actions — NOVEMBER 18 (DAY 266; GLOBALSECURITY DAY 264; CLOSURE DAY 263): IRAN ANSWERED QESHM BY STRIKING AT TWO AMERICAN HOST STATES — ALI AL SALEM IN KUWAIT AND BAHRAIN A FOURTH TIME — AND WASHINGTON DID NOT STRIKE BACK; IT WIDENED THE BLOCKADE TO SHIP-TO-SHIP TRANSFERS AND SENT A CARRIER BACK TO THE PACIFIC
+## 1. US-Iran Military Actions — NOVEMBER 19 (DAY 267; GLOBALSECURITY DAY 265; CLOSURE DAY 264): THE GREAT-POWER DECLARATION IN SHENZHEN NAMED NEITHER IRAN NOR HORMUZ, A RENEWED US–ISRAELI AIR ROUND WAS REPORTED UNDER CONSIDERATION, AND THE PRESIDENT DEFERRED IT PAST THE NEW YEAR; NO NEW STRIKES EITHER WAY; THE SENATE DECLINED TO END THE WAR
+
+**SHENZHEN.** The President met Putin (42 minutes), Xi (about an hour) and both (about 90 minutes). To Xi: “Both the United States and China have an interest in ensuring that energy flows through the Strait of Hormuz”; “Iran cannot have a nuclear weapon, we both feel that very strongly” (NBC). Xi did not respond publicly on Iran. The four-point **Declaration toward Peace** — UN reform; refined-product supply; the ICC; nuclear-risk dialogue — **does not mention Iran or Hormuz** (Alhurra; Al Jazeera); the White House posted the same text. “We don't need any help” from China or Russia (Fox via The Hill).
+
+**THE STRIKE QUESTION.** Bloomberg (Western officials): the chances of “another round of mass strikes against Iran appear to have grown”; no decision; European and Gulf governments lobbying against; the Navy “stretched.” The New York Times: Netanyahu presses a joint air campaign of “four to seven days” on intelligence of Iranian missile and drone reconstitution (disputed by a senior Israeli official). The Washington Post: a covert Mossad tasking without cabinet knowledge (denied by an official). **The President to Axios:** “not rushing into any decision … We will see what happens after the beginning of the year.”
+
+**KINETIC.** No Iranian attack on a Gulf host and no US or Israeli strike on Iran located for 19 November; CENTCOM: no American forces injured in the week's attacks. Iranian video of a downed US reconnaissance drone (18 November) — unverified, no US comment. **Adm. Cooper** met Crown Prince Mohammed bin Salman in Riyadh.
+
+**THE STRAIT.** The IRGC Navy claims two “violating” supertankers (>4 million barrels) hit mines on an “unauthorized route” — unverified (Reuters). UKMTO confirmed the 18 November Khasab hit (crew safe). **JMIC:** “severe”; four attacks in 96 hours; 190 incidents since 1 March; Tara Gas struck twice. USNI: 16 attacks in November. TankerTrackers: a first ship-to-ship-transfer test case loading Iranian crude; no seizure under the 18 November rule. hormuz.now: 3 crossings.
+
+**DIPLOMACY AND NUCLEAR.** No new mediation move. Grossi: the IAEA cannot verify Iran's declared material outside Bushehr; a Russia–China–Iran statement opposes “unconditional insistence” on normal safeguards; no Board resolution.
+
+**WASHINGTON.** The **Senate rejected H.Con.Res. 93** 48–51 — the first war-powers vote since the midterms; Fetterman the only Democratic no; Tillis voted no while calling Hegseth “a failure.” Deputy comptroller nominee **Miller:** “As of November 13, it was $48.3 billion.”
+
+**NUMBERS.** US deaths 23 (DCAS) / 18 (administration); wounded 865 as carried; cost $48.3 billion through 13 November. Brent $91.98 (+0.03 percent); WTI $83.21, lowest since 26 August.
+
+**THE NULLS (November 19, 2026).** No ground operation, landing or raid. No US strike. No new Iranian attack on a Gulf host located. No blockade seizure. No Supreme Leader statement. No UNSC action. No US readout of the Trump–Xi bilateral.
+
+**What this section does not establish (November 19, 2026).** It does not establish whether a strike round has been decided, whether any IRGC mine claim corresponds to a real hull, or whether the STS-transfer tanker will be stopped.
+
+**Sources (Section 1, November 19):** GlobalSecurity.org, Iran War Day 265, 19 November 2026; NBC News, 19 November 2026; Alhurra, 19 November 2026; Al Jazeera, 19 November 2026; Axios, 19 November 2026; Bloomberg via Spokesman-Review, 19 November 2026; CBS News, 19 November 2026; ABC News, 19 November 2026; Fox via The Hill, 19 November 2026; Dawn, 19 November 2026; Gulf News, 19 November 2026; Iran International, 19 November 2026; USNI News, 19 November 2026; Reuters via CNBC, 19 November 2026; HNGN (Washington Post), 19 November 2026; Rigzone/Bloomberg, 19 November 2026.
+
+## 1-PRIOR. US-Iran Military Actions — NOVEMBER 18 (DAY 266; GLOBALSECURITY DAY 264; CLOSURE DAY 263): IRAN ANSWERED QESHM BY STRIKING AT TWO AMERICAN HOST STATES — ALI AL SALEM IN KUWAIT AND BAHRAIN A FOURTH TIME — AND WASHINGTON DID NOT STRIKE BACK; IT WIDENED THE BLOCKADE TO SHIP-TO-SHIP TRANSFERS AND SENT A CARRIER BACK TO THE PACIFIC
 
 **KUWAIT.** At 01:39 local Kuwait's army reported air defences “countering hostile drone attacks.” **Iran's army** (IRIB/Tasnim) then claimed “combat and kamikaze drones” hit Patriot systems and launch platforms at **Ali Al Salem Air Base** — the first Iranian attack on Kuwait since September (AP). Tasnim offered no visual proof (TWZ). Kuwait's Foreign Ministry condemned “Iranian drone attacks,” cited Resolution 2817 and reserved Article 51.
 
@@ -10772,6 +10798,14 @@ Iran struck military and civilian targets across at least 9 countries plus Israe
 
 ## 2. Israel-Iran Conflict
 
+### November 19 Update — Netanyahu Presses for a Short Joint Air Campaign
+
+- **NYT (via Bloomberg/CBS):** Netanyahu urges a joint US–Israeli strike campaign of 'four to seven days' on intelligence of Iranian missile and drone reconstitution; a senior Israeli official disputes the pressure account.
+- **WaPo:** Netanyahu asked Mossad chief Gofman to prepare a covert Iran operation without telling the cabinet or Chief of Staff Zamir; the Jerusalem Post says it confirmed this; an unnamed security official denied it.
+- **Lebanon:** IDF strike on a former Hezbollah missile site at Janta, Beqaa; no casualties reported. No Iran–Israel exchange.
+
+**Sources (November 19):** Bloomberg via Spokesman-Review, 19 November 2026; CBS News, 19 November 2026; HNGN (Washington Post; Jerusalem Post), 19 November 2026; Axios, 19 November 2026; Jerusalem Post, 19 November 2026.
+
 ### November 18 Update — CENTCOM's Commander in Tel Aviv
 
 - **Consultation:** Adm. Brad Cooper met IDF Chief of Staff Zamir, Mossad director Gofman and the IDF operations and planning chiefs, then went on to Saudi Arabia; Israeli officials called it routine; Anadolu cited reports of US preparations for a possible attack.
@@ -10957,6 +10991,14 @@ Iran struck military and civilian targets across at least 9 countries plus Israe
 
 ## 3. Trump Administration Iran Policy
 
+### November 19 Update — 'After the Beginning of the Year'
+
+- **Timing:** the President to Axios — 'not rushing into any decision … We will see what happens after the beginning of the year.'
+- **Shenzhen:** 'Iran cannot have a nuclear weapon'; Xi agreed Hormuz must stay open (the President's account); 'we don't need any help.'
+- **Congress:** H.Con.Res. 93 rejected 48–51; Bennet and Duckworth/Warren/Gillibrand funding-restriction amendments; cost $48.3 billion through 13 November.
+
+**Sources (November 19):** Axios, 19 November 2026; NBC News, 19 November 2026; Fox via The Hill, 19 November 2026; CBS News, 19 November 2026; ABC News, 19 November 2026; Gulf News, 19 November 2026.
+
 ### November 18 Update — Restraint After Qeshm; Squeeze at Sea
 
 - **No response:** no US strike after Iranian attacks on Kuwait and Bahrain; CENTCOM reports no US injuries.
@@ -11116,6 +11158,14 @@ Iran struck military and civilian targets across at least 9 countries plus Israe
 
 ## 4. Iran Nuclear Program Status
 
+### November 19 Update — Verification Gap at the Board
+
+- **IAEA:** Grossi told the Board (18 November) the agency cannot verify Iran's declared material outside Bushehr; Baghaei rebutted.
+- **Bloc:** Tasnim reports a joint Russia–China–Iran statement opposing 'unconditional insistence' on normal safeguards; no Board resolution or E3 action located.
+- **Shenzhen:** the nuclear clause of the US–Russia–China declaration is general and does not name Iran.
+
+**Sources (November 19):** AzerNews, 18–19 November 2026; Gulf News, 19 November 2026; Tasnim via Breitbart, 19 November 2026; Alhurra, 19 November 2026.
+
 ### November 18 Update — Safeguards Conditioned on Threats Ending
 
 - Iran's Vienna mission: normal safeguards cannot resume while US and Israeli threats persist; Iran has 'not suspended' its obligations. Grossi: the IAEA cannot verify Iran's material except at Bushehr. Araghchi's letter to the UN called the $20 million Rewards for Justice offer an incitement to espionage.
@@ -11260,6 +11310,14 @@ Iran struck military and civilian targets across at least 9 countries plus Israe
 ---
 
 ## 5. Iran Internal Politics
+
+### November 19 Update — No Talks Before Hormuz
+
+- **IRGC:** spokesman Mohebbi — Iran will not allow the blockade to continue; (IRNA, date not firmly fixed) no nuclear talks until Hormuz is resolved.
+- **Government:** Pezeshkian (18 November, Qazvin) — industry the 'last option' for energy restrictions; no statement from Mojtaba Khamenei, unseen in public since 28 February.
+- **Foreign Ministry:** Araghchi — regional security 'from within the region itself'; the dirty-bomb report 'rubbish.'
+
+**Sources (November 19):** Al Jazeera, 19 November 2026; Rigzone, 19 November 2026; Iran International, 18 November 2026; IRNA via Breitbart, November 2026.
 
 ### November 18 Update — Hardline Signalling and an Abdanan Protest
 
@@ -11418,6 +11476,14 @@ Iran struck military and civilian targets across at least 9 countries plus Israe
 
 ## 6. Russia as Nuclear Guarantor / Russia-Iran Relations
 
+### November 19 Update — Shenzhen Without Iran
+
+- **Declaration:** Putin signed a four-point text with Xi and the President that omits Iran; no Putin remark on Iran located.
+- **Intelligence-sharing:** Fox — the President did not plan to press Moscow or Beijing to stop sharing targeting intelligence with Iran; Sen. Tillis accused Russia of supplying it.
+- **IAEA:** a Russia–China–Iran statement against 'unconditional' safeguards demands (Tasnim).
+
+**Sources (November 19):** TASS, 19 November 2026; Fox News via GlobalSecurity, 19 November 2026; Tasnim via Breitbart, 19 November 2026.
+
 ### November 18 Update — Xi and Putin Meet Before the Trilateral
 
 - Xi and Putin met for more than two hours in Shenzhen; Putin said sanctions had backfired; a substantive Putin–Trump meeting follows the 19 November plenary (Ushakov). US officials say the trilateral will focus on nuclear stockpiles and strategic stability; the White House lists Iran.
@@ -11481,6 +11547,16 @@ Iran struck military and civilian targets across at least 9 countries plus Israe
 ---
 
 ## 7. Russia-Ukraine War Status (April 2026)
+
+### November 19 Update — Shenzhen, Berlin and the End of the Truce Track
+
+- **SHENZHEN:** Putin–Trump ~40 minutes — Ushakov: Ukraine the main topic, 'neither side made any particularly important statements'; trilateral ~90 minutes; the declaration omits Ukraine; the President: 'a 12.'
+- **PUTIN:** after the Kerch strikes 'there will be no agreements'; a 'far more painful' response; no energy or Black Sea truce talks; Europe must 'come to Moscow.'
+- **BERLIN:** 26 leaders; a Germany–France–UK–Ukraine call for a winter energy ceasefire; Merz: Shenzhen 'a photo op'; Kushner: Russia 'comfortable' with Article-5-based guarantees (unconfirmed); UK £260 million for 1,000+ long-range drones; 22nd EU package 'on the way.'
+- **KYIV:** Zelenskyy — exclusion a 'huge mistake'; 'should be a four-way meeting.'
+- **FRONT AND STRIKES:** 248 engagements; no Russian settlement claim; Kerch hit a third time in a week; Kyiv one killed, Dutch and Austrian embassies damaged; Kaleykino pumping station (Tatarstan) set ablaze.
+
+**Sources (November 19):** NBC News, 19 November 2026; RFE/RL, 19 November 2026; TASS, 19 November 2026; Globe and Mail, 19 November 2026; RTE (Reuters), 19 November 2026; Kyiv Independent, 19 November 2026; DPA via Yahoo, 19 November 2026; Ukrinform, 19 November 2026; Interfax-Ukraine, 19 November 2026; UA.NEWS, 19 November 2026; DutchNews, 19 November 2026.
 
 ### November 18 Update — Refineries, Odesa and a Format Without Kyiv
 
@@ -12200,6 +12276,14 @@ The July 1 war report card found **peace talks remain on hold** but the **US, Uk
 
 ## 8. US Military Industrial Capacity
 
+### November 19 Update — Cost Update and a Stretched Navy
+
+- **Cost:** $48.3 billion through 13 November (deputy comptroller nominee Miller) — up from $47.1 billion through 16 October.
+- **Strain:** Bloomberg — the Navy is 'stretched enforcing the blockade and escorting commercial ships'; Tillis seeks 'other vehicles' to replenish supplies.
+- **Supplemental:** $87.6 billion request ($67.1 billion Iran war) still held.
+
+**Sources (November 19):** Gulf News, 19 November 2026; CBS News, 19 November 2026; Bloomberg via Spokesman-Review, 19 November 2026.
+
 ### November 18 Update — Supplemental Held; Amphibious Ships Cut
 
 - The $87.6 billion supplemental ($67.1 billion for Iran-war costs) is held; HASC chair Rogers: $350 billion reconciliation 'not going to happen,' ~$100 billion with munitions possible. Senate appropriators' FY27 draft cuts $18.5 billion from shipbuilding, including San Antonio (−$875 million) and America class (−$1.6 billion), adding $390 million for used sealift. George Washington leaves after three months; Bush may reach a year.
@@ -12311,6 +12395,14 @@ The July 1 war report card found **peace talks remain on hold** but the **US, Uk
 ---
 
 ## 9. Saudi Arabia-Iran Relations
+
+### November 19 Update — The PIF Tower and the CENTCOM Commander
+
+- **Riyadh:** a Houthi attack damaged several floors of the PIF Tower in KAFD, no injuries — 'debris' (coalition) vs a direct hit (three Reuters sources); four ballistic and one cruise missile intercepted; launchers struck in Saada and Dhamar.
+- **US:** Adm. Cooper met MBS and Khalid bin Salman (SPA).
+- **Yemen:** Houthi Health Ministry — 15 killed in Mokha and Taiz (unverified); Reuters: Riyadh expects up to six more months.
+
+**Sources (November 19):** ABC News, 19 November 2026; The National, 19 November 2026; Reuters, 19 November 2026; Al Arabiya, 19 November 2026; AP via Gulf News, 19 November 2026.
 
 ### November 18 Update — Riyadh Condemns, Plans for 2027
 
@@ -12678,6 +12770,14 @@ NO IRANIAN FIRE at a GCC host state for a fourth consecutive day; the IRGC's Sep
 ---
 
 ## 10. Houthi/Red Sea Situation
+
+### November 19 Update — A Hit on Riyadh's Financial District
+
+- **Attack:** Saree claims strikes on Riyadh airport and the financial district; the PIF Tower damaged.
+- **Coalition:** strikes on launchers in Saada and Dhamar; Saba reports raids on Sanaa (unconfirmed).
+- **Red Sea:** no Houthi shipping claim located for 19 November.
+
+**Sources (November 19):** The National, 19 November 2026; Al Jazeera, 19 November 2026; Gulf News, 19 November 2026.
 
 ### November 18 Update — Riyadh Targeted; Fighting Near Aden
 
@@ -13143,6 +13243,14 @@ The Houthis claimed responsibility for the missile attack on the **NCC Ghazal**,
 
 ## 11. NATO Developments
 
+### November 19 Update — Berlin Coalition and Rutte on Shenzhen
+
+- **Rutte:** Shenzhen 'important'; the President's 'Herculean efforts' for peace.
+- **Macron:** 'high time' to return to Ukraine's NATO accession.
+- **Guarantees:** Kushner claims Article-5-based guarantees acceptable to Moscow; Zelenskyy: 'I'm not sure we have the same understanding.'
+
+**Sources (November 19):** AFP via Yahoo, 19 November 2026; Interfax-Ukraine, 19 November 2026; Meduza, 20 November 2026.
+
 ### November 18 Update — Berlin Convenes the Coalition
 
 - ~40 delegations meet in Berlin on 19 November on deploying the Multinational Force Ukraine; an MNF-U exercise in Poland (9–22 November) involves ~2,800 troops from 11 countries. Rzeczpospolita: Polish services pre-empted a Russian false-flag plot near the Kaliningrad border. Estonia closes crossings with Russia from 1 December.
@@ -13294,6 +13402,15 @@ The incident is the most physically consequential of the growing series of NATO 
 ---
 
 ## 12. US-China Relations
+
+### November 19 Update — One Readout, a Taiwan Formula, No Trade Deal
+
+- **Bilateral (~1 hour):** China's MFA quotes the President — 'The United States does not support Taiwan Independence'; Xi: 'avoid major setbacks'; an 'action plan on building a constructive relationship of strategic stability'; no White House readout.
+- **Declaration:** UN reform, refined-product supply, ICC, nuclear-risk dialogue; no limits.
+- **Trade:** no truce extension (expires 10 January 2027); agriculture working group; Ga/Ge/Sb suspension lapse on 27 November unaddressed.
+- **Taiwan:** $14 billion package unsigned; MND 1 sortie, 7 ships; two Russian Tu-95s in the ADIZ.
+
+**Sources (November 19):** PRC MFA, 19 November 2026; Nikkei Asia, 19 November 2026; Taipei Times, 19–20 November 2026; Focus Taiwan/CNA, 19 November 2026; White House, 19 November 2026; Taiwan MND, 19 November 2026.
 
 ### November 18 Update — Tarmac Welcome, Low Expectations
 
@@ -13904,6 +14021,14 @@ The **~30% effective China tariff holds,** but the **Section 122 10% global tari
 
 ## 13. Germany-Russia Relations
 
+### November 19 Update — Merz Hosts the Coalition
+
+- **Merz:** the line of contact 'the starting point for any territorial arrangements'; Shenzhen 'a photo op'; 'a Yalta format cannot bring peace'; Germany 'of course ready' to talk with Putin; gradual, conditional sanctions easing floated.
+- **Format:** Germany, France, the UK, Poland and Italy to represent Europe; the UAE considered for four-party talks.
+- **Putin:** Europe must 'come to Moscow' first.
+
+**Sources (November 19):** DPA via Yahoo, 19 November 2026; RFE/RL, 19 November 2026; France 24, 19 November 2026; ua.news, 19 November 2026; Ukrinform, 19 November 2026.
+
 ### November 18 Update — Berlin Hosts as Moscow Meets Washington
 
 - Merz hosts the coalition summit with Macron and the UK while Putin meets the President in Shenzhen; Zelenskyy says Kyiv will be briefed on Shenzhen in Berlin; Witkoff and Kushner reportedly to attend (unconfirmed).
@@ -13953,6 +14078,15 @@ The **~30% effective China tariff holds,** but the **Section 122 10% global tari
 ---
 
 ## 14. North Korea
+
+### November 19 Update — No Meeting; Yongbyon Grows
+
+- **Summitry:** the President — 'we didn't meet … We'll have that meeting at some point.'
+- **IAEA:** Yongbyon enrichment extension 'externally complete by late October' — 'extremely worrying.'
+- **UN:** Third Committee human-rights resolution 95–14–58; first US abstention, citing ICC language.
+- **KCNA:** 'wicked enemies' naval criticism; 7th Conference of Cell Secretaries in late November; no launch since 4 November.
+
+**Sources (November 19):** NBC via Yahoo, 19 November 2026; AP/DPA via Al Jazeera, 19 November 2026; Korea Herald, 19 November 2026; NK News, 19 November 2026; News1, 19 November 2026.
 
 ### November 18 Update — Naval University, Not Shenzhen
 
@@ -14510,6 +14644,13 @@ No confirmed new missile launch was reported over **July 1-4,** but Pyongyang's 
 
 ## 15. Trump Third Term
 
+### November 19 Update — A Post-Midterm Senate Test
+
+- **Senate:** H.Con.Res. 93 failed 48–51; Kaine — the war's unpopularity 'made absolutely manifestly clear' on 3 November; the new Congress sits 3 January.
+- **Timing:** the President defers Iran decisions to 'after the beginning of the year.'
+
+**Sources (November 19):** CBS News, 19 November 2026; ABC News, 19 November 2026; Axios, 19 November 2026.
+
 ### November 18 Update — Nothing on the File
 
 - No third-term statement located on 18 November.
@@ -14572,6 +14713,14 @@ No confirmed new missile launch was reported over **July 1-4,** but Pyongyang's 
 ---
 
 ## 16. Venezuela — Operation Absolute Resolve and Aftermath
+
+### November 19 Update — The Deal's Scope, and Essequibo
+
+- **Military deal:** 'joint training, intelligence sharing, military equipment and border security'; terms unpublished; ties had been cut in 2005; Hegseth: 'only the first' visit.
+- **Essequibo:** Reuters — former official Jeremy Lewin floated partial Venezuelan control in 'preliminary' talks; State: position unchanged; Guyana: non-negotiable.
+- **Oil:** Machado — the $100 billion NABEP deal 'requires scrutiny.' **TSJ:** 1,343 applicants for 64 seats; vote 11 December. **Debt:** amount unconfirmed. **Maduro:** no new filing; trial-date docket check (14 vs 1 June 2027).
+
+**Sources (November 19):** Al Jazeera, 19 November 2026; EFE, 19 November 2026; Reuters, 19 November 2026; News Room Guyana, 19 November 2026; Bloomberg, 19 November 2026; El Diario, 19 November 2026; CiberCuba, November 2026.
 
 ### November 18 Update — Hegseth Signs a Military-Ties Deal
 
@@ -15070,6 +15219,12 @@ Venezuela's constitutional crisis deepened: experts and the NGO Acceso a la Just
 
 ## 17. Cuba — Cascading Crisis
 
+### November 19 Update — 1,780 MW and a Starlink Crackdown
+
+- UNE: 2,800 MW demand vs 1,050 MW available; peak shortfall 1,780 MW forecast (18 November actual 1,793 MW). Alina Bárbara López released after hours in custody (sixth detention of 2026). Police in Placetas reportedly seized Starlink antennas; embassies reportedly barred from Starlink (not independently confirmed). No new US measure.
+
+**Sources (November 19):** Cubadebate, 19 November 2026; EFE via Infobae, 18–19 November 2026; CiberCuba, November 2026; Latin Times and Martí Noticias, 17–19 November 2026.
+
 ### November 18 Update — 1,790 MW at Peak; a Historian Detained
 
 - UNE: 06:00 availability 1,040 MW vs 2,240 MW demand; peak forecast 1,790 MW affected; 17 November maximum 1,735 MW; Guiteras back on the grid (CiberCuba). Police detained historian Alina Bárbara López in Matanzas. No new US action on 18 November.
@@ -15464,6 +15619,12 @@ Cuba has now suffered its **fourth island-wide blackout of 2026**, leaving about
 
 ## 18. Colombia — Economic Emergency and US Pressure
 
+### November 19 Update — The First National Strike
+
+- CUT and Fecode marched against the 'Ley de Rescate Económico' in seven cities; clashes at the Universidad de Antioquia, Popayán and Bogotá's Museo Nacional; De la Espriella: 'terrorismo urbano'; no national totals. The NYT reported Colombia blocked a US 'Title 10' joint-operations plan; De la Espriella and Hegseth both called it false.
+
+**Sources (November 19):** Infobae, 19 November 2026; El Tiempo, 19 November 2026; Latin Times, 19 November 2026; City Paper Bogotá, 19 November 2026.
+
 ### November 18 Update — A C-130 and a Strike
 
 - Hegseth in Bogotá handed over the first C-130 Hercules (two more under consideration) and discussed armed-group drones and the 'Escudo de las Américas.' The 19 November strike (CUT, Pacto Histórico, FECODE) proceeds; the Finance Ministry studies cutting general VAT to 18 or 17 percent.
@@ -15725,6 +15886,16 @@ Colombia's president-elect **Abelardo de la Espriella** takes office on **August
 ---
 
 ## 19. Hormuz-Dependent Economies and the Widening Energy-Infrastructure War
+
+### November 19 Update — Flat Oil, a 'Record' Nobody Can See
+
+- **Oil:** Brent $91.98 (+0.03 percent), WTI $83.21 (lowest since 26 August); Brent ~−20 percent in November.
+- **Strait:** hormuz.now 3 crossings, 5.7/day 7-day, one crude tanker and zero LNG/LPG in seven days, 515 waiting; Wright claims a record 18 November flow — unsupported by AIS; Kpler ~half pre-war.
+- **IEA WEO:** 'no credible pathway' back; Hormuz flows under 2 million b/d by 2035 in the prolonged-risk case.
+- **US:** AAA $3.7212; December Fed hike ~95 percent priced.
+- **Asia/Europe:** India LPG stocks fell to 25 days at the low; Korea caps extended to 11 December; Pakistan petrol Rs323; TTF ~€81; EU relief schemes expiring.
+
+**Sources (November 19):** Rigzone/Bloomberg, 19 November 2026; Reuters, 19 November 2026; hormuz.now, 19 November 2026; Newsquawk, 19 November 2026; AP (Kpler), 19 November 2026; IEA, 19 November 2026; AAA, 19 November 2026; ANI, 19 November 2026; The Nation, 19 November 2026; JoongAng Daily, November 2026.
 
 ### November 18 Update — Attacks Up, Oil Down
 
